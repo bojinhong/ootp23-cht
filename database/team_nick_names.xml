@@ -1,0 +1,3107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEAM_NICK_NAMES>
+ <TNN>
+  <SO>Abbots</SO>
+  <ST_KR>Abbots</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Aces</SO>
+  <ST_KR>Aces</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Acorns</SO>
+  <ST_KR>Acorns</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Admirals</SO>
+  <ST_KR>Admirals</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Aeros</SO>
+  <ST_KR>Aeros</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Aggies</SO>
+  <ST_KR>Aggies</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Air Riders</SO>
+  <ST_KR>Air Riders</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Airhogs</SO>
+  <ST_KR>Airhogs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Alleycats</SO>
+  <ST_KR>Alleycats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Alliance</SO>
+  <ST_KR>Alliance</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Alligators</SO>
+  <ST_KR>Alligators</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>All-Stars</SO>
+  <ST_KR>All-Stars</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Alouettes</SO>
+  <ST_KR>Alouettes</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Alpines</SO>
+  <ST_KR>Alpines</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Ambassadors</SO>
+  <ST_KR>Ambassadors</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Americans</SO>
+  <ST_KR>Americans</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Anchors</SO>
+  <ST_KR>Anchors</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Angels</SO>
+  <ST_KR>Angels</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Anglers</SO>
+  <ST_KR>Anglers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Apple Sox</SO>
+  <ST_KR>Apple Sox</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Aqua Sox</SO>
+  <ST_KR>Aqua Sox</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Archers</SO>
+  <ST_KR>Archers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Argonauts</SO>
+  <ST_KR>Argonauts</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Armada</SO>
+  <ST_KR>Armada</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Armadillos</SO>
+  <ST_KR>Armadillos</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Arrows</SO>
+  <ST_KR>Arrows</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Arsenal</SO>
+  <ST_KR>Arsenal</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>A&#39;s</SO>
+  <ST_KR>A&#39;s</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Astronauts</SO>
+  <ST_KR>Astronauts</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Astros</SO>
+  <ST_KR>Astros</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Athletics</SO>
+  <ST_KR>Athletics</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Atlantics</SO>
+  <ST_KR>Atlantics</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Atomics</SO>
+  <ST_KR>Atomics</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Attack</SO>
+  <ST_KR>Attack</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Avalanche</SO>
+  <ST_KR>Avalanche</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Avengers</SO>
+  <ST_KR>Avengers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Aviators</SO>
+  <ST_KR>Aviators</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Axemen</SO>
+  <ST_KR>Axemen</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Aztecs</SO>
+  <ST_KR>Aztecs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Badlanders</SO>
+  <ST_KR>Badlanders</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Bandits</SO>
+  <ST_KR>Bandits</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Barbarians</SO>
+  <ST_KR>Barbarians</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Barnstormers</SO>
+  <ST_KR>Barnstormers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Barons</SO>
+  <ST_KR>Barons</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Barracudas</SO>
+  <ST_KR>Barracudas</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Bashers</SO>
+  <ST_KR>Bashers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Bass</SO>
+  <ST_KR>Bass</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Bats</SO>
+  <ST_KR>Bats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Battalion</SO>
+  <ST_KR>Battalion</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Battle Kings</SO>
+  <ST_KR>Battle Kings</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Battle Wings</SO>
+  <ST_KR>Battle Wings</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Bay Hawks</SO>
+  <ST_KR>Bay Hawks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Bay Sox</SO>
+  <ST_KR>Bay Sox</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Baycats</SO>
+  <ST_KR>Baycats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Bayhawks</SO>
+  <ST_KR>Bayhawks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Beach Boys</SO>
+  <ST_KR>Beach Boys</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Beach Bums</SO>
+  <ST_KR>Beach Bums</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Beacons</SO>
+  <ST_KR>Beacons</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Bearcats</SO>
+  <ST_KR>Bearcats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Bears</SO>
+  <ST_KR>Bears</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Beavers</SO>
+  <ST_KR>Beavers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Bees</SO>
+  <ST_KR>Bees</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Bengals</SO>
+  <ST_KR>Bengals</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Berserkers</SO>
+  <ST_KR>Berserkers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Big Cats</SO>
+  <ST_KR>Big Cats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Big Stick</SO>
+  <ST_KR>Big Stick</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Big Train</SO>
+  <ST_KR>Big Train</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Bighorns</SO>
+  <ST_KR>Bighorns</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Biplanes</SO>
+  <ST_KR>Biplanes</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Biscuits</SO>
+  <ST_KR>Biscuits</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Bishops</SO>
+  <ST_KR>Bishops</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Bisons</SO>
+  <ST_KR>Bisons</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Black Aces</SO>
+  <ST_KR>Black Aces</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Black Bears</SO>
+  <ST_KR>Black Bears</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Black Cats</SO>
+  <ST_KR>Black Cats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Black Diamonds</SO>
+  <ST_KR>Black Diamonds</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Black Dogs</SO>
+  <ST_KR>Black Dogs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Black Gold</SO>
+  <ST_KR>Black Gold</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Black Knights</SO>
+  <ST_KR>Black Knights</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Black Sox</SO>
+  <ST_KR>Black Sox</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Black Wolves</SO>
+  <ST_KR>Black Wolves</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Blackbirds</SO>
+  <ST_KR>Blackbirds</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Blackhawks</SO>
+  <ST_KR>Blackhawks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Blasters</SO>
+  <ST_KR>Blasters</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Blazers</SO>
+  <ST_KR>Blazers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Blizzard</SO>
+  <ST_KR>Blizzard</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Blue Chips</SO>
+  <ST_KR>Blue Chips</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Blue Claws</SO>
+  <ST_KR>Blue Claws</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Blue Devils</SO>
+  <ST_KR>Blue Devils</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Blue Falcons</SO>
+  <ST_KR>Blue Falcons</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Blue Hens</SO>
+  <ST_KR>Blue Hens</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Blue Jackets</SO>
+  <ST_KR>Blue Jackets</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Blue Jays</SO>
+  <ST_KR>Blue Jays</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Blue Knights</SO>
+  <ST_KR>Blue Knights</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Blue Raiders</SO>
+  <ST_KR>Blue Raiders</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Blue Sox</SO>
+  <ST_KR>Blue Sox</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Blue Wahoos</SO>
+  <ST_KR>Blue Wahoos</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Blue Wings</SO>
+  <ST_KR>Blue Wings</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Bluebirds</SO>
+  <ST_KR>Bluebirds</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Blues</SO>
+  <ST_KR>Blues</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Bobcats</SO>
+  <ST_KR>Bobcats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Bolts</SO>
+  <ST_KR>Bolts</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Bombardiers</SO>
+  <ST_KR>Bombardiers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Bombers</SO>
+  <ST_KR>Bombers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Bonnies</SO>
+  <ST_KR>Bonnies</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Boomers</SO>
+  <ST_KR>Boomers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Border Cats</SO>
+  <ST_KR>Border Cats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Braves</SO>
+  <ST_KR>Braves</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Brawlers</SO>
+  <ST_KR>Brawlers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Brewers</SO>
+  <ST_KR>Brewers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Brigadiers</SO>
+  <ST_KR>Brigadiers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Brigands</SO>
+  <ST_KR>Brigands</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Broncos</SO>
+  <ST_KR>Broncos</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Brown Bears</SO>
+  <ST_KR>Brown Bears</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Browns</SO>
+  <ST_KR>Browns</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Bruins</SO>
+  <ST_KR>Bruins</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Buccaneers</SO>
+  <ST_KR>Buccaneers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Buckeyes</SO>
+  <ST_KR>Buckeyes</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Bucks</SO>
+  <ST_KR>Bucks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Bucs</SO>
+  <ST_KR>Bucs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Buffaloes</SO>
+  <ST_KR>Buffaloes</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Bulldogs</SO>
+  <ST_KR>Bulldogs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Bulldozers</SO>
+  <ST_KR>Bulldozers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Bulls</SO>
+  <ST_KR>Bulls</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Buzz</SO>
+  <ST_KR>Buzz</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Cadets</SO>
+  <ST_KR>Cadets</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Canaries</SO>
+  <ST_KR>Canaries</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Cannonballers</SO>
+  <ST_KR>Cannonballers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Cannoneers</SO>
+  <ST_KR>Cannoneers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Cannons</SO>
+  <ST_KR>Cannons</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Canucks</SO>
+  <ST_KR>Canucks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Capitals</SO>
+  <ST_KR>Capitals</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Captains</SO>
+  <ST_KR>Captains</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Cardinals</SO>
+  <ST_KR>Cardinals</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Caribou</SO>
+  <ST_KR>Caribou</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Catbirds</SO>
+  <ST_KR>Catbirds</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Catfish</SO>
+  <ST_KR>Catfish</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Cats</SO>
+  <ST_KR>Cats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Cavaliers</SO>
+  <ST_KR>Cavaliers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Cavalry</SO>
+  <ST_KR>Cavalry</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Celtics</SO>
+  <ST_KR>Celtics</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Centaurs</SO>
+  <ST_KR>Centaurs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Centurions</SO>
+  <ST_KR>Centurions</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Chameleons</SO>
+  <ST_KR>Chameleons</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Champions</SO>
+  <ST_KR>Champions</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Chanticleers</SO>
+  <ST_KR>Chanticleers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Chaparrals</SO>
+  <ST_KR>Chaparrals</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Chargers</SO>
+  <ST_KR>Chargers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Checkers</SO>
+  <ST_KR>Checkers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Cheetahs</SO>
+  <ST_KR>Cheetahs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Chicks</SO>
+  <ST_KR>Chicks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Chippers</SO>
+  <ST_KR>Chippers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Chukars</SO>
+  <ST_KR>Chukars</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Citadelles</SO>
+  <ST_KR>Citadelles</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Classics</SO>
+  <ST_KR>Classics</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Clippers</SO>
+  <ST_KR>Clippers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Clowns</SO>
+  <ST_KR>Clowns</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Coal Miners</SO>
+  <ST_KR>Coal Miners</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Colonels</SO>
+  <ST_KR>Colonels</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Colt 45s</SO>
+  <ST_KR>Colt 45s</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Colts</SO>
+  <ST_KR>Colts</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Comets</SO>
+  <ST_KR>Comets</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Commandos</SO>
+  <ST_KR>Commandos</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Commodores</SO>
+  <ST_KR>Commodores</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Condors</SO>
+  <ST_KR>Condors</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Conquest</SO>
+  <ST_KR>Conquest</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Conquistadors</SO>
+  <ST_KR>Conquistadors</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Cornhuskers</SO>
+  <ST_KR>Cornhuskers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Continentals</SO>
+  <ST_KR>Continentals</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Copper Kings</SO>
+  <ST_KR>Copper Kings</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Copperheads</SO>
+  <ST_KR>Copperheads</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Corsairs</SO>
+  <ST_KR>Corsairs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Cossacks</SO>
+  <ST_KR>Cossacks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Cottonmouths</SO>
+  <ST_KR>Cottonmouths</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Cougars</SO>
+  <ST_KR>Cougars</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Counts</SO>
+  <ST_KR>Counts</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Cowboys</SO>
+  <ST_KR>Cowboys</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Coyotes</SO>
+  <ST_KR>Coyotes</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Crawdads</SO>
+  <ST_KR>Crawdads</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Crawfish</SO>
+  <ST_KR>Crawfish</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Crew</SO>
+  <ST_KR>Crew</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Crocs</SO>
+  <ST_KR>Crocs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Crosscutters</SO>
+  <ST_KR>Crosscutters</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Crunch</SO>
+  <ST_KR>Crunch</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Crush</SO>
+  <ST_KR>Crush</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Cubs</SO>
+  <ST_KR>Cubs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Cyclones</SO>
+  <ST_KR>Cyclones</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Danes</SO>
+  <ST_KR>Danes</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Daredevils</SO>
+  <ST_KR>Daredevils</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Dawgs</SO>
+  <ST_KR>Dawgs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Defenders</SO>
+  <ST_KR>Defenders</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Deputies</SO>
+  <ST_KR>Deputies</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Desperados</SO>
+  <ST_KR>Desperados</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Destroyers</SO>
+  <ST_KR>Destroyers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Devil Dogs</SO>
+  <ST_KR>Devil Dogs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Devil Rays</SO>
+  <ST_KR>Devil Rays</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Devils</SO>
+  <ST_KR>Devils</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Diablos</SO>
+  <ST_KR>Diablos</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Diamond Cats</SO>
+  <ST_KR>Diamond Cats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Diamond Dawgs</SO>
+  <ST_KR>Diamond Dawgs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Diamond Kings</SO>
+  <ST_KR>Diamond Kings</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Diamond Miners</SO>
+  <ST_KR>Diamond Miners</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Diamondbacks</SO>
+  <ST_KR>Diamondbacks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Diamonds</SO>
+  <ST_KR>Diamonds</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Dingos</SO>
+  <ST_KR>Dingos</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Dinos</SO>
+  <ST_KR>Dinos</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Diplomats</SO>
+  <ST_KR>Diplomats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Dolphins</SO>
+  <ST_KR>Dolphins</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Donkeys</SO>
+  <ST_KR>Donkeys</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Dragons</SO>
+  <ST_KR>Dragons</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Drifters</SO>
+  <ST_KR>Drifters</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Drillers</SO>
+  <ST_KR>Drillers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Ducks</SO>
+  <ST_KR>Ducks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Dukes</SO>
+  <ST_KR>Dukes</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Dust Devils</SO>
+  <ST_KR>Dust Devils</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Dynamo</SO>
+  <ST_KR>Dynamo</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>89ers</SO>
+  <ST_KR>89ers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Eagles</SO>
+  <ST_KR>Eagles</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Earthquakes</SO>
+  <ST_KR>Earthquakes</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Eclipse</SO>
+  <ST_KR>Eclipse</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Elephants</SO>
+  <ST_KR>Elephants</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Emeralds</SO>
+  <ST_KR>Emeralds</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Emperors</SO>
+  <ST_KR>Emperors</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Enforcers</SO>
+  <ST_KR>Enforcers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Engineers</SO>
+  <ST_KR>Engineers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Explorers</SO>
+  <ST_KR>Explorers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Explosion</SO>
+  <ST_KR>Explosion</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Express</SO>
+  <ST_KR>Express</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>49ers</SO>
+  <ST_KR>49ers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Falcons</SO>
+  <ST_KR>Falcons</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Federals</SO>
+  <ST_KR>Federals</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Fighters</SO>
+  <ST_KR>Fighters</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Fighting Falcons</SO>
+  <ST_KR>Fighting Falcons</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Fighting Knights</SO>
+  <ST_KR>Fighting Knights</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Fighting Lions</SO>
+  <ST_KR>Fighting Lions</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Fire</SO>
+  <ST_KR>Fire</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Fire Ants</SO>
+  <ST_KR>Fire Ants</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Fire Dogs</SO>
+  <ST_KR>Fire Dogs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Fire Fighters</SO>
+  <ST_KR>Fire Fighters</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Firebirds</SO>
+  <ST_KR>Firebirds</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Fisher Cats</SO>
+  <ST_KR>Fisher Cats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Flames</SO>
+  <ST_KR>Flames</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Flight</SO>
+  <ST_KR>Flight</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Flyers</SO>
+  <ST_KR>Flyers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Flying Monkeys</SO>
+  <ST_KR>Flying Monkeys</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Flying Squirrels</SO>
+  <ST_KR>Flying Squirrels</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Flying Tigers</SO>
+  <ST_KR>Flying Tigers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Foresters</SO>
+  <ST_KR>Foresters</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Foxes</SO>
+  <ST_KR>Foxes</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Freedom</SO>
+  <ST_KR>Freedom</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Friars</SO>
+  <ST_KR>Friars</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Frozen Ropes</SO>
+  <ST_KR>Frozen Ropes</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Fusion</SO>
+  <ST_KR>Fusion</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Gaels</SO>
+  <ST_KR>Gaels</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Galaxy</SO>
+  <ST_KR>Galaxy</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Gales</SO>
+  <ST_KR>Gales</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Gamblers</SO>
+  <ST_KR>Gamblers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Gamecocks</SO>
+  <ST_KR>Gamecocks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Gangsters</SO>
+  <ST_KR>Gangsters</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Gators</SO>
+  <ST_KR>Gators</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Gauchos</SO>
+  <ST_KR>Gauchos</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Gems</SO>
+  <ST_KR>Gems</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Generals</SO>
+  <ST_KR>Generals</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Ghostriders</SO>
+  <ST_KR>Ghostriders</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Ghosts</SO>
+  <ST_KR>Ghosts</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Giants</SO>
+  <ST_KR>Giants</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Gladiators</SO>
+  <ST_KR>Gladiators</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Glory</SO>
+  <ST_KR>Glory</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Gold Miners</SO>
+  <ST_KR>Gold Miners</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Gold Rush</SO>
+  <ST_KR>Gold Rush</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Gold Sox</SO>
+  <ST_KR>Gold Sox</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Golden Bears</SO>
+  <ST_KR>Golden Bears</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Golden Eagles</SO>
+  <ST_KR>Golden Eagles</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Golden Gophers</SO>
+  <ST_KR>Golden Gophers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Golden Grizzlies</SO>
+  <ST_KR>Golden Grizzlies</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Golden Hawks</SO>
+  <ST_KR>Golden Hawks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Golden Knights</SO>
+  <ST_KR>Golden Knights</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Golden Panthers</SO>
+  <ST_KR>Golden Panthers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Gophers</SO>
+  <ST_KR>Gophers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Governors</SO>
+  <ST_KR>Governors</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Grand Slam</SO>
+  <ST_KR>Grand Slam</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Grasshoppers</SO>
+  <ST_KR>Grasshoppers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Gray Sox</SO>
+  <ST_KR>Gray Sox</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Green Devils</SO>
+  <ST_KR>Green Devils</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Green Dragons</SO>
+  <ST_KR>Green Dragons</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Green Jackets</SO>
+  <ST_KR>Green Jackets</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Green Knights</SO>
+  <ST_KR>Green Knights</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Green Sox</SO>
+  <ST_KR>Green Sox</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Green Wave</SO>
+  <ST_KR>Green Wave</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Greyhounds</SO>
+  <ST_KR>Greyhounds</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Griffons</SO>
+  <ST_KR>Griffons</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Grizzlies</SO>
+  <ST_KR>Grizzlies</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Gryphons</SO>
+  <ST_KR>Gryphons</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Gulls</SO>
+  <ST_KR>Gulls</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Gunners</SO>
+  <ST_KR>Gunners</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Gunslingers</SO>
+  <ST_KR>Gunslingers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Hammerheads</SO>
+  <ST_KR>Hammerheads</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Hawkeyes</SO>
+  <ST_KR>Hawkeyes</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Hawks</SO>
+  <ST_KR>Hawks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Headhunters</SO>
+  <ST_KR>Headhunters</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Heat</SO>
+  <ST_KR>Heat</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Heroes</SO>
+  <ST_KR>Heroes</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Herons</SO>
+  <ST_KR>Herons</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Highlanders</SO>
+  <ST_KR>Highlanders</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Hillcats</SO>
+  <ST_KR>Hillcats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Honkers</SO>
+  <ST_KR>Honkers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Honu</SO>
+  <ST_KR>Honu</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Hooks</SO>
+  <ST_KR>Hooks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Hops</SO>
+  <ST_KR>Hops</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Horned Frogs</SO>
+  <ST_KR>Horned Frogs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Hornets</SO>
+  <ST_KR>Hornets</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Horsemen</SO>
+  <ST_KR>Horsemen</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Hot Rods</SO>
+  <ST_KR>Hot Rods</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Hound Dogs</SO>
+  <ST_KR>Hound Dogs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Hounds</SO>
+  <ST_KR>Hounds</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Hurons</SO>
+  <ST_KR>Hurons</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Hurricanes</SO>
+  <ST_KR>Hurricanes</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Huskies</SO>
+  <ST_KR>Huskies</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Hustlers</SO>
+  <ST_KR>Hustlers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Impact</SO>
+  <ST_KR>Impact</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Imperials</SO>
+  <ST_KR>Imperials</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Inferno</SO>
+  <ST_KR>Inferno</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Invaders</SO>
+  <ST_KR>Invaders</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Irish</SO>
+  <ST_KR>Irish</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Iron Horses</SO>
+  <ST_KR>Iron Horses</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Ironmen</SO>
+  <ST_KR>Ironmen</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Islanders</SO>
+  <ST_KR>Islanders</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Isotopes</SO>
+  <ST_KR>Isotopes</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Ivy</SO>
+  <ST_KR>Ivy</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Jackalopes</SO>
+  <ST_KR>Jackalopes</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Jackals</SO>
+  <ST_KR>Jackals</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Jackhammers</SO>
+  <ST_KR>Jackhammers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Jackrabbits</SO>
+  <ST_KR>Jackrabbits</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Jaguars</SO>
+  <ST_KR>Jaguars</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Jammers</SO>
+  <ST_KR>Jammers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Jaspers</SO>
+  <ST_KR>Jaspers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Jayhawks</SO>
+  <ST_KR>Jayhawks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Jays</SO>
+  <ST_KR>Jays</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Jazz</SO>
+  <ST_KR>Jazz</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Jesters</SO>
+  <ST_KR>Jesters</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Jet Hawks</SO>
+  <ST_KR>Jet Hawks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Jets</SO>
+  <ST_KR>Jets</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Judges</SO>
+  <ST_KR>Judges</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Juggernauts</SO>
+  <ST_KR>Juggernauts</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Jungle Cats</SO>
+  <ST_KR>Jungle Cats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Kangaroos</SO>
+  <ST_KR>Kangaroos</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Kernels</SO>
+  <ST_KR>Kernels</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Keys</SO>
+  <ST_KR>Keys</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Keystones</SO>
+  <ST_KR>Keystones</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Killer Whales</SO>
+  <ST_KR>Killer Whales</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Kings</SO>
+  <ST_KR>Kings</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Klondikes</SO>
+  <ST_KR>Klondikes</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Knighthawks</SO>
+  <ST_KR>Knighthawks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Knights</SO>
+  <ST_KR>Knights</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Kodiaks</SO>
+  <ST_KR>Kodiaks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Lake Monsters</SO>
+  <ST_KR>Lake Monsters</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Lakers</SO>
+  <ST_KR>Lakers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Lancers</SO>
+  <ST_KR>Lancers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Leafs</SO>
+  <ST_KR>Leafs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Legends</SO>
+  <ST_KR>Legends</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Legion</SO>
+  <ST_KR>Legion</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Leopards</SO>
+  <ST_KR>Leopards</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Liberty</SO>
+  <ST_KR>Liberty</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Lightning</SO>
+  <ST_KR>Lightning</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Lions</SO>
+  <ST_KR>Lions</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Lobos</SO>
+  <ST_KR>Lobos</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Loggerheads</SO>
+  <ST_KR>Loggerheads</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Loggers</SO>
+  <ST_KR>Loggers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Lone Stars</SO>
+  <ST_KR>Lone Stars</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Longhorns</SO>
+  <ST_KR>Longhorns</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Lookouts</SO>
+  <ST_KR>Lookouts</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Loons</SO>
+  <ST_KR>Loons</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Lopes</SO>
+  <ST_KR>Lopes</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Lords</SO>
+  <ST_KR>Lords</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Lugnuts</SO>
+  <ST_KR>Lugnuts</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Lumber Kings</SO>
+  <ST_KR>Lumber Kings</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Lumberjacks</SO>
+  <ST_KR>Lumberjacks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Lynx</SO>
+  <ST_KR>Lynx</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Mad Dogs</SO>
+  <ST_KR>Mad Dogs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Magicians</SO>
+  <ST_KR>Magicians</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Majestics</SO>
+  <ST_KR>Majestics</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Makos</SO>
+  <ST_KR>Makos</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Mallards</SO>
+  <ST_KR>Mallards</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Mammoths</SO>
+  <ST_KR>Mammoths</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Manatees</SO>
+  <ST_KR>Manatees</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Maples</SO>
+  <ST_KR>Maples</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Marauders</SO>
+  <ST_KR>Marauders</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Mariners</SO>
+  <ST_KR>Mariners</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Marksmen</SO>
+  <ST_KR>Marksmen</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Marlins</SO>
+  <ST_KR>Marlins</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Maroons</SO>
+  <ST_KR>Maroons</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Marshals</SO>
+  <ST_KR>Marshals</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Mastadons</SO>
+  <ST_KR>Mastadons</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Matatdors</SO>
+  <ST_KR>Matatdors</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Maulers</SO>
+  <ST_KR>Maulers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Mavericks</SO>
+  <ST_KR>Mavericks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Mean Green</SO>
+  <ST_KR>Mean Green</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Medievals</SO>
+  <ST_KR>Medievals</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Men-O-War</SO>
+  <ST_KR>Men-O-War</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Mercenaries</SO>
+  <ST_KR>Mercenaries</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Mercury</SO>
+  <ST_KR>Mercury</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Metro Stars</SO>
+  <ST_KR>Metro Stars</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Mets</SO>
+  <ST_KR>Mets</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Mighty Mites</SO>
+  <ST_KR>Mighty Mites</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Millers</SO>
+  <ST_KR>Millers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Millionaires</SO>
+  <ST_KR>Millionaires</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Miners</SO>
+  <ST_KR>Miners</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Minutemen</SO>
+  <ST_KR>Minutemen</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Missions</SO>
+  <ST_KR>Missions</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Monarchs</SO>
+  <ST_KR>Monarchs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Monsters</SO>
+  <ST_KR>Monsters</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Moose</SO>
+  <ST_KR>Moose</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Motors</SO>
+  <ST_KR>Motors</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Mountain Cats</SO>
+  <ST_KR>Mountain Cats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Mountaineers</SO>
+  <ST_KR>Mountaineers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Mounties</SO>
+  <ST_KR>Mounties</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Mud Cats</SO>
+  <ST_KR>Mud Cats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Mud Hens</SO>
+  <ST_KR>Mud Hens</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Mules</SO>
+  <ST_KR>Mules</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Music</SO>
+  <ST_KR>Music</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Musketeers</SO>
+  <ST_KR>Musketeers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Muskies</SO>
+  <ST_KR>Muskies</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Mustangs</SO>
+  <ST_KR>Mustangs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Mutiny</SO>
+  <ST_KR>Mutiny</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>97s</SO>
+  <ST_KR>97s</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Nailers</SO>
+  <ST_KR>Nailers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Nationals</SO>
+  <ST_KR>Nationals</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Naturals</SO>
+  <ST_KR>Naturals</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Navigators</SO>
+  <ST_KR>Navigators</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Night Hawks</SO>
+  <ST_KR>Night Hawks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Night Riders</SO>
+  <ST_KR>Night Riders</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Night Train</SO>
+  <ST_KR>Night Train</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Nightowls</SO>
+  <ST_KR>Nightowls</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Ninjas</SO>
+  <ST_KR>Ninjas</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Nobles</SO>
+  <ST_KR>Nobles</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Nordiques</SO>
+  <ST_KR>Nordiques</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Norse</SO>
+  <ST_KR>Norse</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Norsemen</SO>
+  <ST_KR>Norsemen</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>North Stars</SO>
+  <ST_KR>North Stars</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Northmen</SO>
+  <ST_KR>Northmen</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Nuggets</SO>
+  <ST_KR>Nuggets</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Nuts</SO>
+  <ST_KR>Nuts</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Oaks</SO>
+  <ST_KR>Oaks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Oceanics</SO>
+  <ST_KR>Oceanics</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Ocelots</SO>
+  <ST_KR>Ocelots</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Odyssey</SO>
+  <ST_KR>Odyssey</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Oil Barons</SO>
+  <ST_KR>Oil Barons</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Oil Kings</SO>
+  <ST_KR>Oil Kings</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Oilers</SO>
+  <ST_KR>Oilers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Oilmen</SO>
+  <ST_KR>Oilmen</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Olympians</SO>
+  <ST_KR>Olympians</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Orange Kings</SO>
+  <ST_KR>Orange Kings</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Orange Sox</SO>
+  <ST_KR>Orange Sox</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Orcas</SO>
+  <ST_KR>Orcas</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Orioles</SO>
+  <ST_KR>Orioles</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Osprey</SO>
+  <ST_KR>Osprey</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Otters</SO>
+  <ST_KR>Otters</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Outlaws</SO>
+  <ST_KR>Outlaws</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Owls</SO>
+  <ST_KR>Owls</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Padres</SO>
+  <ST_KR>Padres</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Paints</SO>
+  <ST_KR>Paints</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Paladins</SO>
+  <ST_KR>Paladins</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Panthers</SO>
+  <ST_KR>Panthers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Parrots</SO>
+  <ST_KR>Parrots</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Patriots</SO>
+  <ST_KR>Patriots</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Peach Kings</SO>
+  <ST_KR>Peach Kings</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Peaches</SO>
+  <ST_KR>Peaches</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Peacocks</SO>
+  <ST_KR>Peacocks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Pelicans</SO>
+  <ST_KR>Pelicans</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Penguins</SO>
+  <ST_KR>Penguins</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Penmen</SO>
+  <ST_KR>Penmen</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Peregrines</SO>
+  <ST_KR>Peregrines</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Phantoms</SO>
+  <ST_KR>Phantoms</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Phoenix</SO>
+  <ST_KR>Phoenix</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Pilgrims</SO>
+  <ST_KR>Pilgrims</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Pilots</SO>
+  <ST_KR>Pilots</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Pioneers</SO>
+  <ST_KR>Pioneers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Pipeliners</SO>
+  <ST_KR>Pipeliners</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Pipers</SO>
+  <ST_KR>Pipers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Pirates</SO>
+  <ST_KR>Pirates</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Players</SO>
+  <ST_KR>Players</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Polar Bears</SO>
+  <ST_KR>Polar Bears</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Polecats</SO>
+  <ST_KR>Polecats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Ports</SO>
+  <ST_KR>Ports</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Potros</SO>
+  <ST_KR>Potros</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Power</SO>
+  <ST_KR>Power</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Prairie Dogs</SO>
+  <ST_KR>Prairie Dogs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Prairie Thunder</SO>
+  <ST_KR>Prairie Thunder</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Predators</SO>
+  <ST_KR>Predators</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Pride</SO>
+  <ST_KR>Pride</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Princes</SO>
+  <ST_KR>Princes</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Privateers</SO>
+  <ST_KR>Privateers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Prospects</SO>
+  <ST_KR>Prospects</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Pumas</SO>
+  <ST_KR>Pumas</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Pump Jacks</SO>
+  <ST_KR>Pump Jacks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Purple Aces</SO>
+  <ST_KR>Purple Aces</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Purple Warriors</SO>
+  <ST_KR>Purple Warriors</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Quakers</SO>
+  <ST_KR>Quakers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Quakes</SO>
+  <ST_KR>Quakes</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Raccoons</SO>
+  <ST_KR>Raccoons</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Racers</SO>
+  <ST_KR>Racers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Rage</SO>
+  <ST_KR>Rage</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Ragin Cajuns</SO>
+  <ST_KR>Ragin Cajuns</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Raging Bulls</SO>
+  <ST_KR>Raging Bulls</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Raiders</SO>
+  <ST_KR>Raiders</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Rail Cats</SO>
+  <ST_KR>Rail Cats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Railers</SO>
+  <ST_KR>Railers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Railhawks</SO>
+  <ST_KR>Railhawks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Railroaders</SO>
+  <ST_KR>Railroaders</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Railsplitters</SO>
+  <ST_KR>Railsplitters</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Rainiers</SO>
+  <ST_KR>Rainiers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Ramblers</SO>
+  <ST_KR>Ramblers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Rampage</SO>
+  <ST_KR>Rampage</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Rams</SO>
+  <ST_KR>Rams</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Rangers</SO>
+  <ST_KR>Rangers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Rapids</SO>
+  <ST_KR>Rapids</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Raptors</SO>
+  <ST_KR>Raptors</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Rascals</SO>
+  <ST_KR>Rascals</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Rattlers</SO>
+  <ST_KR>Rattlers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Ravens</SO>
+  <ST_KR>Ravens</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Rawhide</SO>
+  <ST_KR>Rawhide</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Rays</SO>
+  <ST_KR>Rays</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Razorbacks</SO>
+  <ST_KR>Razorbacks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Red Aces</SO>
+  <ST_KR>Red Aces</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Red Barons</SO>
+  <ST_KR>Red Barons</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Red Claws</SO>
+  <ST_KR>Red Claws</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Red Devils</SO>
+  <ST_KR>Red Devils</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Red Dragons</SO>
+  <ST_KR>Red Dragons</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Red Flash</SO>
+  <ST_KR>Red Flash</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Red Foxes</SO>
+  <ST_KR>Red Foxes</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Red Hawks</SO>
+  <ST_KR>Red Hawks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Red Raiders</SO>
+  <ST_KR>Red Raiders</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Red Sox</SO>
+  <ST_KR>Red Sox</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Red Storm</SO>
+  <ST_KR>Red Storm</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Red Wings</SO>
+  <ST_KR>Red Wings</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Redbirds</SO>
+  <ST_KR>Redbirds</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Reds</SO>
+  <ST_KR>Reds</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Renegades</SO>
+  <ST_KR>Renegades</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Revolution</SO>
+  <ST_KR>Revolution</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Riptide</SO>
+  <ST_KR>Riptide</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>River Bandits</SO>
+  <ST_KR>River Bandits</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>River Bats</SO>
+  <ST_KR>River Bats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>River Cats</SO>
+  <ST_KR>River Cats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>River Hawks</SO>
+  <ST_KR>River Hawks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>River Kings</SO>
+  <ST_KR>River Kings</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>River Otters</SO>
+  <ST_KR>River Otters</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>River Rats</SO>
+  <ST_KR>River Rats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>River Sharks</SO>
+  <ST_KR>River Sharks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Rivermen</SO>
+  <ST_KR>Rivermen</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Road Warriors</SO>
+  <ST_KR>Road Warriors</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Roadrunners</SO>
+  <ST_KR>Roadrunners</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Robins</SO>
+  <ST_KR>Robins</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Rock Cats</SO>
+  <ST_KR>Rock Cats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Rocketmen</SO>
+  <ST_KR>Rocketmen</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Rockets</SO>
+  <ST_KR>Rockets</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Rockies</SO>
+  <ST_KR>Rockies</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Rogues</SO>
+  <ST_KR>Rogues</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Rough Riders</SO>
+  <ST_KR>Rough Riders</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Roughnecks</SO>
+  <ST_KR>Roughnecks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Royals</SO>
+  <ST_KR>Royals</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Running Rebels</SO>
+  <ST_KR>Running Rebels</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Rush</SO>
+  <ST_KR>Rush</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>76ers</SO>
+  <ST_KR>76ers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Sabercats</SO>
+  <ST_KR>Sabercats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Sabres</SO>
+  <ST_KR>Sabres</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Sailfish</SO>
+  <ST_KR>Sailfish</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Sailors</SO>
+  <ST_KR>Sailors</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Saints</SO>
+  <ST_KR>Saints</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Salmon Kings</SO>
+  <ST_KR>Salmon Kings</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Salukis</SO>
+  <ST_KR>Salukis</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Samurai</SO>
+  <ST_KR>Samurai</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Sand Gnats</SO>
+  <ST_KR>Sand Gnats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Saxons</SO>
+  <ST_KR>Saxons</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Scarecrows</SO>
+  <ST_KR>Scarecrows</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Scarlet Knights</SO>
+  <ST_KR>Scarlet Knights</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Schooners</SO>
+  <ST_KR>Schooners</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Scorpions</SO>
+  <ST_KR>Scorpions</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Scots</SO>
+  <ST_KR>Scots</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Scouts</SO>
+  <ST_KR>Scouts</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Screaming Eagles</SO>
+  <ST_KR>Screaming Eagles</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Sea Lions</SO>
+  <ST_KR>Sea Lions</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Sea Turtles</SO>
+  <ST_KR>Sea Turtles</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Seadogs</SO>
+  <ST_KR>Seadogs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Seafarers</SO>
+  <ST_KR>Seafarers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Seagulls</SO>
+  <ST_KR>Seagulls</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Seahawks</SO>
+  <ST_KR>Seahawks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Seals</SO>
+  <ST_KR>Seals</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Seawolves</SO>
+  <ST_KR>Seawolves</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Seminoles</SO>
+  <ST_KR>Seminoles</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Senators</SO>
+  <ST_KR>Senators</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Shamrocks</SO>
+  <ST_KR>Shamrocks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Sharks</SO>
+  <ST_KR>Sharks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Shockers</SO>
+  <ST_KR>Shockers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Shorebirds</SO>
+  <ST_KR>Shorebirds</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Sidewinders</SO>
+  <ST_KR>Sidewinders</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Silver Hawks</SO>
+  <ST_KR>Silver Hawks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Silver Knights</SO>
+  <ST_KR>Silver Knights</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Silver Sabres</SO>
+  <ST_KR>Silver Sabres</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Silver Sox</SO>
+  <ST_KR>Silver Sox</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Silver Stars</SO>
+  <ST_KR>Silver Stars</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Silver Wolves</SO>
+  <ST_KR>Silver Wolves</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Silverbacks</SO>
+  <ST_KR>Silverbacks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Silvertips</SO>
+  <ST_KR>Silvertips</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Skeeters</SO>
+  <ST_KR>Skeeters</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Sky Chiefs</SO>
+  <ST_KR>Sky Chiefs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Sky Sox</SO>
+  <ST_KR>Sky Sox</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Skyhawks</SO>
+  <ST_KR>Skyhawks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Skyliners</SO>
+  <ST_KR>Skyliners</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Slammers</SO>
+  <ST_KR>Slammers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Sluggers</SO>
+  <ST_KR>Sluggers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Smokies</SO>
+  <ST_KR>Smokies</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Snake Eyes</SO>
+  <ST_KR>Snake Eyes</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Snappers</SO>
+  <ST_KR>Snappers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Sound Tigers</SO>
+  <ST_KR>Sound Tigers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Sox</SO>
+  <ST_KR>Sox</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Sparks</SO>
+  <ST_KR>Sparks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Spartans</SO>
+  <ST_KR>Spartans</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Spectres</SO>
+  <ST_KR>Spectres</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Speed Devils</SO>
+  <ST_KR>Speed Devils</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Speedsters</SO>
+  <ST_KR>Speedsters</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Spiders</SO>
+  <ST_KR>Spiders</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Spikes</SO>
+  <ST_KR>Spikes</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Spinners</SO>
+  <ST_KR>Spinners</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Spirit</SO>
+  <ST_KR>Spirit</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Spitfires</SO>
+  <ST_KR>Spitfires</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Spurs</SO>
+  <ST_KR>Spurs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Squires</SO>
+  <ST_KR>Squires</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Stags</SO>
+  <ST_KR>Stags</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Stallions</SO>
+  <ST_KR>Stallions</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Stampede</SO>
+  <ST_KR>Stampede</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Stars</SO>
+  <ST_KR>Stars</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Steamrollers</SO>
+  <ST_KR>Steamrollers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Steeldogs</SO>
+  <ST_KR>Steeldogs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Steelers</SO>
+  <ST_KR>Steelers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Steelhawks</SO>
+  <ST_KR>Steelhawks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Steelheads</SO>
+  <ST_KR>Steelheads</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Steelhounds</SO>
+  <ST_KR>Steelhounds</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Sting</SO>
+  <ST_KR>Sting</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Stingrays</SO>
+  <ST_KR>Stingrays</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Stone Crabs</SO>
+  <ST_KR>Stone Crabs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Storm</SO>
+  <ST_KR>Storm</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Storm Kings</SO>
+  <ST_KR>Storm Kings</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Sultans</SO>
+  <ST_KR>Sultans</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Sun Cats</SO>
+  <ST_KR>Sun Cats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Sun Dogs</SO>
+  <ST_KR>Sun Dogs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Sun Kings</SO>
+  <ST_KR>Sun Kings</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Sun Sox</SO>
+  <ST_KR>Sun Sox</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Sunbirds</SO>
+  <ST_KR>Sunbirds</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Sunchasers</SO>
+  <ST_KR>Sunchasers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Sundevils</SO>
+  <ST_KR>Sundevils</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Sunrays</SO>
+  <ST_KR>Sunrays</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Suns</SO>
+  <ST_KR>Suns</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Superstars</SO>
+  <ST_KR>Superstars</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Surf</SO>
+  <ST_KR>Surf</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Surge</SO>
+  <ST_KR>Surge</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Swallows</SO>
+  <ST_KR>Swallows</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Swamp Bats</SO>
+  <ST_KR>Swamp Bats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Swamp Dogs</SO>
+  <ST_KR>Swamp Dogs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Swamp Foxes</SO>
+  <ST_KR>Swamp Foxes</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Swarm</SO>
+  <ST_KR>Swarm</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Swashbucklers</SO>
+  <ST_KR>Swashbucklers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Swingers</SO>
+  <ST_KR>Swingers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Swordfish</SO>
+  <ST_KR>Swordfish</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Swordsmen</SO>
+  <ST_KR>Swordsmen</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Sycamores</SO>
+  <ST_KR>Sycamores</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Tanks</SO>
+  <ST_KR>Tanks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Tar Heels</SO>
+  <ST_KR>Tar Heels</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Tarpons</SO>
+  <ST_KR>Tarpons</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Tartans</SO>
+  <ST_KR>Tartans</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Tasmanian Devils</SO>
+  <ST_KR>Tasmanian Devils</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>T-Bones</SO>
+  <ST_KR>T-Bones</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Tempest</SO>
+  <ST_KR>Tempest</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Terrapins</SO>
+  <ST_KR>Terrapins</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Terriers</SO>
+  <ST_KR>Terriers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Texans</SO>
+  <ST_KR>Texans</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Thieves</SO>
+  <ST_KR>Thieves</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Thoroughbreds</SO>
+  <ST_KR>Thoroughbreds</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Thrashers</SO>
+  <ST_KR>Thrashers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Threshers</SO>
+  <ST_KR>Threshers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Thunder</SO>
+  <ST_KR>Thunder</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Thunder Bats</SO>
+  <ST_KR>Thunder Bats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Thunder Bears</SO>
+  <ST_KR>Thunder Bears</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Thunder Cats</SO>
+  <ST_KR>Thunder Cats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Thunder Dogs</SO>
+  <ST_KR>Thunder Dogs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Thunder Wolves</SO>
+  <ST_KR>Thunder Wolves</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Thunderbirds</SO>
+  <ST_KR>Thunderbirds</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Thunderbolts</SO>
+  <ST_KR>Thunderbolts</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Tides</SO>
+  <ST_KR>Tides</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Tiger Sharks</SO>
+  <ST_KR>Tiger Sharks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Tigercats</SO>
+  <ST_KR>Tigercats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Tigers</SO>
+  <ST_KR>Tigers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Timber Rattlers</SO>
+  <ST_KR>Timber Rattlers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Timberjacks</SO>
+  <ST_KR>Timberjacks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Timberwolves</SO>
+  <ST_KR>Timberwolves</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Tincaps</SO>
+  <ST_KR>Tincaps</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Titans</SO>
+  <ST_KR>Titans</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Tomahawks</SO>
+  <ST_KR>Tomahawks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Tomcats</SO>
+  <ST_KR>Tomcats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Toreros</SO>
+  <ST_KR>Toreros</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Tornado</SO>
+  <ST_KR>Tornado</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Toros</SO>
+  <ST_KR>Toros</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Torpedoes</SO>
+  <ST_KR>Torpedoes</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Tourists</SO>
+  <ST_KR>Tourists</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Trail Blazers</SO>
+  <ST_KR>Trail Blazers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Trains</SO>
+  <ST_KR>Trains</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Trappers</SO>
+  <ST_KR>Trappers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Triplets</SO>
+  <ST_KR>Triplets</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Tritons</SO>
+  <ST_KR>Tritons</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Trojans</SO>
+  <ST_KR>Trojans</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Tropics</SO>
+  <ST_KR>Tropics</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Tsunami</SO>
+  <ST_KR>Tsunami</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Turtles</SO>
+  <ST_KR>Turtles</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Twins</SO>
+  <ST_KR>Twins</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Tycoons</SO>
+  <ST_KR>Tycoons</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Typhoon</SO>
+  <ST_KR>Typhoon</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Tyrants</SO>
+  <ST_KR>Tyrants</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Underdogs</SO>
+  <ST_KR>Underdogs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Unicorns</SO>
+  <ST_KR>Unicorns</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Valiants</SO>
+  <ST_KR>Valiants</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Valley Cats</SO>
+  <ST_KR>Valley Cats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Vandals</SO>
+  <ST_KR>Vandals</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Velocity</SO>
+  <ST_KR>Velocity</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Veterans</SO>
+  <ST_KR>Veterans</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Victory</SO>
+  <ST_KR>Victory</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Vikings</SO>
+  <ST_KR>Vikings</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Villains</SO>
+  <ST_KR>Villains</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Vipers</SO>
+  <ST_KR>Vipers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Volcanoes</SO>
+  <ST_KR>Volcanoes</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Volts</SO>
+  <ST_KR>Volts</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Volunteers</SO>
+  <ST_KR>Volunteers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Voyagers</SO>
+  <ST_KR>Voyagers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Vulcans</SO>
+  <ST_KR>Vulcans</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Vultures</SO>
+  <ST_KR>Vultures</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Wallabys</SO>
+  <ST_KR>Wallabys</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Walruses</SO>
+  <ST_KR>Walruses</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>War Dogs</SO>
+  <ST_KR>War Dogs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>War Eagles</SO>
+  <ST_KR>War Eagles</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Warbirds</SO>
+  <ST_KR>Warbirds</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Warcats</SO>
+  <ST_KR>Warcats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Warhawks</SO>
+  <ST_KR>Warhawks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Warlocks</SO>
+  <ST_KR>Warlocks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Warlords</SO>
+  <ST_KR>Warlords</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Warriors</SO>
+  <ST_KR>Warriors</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Waveriders</SO>
+  <ST_KR>Waveriders</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Waves</SO>
+  <ST_KR>Waves</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Werewolves</SO>
+  <ST_KR>Werewolves</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Westerners</SO>
+  <ST_KR>Westerners</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Whalers</SO>
+  <ST_KR>Whalers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Wheat Kings</SO>
+  <ST_KR>Wheat Kings</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Whiskeyjacks</SO>
+  <ST_KR>Whiskeyjacks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>White Knights</SO>
+  <ST_KR>White Knights</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>White Sox</SO>
+  <ST_KR>White Sox</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>White Wings</SO>
+  <ST_KR>White Wings</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Whitecaps</SO>
+  <ST_KR>Whitecaps</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Whitehawks</SO>
+  <ST_KR>Whitehawks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Wild</SO>
+  <ST_KR>Wild</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Wild Dogs</SO>
+  <ST_KR>Wild Dogs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Wild Horses</SO>
+  <ST_KR>Wild Horses</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Wild Riders</SO>
+  <ST_KR>Wild Riders</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Wild Things</SO>
+  <ST_KR>Wild Things</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Wildcats</SO>
+  <ST_KR>Wildcats</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Wingnuts</SO>
+  <ST_KR>Wingnuts</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Wings</SO>
+  <ST_KR>Wings</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Winter Hawks</SO>
+  <ST_KR>Winter Hawks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Wizards</SO>
+  <ST_KR>Wizards</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Wolf Pack</SO>
+  <ST_KR>Wolf Pack</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Wolfhounds</SO>
+  <ST_KR>Wolfhounds</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Wolverines</SO>
+  <ST_KR>Wolverines</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Wolves</SO>
+  <ST_KR>Wolves</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Wranglers</SO>
+  <ST_KR>Wranglers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Wreckers</SO>
+  <ST_KR>Wreckers</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Yaks</SO>
+  <ST_KR>Yaks</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Yellow Jackets</SO>
+  <ST_KR>Yellow Jackets</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Zebras</SO>
+  <ST_KR>Zebras</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Zephyrs</SO>
+  <ST_KR>Zephyrs</ST_KR>
+ </TNN>
+ <TNN>
+  <SO>Zips</SO>
+  <ST_KR>Zips</ST_KR>
+ </TNN>
+</TEAM_NICK_NAMES>
