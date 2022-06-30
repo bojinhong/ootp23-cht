@@ -3,1042 +3,1042 @@
 <TEXT_FILE fileversion="OOTP Developments 2022-05-05 08:50:47">
 
 <CAT id="13">
-<OBJ id="16880">
-<TXT>[%personname l], 2루로 들어갑니다...</TXT>
-</OBJ>
-<OBJ id="19839">
-<TXT>[%personname l], 2루를 향해 갑니다...</TXT>
-</OBJ>
-<OBJ id="24142">
-<TXT>[%personname L], 2루로 향합니다...</TXT>
-</OBJ>
-<OBJ id="27338">
-<TXT>[%personname L], 2루로 움직입니다...</TXT>
-</OBJ>
-<OBJ id="28619">
-<TXT>2루를 향해 가는 [%personname L]...</TXT>
-</OBJ>
-<OBJ id="30789">
-<TXT>2루로 향하는 [%personname L]...</TXT>
-</OBJ>
-<OBJ id="32999">
-<TXT>[%personname L], 2루를 향해 이동합니다...</TXT>
-</OBJ>
-<OBJ id="35910">
-<TXT>[%personname L], 2루로 향합니다...</TXT>
-</OBJ>
-<OBJ id="40430">
-<TXT>[%personname L], 2루로 갑니다...</TXT>
-</OBJ>
-<OBJ id="46884">
-<TXT>2루로 움직이는 [%personname l]...</TXT>
-</OBJ>
-<OBJ id="50484">
-<TXT>[%personname l], 2루로 들어갑니다...</TXT>
-</OBJ>
-<OBJ id="50485">
-<TXT>[%personname l], 2루로 들어갑니다...</TXT>
-</OBJ>
-<OBJ id="50492">
-<TXT>[%personname l], 2루로...</TXT>
-</OBJ>
-<OBJ id="55023">
-<TXT>2루로 진루하는 [%personname L]...</TXT>
-</OBJ>
+    <OBJ id="16880">
+        <TXT>[%personname l]，二壘 輸入...</TXT>
+    </OBJ>
+    <OBJ id="19839">
+        <TXT>[%personname l]，二壘 朝向 我去……</TXT>
+    </OBJ>
+    <OBJ id="24142">
+        <TXT>[%personname L]，二壘 標題...</TXT>
+    </OBJ>
+    <OBJ id="27338">
+        <TXT>[%personname L]，二壘 它會動……</TXT>
+    </OBJ>
+    <OBJ id="28619">
+        <TXT>2基地 朝向 瘦[%personname L]...</TXT>
+    </OBJ>
+    <OBJ id="30789">
+        <TXT>2樓 朝著[%personname L]...</TXT>
+    </OBJ>
+    <OBJ id="32999">
+        <TXT>[%personname L]，二壘 朝向 轉到...</TXT>
+    </OBJ>
+    <OBJ id="35910">
+        <TXT>[%personname L]，二壘 標題...</TXT>
+    </OBJ>
+    <OBJ id="40430">
+        <TXT>[%personname L]，二壘 我去……</TXT>
+    </OBJ>
+    <OBJ id="46884">
+        <TXT>2樓 動畫[%personname l]...</TXT>
+    </OBJ>
+    <OBJ id="50484">
+        <TXT>[%personname l]，到二壘 輸入...</TXT>
+    </OBJ>
+    <OBJ id="50485">
+        <TXT>[%personname l]，到二壘 輸入...</TXT>
+    </OBJ>
+    <OBJ id="50492">
+        <TXT>[%personname l]，到第二基地...</TXT>
+    </OBJ>
+    <OBJ id="55023">
+        <TXT>2樓 [%人名L]...</TXT>
+    </OBJ>
 </CAT>
 
 <CAT id="14">
-<OBJ id="7696">
-<TXT>[%personname l], 3루로 진루합니다...</TXT>
-</OBJ>
-<OBJ id="16879">
-<TXT>[%personname l], 3루로 들어갑니다...</TXT>
-</OBJ>
-<OBJ id="19829">
-<TXT>[%personname l], 3루를 향해 움직입니다...</TXT>
-</OBJ>
-<OBJ id="27339">
-<TXT>[%personname L], 3루로 움직입니다...</TXT>
-</OBJ>
-<OBJ id="28620">
-<TXT>3루를 향해 가는 [%personname L]...</TXT>
-</OBJ>
-<OBJ id="30797">
-<TXT>[%personname L], 3루로 갑니다...</TXT>
-</OBJ>
-<OBJ id="33000">
-<TXT>[%personname L], 3루로 움직입니다...</TXT>
-</OBJ>
-<OBJ id="33906">
-<TXT>[%personname L], 3루로 향합니다...</TXT>
-</OBJ>
-<OBJ id="35604">
-<TXT>[%personname L], 3루로 향합니다...</TXT>
-</OBJ>
-<OBJ id="50480">
-<TXT>[%personname L], 3루로 들어갑니다...</TXT>
-</OBJ>
-<OBJ id="50481">
-<TXT>[%personname L], 3루로 들어갑니다...</TXT>
-</OBJ>
-<OBJ id="50482">
-<TXT>[%personname L], 3루로 들어갑니다...</TXT>
-</OBJ>
-<OBJ id="50609">
-<TXT>3루로 향하는 [%personname l]...</TXT>
-</OBJ>
-<OBJ id="55020">
-<TXT>3루를 노리는 [%personname L]...</TXT>
-</OBJ>
+    <OBJ id="7696">
+        <TXT>[%personname l]，三壘 我前進……</TXT>
+    </OBJ>
+    <OBJ id="16879">
+        <TXT>[%personname l]，三壘 輸入...</TXT>
+    </OBJ>
+    <OBJ id="19829">
+        <TXT>[%personname l]，三壘 朝向 它會動……</TXT>
+    </OBJ>
+    <OBJ id="27339">
+        <TXT>[%personname L]，三壘 它會動……</TXT>
+    </OBJ>
+    <OBJ id="28620">
+        <TXT>3鹼基 朝向 瘦[%personname L]...</TXT>
+    </OBJ>
+    <OBJ id="30797">
+        <TXT>[%personname L]，三壘 我去……</TXT>
+    </OBJ>
+    <OBJ id="33000">
+        <TXT>[%personname L]，三壘 它會動……</TXT>
+    </OBJ>
+    <OBJ id="33906">
+        <TXT>[%personname L]，三壘 標題...</TXT>
+    </OBJ>
+    <OBJ id="35604">
+        <TXT>[%personname L]，三壘 標題...</TXT>
+    </OBJ>
+    <OBJ id="50480">
+        <TXT>[%personname L]，三壘 輸入...</TXT>
+    </OBJ>
+    <OBJ id="50481">
+        <TXT>[%personname L]，三壘 輸入...</TXT>
+    </OBJ>
+    <OBJ id="50482">
+        <TXT>[%personname L]，三壘 輸入...</TXT>
+    </OBJ>
+    <OBJ id="50609">
+        <TXT>3露露 朝著[%personname l]...</TXT>
+    </OBJ>
+    <OBJ id="55020">
+        <TXT>3鹼基 瞄準[%personname L]...</TXT>
+    </OBJ>
 </CAT>
 
 <CAT id="15">
-<OBJ id="7720">
-<TXT>[%personname l], 득점합니다...</TXT>
-</OBJ>
-<OBJ id="7722">
-<TXT>득점하는 [%personname l] 선수...</TXT>
-</OBJ>
-<OBJ id="7729">
-<TXT>[%personname l]의 득점을 가져오는 [%game teamab]...</TXT>
-</OBJ>
-<OBJ id="7733">
-<TXT>[%personname l], 득점에 성공합니다...</TXT>
-</OBJ>
-<OBJ id="7734">
-<TXT>[%personname l], 홈에 들어옵니다...</TXT>
-</OBJ>
-<OBJ id="16885">
-<TXT>[%personname l], 득점합니다...</TXT>
-</OBJ>
-<OBJ id="19831">
-<TXT>[%personname l], 득점합니다...</TXT>
-</OBJ>
-<OBJ id="27980">
-<TXT>홈을 밟는 [%personname L]...</TXT>
-</OBJ>
-<OBJ id="40433">
-<TXT>점수를 올리는 [%personname L]...</TXT>
-</OBJ>
-<OBJ id="57345">
-<TXT>[%personname L], 득점합니다...</TXT>
-</OBJ>
+    <OBJ id="7720">
+        <TXT>[%personname l]，得分...</TXT>
+    </OBJ>
+    <OBJ id="7722">
+        <TXT> [%personname l]玩家得分...</TXT>
+    </OBJ>
+    <OBJ id="7729">
+        <TXT> [%personname l] 得分 正在導入[%game teamab]...</TXT>
+    </OBJ>
+    <OBJ id="7733">
+        <TXT>[%personname l]，得分 成功...</TXT>
+    </OBJ>
+    <OBJ id="7734">
+        <TXT>[%personname l]，家 進來……</TXT>
+    </OBJ>
+    <OBJ id="16885">
+        <TXT>[%personname l]，得分...</TXT>
+    </OBJ>
+    <OBJ id="19831">
+        <TXT>[%personname l]，得分...</TXT>
+    </OBJ>
+    <OBJ id="27980">
+        <TXT>首頁 踏[%personname L]...</TXT>
+    </OBJ>
+    <OBJ id="40433">
+        <TXT>分數 發布[%personname L]...</TXT>
+    </OBJ>
+    <OBJ id="57345">
+        <TXT>[%personname L]，得分...</TXT>
+    </OBJ>
 </CAT>
 
 <CAT id="10">
-<OBJ id="127">
-<TXT>[%teamlink nick] 팀과 [%personlink] 사이의 새로운 [%human role] 계약이 성사되었습니다.(nl)(nl)[%teamlink nickonly]에서는 기자 회견을 열고 계약을 체결할 예정이었지만 성명을 통해 &quot;[%personname F L]을 영입하게 되어 매우 기쁘다&quot;고 발표했습니다.</TXT>
-</OBJ>
-<OBJ id="128">
-<TXT>[%teamlink nick]에 변화의 바람이 붑니다. 팀과 [%personlink] 사이의 새로운 [%human role] 계약이 성사되었다는 발표가 나왔습니다.(nl)(nl)이번 결정이 프랜차이즈에 미칠 영향은 시간이 지나야 알 수 있을 것 같습니다. 일부 전문가들은 팀에 긍정적인 변화일 것이라 예상하지만 새로 만나게 될  선수들과 잘 어울릴 수 있을지에 관한 의문을 제기하는 전문가도 있습니다.</TXT>
-</OBJ>
-<OBJ id="130">
-<TXT>공식 발표가 나왔습니다. [%teamlink nick]의 새 [%human role], 그 주인공은 바로 [%personlink]입니다. 지난 몇 주 동안 소문이 무성했지만 마침내 공식적인 발표로 확정되었습니다.(nl)(nl)계약 기간은 발표되지 않았습니다.</TXT>
-</OBJ>
-<OBJ id="131">
-<TXT>몇 주 동안 소문만 무성했던 이야기가 공식적으로 발표되었습니다. 계약은 체결되었고, [%teamlink nick]에서 [%personlink]의 역할은 [%human role]입니다.</TXT>
-</OBJ>
-<OBJ id="132">
-<TXT>새 [%human role] 자리에 [%personlink]을 영입하는데 성공한 [%teamlink nick] 팀의 전망은 더욱 밝아 보입니다.(nl)(nl)오늘 기자 회견에서 새로운 선수의 소개가 있을 예정입니다.</TXT>
-</OBJ>
-<OBJ id="133">
-<TXT>구단과 [%personlink] 사이의 [%human role] 계약에 성공한 가운데 구단 관계자는 [%teamlink nick]의 미래가 낙관적일 것이라 이야기합니다.(nl)(nl)기자 회견에서 구체적인 사항이 나올 예정입니다.</TXT>
-</OBJ>
-<OBJ id="134">
-<TXT>희망은 계속된다.(nl)(nl)적어도 새로운 [%teamlink nick] 단장으로 [%personlink]의 영입이 확정되었음을 발표하는 기자 회견장 내 분위기는 그랬습니다. 구단주와 팬들은 계약에 만족스러워하며 다가오는 시즌을 기대하고 있습니다.(nl)(nl)기자 회견장에서 발표된 [%personlink]의 출사표입니다. &quot;[%teamlink]의 팬들을 위해 일할 수 있게 되어 매우 영광입니다. 시간은 부족하지만 해결해야 할 과제도 많고, 팀을 전체적으로 다시 평가해야 하는 상황입니다. 야구는 연중 계속되며, 저는 [%teamlink nickonly] 팀과 함께 일하게 되어 매우 기쁩니다.&quot;</TXT>
-<COND id="145" value="1"/>
-</OBJ>
+    <OBJ id="127">
+        <TXT>[%teamlink nick]在團隊和[ %personlink] 之間 新的[%human role]合同 在 (nl)(nl)[% teamlink nickonly ] 記者 面試 打開 合同 總結 已安排 作出聲明 通過&quot; [%personname FL] 招聘 成為 非常 快樂”去 宣布。</TXT>
+    </OBJ>
+    <OBJ id="128">
+        <TXT>在[%teamlink 暱稱] 變化的 風 臃腫。在團隊和[%personlink]之間 新的[%human role]合同 它完成了 主持人 這次出來了。（nl）（nl） 決定 在特許經營 瘋狂的 影響是 這次 吉娜 蛋 數字 成為 事物 一樣。部分 專家們 在團隊中 積極的 改天 將 預期但 新的 見面 成為  與球員 出色地 合身 數字 會不會有 關於 問題 募集 也是專家 有。</TXT>
+    </OBJ>
+    <OBJ id="130">
+        <TXT>公式 主持人 出來了[ %teamlink 暱稱] 新的[%human role]，即 主角 那是[%personlink ] 。過去的 一些 主要的 期間 謠言 長滿了 最後 官方的 作為公告 確認.(nl)(nl)合同 期間是 未公佈 沒有。</TXT>
+    </OBJ>
+    <OBJ id="131">
+        <TXT>幾 主要的 期間 只有謠言 鬱鬱蔥蔥 故事 正式 已經公佈。合同 簽名，並在 [%teamlink nick]到[ %personlink ] 角色是[%human role] 。 </TXT>
+    </OBJ>
+    <OBJ id="132">
+        <TXT>將 [%personlink] 替換為新的[ %human role] 招聘 成功的[%teamlink nick]團隊 前景 更多的 明亮的 我今天看到了.(nl)(nl) 記者 在採訪中 新的 玩家的 介紹 成為 計劃好了。</TXT>
+    </OBJ>
+    <OBJ id="133">
+        <TXT> 在俱樂部與[%personlink]之間的[%human role]合同中 成功的 中間 俱樂部 [ %teamlink nick]官方 未來 要樂觀 將 談話。(nl)(nl)記者 在採訪中 具體的 事情 出來 計劃好了。</TXT>
+    </OBJ>
+    <OBJ id="134">
+        <TXT>希望 至少繼續.(nl)(nl) [%personlink]的新[ %teamlink nick]指揮官 招聘 已確認 宣布 記者 會議室 我的 氣氛 它是。與主人 粉絲 在合同中 滿意地 迎面而來 季節 期待 有.(nl)(nl)記者 在會議室 已發表的[%personlink] 這是一張出境票。 "的[%teamlink] 粉絲 為了 去工作 數字 成為 成為 非常 這是一種榮譽。時間是 不夠 必須解決 會做 分配圖 很多，團隊 全面的 再次 必須評估 正在做 情況。棒球是 全年無休 繼續，我在[%teamlink nickonly]團隊 一起 去工作 成為 非常 我很高興。”</TXT>
+        <COND id="145" value="1"/>
+    </OBJ>
 </CAT>
 
 <CAT id="11">
-<OBJ id="21">
-<TXT>[%teamname], 새로운 단장으로 [%personname F L] 영입 발표</TXT>
-<COND id="145" value="1"/>
-</OBJ>
-<OBJ id="135">
-<TXT>[%personname F L], 분위기를 쇄신할 [%teamname] [%teamnickname]의 새로운 단장으로 임명</TXT>
-<COND id="145" value="1"/>
-</OBJ>
-<OBJ id="401">
-<TXT>변화의 시기, [%teamnickname]의 새 단장은 [%personname L]</TXT>
-<COND id="145" value="1"/>
-</OBJ>
-<OBJ id="403">
-<TXT>[%personname F L] 단장이 [%teamname]의 팀연봉에 변화를 줄 것</TXT>
-<COND id="145" value="1"/>
-</OBJ>
-<OBJ id="404">
-<TXT>[%teamname]의 지각변동! [%personname F L], 새로운 단장으로 부임</TXT>
-<COND id="145" value="1"/>
-</OBJ>
-<OBJ id="885">
-<TXT>[%teamname], 새 단장으로 [%personname L] 임명</TXT>
-<COND id="145" value="1"/>
-</OBJ>
-<OBJ id="886">
-<TXT>[%teamname], 새로운 단장으로 [%personname L] 영입 확신</TXT>
-<COND id="145" value="1"/>
-</OBJ>
-<OBJ id="978">
-<TXT>[%personname L]을 단장으로 임명한 [%teamnickname]의 새로운 방향</TXT>
-<COND id="145" value="1"/>
-</OBJ>
-<OBJ id="979">
-<TXT>옛것은 버리고 새로운 것을 맞이하다: [%teamname]의 단장이 된 [%personname F L]</TXT>
-<COND id="145" value="1"/>
-</OBJ>
-<OBJ id="980">
-<TXT>[%teamnickname] 프런트 오피스의 지각변동. [%personname L], 단장으로 부임</TXT>
-<COND id="145" value="1"/>
-</OBJ>
-<OBJ id="981">
-<TXT>단장으로 임명된 [%personname F L], [%teamnickname] 지휘</TXT>
-<COND id="145" value="1"/>
-</OBJ>
-<OBJ id="982">
-<TXT>[%personname F L], [%teamname]의 단장으로 부임</TXT>
-<COND id="145" value="1"/>
-</OBJ>
-<OBJ id="983">
-<TXT>[%teamname], [%personname F L](을)를 단장으로 영입</TXT>
-<COND id="145" value="1"/>
-</OBJ>
-<OBJ id="984">
-<TXT>[%personname F L], [%teamnickname]의 단장으로 부임</TXT>
-<COND id="145" value="1"/>
-</OBJ>
-<OBJ id="985">
-<TXT>[%personname L], [%teamnickname]의 단장으로 부임</TXT>
-<COND id="145" value="1"/>
-</OBJ>
-<OBJ id="986">
-<TXT>[%teamnickname], 클럽을 이끌 새로운 단장으로 [%personname F L] 영입 발표</TXT>
-<COND id="145" value="1"/>
-</OBJ>
-<OBJ id="987">
-<TXT>[%personname F L](이)가 [%teamname](을)를 회복시킬 수 있을 것인가? 새로운 단장 임명</TXT>
-<COND id="145" value="1"/>
-</OBJ>
-<OBJ id="988">
-<TXT>새로운 바람: [%personname F L], [%teamname] [%human role](으)로 영입</TXT>
-</OBJ>
-<OBJ id="991">
-<TXT>소식통에 따르면 새로운 지도자를 선정한 [%teamnickname]</TXT>
-<COND id="145" value="1"/>
-</OBJ>
-<OBJ id="992">
-<TXT>[%teamname], 단장 후보 [%personname L]에게: &quot;영입하도록 하죠&quot;</TXT>
-<COND id="145" value="1"/>
-</OBJ>
+    <OBJ id="21">
+        <TXT>[%teamname]，新的 招聘[%personname FL]為總經理 公告</TXT>
+        <COND id="145" value="1"/>
+    </OBJ>
+    <OBJ id="135">
+        <TXT>[%personname FL]，心情 [%teamname] [%teamnickname]待續訂 新的 作為總經理 約會</TXT>
+        <COND id="145" value="1"/>
+    </OBJ>
+    <OBJ id="401">
+        <TXT>的變化 [%teamnickname]的時間 鳥 經理是[%personname L]</TXT>
+        <COND id="145" value="1"/>
+    </OBJ>
+    <OBJ id="403">
+        <TXT>[%personname FL] [%teamname ]的經理 關於團隊工資 改變 線 東西</TXT>
+        <COND id="145" value="1"/>
+    </OBJ>
+    <OBJ id="404">
+        <TXT>來自[%teamname] 地震變化！ [%personname FL]，新的 作為總經理 約會</TXT>
+        <COND id="145" value="1"/>
+    </OBJ>
+    <OBJ id="885">
+        <TXT>[%teamname]，新的 任命[%personname L]為總經理</TXT>
+        <COND id="145" value="1"/>
+    </OBJ>
+    <OBJ id="886">
+        <TXT>[%teamname]，新的 招聘[%personname L]為總經理 確定</TXT>
+        <COND id="145" value="1"/>
+    </OBJ>
+    <OBJ id="978">
+        <TXT>[%personname L ] 作為總經理 指定的[ %teamnickname] 新的 方向</TXT>
+        <COND id="145" value="1"/>
+    </OBJ>
+    <OBJ id="979">
+        <TXT>舊的 丟棄 新的 事物 歡迎: of [%teamname] 領班 [%人名FL]</TXT>
+        <COND id="145" value="1"/>
+    </OBJ>
+    <OBJ id="980">
+        <TXT>[%teamnickname]前面 辦公室的 構造變化。 [%personname L]，作為總經理 約會</TXT>
+        <COND id="145" value="1"/>
+    </OBJ>
+    <OBJ id="981">
+        <TXT>擔任總經理 任命[%personname FL]，指揮[%teamnickname] </TXT>
+        <COND id="145" value="1"/>
+    </OBJ>
+    <OBJ id="982">
+        <TXT>[%personname F L], [%teamname] 作為總經理 約會</TXT>
+        <COND id="145" value="1"/>
+    </OBJ>
+    <OBJ id="983">
+        <TXT>[%teamname ], [%personname FL ] 作為總經理 招聘</TXT>
+        <COND id="145" value="1"/>
+    </OBJ>
+    <OBJ id="984">
+        <TXT>[%personname F L], [%teamnickname] 作為總經理 約會</TXT>
+        <COND id="145" value="1"/>
+    </OBJ>
+    <OBJ id="985">
+        <TXT>[%personname L], [%teamnickname] 作為總經理 約會</TXT>
+        <COND id="145" value="1"/>
+    </OBJ>
+    <OBJ id="986">
+        <TXT>[%teamnickname]，俱樂部 帶領 新的 招聘[%personname FL]為總經理 公告</TXT>
+        <COND id="145" value="1"/>
+    </OBJ>
+    <OBJ id="987">
+        <TXT>[%personname FL ]替換[ % teamname ] 恢復 數字 成為 會嗎？新的 領導者 約會</TXT>
+        <COND id="145" value="1"/>
+    </OBJ>
+    <OBJ id="988">
+        <TXT>新 Wind : [%personname FL], [% teamname ] [%human role ] to 招聘</TXT>
+    </OBJ>
+    <OBJ id="991">
+        <TXT>到源 根據 新的 領導者 已選擇[%teamnickname]</TXT>
+        <COND id="145" value="1"/>
+    </OBJ>
+    <OBJ id="992">
+        <TXT>[%teamname]，隊長 致候選人[%personname L] : &quot;招聘 我願意“</TXT>
+        <COND id="145" value="1"/>
+    </OBJ>
 </CAT>
 
 <CAT id="12">
-<OBJ id="25">
-<TXT>볼 카운트 원 볼, 투 스트라이크.</TXT>
-<COND id="60" value="1"/>
-<COND id="61" value="2"/>
-</OBJ>
-<OBJ id="1406">
-<TXT>카운트는 투 볼, 원 스트라이크.</TXT>
-<COND id="60" value="2"/>
-<COND id="61" value="1"/>
-</OBJ>
-<OBJ id="11310">
-<TXT>타자, 원 볼, 투 스트라이크 상황입니다.</TXT>
-<COND id="60" value="1"/>
-<COND id="61" value="2"/>
-</OBJ>
-<OBJ id="11311">
-<TXT>[%game batter], 투 볼, 원 스트라이크.</TXT>
-<COND id="60" value="2"/>
-<COND id="61" value="1"/>
-</OBJ>
-<OBJ id="11312">
-<TXT>[%game batter], 카운트는 원 볼, 원 스트라이크.</TXT>
-<COND id="60" value="1"/>
-<COND id="61" value="1"/>
-</OBJ>
-<OBJ id="11313">
-<TXT>타자, [%game balls]볼, [%game strikes]스트라이크 상황입니다.</TXT>
-<COND id="46" value="1"/>
-</OBJ>
-<OBJ id="11316">
-<TXT>타자, 투 볼, 투 스트라이크 상황.</TXT>
-<COND id="60" value="2"/>
-<COND id="61" value="2"/>
-</OBJ>
-<OBJ id="11317">
-<TXT>[%game batter]의 볼 카운트, 원 볼, 투 스트라이크.</TXT>
-<COND id="60" value="1"/>
-<COND id="61" value="2"/>
-</OBJ>
-<OBJ id="11318">
-<TXT>타자, 투 볼, 투 스트라이크 상황.</TXT>
-<COND id="60" value="2"/>
-<COND id="61" value="2"/>
-</OBJ>
-<OBJ id="11319">
-<TXT>[%game batter], 원 스트라이크, 원 볼.</TXT>
-<COND id="60" value="1"/>
-<COND id="61" value="1"/>
-</OBJ>
-<OBJ id="11323">
-<TXT>[%game batter], 카운트는 투 볼, 원 스트라이크.</TXT>
-<COND id="60" value="2"/>
-<COND id="61" value="1"/>
-</OBJ>
-<OBJ id="11324">
-<TXT>[%game batter], 풀 카운트입니다.</TXT>
-<COND id="46" value="1"/>
-</OBJ>
-<OBJ id="11325">
-<TXT>[%game batter], 원 볼, 원 스트라이크 카운트.</TXT>
-<COND id="60" value="1"/>
-<COND id="61" value="1"/>
-</OBJ>
-<OBJ id="11326">
-<TXT>[%game batter], 투 볼, 투 스트라이크 카운트.</TXT>
-<COND id="60" value="2"/>
-<COND id="61" value="2"/>
-</OBJ>
-<OBJ id="11327">
-<TXT>카운트는 원 볼, 투 스트라이크.</TXT>
-<COND id="60" value="1"/>
-<COND id="61" value="2"/>
-</OBJ>
-<OBJ id="11333">
-<TXT>[%game batter], 원 스트라이크, 원 볼.</TXT>
-<COND id="60" value="1"/>
-<COND id="61" value="1"/>
-</OBJ>
-<OBJ id="11334">
-<TXT>[%game batter], 투 볼, 투 스트라이크.</TXT>
-<COND id="60" value="2"/>
-<COND id="61" value="2"/>
-</OBJ>
-<OBJ id="11335">
-<TXT>[%game batter] 투 볼 상황.</TXT>
-<COND id="60" value="2"/>
-<COND id="61" value="0"/>
-</OBJ>
-<OBJ id="11336">
-<TXT>타자, 원 볼, 투 스트라이크 상황입니다.</TXT>
-<COND id="60" value="1"/>
-<COND id="61" value="2"/>
-</OBJ>
-<OBJ id="14757">
-<TXT>풀 카운트.</TXT>
-<COND id="61" value="2"/>
-<COND id="60" value="3"/>
-</OBJ>
-<OBJ id="14949">
-<TXT>풀 카운트 상황.</TXT>
-<COND id="60" value="3"/>
-<COND id="61" value="2"/>
-</OBJ>
-<OBJ id="18261">
-<TXT>볼 카운트 투 볼, 원 스트라이크.</TXT>
-<COND id="61" value="1"/>
-<COND id="60" value="2"/>
-</OBJ>
-<OBJ id="18263">
-<TXT>[%game batter], 투 볼, 투 스트라이크.</TXT>
-<COND id="61" value="2"/>
-<COND id="60" value="2"/>
-</OBJ>
-<OBJ id="18265">
-<TXT>투 볼, 투 스트라이크 상황.</TXT>
-<COND id="61" value="2"/>
-<COND id="60" value="2"/>
-</OBJ>
-<OBJ id="18894">
-<TXT>카운트는 [%game balls word], [%game strikes word].</TXT>
-<COND id="46" value="1"/>
-</OBJ>
-<OBJ id="18895">
-<TXT>[%game batter], 투 볼, 투 스트라이크.</TXT>
-<COND id="60" value="2"/>
-<COND id="61" value="2"/>
-</OBJ>
-<OBJ id="18896">
-<TXT>카운트는 원 볼, 투 스트라이크.</TXT>
-<COND id="60" value="1"/>
-<COND id="61" value="2"/>
-</OBJ>
-<OBJ id="18898">
-<TXT>원 볼, 원 스트라이크입니다.</TXT>
-<COND id="60" value="1"/>
-<COND id="61" value="1"/>
-</OBJ>
-<OBJ id="18899">
-<TXT>원 볼, 투 스트라이크.</TXT>
-<COND id="60" value="1"/>
-<COND id="61" value="2"/>
-</OBJ>
-<OBJ id="18902">
-<TXT>[%game batter], 투 스트라이크 상황.</TXT>
-<COND id="61" value="2"/>
-<COND id="60" value="0"/>
-</OBJ>
-<OBJ id="18904">
-<TXT>[%game batter], 투 스트라이크 상황.</TXT>
-<COND id="61" value="2"/>
-<COND id="60" value="0"/>
-</OBJ>
-<OBJ id="18907">
-<TXT>볼 카운트 투 스트라이크.</TXT>
-<COND id="61" value="2"/>
-<COND id="60" value="0"/>
-</OBJ>
-<OBJ id="27839" only_once_per_x2="1">
-<TXT>[%game batter], 노 볼 상황, 원 스트라이크.</TXT>
-<COND id="60" value="0"/>
-<COND id="61" value="1"/>
-<COND id="82" value="1"/>
-</OBJ>
-<OBJ id="27841">
-<TXT>풀 카운트 상황.</TXT>
-<COND id="46" value="1"/>
-</OBJ>
-<OBJ id="33751" usage_chance_for_game="12" only_once_per_x1="1" only_once_per_x2="1">
-<TXT>볼 카운트 원 볼, 노 스트라이크.</TXT>
-<COND id="61" value="0"/>
-<COND id="60" value="1"/>
-</OBJ>
-<OBJ id="33789" usage_chance_for_game="1" only_once_per_x1="1">
-<TXT>투 볼 상황.</TXT>
-<COND id="60" value="2"/>
-<COND id="61" value="0"/>
-</OBJ>
-<OBJ id="34800">
-<TXT>투 볼, 투 스트라이크 상황.</TXT>
-<COND id="60" value="2"/>
-<COND id="61" value="2"/>
-</OBJ>
-<OBJ id="35363">
-<TXT>투 볼, 투 스트라이크.</TXT>
-<COND id="60" value="2"/>
-<COND id="61" value="2"/>
-</OBJ>
-<OBJ id="35364">
-<TXT>카운트는 원 볼, 원 스트라이크.</TXT>
-<COND id="60" value="1"/>
-<COND id="61" value="1"/>
-</OBJ>
-<OBJ id="35365">
-<TXT>원 볼, 투 스트라이크.</TXT>
-<COND id="60" value="1"/>
-<COND id="61" value="2"/>
-</OBJ>
-<OBJ id="35407">
-<TXT>[%game batter], 원 볼, 원 스트라이크.</TXT>
-<COND id="60" value="1"/>
-<COND id="61" value="1"/>
-</OBJ>
-<OBJ id="35599" only_once_per_x2="1">
-<TXT>원 볼, 원 스트라이크.</TXT>
-<COND id="60" value="1"/>
-<COND id="61" value="1"/>
-</OBJ>
-<OBJ id="35603" only_once_per_x2="1">
-<TXT>카운트는 투 볼입니다.</TXT>
-<COND id="60" value="2"/>
-<COND id="61" value="0"/>
-</OBJ>
-<OBJ id="39328" only_once_per_x2="1">
-<TXT>투 볼 상황.</TXT>
-<COND id="60" value="2"/>
-<COND id="61" value="0"/>
-</OBJ>
-<OBJ id="46991">
-<TXT>[%game batter], 투 볼, 원 스트라이크.</TXT>
-<COND id="60" value="2"/>
-<COND id="61" value="1"/>
-</OBJ>
-<OBJ id="46992">
-<TXT>[%game batter], 원 볼, 원 스트라이크.</TXT>
-<COND id="60" value="1"/>
-<COND id="61" value="1"/>
-</OBJ>
-<OBJ id="46993">
-<TXT>[%game batter], 원 볼, 투 스트라이크.</TXT>
-<COND id="60" value="1"/>
-<COND id="61" value="2"/>
-</OBJ>
-<OBJ id="46994">
-<TXT>[%game batter], 투 볼, 투 스트라이크.</TXT>
-<COND id="60" value="2"/>
-<COND id="61" value="2"/>
-</OBJ>
-<OBJ id="58413" only_once_per_x2="1">
-<TXT>카운트는 [%game balls]볼, [%game strikes]스트라이크.</TXT>
-</OBJ>
+    <OBJ id="25">
+        <TXT>球 數數 一 球，兩個 罷工。</TXT>
+        <COND id="60" value="1"/>
+        <COND id="61" value="2"/>
+    </OBJ>
+    <OBJ id="1406">
+        <TXT>計數為 二 球，圓 罷工。</TXT>
+        <COND id="60" value="2"/>
+        <COND id="61" value="1"/>
+    </OBJ>
+    <OBJ id="11310">
+        <TXT>打字，贏了 球，兩個 罷工 情況。</TXT>
+        <COND id="60" value="1"/>
+        <COND id="61" value="2"/>
+    </OBJ>
+    <OBJ id="11311">
+        <TXT>[%game beat]，兩個 球，圓 罷工。</TXT>
+        <COND id="60" value="2"/>
+        <COND id="61" value="1"/>
+    </OBJ>
+    <OBJ id="11312">
+        <TXT>[%game beat], count is 一 球，圓 罷工。</TXT>
+        <COND id="60" value="1"/>
+        <COND id="61" value="1"/>
+    </OBJ>
+    <OBJ id="11313">
+        <TXT>球棒, [%game balls]球, [%game strikes]好球 情況。</TXT>
+        <COND id="46" value="1"/>
+    </OBJ>
+    <OBJ id="11316">
+        <TXT>連擊，兩個 球，兩個 罷工 情況。</TXT>
+        <COND id="60" value="2"/>
+        <COND id="61" value="2"/>
+    </OBJ>
+    <OBJ id="11317">
+        <TXT> of [%game beat ] 臉頰 數,圈 球，兩個 罷工。</TXT>
+        <COND id="60" value="1"/>
+        <COND id="61" value="2"/>
+    </OBJ>
+    <OBJ id="11318">
+        <TXT>連擊，兩個 球，兩個 罷工 情況。</TXT>
+        <COND id="60" value="2"/>
+        <COND id="61" value="2"/>
+    </OBJ>
+    <OBJ id="11319">
+        <TXT>[%game 擊球手]，圓圈 罷工，一 見。</TXT>
+        <COND id="60" value="1"/>
+        <COND id="61" value="1"/>
+    </OBJ>
+    <OBJ id="11323">
+        <TXT>[%game beat], count is 二 球，圓 罷工。</TXT>
+        <COND id="60" value="2"/>
+        <COND id="61" value="1"/>
+    </OBJ>
+    <OBJ id="11324">
+        <TXT>[%遊戲擊球手]，池 數數。</TXT>
+        <COND id="46" value="1"/>
+    </OBJ>
+    <OBJ id="11325">
+        <TXT>[%game 擊球手]，圓圈 球，圓 罷工 數數。</TXT>
+        <COND id="60" value="1"/>
+        <COND id="61" value="1"/>
+    </OBJ>
+    <OBJ id="11326">
+        <TXT>[%game beat]，兩個 球，兩個 罷工 數數。</TXT>
+        <COND id="60" value="2"/>
+        <COND id="61" value="2"/>
+    </OBJ>
+    <OBJ id="11327">
+        <TXT>計數為 一 球，兩個 罷工。</TXT>
+        <COND id="60" value="1"/>
+        <COND id="61" value="2"/>
+    </OBJ>
+    <OBJ id="11333">
+        <TXT>[%game 擊球手]，圓圈 罷工，一 見。</TXT>
+        <COND id="60" value="1"/>
+        <COND id="61" value="1"/>
+    </OBJ>
+    <OBJ id="11334">
+        <TXT>[%game beat]，兩個 球，兩個 罷工。</TXT>
+        <COND id="60" value="2"/>
+        <COND id="61" value="2"/>
+    </OBJ>
+    <OBJ id="11335">
+        <TXT>[%遊戲連擊數] 臉頰 情況。</TXT>
+        <COND id="60" value="2"/>
+        <COND id="61" value="0"/>
+    </OBJ>
+    <OBJ id="11336">
+        <TXT>打字，贏了 球，兩個 罷工 情況。</TXT>
+        <COND id="60" value="1"/>
+        <COND id="61" value="2"/>
+    </OBJ>
+    <OBJ id="14757">
+        <TXT>池 數數。</TXT>
+        <COND id="61" value="2"/>
+        <COND id="60" value="3"/>
+    </OBJ>
+    <OBJ id="14949">
+        <TXT>池 數數 情況。</TXT>
+        <COND id="60" value="3"/>
+        <COND id="61" value="2"/>
+    </OBJ>
+    <OBJ id="18261">
+        <TXT>球 數數 二 球，圓 罷工。</TXT>
+        <COND id="61" value="1"/>
+        <COND id="60" value="2"/>
+    </OBJ>
+    <OBJ id="18263">
+        <TXT>[%game beat]，兩個 球，兩個 罷工。</TXT>
+        <COND id="61" value="2"/>
+        <COND id="60" value="2"/>
+    </OBJ>
+    <OBJ id="18265">
+        <TXT>二 球，兩個 罷工 情況。</TXT>
+        <COND id="61" value="2"/>
+        <COND id="60" value="2"/>
+    </OBJ>
+    <OBJ id="18894">
+        <TXT>計數為[%game balls word], [%game strikes word]。</TXT>
+        <COND id="46" value="1"/>
+    </OBJ>
+    <OBJ id="18895">
+        <TXT>[%game beat]，兩個 球，兩個 罷工。</TXT>
+        <COND id="60" value="2"/>
+        <COND id="61" value="2"/>
+    </OBJ>
+    <OBJ id="18896">
+        <TXT>計數為 一 球，兩個 罷工。</TXT>
+        <COND id="60" value="1"/>
+        <COND id="61" value="2"/>
+    </OBJ>
+    <OBJ id="18898">
+        <TXT>贏了 球，圓 罷工。</TXT>
+        <COND id="60" value="1"/>
+        <COND id="61" value="1"/>
+    </OBJ>
+    <OBJ id="18899">
+        <TXT>贏了 球，兩個 罷工。</TXT>
+        <COND id="60" value="1"/>
+        <COND id="61" value="2"/>
+    </OBJ>
+    <OBJ id="18902">
+        <TXT>[%game beat]，兩個 罷工 情況。</TXT>
+        <COND id="61" value="2"/>
+        <COND id="60" value="0"/>
+    </OBJ>
+    <OBJ id="18904">
+        <TXT>[%game beat]，兩個 罷工 情況。</TXT>
+        <COND id="61" value="2"/>
+        <COND id="60" value="0"/>
+    </OBJ>
+    <OBJ id="18907">
+        <TXT>球 數數 二 罷工。</TXT>
+        <COND id="61" value="2"/>
+        <COND id="60" value="0"/>
+    </OBJ>
+    <OBJ id="27839" only_once_per_x2="1">
+        <TXT>[%遊戲擊球手]，沒有 臉頰 情況,圈子 罷工。</TXT>
+        <COND id="60" value="0"/>
+        <COND id="61" value="1"/>
+        <COND id="82" value="1"/>
+    </OBJ>
+    <OBJ id="27841">
+        <TXT>池 數數 情況。</TXT>
+        <COND id="46" value="1"/>
+    </OBJ>
+    <OBJ id="33751" usage_chance_for_game="12" only_once_per_x1="1" only_once_per_x2="1">
+        <TXT>球 數數 一 球，不 罷工。</TXT>
+        <COND id="61" value="0"/>
+        <COND id="60" value="1"/>
+    </OBJ>
+    <OBJ id="33789" usage_chance_for_game="1" only_once_per_x1="1">
+        <TXT>二 臉頰 情況。</TXT>
+        <COND id="60" value="2"/>
+        <COND id="61" value="0"/>
+    </OBJ>
+    <OBJ id="34800">
+        <TXT>二 球，兩個 罷工 情況。</TXT>
+        <COND id="60" value="2"/>
+        <COND id="61" value="2"/>
+    </OBJ>
+    <OBJ id="35363">
+        <TXT>二 球，兩個 罷工。</TXT>
+        <COND id="60" value="2"/>
+        <COND id="61" value="2"/>
+    </OBJ>
+    <OBJ id="35364">
+        <TXT>計數為 一 球，圓 罷工。</TXT>
+        <COND id="60" value="1"/>
+        <COND id="61" value="1"/>
+    </OBJ>
+    <OBJ id="35365">
+        <TXT>贏了 球，兩個 罷工。</TXT>
+        <COND id="60" value="1"/>
+        <COND id="61" value="2"/>
+    </OBJ>
+    <OBJ id="35407">
+        <TXT>[%game 擊球手]，圓圈 球，圓 罷工。</TXT>
+        <COND id="60" value="1"/>
+        <COND id="61" value="1"/>
+    </OBJ>
+    <OBJ id="35599" only_once_per_x2="1">
+        <TXT>贏了 球，圓 罷工。</TXT>
+        <COND id="60" value="1"/>
+        <COND id="61" value="1"/>
+    </OBJ>
+    <OBJ id="35603" only_once_per_x2="1">
+        <TXT>計數為 二 這是一個球。</TXT>
+        <COND id="60" value="2"/>
+        <COND id="61" value="0"/>
+    </OBJ>
+    <OBJ id="39328" only_once_per_x2="1">
+        <TXT>二 臉頰 情況。</TXT>
+        <COND id="60" value="2"/>
+        <COND id="61" value="0"/>
+    </OBJ>
+    <OBJ id="46991">
+        <TXT>[%game beat]，兩個 球，圓 罷工。</TXT>
+        <COND id="60" value="2"/>
+        <COND id="61" value="1"/>
+    </OBJ>
+    <OBJ id="46992">
+        <TXT>[%game 擊球手]，圓圈 球，圓 罷工。</TXT>
+        <COND id="60" value="1"/>
+        <COND id="61" value="1"/>
+    </OBJ>
+    <OBJ id="46993">
+        <TXT>[%game 擊球手]，圓圈 球，兩個 罷工。</TXT>
+        <COND id="60" value="1"/>
+        <COND id="61" value="2"/>
+    </OBJ>
+    <OBJ id="46994">
+        <TXT>[%game beat]，兩個 球，兩個 罷工。</TXT>
+        <COND id="60" value="2"/>
+        <COND id="61" value="2"/>
+    </OBJ>
+    <OBJ id="58413" only_once_per_x2="1">
+        <TXT>計數是[%game balls]球，[%game strikes]罷工。</TXT>
+    </OBJ>
 </CAT>
 
 <CAT id="17">
-<OBJ id="6263">
-<TXT>심판이 타임을 부릅니다. 보크!(nl)[%game pitcher], 믿지 못하는 표정입니다.(nl)심판에게 설명을 요구합니다.</TXT>
-<COND id="48" value="1"/>
-</OBJ>
-<OBJ id="26752">
-<TXT>심판이 타임을 부릅니다. 보크!(nl)[%game pitcher], 믿지 못하는 표정입니다.(nl)심판에게 설명을 요구합니다.</TXT>
-</OBJ>
-<OBJ id="26753">
-<TXT>심판이 타임을 부릅니다. 보크!(nl)[%game pitcher], 심판을 쳐다봅니다...(nl)설명을 해달라는 표정입니다.</TXT>
-</OBJ>
-<OBJ id="31124">
-<TXT>[%game pitcher]에게 보크가 선언됩니다!</TXT>
-</OBJ>
-<OBJ id="31126">
-<TXT>[%game pitcher]에게 보크 판정이 내려집니다!</TXT>
-</OBJ>
-<OBJ id="34562">
-<TXT>보크가 선언됩니다!(nl)[%game pitcher], 마운드에서 비틀거렸습니다.(nl)큰 실수가 되겠는데요.</TXT>
-</OBJ>
-<OBJ id="50142">
-<TXT>심판이 타임을 부릅니다. 보크!(nl)[%game pitcher], 격분합니다.(nl)심판에게 설명을 요구합니다.</TXT>
-<COND id="48" value="1"/>
-</OBJ>
-<OBJ id="50143" only_once_per_x2="1">
-<TXT>심판이 타임을 부릅니다. 보크!(nl)[%game pitcher], 말도 안 된다는 표정입니다.(nl)설명을 요구하는군요.</TXT>
-<COND id="48" value="1"/>
-</OBJ>
-<OBJ id="57384" usage_chance_for_game="4" only_once_per_x2="1">
-<TXT>[%game pitcher], 자세를 잡고...(nl)1루 주자를 살펴봅니다...(nl)심판이 타임을 부릅니다. 보크!(nl)[%game pitcher]투수, 믿을 수 없다는 듯 팔을 치켜올립니다.</TXT>
-<COND id="48" value="1"/>
-</OBJ>
+    <OBJ id="6263">
+        <TXT>裁判 時間 打電話。猶豫！(nl)[%game pitcher]，相信 無法 這是對裁判的面部表情。（nl） 解釋 請求。</TXT>
+        <COND id="48" value="1"/>
+    </OBJ>
+    <OBJ id="26752">
+        <TXT>裁判 時間 打電話。猶豫！(nl)[%game pitcher]，相信 無法 這是對裁判的面部表情。（nl） 解釋 請求。</TXT>
+    </OBJ>
+    <OBJ id="26753">
+        <TXT>裁判 時間 打電話。 balk !(nl)[%game pitcher],裁判 看...（nl）來解釋 問 這是一種面部表情。</TXT>
+    </OBJ>
+    <OBJ id="31124">
+        <TXT>致 [%game pitcher ] 猶豫 宣布！</TXT>
+    </OBJ>
+    <OBJ id="31126">
+        <TXT>致 [%game pitcher ] 猶豫 判斷 下來！</TXT>
+    </OBJ>
+    <OBJ id="34562">
+        <TXT>散景 宣布!(nl)[%game pitcher]，在土墩上 交錯.(nl)大 一個錯誤 </TXT>
+    </OBJ>
+    <OBJ id="50142">
+        <TXT>裁判 時間 打電話。拒絕!(nl)[%game pitcher]，憤怒.(nl)對裁判 解釋 請求。</TXT>
+        <COND id="48" value="1"/>
+    </OBJ>
+    <OBJ id="50143" only_once_per_x2="1">
+        <TXT>裁判 時間 打電話。 balk !(nl)[%game pitcher]，胡說八道 不是 成為 表達式.(nl)來解釋 你要的。</TXT>
+        <COND id="48" value="1"/>
+    </OBJ>
+    <OBJ id="57384" usage_chance_for_game="4" only_once_per_x2="1">
+        <TXT>[%game pitcher]，姿勢 搶...（nl）1 ru 跑步 看看...（nl）裁判 時間 打電話。 balk !(nl)[%game pitcher]投手，值得信賴 數字 不 似乎 手臂 舉起來。</TXT>
+        <COND id="48" value="1"/>
+    </OBJ>
 </CAT>
 
 <CAT id="18">
-<OBJ id="10977">
-<TXT>주자들, 움직입니다...</TXT>
-</OBJ>
-<OBJ id="10979">
-<TXT>주자들이 출발합니다...</TXT>
-</OBJ>
-<OBJ id="10981">
-<TXT>주자들이 움직입니다...</TXT>
-</OBJ>
-<OBJ id="33072">
-<TXT>주자들이 움직입니다...</TXT>
-</OBJ>
-<OBJ id="33074">
-<TXT>주자들이 움직입니다...</TXT>
-</OBJ>
-<OBJ id="39944">
-<TXT>주자들이 이동합니다...</TXT>
-</OBJ>
-<OBJ id="39947">
-<TXT>주자들이 이동합니다...</TXT>
-</OBJ>
+    <OBJ id="10977">
+        <TXT>跑步者，移動中……</TXT>
+    </OBJ>
+    <OBJ id="10979">
+        <TXT>跑步者 出發……</TXT>
+    </OBJ>
+    <OBJ id="10981">
+        <TXT>跑步者 它會動……</TXT>
+    </OBJ>
+    <OBJ id="33072">
+        <TXT>跑步者 它會動……</TXT>
+    </OBJ>
+    <OBJ id="33074">
+        <TXT>跑步者 它會動……</TXT>
+    </OBJ>
+    <OBJ id="39944">
+        <TXT>跑步者 轉到...</TXT>
+    </OBJ>
+    <OBJ id="39947">
+        <TXT>跑步者 轉到...</TXT>
+    </OBJ>
 </CAT>
 
 <CAT id="19">
-<OBJ id="11350">
-<TXT>[%personname l], 2루로 향합니다...</TXT>
-</OBJ>
-<OBJ id="11356">
-<TXT>[%personname l], 달립니다...</TXT>
-</OBJ>
-<OBJ id="11358">
-<TXT>[%personname l], 2루로 나아갑니다...</TXT>
-</OBJ>
-<OBJ id="35621">
-<TXT>주자가 움직입니다...</TXT>
-</OBJ>
-<OBJ id="35679">
-<TXT>[%personname l], 달립니다...</TXT>
-</OBJ>
-<OBJ id="35681">
-<TXT>[%personname l], 움직입니다...</TXT>
-</OBJ>
-<OBJ id="49960">
-<TXT>[%personname l] 선수, 움직입니다...</TXT>
-</OBJ>
+    <OBJ id="11350">
+        <TXT>[%personname l]，到二壘 標題...</TXT>
+    </OBJ>
+    <OBJ id="11356">
+        <TXT>[%personname l]，運行...</TXT>
+    </OBJ>
+    <OBJ id="11358">
+        <TXT>[%personname l]，到二壘 繼續……</TXT>
+    </OBJ>
+    <OBJ id="35621">
+        <TXT>賽跑者 它會動……</TXT>
+    </OBJ>
+    <OBJ id="35679">
+        <TXT>[%personname l]，運行...</TXT>
+    </OBJ>
+    <OBJ id="35681">
+        <TXT>[%personname l]，移動...</TXT>
+    </OBJ>
+    <OBJ id="49960">
+        <TXT>[%personname l]玩家，移動中……</TXT>
+    </OBJ>
 </CAT>
 
 <CAT id="20">
-<OBJ id="10989">
-<TXT>[%personname l], 홈으로 향합니다...</TXT>
-</OBJ>
-<OBJ id="10991">
-<TXT>[%personname l], 홈으로 돌진합니다...</TXT>
-</OBJ>
-<OBJ id="10993">
-<TXT>[%personname l], 달립니다...</TXT>
-</OBJ>
-<OBJ id="10995">
-<TXT>[%personname l], 달립니다...</TXT>
-</OBJ>
+    <OBJ id="10989">
+        <TXT>[%personname l]，家 標題...</TXT>
+    </OBJ>
+    <OBJ id="10991">
+        <TXT>[%personname l]，家 趕...</TXT>
+    </OBJ>
+    <OBJ id="10993">
+        <TXT>[%personname l]，運行...</TXT>
+    </OBJ>
+    <OBJ id="10995">
+        <TXT>[%personname l]，運行...</TXT>
+    </OBJ>
 </CAT>
 
 <CAT id="21">
-<OBJ id="11001">
-<TXT>[%personname l], 3루로 달립니다...</TXT>
-</OBJ>
-<OBJ id="36785">
-<TXT>주자, 3루로 향합니다...</TXT>
-</OBJ>
-<OBJ id="40637">
-<TXT>[%personname l], 3루로 움직입니다...</TXT>
-</OBJ>
+    <OBJ id="11001">
+        <TXT>[%personname l]，三壘 運行...</TXT>
+    </OBJ>
+    <OBJ id="36785">
+        <TXT>賽跑者，三壘 標題...</TXT>
+    </OBJ>
+    <OBJ id="40637">
+        <TXT>[%personname l]，三壘 它會動……</TXT>
+    </OBJ>
 </CAT>
 
 <CAT id="22">
-<OBJ id="62">
-<TXT>[%team#1link nickname]의 [%personlink] 선수가 [%team#2link nickname] 팀을 상대로 [%pitching ha]피안타 완봉승을 거두었습니다. 최종 점수는 [%game score].(nl)(nl) 많은 이닝을 소화하면서 불펜에 휴식을 줄 수 있었고, [%team#1name]의 [%team manager] 감독 또한 이 점을 높이 샀습니다. (nl)(nl)감독의 인터뷰입니다. &quot;가끔씩 이런 활약을 할 수 있는 선수가 있다는 건 반가운 일입니다. 그는 모든 공을 원하는 위치로 훌륭하게 던졌습니다.&quot;(nl)(nl)[%personname L] 선수는 [%pitching k word] 및 [%pitching bb word]의 기록을 남겼습니다.
-</TXT>
-</OBJ>
-<OBJ id="14900">
-<TXT>[%team#1link nickname]의 [%personlink] 선수가 [%team#2link nickname] 팀을 상대로 불꽃 투구를 선보였습니다. [%player throws] 투수인 그는 [%game score]로 끝난 경기에서 [%pitching ha word], [%pitching k word], [%pitching bb word]의 기록을 올리며 [%team#2nickname]의 타선을 잠재웠습니다.</TXT>
-</OBJ>
-<OBJ id="14905">
-<TXT>송곳 같은 제구와 빼어난 투구를 바탕으로 [%team#1link nickname]의 [%personlink] 선수는 오늘 [%team#2link nickname]의 타선을 무실점으로 막았습니다. [%pitching ip]이닝 동안 [%pitching ha word], [%pitching k]탈삼진을 기록하며 [%game score] 승리를 이끌었습니다.</TXT>
-</OBJ>
-<OBJ id="14955">
-<TXT>[%team#1link nickname]의 [%personlink] 선수는 [%pitching ha]피안타만을 허용하며 [%team#2link nickname]의 타선을 무력화시켰습니다.(nl)(nl)&quot;오늘은 구위가 좋았고 원하는 곳으로 던질 수 있었습니다.&quot; 승리 후 그는 BNN 기자들 앞에서 이렇게 답했습니다.(nl)(nl)[%personname l]의 [%pitching k word], [%pitching bb word] 완봉투 끝에 경기는 [%team#2link]의 [%game score] 패배로 끝났습니다.</TXT>
-</OBJ>
-<OBJ id="15012">
-<TXT>[%personlink] 선수는 [%team#2link nickname] 타자들을 완벽하게 공략했습니다. [%team#1link nickname]의 [%game score] 완봉승을 이끌면서 [%pitching ha word], [%pitching k word], [%pitching bb word]의 성적을 남겼습니다.(nl)(nl)&quot;완봉승은 기분 좋은 일입니다.&quot; 그는 경기 후 인터뷰에서 이렇게 밝혔습니다. &quot;밸런스와 투구 메커니즘 모두 좋았고 공을 낮게 던질 수 있었습니다. 그렇게만 된다면 좋은 결과가 뒤따르는 법이죠.&quot;</TXT>
-</OBJ>
-<OBJ id="15017">
-<TXT>[%personlink] 투수의 [%team#2link nickname] 전 완봉투 끝에 경기는 [%team#1link nickname]의 [%game score] 승리로 끝났습니다.(nl)(nl)&quot;경기 내내 상대에 맞춰 조정했는데 오늘은 아주 잘 됐습니다.&quot; 경기 후 그는 BNN 기자들과의 인터뷰에서 이렇게 답했습니다.(nl)(nl)[%personname L] 선수는 [%team#2link nickname] 팀을 상대로 단 한 점도 허용하지 않았고, [%pitching ha]피안타, [%pitching bb]볼넷, [%pitching k]삼진을 기록했습니다.</TXT>
-</OBJ>
-<OBJ id="15021">
-<TXT>[%team#1link nickname]의 [%personlink] 선수가 오늘 [%ballpark]에서 [%team#2link nickname] 팀을 상대로 [%game score] 완봉승을 달성했습니다. [%pitching ha word], [%pitching bb word], [%pitching k word]의 기록으로 상대 타자들을 꽁꽁 묶었습니다.(nl)(nl)패배 이후 [%team#2link]의 [%team#2 managerlink] 감독은 [%personname l]의 활약이 인상적이었다고 답했습니다.(nl)(nl)&quot;[%personname l] 선수의 오늘 투구는 누구라도 공략하기 어려웠을 것입니다.&quot;</TXT>
-</OBJ>
-<OBJ id="15034">
-<TXT>[%team#1link nickname] 팀이 [%game score]의 점수로 [%team#2link nickname] 전에서 승리한 가운데 [%personlink] 선수는 [%pitching ha]피안타, [%pitching k word], [%pitching bb word] 기록 속에 완봉승을 기록했습니다.(nl)(nl)경기 후 [%personname L] 선수의 인터뷰입니다. &quot;요새 타자들이 제 공을 파울로 끊어내면서 투구 수가 많아졌습니다. 하지만 오늘은 원하는 대로 경기가 풀려서 기분이 좋습니다. 오늘은 볼카운트에서 유리한 고지를 점할 수 있었습니다.&quot;</TXT>
-</OBJ>
-<OBJ id="15035">
-<TXT>[%team#1link nickname]의 [%personlink] 선수가 [%team#2link nickname] 타자들을 속수무책으로 당하며 [%ballpark]에서 [%game score] 승리를 기록했습니다. [%pitching ha]피안타, [%pitching k word], [%pitching bb word] 완봉승을 거둔 그를 거의 공략할 수 없었습니다.(nl)(nl)&quot;여기는 더워서 땀이 좀 나네요.&quot; 경기 후 클럽하우스 인터뷰에서 [%personname L] 선수는 이렇게 답했습니다. &quot;하지만 마운드에서는 땀 흘린 줄도 몰랐네요.&quot;</TXT>
-</OBJ>
-<OBJ id="15173" usage_chance_for_game="2">
-<TXT>[%team#1link nickname]의 [%personlink] 선수가 오늘 [%team#2link nickname]전에서 마법을 부렸습니다. [%game score]의 점수로 승리한 경기에서 [%pitching ha word], [%pitching k word], [%pitching bb word]의 기록을 보여주었습니다.(nl)(nl)&quot;중요한 건 최대한 공을 낮게 던질 수 있었다는 점입니다.&quot; [%personname L]의 인터뷰입니다. &quot;변화구도 낮게 꺾이면서 공이 잘 들어갔습니다.&quot;(nl)(nl)경기 후 인터뷰에서 [%team#1link]의 [%team manager] 감독은 팀의 투수진과 수비는 물론 타선까지 좋았다고 답했습니다.(nl)(nl)&quot;[%personname f] 선수의 투구도 좋았지만 모두가 좋은 활약을 펼쳤습니다.&quot;</TXT>
-<COND id="213" value="6"/>
-</OBJ>
-<OBJ id="15177">
-<TXT>[%personlink] 선수가 오늘 [%ballpark]에서 [%team#2link nickname] 팀을 상대로 인상적인 활약을 보이면서 [%team#1link nickname]의 [%game score] 완봉승을 이끌었습니다.(nl)(nl)&quot;스트라이크를 던지면서 홈 플레이트 곳곳으로 공을 던졌습니다.&quot; [%team#2link]의 [%team#2 managerlink] 감독의 인터뷰입니다. &quot;공이 그가 원하는 곳으로 갔습니다. 우리 팀 타자들도 최대한 공을 강하게 때렸지만 전부 야수 정면으로 향했습니다.&quot;(nl)(nl)오늘 경기에서 [%player throws] 투수인 [%personname l] 선수는 [%pitching ha word], [%pitching k word], [%pitching bb word]의 기록을 남겼습니다.</TXT>
-</OBJ>
-<OBJ id="15182">
-<TXT>오늘 [%ballpark]에서 [%team#1link nickname]의 투수 [%personlink]의 맹활약이 돋보였습니다. [%game score]의 점수로 [%team#2link nickname] 팀을 꺾은 가운데 [%pitching ha]피안타, [%pitching bb word], [%pitching k word] 기록으로 무실점을 달성했습니다.(nl)(nl)완봉승을 거둔 이후 그는 동료들에게 공을 돌렸습니다.(nl)(nl) [%personname l]의 인터뷰입니다. &quot;저는 그저 마운드에 올랐을 뿐이고, 오늘 거둔 성적은 포수가 상대 타자들을 잘 파악한 덕분입니다. 오늘 동료들이 없었다면 좋은 경기를 펼칠 수 없었을 겁니다.&quot;</TXT>
-</OBJ>
-<OBJ id="15184">
-<TXT>[%team#1link nickname]의 [%personlink] 선수가 오늘 최고의 경기를 펼쳤습니다.(nl)(nl)[%personage]세의 선발 투수인 그는 날카로운 커브와 체인지업, 빠른 패스트볼을 적절히 사용하면서 [%team#2link nickname] 타자들을 농락한 끝에 [%game score] 완봉승을 거두었습니다.(nl)(nl)경기 후 [%team#2name]의 [%team#2 managerlink] 감독의 인터뷰입니다. &quot;오늘 그의 체인지업이 좋았습니다. 예상은 했지만 쳐도 땅볼에 그쳤고, 오늘은 구속의 폭이 더 컸습니다.&quot;(nl)(nl)[%team#1link]의 선발로 나선 그는 [%pitching k word], [%pitching bb word], [%pitching ha word]의 성적을 남겼습니다.(nl)(nl)[%personname L] 선수의 경기 후 인터뷰입니다. &quot;공을 낮게 던진 것이 성공의 주요 비결입니다.&quot;(nl)(nl)&quot;낮게 던지지 못하면 타자들에게 당할 수밖에 없습니다.&quot;</TXT>
-</OBJ>
-<OBJ id="15192">
-<TXT>[%team#1link nickname]의 선발 투수 [%personlink] 선수가 [%team#2link nickname] 팀을 상대로 [%pitching ha]피안타 완봉승의 놀라운 활약을 펼치며 [%game score] 승리를 주도했습니다.(nl)(nl)그는 경기 후 인터뷰에서 이렇게 답했습니다. &quot;팔의 느낌도 좋았고, 투구 메커니즘도 괜찮았고, 구위도 좋았습니다. 이보다 더 좋을 게 없는 경기였습니다.&quot;(nl)(nl)[%team#1nickname]의 선발로 나선 그는 [%pitching k word], [%pitching bb word]의 기록을 남기기도 했습니다. 정확한 제구와 날카로운 강속구를 보여주었습니다.(nl)(nl)&quot;타자들이 고전했습니다.&quot; [%team#2name] [%team#2 managerlink] 감독의 인터뷰입니다. &quot;타자들은 최상의 상태가 아니었지만 상대 투수는 최고의 기세였습니다.&quot;</TXT>
-</OBJ>
-<OBJ id="15196">
-<TXT>오늘 [%ballpark]에서 [%team#1link nickname]의 [%team#2link nickname]전에서 [%game score] 승리를 거둔 가운데 [%personlink] 선수의 완봉 역투가 인상적이었습니다. [%team#1link]의 선발 투수로 나와 [%pitching ha word], [%pitching bb word], [%pitching k word]의 성적으로 [%team#2nickname] 타자들을 지배했습니다.(nl)(nl)&quot;[%personname F] 선수가 타자들을 상대로 유인구를 잘 던졌습니다.&quot; [%team#1name]의 [%team manager] 감독의 인터뷰입니다. &quot;보기에 아주 훌륭했습니다.&quot;</TXT>
-</OBJ>
-<OBJ id="15202">
-<TXT>오늘 [%ballpark]에서 [%team#1link nickname]의 [%personlink] 선수가 [%team#2link nickname] 상대로 [%game score] 완봉승을 달성했습니다.(nl)(nl)&quot;경기 전에 투수 코치님이 제게 전력을 다하고 집중하라고 하셨습니다.&quot; 경기 후 [%personname l] 선수가 남긴 인터뷰입니다. &quot;제대로 된 위치에 좋은 변화구만 던질 수 있다면 누구도 제 공을 칠 수 없을 거라 하셨죠.&quot;(nl)(nl)[%personname L] 선수는 [%pitching ha word], [%pitching k word], [%pitching bb word]의 놀라운 활약을 펼쳤습니다.(nl)(nl)&quot;원하는 곳이면 어디든 던질 수 있을 것 같았습니다.&quot; [%team#2link]의 [%team#2 managerlink] 감독의 인터뷰입니다. &quot;그게 바로 최고의 투구에 숨겨진 비법이죠.&quot;</TXT>
-</OBJ>
-<OBJ id="15206">
-<TXT>[%personlink] 선수가 오늘 [%ballpark]에서 [%team#2link nickname] 타선을 꽁꽁 묶었습니다. [%pitching ha]피안타 완봉승을 달성했습니다.(nl)(nl)&quot;모든 게 잘 풀렸습니다.&quot; [%team#1link nickname]의 [%player throws] 투수인 그의 소감입니다. &quot;모든 투구 하나하나를 활용해 홈 플레이트 곳곳에 던졌고, 원하는 것은 뭐든 할 수 있을 것만 같았습니다.&quot;(nl)(nl)[%personname l] 선수는 손쉽게 [%team#2nickname] 타선을 요리하며 [%team#1nickname]의 [%game score] 승리를 이끌었습니다. 또한 [%pitching k word], [%pitching bb word]의 인상적인 기록을 남겼습니다.</TXT>
-</OBJ>
-<OBJ id="15208">
-<TXT>[%team#2link nickname] 타자들은 오늘 [%ballpark]에서 힘을 쓰지 못했습니다. [%team#1link nickname]의 선발 투수인 [%personlink] 선수가 [%pitching ha]피안타 완봉승을 기록하며 [%game score]의 점수로 경기가 끝났습니다.(nl)(nl)&quot;야구에 있어 변하지 않는 진리가 하나 있습니다. 투구가 타격을 통제할 수 있다는 것입니다.&quot; [%team#1nickname]의 [%team manager] 감독이 경기 후 인터뷰에서 남긴 말입니다. &quot;[%personname f] 선수는 자신을 역할을 잘 알고 있습니다. 좋은 투구를 멈추지 않을 것입니다.&quot;(nl)(nl)완봉 역투 속에 [%team#1link]의 투수는 [%pitching bb word], [%pitching k word]의 기록을 남겼습니다.</TXT>
-</OBJ>
-<OBJ id="19756">
-<TXT>[%team#2link nickname] 타자들은 [%team#1link nickname]의 선발 [%personlink]의 상대가 되지 못했습니다. [%personname l] 선수의 완봉 역투 속에 [%team#1name] 팀은 [%ballpark]에서 [%team#2link] 팀을 상대로 [%game score] 승리를 거두었습니다. [%pitching ip]이닝을 소화하면서 그는 [%pitching ha word], [%pitching k], [%pitching bb]볼넷의 기록을 남겼습니다.</TXT>
-</OBJ>
-<OBJ id="19762">
-<TXT>[%team#2link nickname] 타자들에게 오늘은 날이 아니었습니다. [%pitching ip word] [%pitching ha word]의 기록을 남긴 [%team#1link nickname]의 [%player throws] 투수 [%personlink]에 맞서 [%team#2nickname] 타자들은 단 1점도 올리지 못했습니다.(nl)(nl)&quot;[%pitching ha word]에 그쳤으니 오늘은 상대 투수가 완벽에 가까웠다 할 수 있습니다.&quot; [%team#2name] [%team#2 managerlink] 감독은 경기 후 이렇게 말했습니다.(nl)(nl)[%team#1nickname] 팀이 [%game score]의 점수로 승리한 오늘 경기에서 [%personname l] 선수는 [%pitching k word], [%pitching bb word]의 기록을 남겼습니다.</TXT>
-</OBJ>
-<OBJ id="19772">
-<TXT>오늘 [%ballpark]에서 [%team#2link] 팀은 [%team#1link nickname] 팀과 [%personlink] 상대로 [%game score] 완봉패를 당했습니다. [%team#2nickname] 팀은 [%pitching ha word], [%pitching k]탈삼진, [%pitching bb]볼넷을 기록한 [%personlink l] 상대로 속수무책이었습니다.(nl)(nl)승리를 기록한 [%player throws] 투수 [%personname l]의 인터뷰입니다. &quot;오늘은 느낌이 좋았습니다. 비가 내렸지만 리듬이 깨지지 않았습니다.&quot;</TXT>
-<COND id="196" value="1"/>
-</OBJ>
-<OBJ id="19777">
-<TXT>[%team#2nickname] 팀은 한동안 [%personlink] 선수를 만나지 않는다는 게 오히려 다행일지 모릅니다. [%personage]세의 투수인 그는 [%team#2link] 팀을 상대로 [%pitching ha]피안타 완봉승을 기록하면서 [%team#1link nickname]의 [%game score] 승리를 견인했습니다. 오늘 경기에서 [%personlink l] 선수는 [%pitching k]탈삼진과 [%pitching bb]볼넷을 기록했습니다.</TXT>
-</OBJ>
-<OBJ id="19784">
-<TXT>[%personlink] 선수가 오늘 [%ballpark]에서 자신의 구위가 어떤지 보여주었습니다. [%team#1link nickname]의 투수인 그는 [%team#2link nickname] 타자들을 제압하며 [%game score] 완봉승을 달성했습니다. [%personname l] 선수는 [%pitching ha word], [%pitching k]의 기록을 남겼습니다.(nl)(nl)&quot;완봉도 좋지만 팀이 승리해서 기쁩니다.&quot; [%personname l] 선수가 경기 후 미소를 지으며 답했습니다. &quot;패배했다면 코치들이 득달같이 화를 냈을 겁니다.&quot;</TXT>
-</OBJ>
-<OBJ id="19787">
-<TXT>[%team#1link nickname]의 선발 투수 [%personlink] 선수가 오늘 [%ballpark]에서 [%team#2link nickname] 팀을 상대로 완봉승을 거두며 놀라운 활약을 펼쳤습니다.(nl)(nl)[%team#1nickname]의 [%game score] 승리의 1등 공신은 [%personname l] 선수였습니다. [%personage]세의 [%player throws] 투수인 그는 경기 내내 최고의 기세를 유지했고, [%pitching ha word] 및 [%pitching bb word]에도 흔들리지 않았습니다. (nl)(nl)&quot;[%pitching ha word]였나요?&quot; 그는 경기 후 웃으며 말했습니다. &quot;완봉승만 거둘 수 있다면 30안타라도 기꺼이 맞을 수 있죠.&quot;</TXT>
-<COND id="162" value="8"/>
-</OBJ>
-<OBJ id="19793">
-<TXT>[%team#1link nickname] 팀이 [%personlink]의 완봉 역투 덕에 [%team#2link nickname] 팀을 상대로 [%game score] 승리를 거두었습니다. [%personlink l] 투수는 [%pitching ha word], [%pitching k] 활약을 펼쳤습니다.(nl)(nl)마지막 아웃 카운트를 잡은 이후, 평소 거리낌 없기로 유명한 [%player throws]완 투수 [%personname l]의 세리머니가 과도해 보였는지 [%team#2name]의 [%team#2 managerlink] 감독이 경기장을 떠나면서 호통을 쳤습니다. 이에 [%personname l]의 소속팀 감독 또한 몇 마디 맞받아쳤습니다.(nl)(nl)[%team#2nickname]의 감독은 말다툼에 대해 언급하지 않았지만 [%team#1nickname] 팀 기자 회견에서 세리머니 때문에 벌어진 일이라는 [%personname l]의 인터뷰가 있었습니다.(nl)(nl)[%personname l]의 인터뷰입니다. &quot;제게 불쾌한 놈이라고 말했습니다.&quot;(nl)(nl)&quot;그래서 그 팀 감독에게 당신은 불쾌한 패배자라고 답해줬죠.&quot; [%team#1name]의 [%team manager] 감독이 덧붙였습니다.</TXT>
-<COND id="162" value="7"/>
-</OBJ>
-<OBJ id="19795">
-<TXT>[%personlink] 선수가 쉽지 않은 일을 해냈습니다.(nl)(nl)[%personname l] 선수는 [%team#2link nickname] 팀을 [%game score]의 점수로 잠재웠고, [%team#1link nickname] 팀은 오늘 [%ballpark]에서 승리를 가져갔습니다. 압도적인 모습을 보여주었음에도 [%personname l] 선수는 힘든 경기였다고 밝혔습니다. 그는 이번 경기에서 [%pitching bb word] 및 [%pitching ha word]의 기록을 남겼습니다.(nl)(nl)&quot;오늘은 느낌이 좋진 않았지만 그래도 참고 견뎌냈습니다. 몇 번의 실수가 있었지만 투지만 있다면 무엇이든 할 수 있는 거죠.&quot;</TXT>
-<COND id="162" value="6"/>
-</OBJ>
-<OBJ id="19797">
-<TXT>[%ballpark]에 모인 팬들은 [%team#2link nickname] 팀을 상대로 [%game score]의 점수로 승리한 [%team#1link nickname] 팀의 경기와 선발투수 [%personlink]의 활약을 지켜봤습니다. [%team#1link]의 [%player throws] 투수는 [%pitching ha word] 완봉승을 거두었습니다.(nl)(nl)[%team#1name] [%team manager] 감독의 인터뷰입니다. &quot;오늘 [%personname f]의 활약이 좋았지만 한 경기에 너무 신경 쓰고 싶지는 않습니다. 잘 풀리는 날에는 어디든 좋은 팀이 될 수 있습니다. 하지만 중요한 건 이런 경기에서 무언가를 배울 수 있느냐입니다.&quot;</TXT>
-</OBJ>
-<OBJ id="19799">
-<TXT>[%team#1link nickname]의 [%personlink] 투수가 [%team#2link] 팀을 상대로 [%game score]의 손쉬운 완봉승을 거두었습니다. [%pitching ha word]만 허용한 [%personlink l]의 [%pitching k word] 및 활약 속에 [%team#1nickname] 팀은 [%team#2nickname] 팀을 상대로 낙승을 기록했[%pitching bb word]습니다.</TXT>
-</OBJ>
-<OBJ id="19803">
-<TXT>[%personlink]의 무실점 역투 끝에 오늘 [%ballpark]에서 열린 경기는 [%team#1link nickname] 팀이 [%team#2link nickname] 팀을 상대로 [%game score] 승리를 거두며 끝났습니다. [%player throws] [%personname l] 투수는 [%pitching ha word], [%pitching k word] 활약 속에 단 한 점도 내주지 않았습니다.(nl)(nl)[%personname l]의 인터뷰입니다. &quot;오늘 경기는 '팀 완봉'이라는 말이 어울리는 경기였습니다. 포수가 잘 이끌어 주었고, 타자들도 좋은 경기를 펼쳤습니다. 게다가 제가 실투를 던져도 야수들이 잘 잡아주었습니다.&quot;</TXT>
-<COND id="162" value="1"/>
-</OBJ>
-<OBJ id="19807">
-<TXT>[%team#1link nickname] 팀이 [%team#2link nickname] 팀을 상대로 거둔 [%game score]의 승리에는 [%player throws] 투수 [%personlink]의 [%pitching ha]피안타 역투가 있었습니다. [%team#1link]의 투수인 그는 [%pitching k word], [%pitching bb word]의 기록을 남겼습니다.(nl)(nl)&quot;[%pitching ip word] 투구가 쉽지는 않았지만 오늘 같은 날은 보람이 있습니다.&quot; [%personname l]의 인터뷰였습니다.</TXT>
-</OBJ>
-<OBJ id="45016">
-<TXT>[%personlink] 선수가 [%ballpark]에서의 [%team#2link nickname] 전에서 [%pitching ha]피안타 역투를 펼치면서 [%team#1link nickname]의 [%game score] 승리를 견인했습니다.(nl)(nl)&quot;느린 공으로 상대 타자들을 농락했고, 빠른 공을 곳곳에 꽂을 수 있었습니다.&quot; 경기 후 [%team#1link] [%team manager] 감독의 인터뷰였습니다.(nl)(nl)[%personname L] 선수는 [%pitching k word], [%pitching bb word] 기록 속에 놀라운 활약을 보였습니다.(nl)(nl)&quot;타자들 스윙이 좋지 않았습니다. 투수의 공이 좋았을지 모르죠. 어느 쪽으로든 생각할 수 있습니다.&quot; 패배 후 [%team#2 managerlink]의 [%team#2link] 감독의 인터뷰였습니다.</TXT>
-</OBJ>
+    <OBJ id="62">
+        <TXT> [%team#1link 暱稱]的玩家[% personlink] 選擇隊伍 [%team#2link 暱稱] [%pitching ha ]擊中 完全勝利 我拿走了。最後 得分為[%game score].(nl)(nl) many 局 消化的時候 在牛棚裡 休息一下 線 數字 ,監督[% team#1name ]的[%team manager ] 此外 這個 點 高度 我買了它。 (nl)(nl)主教 這是一次採訪。 ”有時 這個 活動 會做 數字 有 播放器 這就是了 案子 很高興見到你 工作。他 每一個 球 想 到位置 好的 拋出.&quot;(nl)(nl)[%personname L] [%pitching k word]和[%pitching bb word ]的玩家 記錄 離開了。
+        </TXT>
+    </OBJ>
+    <OBJ id="14900">
+        <TXT> [%team#1link 暱稱]的玩家[% personlink] 選擇隊伍 [%team#2link 暱稱] 反對 火焰 頭盔 被提出。 [%player throws]投手 他是[%game score] 完畢 [% pitch ha word], [%pitch k word], [%pitch bb word ] 記錄 發布[ %team#2nickname ] 排隊 我讓它睡著了。</TXT>
+    </OBJ>
+    <OBJ id="14905">
+        <TXT>錐子 相同的 澤古瓦 排行 頭盔 基於[ %team#1link 暱稱]玩家[%personlink] 今天的[ %team#2link 暱稱] 排隊 無損失 擋住了。 [%pitching ip]局數 [%pitching ha word] , [%pitching k]三振出局 記錄並獲勝[%game score] 領導。</TXT>
+    </OBJ>
+    <OBJ id="14955">
+        <TXT>[%team#1link 暱稱]的玩家[%personlink ]只命中[%pitching ha]命中 允許和使用[%team#2link 暱稱] 排隊 已禁用.(nl)(nl)”今天是 偽裝 這很好 想 到一個地方 扔 數字 有。”勝利 後 他是BNN記者 在前 像這樣 [ % pitching k word], [%pitching bb word] of (nl)(nl)[%personname l ] 在最後 比賽被[%team#2link]的[%game score]擊敗 完成。</TXT>
+    </OBJ>
+    <OBJ id="15012">
+        <TXT>[%personlink]玩家[ %team#2link 暱稱] 完美 攻擊。 [ %game score]關閉[ %team#1link 暱稱] [% pitch ha word], [%pitch k word], [%pitch bb word ] 成績 左.(nl)(nl)”萬奉承 情緒 好的 工作。”他 遊戲 後 在接受采訪時 像這樣 說。 ”平衡和 投球 機制 全部 這很好 球 低的 扔 數字 有。就這樣 如果 好的 結果 下列的 這是法律。”</TXT>
+    </OBJ>
+    <OBJ id="15017">
+        <TXT>[%personlink]前投手的[%team#2link 暱稱] 緊密的信封 在最後 比賽由[ %team#1link 暱稱]的[%game score]獲勝 我完成了。(nl)(nl)"遊戲 每時每刻 在對手身上 猜測 我調整了 今天是 非常 出色地 就是這樣。”遊戲 後 他與BNN記者交談。 在接受采訪時 像這樣 已回答.(nl)(nl)[%personname L]玩家選擇球隊 [% team #2link 暱稱] 反對 只要 一 粘度 不允許 , [% pitching ha]命中, [%pitching bb]走人, [%pitching k]三振出局 錄音。</TXT>
+    </OBJ>
+    <OBJ id="15021">
+        <TXT>[%team#1link 暱稱]的玩家[%personlink ] 今天在[ %ballpark]的團隊 [% team #2link 暱稱] [%game score]被拒之門外 達到。 [%pitch ha word]、[%pitch bb word]、[%pitch k word ] 按記錄 對手 擊球手 緊的 並列.(nl)(nl)失敗 之後，[%team#2link ]的[%team#2 managerlink ]監督[%personname l ] 活動 這令人印象深刻 回答.(nl)(nl)”玩家的[%personname l] 今天 頭盔 任何人 去攻擊 會很困難 . &quot;</TXT>
+    </OBJ>
+    <OBJ id="15034">
+        <TXT>[%team#1link 暱稱]隊伍得分為[%game score] 在[ %team#2link 暱稱]之前得分 勝利的 中間玩家[%personlink]記錄了[%pitching ha] hits 、 [%pitching k word] 和 [%pitching bb word] 裡面 完全勝利 錄製的 .(nl)(nl)比賽 在玩家的[%personname L]之後 這是一次採訪。 ”這些日子 擊球手 我的 球 保羅 切斷 投球 醫療費 它已經變得很多了。然而 今天是 想 路 匹配 鬆動的 感覺 好。今天是 在球數 有利 注意 占卜 數字 有。”</TXT>
+    </OBJ>
+    <OBJ id="15035">
+        <TXT> [ %team#1link 暱稱]的玩家[%personlink] 呼叫 [%team#2link 暱稱]上的玩家 無奈 在[ %ballpark]贏得[% game score ] 記錄下來。 [%pitching ha]命中, [%pitching k word], [%pitching bb word]停賽 收穫 他 幾乎 去攻擊 數字 沒有.(nl)(nl)”這是 很熱 流汗 一點 我很好。”遊戲 後 俱樂部 在採訪中，玩家[%personname L] 像這樣 回答。 ”然而 在土墩上 流汗 迷戀 線 我不知道。”</TXT>
+    </OBJ>
+    <OBJ id="15173" usage_chance_for_game="2">
+        <TXT>[%team#1link 暱稱]的玩家[%personlink ] 今天之前[%team#2link 暱稱] 魔法 稱為。 [ % 遊戲得分] 按分數 勝利的 [% pitch ha word], [%pitch k word], [%pitch bb word ] 記錄 顯示.(nl)(nl)”重要的 案子 最多 球 低的 扔 數字 有 點。” [ %personname L] 這是一次採訪。 ”改變 低的 彎曲 球 出色地 輸入."(nl)(nl)匹配 後 在採訪中， [ %team#1link]的[%team manager ] 團隊的 投手隊 防禦是 當然 上船 說很好 回答.(nl)(nl)”玩家的[%personname f] 頭盔 這很好 每個人都是 好的 活動 展開。”</TXT>
+        <COND id="213" value="6"/>
+    </OBJ>
+    <OBJ id="15177">
+        <TXT>[%personlink]玩家 今天在[ %ballpark]的團隊 [% team #2link 暱稱] 反對 氣勢磅礴 活動 [%game score]關閉[ %team#1link 暱稱] LED .(nl)(nl)”罷工 投擲 家 盤子 到處 球 拋出。” [%team# 2link ]的[ %team#2 managerlink ] 主管 這是一次採訪。 ”球 他 想 到一個地方 去了。我們 團隊 擊球手也 最多 球 強烈 我打 全部 獸 面對面 頭。”(nl)(nl)今天 比賽中， [%player throws]投手[%personname l]是[%pitching ha word]、[%pitching k word]、[%pitching bb word ]的選手 記錄 我留下了。</TXT>
+    </OBJ>
+    <OBJ id="15182">
+        <TXT> [%team#1link 暱稱]今天的[ % ballpark ] 投手[ %personlink] 大成功 它脫穎而出。 [ % 遊戲得分] [%team#2link 暱稱]有積分的隊伍 破碎的 中間[%pitching ha] hits , [%pitching bb word], [%pitching k word] 無分 實現.(nl)(nl)關閉 收穫 後 他 給同事 球 轉.(nl)(nl) of [%personname l ] 這是一次採訪。 ”我 只是 在土墩上 會上升 只是，今天 收穫 等級是 捕手 對手 擊球手 出色地 掌握 謝謝。今天 同事 如果不 好的 玩個遊戲 展開 數字 不會有 . &quot;</TXT>
+    </OBJ>
+    <OBJ id="15184">
+        <TXT>[%team#1link 暱稱]的玩家[%personlink ] 今天 偉大的 玩個遊戲 擴展.(nl)(nl)[%personage ] 選擇 投手 他 鋒利的 曲線和 換裝，快 快球 因此 [%team#2link 暱稱]使用時 俏皮 [%game score]最後被淘汰 .( nl )(nl)遊戲 在[%team#2 managerlink ]的[%team#2name ]之後 這是一次採訪。 ”今天 他的 換上 很好。預期是 我做了 即使 在地上 結束了，今天 救贖 寬度 更多的 ( nl)(nl)[%team# 1link ] 起跑線 螺旋 [% pitch k 字],[%pitch bb 字],[%pitch ha 字] 成績 left .(nl)(nl)[%personname L] of player 遊戲 後 這是一次採訪。 ”球 低的 拋出 那 成功的 主要的 這就是秘密。“(nl)(nl)”低的 扔 如果不 給別人 被毆打 別無選擇，只能 沒有。”</TXT>
+    </OBJ>
+    <OBJ id="15192">
+        <TXT>共[%team#1link 暱稱] 選擇 投手[%personlink]球員[%team#2link 暱稱]球隊 [%pitching ha ]擊中 關閉 驚人 活動 展開並贏得[%game score] 領導.(nl)(nl)他 遊戲 後 在接受采訪時 像這樣 回答。 ”武器 也感覺 好，音高 機製圖 沒關係， gwi 很好。比這個 更多的 好的 螃蟹 沒有 這是一場比賽。”of(nl)(nl)[%team#1nickname ] 起跑線 螺旋 他是[%pitch k word]，[%pitch bb word ] 記錄 忘在腦後 做了。準確的 澤古瓦 鋒利的 快球 顯示.(nl)(nl)”擊球手 這是一部經典之作。” [%team#2name] [%team#2 managerlink ] 這是一次採訪。 ”擊球手 最好的 狀態 不是 對手 投手 偉大的 這是一種動力。”</TXT>
+    </OBJ>
+    <OBJ id="15196">
+        <TXT>今天在[ %ballpark]對[%team#1link 暱稱]的[ %team#2link 暱稱]贏得[%game score] 收穫 玩家中間[%personlink] 關閉 反向前鋒 這令人印象深刻。 [ %team#1link] 選擇 作為投手 我和[%pitch ha word]，[%pitch bb word]，[%pitch k word ] [%team#2nickname]性打擊者 由.(nl)(nl)"[%personname F ]主導 擊球手 反對 柳仁九 出色地 拋出。” [ %team#1name]的[%team manager]主管 這是一次採訪。 ”看 非常 太棒了。”</TXT>
+    </OBJ>
+    <OBJ id="15202">
+        <TXT>今天在[%ballpark] ， [ %personlink]與[% team #1link 暱稱]贏得了[%game score]對 [%team# 2link暱稱] 的淘汰 達到.(nl)(nl)”遊戲 前 投手 教練 大部頭書 力量 完畢 集中 你做到了。”遊戲 在[%personname l]玩家之後 被留下來 這是一次採訪。 ”適當地 變成了 現場 好的 改變 扔 數字 如果有 沒有人 我的 球 七 數字 將沒有 去 ."(nl)(nl)[%personname L] [%pitching ha word], [%pitching k word], [%pitching bb word ]的玩家 驚人 活動 展開.(nl)(nl)”想 無論在哪裡 任何地方 扔 數字 成為 事物 就像。” [%team# 2link ]的[ %team#2 managerlink ] 主管 這是一次採訪。 ”那是 馬上 偉大的 在頭盔上 隱 這是秘密。”</TXT>
+    </OBJ>
+    <OBJ id="15206">
+        <TXT>[%personlink]玩家 今天， [%team#2link 暱稱] 在 [ % ballpark ] 緊的 綁起來。 [%pitching ha]命中 完全勝利 達到.(nl)(nl)”每一個 螃蟹 出色地 解鎖。” [ %player throws] [ %team#1link 暱稱]的投手 他的 這是一種感覺。 ”每一個 投球 每一個 利用 家 盤子 到處 拋出,想要 那是 任何 會做 數字 成為 只要 就像."(nl)(nl)[%personname l ] 輕鬆[% team #2nickname] 庫克為[%team#1nickname]贏得[%game score ] 領導_ [ %pitching k word] 和 [%pitching bb word ] 氣勢磅礴 記錄 我留下了。</TXT>
+    </OBJ>
+    <OBJ id="15208">
+        <TXT>[%team#2link 暱稱]擊球手 今天在[%ballpark] 力量 寫 失敗。 [ %team#1link 暱稱] 選擇 投手[%personlink ]命中[% pitching ha] 完全勝利 [ %遊戲得分] 按分數 匹配 我完成了。(nl)(nl)"打棒球 我有 改變 不是 真相 一 有。頭盔 吹 控制 數字 這就是了 會。” [% team manager] of [% team #1nickname] 遊戲 後 在接受采訪時 被留下來 我的意思是。 &quot;玩家[%personname f] 你自己 角色 出色地 知道 有。好的 頭盔 永無止境 慣於 將."(nl)(nl)關閉 反擊 在[%team#1link ] 投手是[%pitching bb word]，[%pitching k word ] 記錄 我留下了。</TXT>
+    </OBJ>
+    <OBJ id="19756">
+        <TXT>[%team#2link 暱稱]擊球手將使用[%team#1link 暱稱] 選擇[ %personlink] 對手 不是 失敗。玩家的[%personname l] 關閉 反擊 [%team#1name]隊內是[ % ballpark]中的 [%team #2link]隊 贏得[%game score]對抗 我拿走了。 [%pitching ip]局數 消化的時候 [% pitching ha word], [% pitching k], [% pitching bb ] 記錄 我留下了。</TXT>
+    </OBJ>
+    <OBJ id="19762">
+        <TXT>[%team#2link 暱稱] 致擊球手 今天是 那天 不是。 [%pitching ip word] [%pitching ha word ] 記錄 在[%player throws]中， [%team#1link 暱稱]的投手[%personlink ]落後 對抗[%team#2nickname]擊球手 只有1粘度 不要提高 失敗.(nl)(nl)" in [%pitching ha word] 我受夠了 今天是 對手 投手 至臻完美 很接近 會做 數字 有。” [%team#2name] [%team#2 managerlink ] 遊戲 後 像這樣 說.(nl)(nl)[%team#1nickname] [ %game score]的團隊 按分數 勝利的 今天 在比賽中， [%personname l]玩家有[%pitching k word], [%pitching bb word ] 記錄 我留下了。</TXT>
+    </OBJ>
+    <OBJ id="19772">
+        <TXT>球隊 [%team#2link]今天在[ %ballpark]輸掉了[%game score]被球隊[%team#1link 暱稱]和[% personlink ] 淘汰出局 被擊中[%team#2nickname]團隊[%pitching ha word], [%pitching k]三振出局, [%pitching bb]步行 針對記錄[%personlink l] 無奈.(nl)(nl)勝利 記錄了投手[%personname l]的[%player throws ] 這是一次採訪。 ”今天是 感覺是 很好。輓歌 我跌倒了 韻律 牢不可破 ."</TXT >
+        <COND id="196" value="1"/>
+    </OBJ>
+    <OBJ id="19777">
+        <TXT>[%team#2nickname]團隊 [%personlink]玩家一段時間 不符合 不說 螃蟹 相當 快樂的 我不知道。 [%個人] 投手 他有團隊 [%team #2link] [%pitching ha ]擊中 完全勝利 在錄製時贏得[ %team#1link 暱稱]的[%game score] 拖曳。今天 在比賽中， [%personlink l]球員[%pitching k]三振出局， [%pitching bb]走人 錄音。</TXT>
+    </OBJ>
+    <OBJ id="19784">
+        <TXT>[%personlink]玩家 今天在[%ballpark] 自己的 偽裝 怎麼樣 顯示_ [ %team#1link 暱稱] 投手 他稱擊球手[%team#2link 暱稱] 壓倒[%game score]贏得淘汰賽 達到。 [%personname l]運動員是[%pitching ha word], [%pitching k ] 記錄 左.(nl)(nl)”關閉 好但是 團隊 通過贏得 我很高興。” [%personname l]玩家 遊戲 後 微笑 建造 回答。 ”如果你輸了 教練員 像月亮一樣 生氣的 有薪酬的 . &quot;</TXT>
+    </OBJ>
+    <OBJ id="19787">
+        <TXT>共[%team#1link 暱稱] 選擇 投手[%personlink]球員 今天在[ %ballpark]的團隊 [% team #2link 暱稱] 反對 完全勝利 收穫 驚人 活動 [% game score] of (nl)(nl ) [%team#1nickname]勝利第一名 官方是玩家[% personname l] 。 [%personage] Se的[%player throws]投手 他 遊戲 每時每刻 偉大的 勢頭 , and in [%pitching ha word]和[%pitching bb word] 沒有動搖 沒有。是(nl)(nl)”[%pitching ha word]嗎？ ”他 遊戲 後 微笑 說。 ”奉承萬 收割 數字 30次點擊如果 樂意 是對的 數字 有。”</TXT>
+        <COND id="162" value="8"/>
+    </OBJ>
+    <OBJ id="19793">
+        <TXT>[%team#1link 暱稱]是[ %personlink]的團隊 關閉 反擊 感謝您， [%team#2link 暱稱]團隊 贏得[%game score]對抗 我拿走了。 [%personlink l]投手[%pitching ha word], [%pitching k ] 展開.(nl)(nl)最後 出去 計數 抓住 之後，通常 不情願 不 著名的[%player throws] wan 投手[ %personname l] 儀式 過多的 [%team#2 managerlink] of [% team # 2name ] 體育場 離開 喊出來 打。因此，在[%personname l] 附屬團隊 導向器 此外 一些 單詞 . (nl)(nl)[%team#2nickname ] 導演 在爭吵中 關於 不提 但是[%team#1nickname]團隊 記者 在採訪中 儀式 因為 張開 [ %personname l]稱為工作 一個採訪 有.(nl)(nl)[%personname l]的 這是一次採訪。 ”大部頭書 不愉快 已經呼過他了 說“(nl)(nl)”。所以 那 團隊 給導演 你是 不愉快 說是loser 你回答了我。” [%團隊經理]屬於[%團隊#1name] 已添加。</TXT>
+        <COND id="162" value="7"/>
+    </OBJ>
+    <OBJ id="19795">
+        <TXT>[%personlink]玩家 簡單的 不是 工作 做到了_ _ _ _ _ 按分數 我把它睡著了，[%team#1link 暱稱]團隊 今天在[%ballpark] 贏 我拿走了。壓倒 看 即使我顯示[%personname l] ，玩家 很累 那是一場遊戲 說。他 這次 匹配中的[%pitching bb word]和[%pitching ha word] 記錄 左.(nl)(nl)”今天是 感覺是 好的 但沒有 仍然 參考 忍受了。一些 的 一個錯誤 有 戰鬥精神 如果有 任何事物 會做 數字 有 ."</TXT >
+        <COND id="162" value="6"/>
+    </OBJ>
+    <OBJ id="19797">
+        <TXT>[%ballpark ] 聚集 球迷選擇[%team#2link 暱稱]球隊 [ %game score]反對 按分數 獲勝的[%team#1link 暱稱]團隊 遊戲和 首發投手[ %personlink] 活動 我看了。 [ %player throws] [ %team#1link]投球[%pitching ha word]停賽 .(nl)(nl)[%team# 1name ] [%team manager ] 這是一次採訪。 ”今天的[%personname f] 活動 這很好 一 到遊戲 也 神經 寫 想要 沒有。出色地 解開 當日 任何地方 好的 團隊 成為 數字 有。然而 重要的 案子 這個 在比賽中 某物 學 數字 是嗎。”</TXT>
+    </OBJ>
+    <OBJ id="19799">
+        <TXT> [%team#1link 暱稱]的投手[% personlink] 加入團隊 [% team #2link] [ %game score]反對 方便的 完全勝利 我拿走了。 [%pitching ha word]僅限 允許[ %personlink l]的[%pitch k word]並且 活動 在內部， [%team#1nickname]團隊是[%team#2nickname]團隊 反對 取勝 錄音[%pitch bb word] </TXT>
+    </OBJ>
+    <OBJ id="19803">
+        <TXT>[%personlink] 無分 反擊 在最後 今天在[%ballpark] 打開 在比賽中， [%team#1link 暱稱]隊伍將選擇[%team#2link 暱稱]隊伍。 贏得[%game score]對抗 收穫 結束了。 [%player throws] [%personname l]投手打 [%pitching ha word], [%pitching k word ] 裡面 只要 一 粘度 我給你 做了.(nl)(nl)[%personname l]的 這是一次採訪。 ”今天 比賽隊_ '關閉' 馬 匹配 這是一場比賽。捕手 出色地 帶領 給了，其他的 好的 玩個遊戲 展開。此外 我 反玻璃化 即使被扔 野獸 出色地 我抓到了。”</TXT>
+        <COND id="162" value="1"/>
+    </OBJ>
+    <OBJ id="19807">
+        <TXT>[%team#1link 暱稱]團隊選擇了[%team#2link 暱稱] 反對 [ %遊戲得分] [%player throws] [%personlink ]命中[% pitching ha ]獲勝 反向前鋒 有。 [ %team#1link] 投手 他是[%pitch k word]，[%pitch bb word ] 記錄 left .(nl)(nl)"[%pitching ip word ] 不容易 但沒有 今天 相同的 那天 值得 有。” [ %personname l] 這是一次採訪。</TXT>
+    </OBJ>
+    <OBJ id="45016">
+        <TXT>玩家[%personlink]在[%ballpark]中的 [ %team#2link 暱稱]之前擊中[%pitching ha ] 回擊 展開時，贏得[ %team#1link暱稱]的[%game score ] 拖曳.(nl)(nl)”減緩 帶球 對手 擊球手 欺騙和快速 球 到處 插入 數字 有。”遊戲 在[%team#1link] [%team manager ]之後 這是一次採訪。(nl)(nl)[%personname L]玩家錄製[ %pitching k word], [%pitching bb word] 裡面 驚人 活動 .( nl )(nl)”擊球手 搖擺 好的 沒有。投手 球 本來不錯 我不知道。哪個 要么朝向 思考 數字 有。”打敗 在[%team#2link]的[%team #2 managerlink ]之後 這是一次採訪。</TXT>
+    </OBJ>
 </CAT>
 
 <CAT id="23">
-<OBJ id="63">
-<TXT>[%personname L], [%team#2name] 압도</TXT>
-</OBJ>
-<OBJ id="64">
-<TXT>[%team#2name], [%personname L]의 적수가 되지 못하다</TXT>
-</OBJ>
-<OBJ id="288">
-<TXT>[%personname L], [%team#2name] 타자들 제압</TXT>
-</OBJ>
-<OBJ id="290">
-<TXT>[%personname L], 날카로운 투구로 [%game score] 완봉승</TXT>
-</OBJ>
-<OBJ id="291">
-<TXT>[%personname L], [%game score] 완봉승 달성</TXT>
-</OBJ>
-<OBJ id="293">
-<TXT>[%personname F L], [%game score]의 점수로 [%team#2name] 압도</TXT>
-</OBJ>
-<OBJ id="297">
-<TXT>[%personname L]의 뜨거운 공이 [%team#2name] 타자들을 얼리다</TXT>
-</OBJ>
-<OBJ id="307">
-<TXT>[%personname L] 출격, [%team#2name] 제압, [%game score]</TXT>
-</OBJ>
-<OBJ id="311">
-<TXT>[%personname L] 앞에 무기력한 [%team#2name], [%game score]</TXT>
-</OBJ>
-<OBJ id="15117">
-<TXT>[%personname L], [%team#2nickname]전 [%game score] 완봉승</TXT>
-</OBJ>
-<OBJ id="15119">
-<TXT>[%personname L], [%team#1nickname] 상대로 [%game score] 완봉승</TXT>
-</OBJ>
-<OBJ id="15120">
-<TXT>[%personname L], [%team#1name] 전에서 [%game score] 완봉승</TXT>
-</OBJ>
-<OBJ id="15125">
-<TXT>[%personname L], [%team#2nickname] 상대로 완봉승</TXT>
-</OBJ>
-<OBJ id="15126">
-<TXT>[%personname L], [%team#2name] 상대로 [%game score] 완봉승</TXT>
-</OBJ>
-<OBJ id="15127">
-<TXT>[%personname L], [%team#2nickname] 상대로 완봉 달성</TXT>
-</OBJ>
-<OBJ id="15130">
-<TXT>[%personname L], [%team#2name] 상대로 무실점</TXT>
-</OBJ>
-<OBJ id="15151">
-<TXT>[%personname L], 최상의 컨디션으로 [%team#2name] 압도</TXT>
-</OBJ>
-<OBJ id="15226">
-<TXT>[%personname L], [%team#1name]의 [%game score] 승리 속 엄청난 활약</TXT>
-</OBJ>
-<OBJ id="15227">
-<TXT>[%personname L], 압도적인 구위로 [%team#2name] 제압</TXT>
-</OBJ>
-<OBJ id="15230">
-<TXT>[%personname L]의 날카로움이 [%team#2name] 타자들을 잠재우다</TXT>
-</OBJ>
-<OBJ id="15244">
-<TXT>[%personname L], [%team#2nickname] 상대로 완승</TXT>
-</OBJ>
-<OBJ id="19234">
-<TXT>[%team#2name], [%personname l] 앞에 모든 희망을 버리다</TXT>
-</OBJ>
-<OBJ id="19248">
-<TXT>[%team#2nickname], [%personname l] 상대로 [%game score] 완패</TXT>
-</OBJ>
-<OBJ id="19744">
-<TXT>[%personname l], 완봉 역투</TXT>
-</OBJ>
-<OBJ id="19745">
-<TXT>[%personname l], [%game score] 완봉승 달성</TXT>
-</OBJ>
-<OBJ id="19749">
-<TXT>[%team#2name], [%personname l] 상대로 무기력</TXT>
-</OBJ>
-<OBJ id="19752">
-<TXT>[%personname l], [%game score] 완봉승</TXT>
-</OBJ>
-<OBJ id="55055">
-<TXT>[%team#1name], [%game score]의 점수로 [%team#2name] 압도</TXT>
-</OBJ>
-<OBJ id="55056">
-<TXT>[%team#1name][%team#2name]전 [%game score] 완봉승</TXT>
-</OBJ>
-<OBJ id="56536">
-<TXT>[%personname L], [%team#2name] 타자들 속수무책으로 당하다</TXT>
-</OBJ>
-<OBJ id="56999">
-<TXT>[%personname l][%team#2name]전 [%game score] 완봉승</TXT>
-</OBJ>
-<OBJ id="57061">
-<TXT>[%personname l], [%team#2nickname] 상대로 [%game score] 완봉승</TXT>
-</OBJ>
-<OBJ id="57063">
-<TXT>[%team#2name], [%team#1nickname]의 [%personname L] 상대로 [%game score] 완봉패</TXT>
-</OBJ>
-<OBJ id="57064">
-<TXT>[%team#2name], [%team#1nickname]의 [%personname L] 상대로 [%game score] 패배</TXT>
-</OBJ>
-<OBJ id="57095" usage_chance_for_game="4">
-<TXT>[%team#1nickname], [%game score]의 점수로 [%team#2nickname] 압승</TXT>
-<COND id="213" value="9"/>
-</OBJ>
-<OBJ id="57096" usage_chance_for_game="4">
-<TXT>[%team#1nickname], [%team#2nickname] 상대로 [%game score] 압승</TXT>
-<COND id="213" value="9"/>
-</OBJ>
-<OBJ id="57212" usage_chance_for_game="4">
-<TXT>[%personname L], [%game score] 승리 속에서 눈부신 활약</TXT>
-<COND id="187" value="8"/>
-<COND id="188" value="3"/>
-</OBJ>
-</CAT>
+    <OBJ id="63">
+        <TXT>[%personname L], [%team#2name]不堪重負</TXT>
+    </OBJ>
+    <OBJ id="64">
+        <TXT> [%team#2name], [%personname L ] 對手 不是 不能</TXT>
+    </OBJ>
+    <OBJ id="288">
+        <TXT>[%personname L], [%team#2name]擊球手 壓制</TXT>
+    </OBJ>
+    <OBJ id="290">
+        <TXT>[%personname L]，尖銳 [%game score]投球完胜</TXT>
+    </OBJ>
+    <OBJ id="291">
+        <TXT>[%personname L], [%game score]關閉 實現</TXT>
+    </OBJ>
+    <OBJ id="293">
+        <TXT>[%personname FL], [%game score ] 按分數壓倒[%team#2name] </TXT>
+    </OBJ>
+    <OBJ id="297">
+        <TXT>[%personname L] 熱的 球擊中[%team#2name]擊球手 凍結</TXT>
+    </OBJ>
+    <OBJ id="307">
+        <TXT>[%personname L]出擊，[%team#2name]制服，[%game score]</TXT>
+    </OBJ>
+    <OBJ id="311">
+        <TXT>之前的 無奈[%team#2name]，[%game score]</TXT>
+    </OBJ>
+    <OBJ id="15117">
+        <TXT>[%personname L], [%team#2nickname] ex [ %game score]淘汰</TXT>
+    </OBJ>
+    <OBJ id="15119">
+        <TXT>[%game score]對[% personname L]、[%team#1nickname] 的淘汰賽</TXT>
+    </OBJ>
+    <OBJ id="15120">
+        <TXT>[%game score]完胜[% personname L], [%team#1name] </TXT>
+    </OBJ>
+    <OBJ id="15125">
+        <TXT>[%personname L]，反對[%team#2nickname] 關閉</TXT>
+    </OBJ>
+    <OBJ id="15126">
+        <TXT>[%game score]被 [% personname L], [%team#2name] 淘汰</TXT>
+    </OBJ>
+            <OBJ id="15127">
+                <TXT>[%personname L]，反對[%team#2nickname] 關閉 實現</TXT>
+            </OBJ>
+            <OBJ id="15130">
+                <TXT>[%personname L]，反對[%team#2name] 沒有損失</TXT>
+            </OBJ>
+            <OBJ id="15151">
+                <TXT>[%personname L]，最佳 壓倒性的[%team#2name]條件為</TXT>
+            </OBJ>
+            <OBJ id="15226">
+                <TXT>[%personname L], [%team#1name ] win [%game score] 裡面 高昂 活動中</TXT>
+            </OBJ>
+            <OBJ id="15227">
+                <TXT>[%personname L]，壓倒性的 用古維擊敗 [%team#2name] </TXT>
+                    </OBJ>
+                    <OBJ id="15230">
+                        <TXT>[%personname L] 銳度使[%team#2name]擊球手 睡吧</TXT>
+                    </OBJ>
+                    <OBJ id="15244">
+                        <TXT>[%personname L]，反對[%team#2nickname] 贏了</TXT>
+                    </OBJ>
+                    <OBJ id="19234">
+                        <TXT>[%team#2name]，在[%personname l] 之前 每一個 希望 扔掉</TXT>
+                    </OBJ>
+                    <OBJ id="19248">
+                        <TXT>[%game score]對抗[%team# 2nickname ], [%personname l] </TXT>
+                    </OBJ>
+                    <OBJ id="19744">
+                        <TXT>[%personname l]，關閉 反向投擲</TXT>
+                    </OBJ>
+                    <OBJ id="19745">
+                        <TXT>[%personname l], [%game score]關閉 實現</TXT>
+                    </OBJ>
+                    <OBJ id="19749">
+                        <TXT>[%team#2name]，反對[%personname l] 無奈</TXT>
+                    </OBJ>
+                    <OBJ id="19752">
+                        <TXT>[%personname l], [%game score]關閉</TXT>
+                    </OBJ>
+                    <OBJ id="55055">
+                        <TXT>[%team#1name], [%game score ] 按分數壓倒[%team#2name] </TXT>
+                    </OBJ>
+                    <OBJ id="55056">
+                        <TXT>[%team#1name][%team#2name]前[ %game score]淘汰</TXT>
+                    </OBJ>
+                    <OBJ id="56536">
+                        <TXT>[%personname L], [%team#2name]擊球手 無奈 被擊中</TXT>
+                    </OBJ>
+                    <OBJ id="56999">
+                        <TXT>[%personname l][%team#2name] ex [ %game score]淘汰</TXT>
+                    </OBJ>
+                    <OBJ id="57061">
+                        <TXT>[%game score]被 [% personname l], [%team#2nickname] 淘汰</TXT>
+                            </OBJ>
+                            <OBJ id="57063">
+                                <TXT>[%game score]在[%team#2name]、[%team#1nickname]上與[ %personname L]被淘汰出局</TXT>
+                            </OBJ>
+                            <OBJ id="57064">
+                                <TXT>[%team#2name ], [%team#1nickname] 擊敗 [%personname L] [%game score ] </TXT>
+                                    </OBJ>
+                                    <OBJ id="57095" usage_chance_for_game="4">
+                                        <TXT>[%team#1nickname], [%game score ] [%team#2nickname]以分數取勝</TXT>
+                                        <COND id="213" value="9"/>
+                                    </OBJ>
+                                    <OBJ id="57096" usage_chance_for_game="4">
+                                        <TXT>[%game score]戰勝[%team# 1nickname ], [%team#2nickname] </TXT>
+                                        <COND id="213" value="9"/>
+                                    </OBJ>
+                                    <OBJ id="57212" usage_chance_for_game="4">
+                                        <TXT>[%personname L], [%game score]獲勝 裡面 耀眼的 活動中</TXT>
+                                        <COND id="187" value="8"/>
+                                        <COND id="188" value="3"/>
+                                    </OBJ>
+                                </CAT>
 
 <CAT id="24">
-<OBJ id="4818">
-<TXT>가끔 모든 게 잘 풀리는 날이 있습니다.(nl)(nl)[%personlink] 선수에게 있어 오늘이 그랬습니다. [%ballpark]에서 그는 3개의 홈런을 터뜨렸고, [%team#1link nickname] 팀은 [%team#2link nickname] 전에서 [%game score] 승리를 챙겼습니다.(nl)(nl)&quot;3개의 공을 쳐냈는데 모두 넘어갔습니다.&quot; [%team#1link]의 [%playerposition]인 그가 경기 후 인터뷰에서 이렇게 답했습니다. &quot;첫 번째는 떨어지는 커브였고, 두 번째는 한가운데에 오는 공이었습니다. 세 번째는 공 자체는 좋았지만 그곳으로 던질 걸 예상하고 맞혔습니다.&quot;(nl)(nl)[%personname l] 선수는 오늘 [%batting ab]타수 [%batting h]안타와 [%batting rbi]타점을 기록했습니다.(nl)(nl)[%string#1]</TXT>
-<COND id="62" value="1"/>
-</OBJ>
-<OBJ id="4822">
-<TXT>[%personlink] 선수에게 있어 오늘은 남다른 날이었습니다.(nl)(nl)오늘 [%ballpark]의 관중들은 [%team#1link nickname]의 [%personname l] 선수가 [%team#2link nickname] 전에서 [%game score]의 점수로 승리한 가운데 세 방의 홈런을 몰아치는 것을 지켜봤습니다.(nl)(nl)&quot;저는 언제나 [%ballpark]에서 공을 치는 게 좋았습니다.&quot; [%playerposition] 선수가 최고의 경기를 치른 후 인터뷰를 가졌습니다. &quot;오늘은 공이 정말 잘 보였습니다.&quot;(nl)(nl)오늘 경기에서 그는 [%batting ab word] [%batting h word], [%batting r word], [%batting rbi]타점으로 맹활약했습니다.(nl)(nl)[%string#1]</TXT>
-<COND id="62" value="1"/>
-<COND id="198" value="0"/>
-</OBJ>
-<OBJ id="4824">
-<TXT>[%personlink] 선수는 오늘 [%ballpark]에서 [%game score]의 점수로 [%team#1link nickname] 팀이 승리한 가운데 계속해서 하늘로 공을 쏘아 올렸습니다.(nl)(nl)[%personage]세의 그는 세 번이나 공을 담장 밖으로 넘기는 괴력을 발휘하면서 [%team#1nickname]의 [%team#2link nickname] 전 승리를 견인했습니다.(nl)(nl)&quot;한 개도 좋고, 두 개도 좋지만 세 개는 더더욱 좋습니다.&quot; [%personname l] 선수는 경기 후 인터뷰에서 이렇게 밝혔습니다. &quot;내일 경기가 기다려집니다. 지금 타석에서 느낌이 너무나 좋습니다.&quot;(nl)(nl)[%playerposition]인 그는 [%batting ab]타수 [%batting h]안타, [%batting rbi]타점, [%batting r word]득점의 기록적인 하루를 달성했습니다.(nl)(nl)[%string#1]</TXT>
-<COND id="62" value="1"/>
-</OBJ>
-<OBJ id="4829">
-<TXT>오늘 [%ballpark]에서 [%team#1link nickname] 팀이 [%team#2link nickname] 팀을 상대로 승리한 가운데 [%personlink] 선수는 담장 밖을 세 번이나 넘겼습니다.(nl)(nl)그의 인터뷰입니다. &quot;오늘은 잘 풀렸습니다. 투수들의 모든 공이 수박처럼 보였습니다.&quot;(nl)(nl)오늘 경기에서만 [%team#1link]의 [%playerposition]인 그는 [%team#2link] 상대로 [%batting ab]타수 [%batting h]안타, [%batting rbi]타점, [%batting r]득점을 기록하며 강력한 화력을 선보였고, [%teamnickname]의 [%game score] 승리를 주도했습니다.(nl)(nl)&quot;마지막 타구는 넘어갈 거라 생각도 못해서 놀랐습니다.&quot; 그는 경기 후 클럽하우스에서 BNN 기자들에게 이렇게 답했습니다. &quot;멀리 가긴 했지만 잡힐 줄 알았습니다.&quot;(nl)(nl)[%string#1]</TXT>
-<COND id="62" value="1"/>
-</OBJ>
-<OBJ id="4831">
-<TXT>[%game ballpark] 외야석에 앉은 팬들은 헤라클레스를 연상시키는 괴력으로 홈런 3방을 날린 [%personlink] 선수의 타구를 피해 다녀야 했습니다.(nl)(nl)[%team#1link]의 [%playerposition]인 그의 엄청난 활약 속에 [%teamnickname] 팀은 [%team#2link nickname] 팀을 상대로 [%game score] 승리를 거두었습니다.(nl)(nl)경기 후 기자회견에서 그는 이렇게 말했습니다. &quot;마지막에는 너무 무리하지 말자고 속으로 다짐했습니다. 덕분에 무리하지 않고도 간결하고 멋진 스윙이 가능했습니다.&quot;(nl)(nl)오늘 경기에서 그는 [%batting ab word] [%batting h word], [%batting rbi], [%batting r word]의 성적을 올렸습니다.(nl)(nl)[%string#1]</TXT>
-<COND id="62" value="1"/>
-</OBJ>
-<OBJ id="4833">
-<TXT>[%personlink] 선수는 오늘 [%ballpark]에서 [%game score]의 점수로 승리한 가운데 [%team#2link nickname] 투수들을 흠씬 두들겼습니다. [%team#1link nickname]의 [%playerposition]인 그는 하루 종일 공을 무지막지하게 휘둘렀습니다.(nl)(nl)&quot;홈런을 때리려고 애쓰는 건 아닙니다.&quot; 그의 경기 후 인터뷰입니다. &quot;그저 좋은 스윙으로 공을 맞히려고 하죠. 가끔은 그게 담장 밖으로 넘어가곤 합니다. 오늘 쳤던 모든 홈런들도 그렇게 친 거죠.&quot;(nl)(nl)오늘 경기에서 그는 [%batting ab]타수 [%batting h]안타, [%batting rbi]타점, [%batting r]득점을 기록했습니다.(nl)(nl)&quot;오늘 [%personlink] 선수가 엄청났습니다.&quot; [%team#2nickname]의 [%team#2 managerlink] 감독 또한 인터뷰를 통해 이야기했습니다. &quot;오늘 경기는 그게 전부입니다. 패배의 원인을 요약하자면 그렇죠.&quot;(nl)(nl)[%string#1]</TXT>
-<COND id="62" value="1"/>
-</OBJ>
-<OBJ id="4834">
-<TXT>[%team#1link nickname]의 [%playerposition]인 [%personlink] 선수는 [%ballpark]에서 [%team#2link nickname] 팀을 상대로 괴력을 과시했습니다. [%game score]의 점수로 [%team#1nickname] 팀이 승리한 가운데 [%personlink l] 선수는 3개의 홈런을 때려내면서 단일 경기로는 기록에 남을 활약을 보였습니다.(nl)(nl)&quot;왼쪽, 오른쪽, 가운데, 어디로든 공을 보낼 수 있습니다.&quot; [%team#2link]의 [%team#2 managerlink] 감독이 인터뷰에서 밝혔습니다. &quot;아주 강력한 힘을 가졌으면서도 공을 잘 보는 타자입니다.&quot;(nl)(nl)3홈런과 함께 [%personage]세의 그는 [%batting ab word] [%batting h word], [%batting rbi]타점, [%batting r]득점으로 맹활약했습니다. (nl)(nl)경기 후 자신의 타격 철학에 관한 질문에 [%personname l] 선수는 이렇게 답했습니다. &quot;항상 역경이 찾아오는 법인데 잘 버텨내야 합니다. 파울로 끊어내는 것처럼 말이죠. 제대로 된 공이 오면 준비하고 휘두르면 됩니다. 오늘 그랬던 것처럼 말이죠.&quot;(nl)(nl)[%string#1]</TXT>
-<COND id="62" value="1"/>
-</OBJ>
-<OBJ id="4840">
-<TXT>[%team#1link nickname]의 [%playerposition] [%personlink] 선수는 오늘 [%team#2link nickname] 전에서 3개의 타구를 [%ballpark] 담장 밖으로 넘기는 맹활약을 펼치며 [%team#1nickname]의 [%game score] 승리를 도왔습니다.(nl)(nl)&quot;좋은 공이었지만 제가 잘 때려냈습니다.&quot; 그가 경기 후 인터뷰에서 밝혔습니다. &quot;첫 번째는 묵직한 패스트볼이었고, 두 번째와 세 번째는 떨어지는 커브였습니다. 물론 세 개 모두 실투였다고 생각합니다.&quot;(nl)(nl)오늘 경기에서 [%personname l] 선수는 [%batting ab]타수 [%batting h]안타, [%batting rbi]타점, [%batting r word]의 기록을 세웠습니다.(nl)(nl)&quot;홈런과 직선타는 종이 한 장 차이입니다.&quot; [%team#1name]의 [%team manager] 감독이 경기 후 인터뷰에서 남긴 말입니다. &quot;오늘은 [%personname f] 선수가 감을 제대로 잡았던 것 같습니다.&quot;(nl)(nl)[%string#1]</TXT>
-<COND id="62" value="1"/>
-</OBJ>
-<OBJ id="17560">
-<TXT>나쁜 일은 세 번 터진다'는 속설이 오늘 [%team#2link nickname] 팀에 있어서는 사실이었습니다.(nl)(nl)[%team#1link]의 [%playerposition] [%personlink] 선수가 3개의 홈런을 때리면서 [%ballpark]에서 [%team#1nickname] 팀이 [%game score]의 점수로 승리했습니다.(nl)(nl)&quot;우리 팀도 승리할 기회가 있었지만 아쉽게 승리하지 못했습니다.&quot; [%team#2name] [%team#2 managerlink] 감독의 인터뷰입니다. &quot;[%personlink l] 선수가 너무 잘 쳤습니다.&quot;(nl)(nl)홈런 외에도 [%personlink l] 선수는 [%batting ab word] [%batting h word], [%batting rbi]타점, [%batting r word]의 기록을 작성했습니다.(nl)(nl)&quot;간결한 스윙 덕에 홈런을 칠 수 있었습니다.&quot; 경기 후 인터뷰에서 그가 직접 답했습니다. &quot;계속 스스로 무리하지 말자고 했습니다. 스윙은 쉽고 간결하게 휘둘러야 합니다.&quot;(nl)(nl)[%string#1]</TXT>
-<COND id="62" value="1"/>
-</OBJ>
-<OBJ id="17561">
-<TXT>[%personlink](은)는 오늘 [%ballpark]에서 홈런 모드였습니다. [%team#1link]의 [%playerposition](은)는 [%batting rbi] 타점과 [%batting r]득점을 올리며 홈런 3개와 [%batting ab]타수 [%batting h]안타로 [%team#2nickname]팀을 꼼짝 못하게 했습니다. 하지만 이런 엄청난 성적은 중요하지 않았습니다. [%team#2link]팀이 홈런 3개에도 불구하고 [%game score](으)로 승리를 거두었습니다.(nl)(nl)&quot;홈런 3개를 쳐서 기분 좋지만, 중요한 건 승패죠&quot;라고 그는 말했다.(nl)(nl)하지만 [%personlink l](은)는 이제 리그 기록부에 등재될 것이다.(nl)(nl)&quot;잘 나가면 잘 나가는 거죠. 홈런이 목적은 아니에요. 오늘은 운이 좋았던 거죠&quot;(nl)(nl)[%string#1]</TXT>
-<COND id="62" value="0"/>
-</OBJ>
-<OBJ id="19113">
-<TXT>가끔은 이걸로 충분하지 않을 때가 있습니다.(nl)(nl)[%personlink](은)는 [%ballpark]에서 오늘 홈런 3개를 치며 [%team#1link nickname]팀에게 엄청난 날을 선물했습니다. 하지만 [%team#1nickname]팀은 [%team#2link nickname]팀에게 [%game score](으)로 패배했습니다.(nl)(nl)[%personlink l] 선수는 그에게 오는 공을 모두 쳐냈습니다. [%personage]세 [%playerposition]인 이 선수는 [%batting ab word] 타수 [%batting h word] 안타, [%batting r]번 득점, [%batting rbi] 타점을 기록했습니다. 이런 엄청난 활약에도 불구하고 [%team#1nickname]팀은 [%team#2nickname]팀을 물리치지 못했습니다.(nl)(nl)게임이 끝난 후 인터뷰에서 [%personname l](은)는 &quot;야구는 재미 있는 스포츠입니다. 패배 이유를 제대로 설명할 수 없죠. 4타수 0안타를 기록하고도 이기는 날도 있을 겁니다&quot;라고 말했습니다.(nl)(nl)[%string#1]</TXT>
-<COND id="62" value="0"/>
-</OBJ>
-<OBJ id="19343">
-<TXT>[%team#1link]의 [%playerposition] [%personlink] 선수가 [%ballpark]에서 3홈런을 폭발시킨 가운데 [%team#1nickname] 팀은 [%team#2link nickname] 전에서 [%game score] 승리를 거두었습니다.(nl)(nl)오늘 경기에서 [%personlink] 선수는 [%batting r]득점과 [%batting rbi]타점을 기록했습니다. 그가 마지막 홈런을 친 순간, 타구 소리를 듣고 팀 동료들은 벤치에서 열광하며 홈 플레이트로 들어오는 [%personlink l] 선수를 향해 달려갔습니다.(nl)(nl)&quot;한 경기에 불과하지만 정말 즐거운 경기였습니다. [%batting ab]타수 [%batting h]안타를 기록하고 그중에 홈런이 3개라면 더더욱 그렇죠.&quot; 기쁨에 겨운 [%personname l] 선수는 경기 후 BNN 기자들에게 이렇게 답했습니다. &quot;최고의 하루입니다.&quot;(nl)(nl)[%string#1]</TXT>
-<COND id="62" value="1"/>
-</OBJ>
-<OBJ id="19344">
-<TXT>[%team#1link]의 [%playerposition] [%personlink] 선수가 [%team#2link nickname] 팀을 상대로 [%team#1nickname]의 [%game score] 승리를 이끌면서 3홈런을 기록했습니다.(nl)(nl)&quot;오늘처럼 배트를 휘두른다면 아주 무서운 선수가 될 겁니다.&quot; [%team#1link]의 [%team manager] 감독은 이렇게 말했습니다.(nl)(nl)역시나 [%personlink l] 선수는 무시무시한 기록을 남겼습니다. 3개의 홈런을 비롯해 [%batting ab word] [%batting h word], [%batting r word], [%batting rbi]타점이었습니다.(nl)(nl)&quot;저는 그저 경기에서 이길 생각만 합니다.&quot; [%personname l] 선수의 인터뷰입니다. &quot;홈런에만 몰두하면 실제로 때리기는 더 어렵습니다.&quot;(nl)(nl)[%string#1]</TXT>
-<COND id="62" value="1"/>
-</OBJ>
+    <OBJ id="4818">
+        <TXT>有時 每一個 螃蟹 出色地 解開 那天 是的。 (nl)(nl)[%personlink]給玩家 我有 今天 它是。在[%ballpark] 他有三個 本壘打 並且[%team#1link 暱稱]團隊在[%team#2link 暱稱]之前贏得[ %game score ] 我拿了它。（nl）（nl）“3件 球 我打了 全部 通過。” [ %team#1link ]的[%playerposition] 他 遊戲 後 在接受采訪時 像這樣 回答。 ”第一的 第二 墜落 這是一個曲線，兩個 第二 在中間 未來 那是一個球。數數 第二 零 本身 這很好 到那裡 扔 女孩 預料 你猜對了。”(nl)(nl)[%personname l ] 今天[% batting ab] [%batting h]命中和[%batting rbi]打點 記錄.(nl)(nl)[%string#1]</TXT>
+        <COND id="62" value="1"/>
+    </OBJ>
+    <OBJ id="4822">
+        <TXT>[%personlink]到玩家 我有 今天是 單數 這是今天. (nl)(nl) [ %ballpark] 觀眾將看到[%team# 1link暱稱]的玩家[%personname l]在[%team#2link 暱稱]之前得分 [%game score ] 。 按分數 勝利的 中間 數數 房間的 本壘打 衝 事物 我看了.(nl)(nl)”我 總是在[%ballpark] 球 引人注目 螃蟹 很好。” [%playerposition]玩家 偉大的 玩個遊戲 發生 後 面試 我有。 ”今天是 球 真的 出色地 我看到了。”(nl)(nl)今天 在比賽中 他打點[%batting ab word] [%batting h word], [%batting r word], [%batting rbi] 效果很好。(nl)(nl)[%string#1]</TXT>
+        <COND id="62" value="1"/>
+        <COND id="198" value="0"/>
+    </OBJ>
+    <OBJ id="4824">
+        <TXT>[%personlink]玩家 今天在[ %ballpark]的[%game score] [%team#1link 暱稱]有積分的隊伍 勝利的 中間 繼續 到天空 球 射擊 上傳.(nl)(nl)[%personage ] 他 數數 次 球 柵欄 外部 翻 力量 [% team # 2link暱稱] of [%team#1nickname] 贏 拖曳.(nl)(nl)”一 開幕 好，兩個 開幕 好但是 數數 狗 更 好。” [%personname l]玩家 遊戲 後 在接受采訪時 像這樣 說。 ”明天 匹配 等著你。現在 在盤子上 感覺是 也 好的。 &quot;(nl)(nl)[%playerposition ] 他有[% batting ab]在[%batting h] hits , [%batting rbi] RBI , [%batting r word] of runs 記錄 一天 達到.(nl)(nl)[%string#1]</TXT>
+        <COND id="62" value="1"/>
+    </OBJ>
+    <OBJ id="4829">
+        <TXT>團隊 [%team#1link 暱稱]今天在[ %ballpark]擁有團隊[ % team #2link 暱稱] 反對 勝利的 中間玩家[%personlink]是 柵欄 出去 數數 次 通過.(nl)(nl)他的 這是一次採訪。 ”今天是 出色地 發布。投手 每一個 球 像西瓜 我看到了。”(nl)(nl)今天 [ %team#1link]的[%playerposition ]僅在比賽中 他得分[%batting h] hits ， [%batting rbi] RBI ，並運行[%batting r]對抗[ %team#2link ] 記錄 強的 火力 [%game score] [% teamnickname ]的勝利 LED .(nl)(nl)”最後的 擊球 越過 去 想法 因為我不能 我很驚訝。”他 遊戲 後 致會所的BNN記者 像這樣 回答。 ”遠的 加金 我做了 被抓到 線 明白了。"(nl)(nl)[%string#1]</TXT>
+        <COND id="62" value="1"/>
+    </OBJ>
+    <OBJ id="4831">
+        <TXT>[%game ballpark]在外場 坐著 粉絲 大力神 讓人聯想到的 有可能 本壘打3房 玩家的Nalin [%personlink] 擊球 傷害 必須去 我做了.(nl)(nl)[%team#1link]這是[%playerposition] 他的 高昂 活動 在內部， [%teamnickname]團隊是[%team#2link 暱稱]團隊 贏得[%game score]對抗 .( nl )(nl)遊戲 後 在新聞發布會上 他 像這樣 說。 ”在最後 也 不要過度 不要吧 進入 我答應了。謝謝 不要過度 沒有 簡潔的 涼爽的 搖擺 這是可能的。”(nl)(nl)今天 在比賽中 [%batting ab word] [%batting h word], [%batting rbi], [%batting r word ] 成績 已上傳.(nl)(nl)[%string#1]</TXT>
+        <COND id="62" value="1"/>
+    </OBJ>
+    <OBJ id="4833">
+        <TXT>[%personlink]玩家 今天在[ %ballpark]的[%game score] 按分數 勝利的 中間[%team#2link 暱稱]投手 瘦骨嶙峋的 毆打。 [% playerposition ] of [ %team#1link 暱稱] 他 天 一整天 球 無情地 搖擺它。（nl）（nl）”本壘打 打 好學的 案子 沒有。 ”他的 遊戲 後 這是一次採訪。 ”只是 好的 通過擺動 球 猜測 我願意。有時 那是 柵欄 外部 越過 做。今天 打 每一個 本壘打也 像那樣 朋友 ."(nl)(nl )今天 在比賽中 他得到[%batting ab]命中， [%batting h]命中， [%batting rbi]跑， [%batting r]跑 記錄.(nl)(nl)”今天[%personlink]玩家 太棒了。” [%team#2nickname ]的主管[%team#2 managerlink ] 此外 面試 通過 談了_ ”今天 比賽 那是 就是這樣。失敗的 原因 總結一下 沒錯。"(nl)(nl)[%string#1]</TXT>
+        <COND id="62" value="1"/>
+    </OBJ>
+    <OBJ id="4834">
+        <TXT>具有[%team#1link 暱稱] 的[%playerposition]的玩家[ %personlink] 選擇[ %ballpark]中的團隊 [%team#2link 暱稱] 反對 力量 炫耀。 [ % 遊戲得分] 團隊 [% team #1nickname]按得分 勝利的 中間[%personlink l]玩家有3 本壘打 打 單身的 按遊戲 記錄在案 保留 活動 .( nl )(nl)”左，右，中，任何地方 球 發送 數字 有。” [% team#2 managerlink] [ %team#2link]主管 在接受采訪時 說。 ”非常 強的 力量 儘管有 球 出色地 看 擊球手。”(nl)(nl)3 個本壘打和 一起[%personage]三 他得分[%batting ab word] [%batting h word], [%batting rbi] RBI , [%batting r]跑 效果很好。 (nl)(nl)匹配 後 自己的 損害 在哲學 關於 在問題中，玩家[%personname l] 像這樣 回答。 ”總是 逆境 未來 一家公司 出色地 必須忍受 做。保羅 掰 彷彿 我的意思是。適當地 變成了 球 來 準備 擺動它 將。今天 曾是 彷彿 ."(nl)(nl)[%string#1]</TXT >
+        <COND id="62" value="1"/>
+    </OBJ>
+    <OBJ id="4840">
+        <TXT>具有[%team#1link暱稱]的玩家 [%playerposition] [%personlink ] 今日起3件[%team#2link 暱稱] 擊出擊球[%ballpark] 外部 翻 很棒的演出 [%team#1nickname ]獲勝[ %game score] 幫助.(nl)(nl)”好的 那是一個球 我 出色地 打耳光。”他 遊戲 後 在接受采訪時 說。 ”第一的 第二 重的 這是一個快球，兩個 第二和 數數 第二 墜落 那是一條曲線。當然 數數 狗 全部 這是一種損失 我想。”(nl)(nl)今天 在比賽中， [%personname l]有[%batting ab] hits , [%batting h] hits , [%batting rbi] RBI , [%batting r word ] 記錄 .( nl )(nl)”本壘打和 直行 紙 一 頁 不同的是。” [%團隊經理]屬於[%團隊#1name] 遊戲 後 在接受采訪時 被留下來 我的意思是。 ”今天， [ %personname f] 柿子 適當地 抓住 事物 等於."(nl)(nl)[%string#1]</TXT>
+        <COND id="62" value="1"/>
+    </OBJ>
+    <OBJ id="17560">
+        <TXT>壞 工作 數數 th 爆炸' _ 神話 今天致[%team#2link 暱稱]團隊 至於 這是真的。(nl)(nl)[%team#1link] of [ % playerposition ] [%personlink] 本壘打 [ %ballpark]中的團隊[%team#1nickname]擊中[ %game score ] 按分數 你贏了。(nl)(nl)"我們 團隊圖 贏 機會 有 很遺憾 不贏 失敗。” [%team#2name] [%team#2 managerlink ] 這是一次採訪。 &quot;[%personlink l]播放器 也 出色地 我擊中了。”（nl）（nl）本壘打 除了[%personlink l] ，玩家[%batting ab word] [%batting h word], [%batting rbi] RBI , [%batting r word ] 記錄 我寫了.(nl)(nl)"簡潔的 抖音 謝謝 本壘打 七 數字 有。”遊戲 後 在接受采訪時 他 直接地 回答。 ”繼續 我 不要過度 不要吧 做了。鞦韆是 簡單的 簡明扼要 擺動它 . &quot;(nl)(nl)[%string#1]</TXT>
+        <COND id="62" value="1"/>
+    </OBJ>
+    <OBJ id="17561">
+        <TXT>[% personlink ]是 今天在[%ballpark] 本壘打 是模式。 [ % team #1link]的 [% playerposition ] 等於[ % batting rbi] RBI 和[%batting r]運行 提高 球隊 [% team #2nickname]打出3 個本壘打並在[%batting ab]擊球數[%batting h] 中安打 凍結 不要讓 做了。然而 這個 高昂 等級是 不重要 沒有。 [%team#2link]團隊 即使有3 個本壘打 儘管[%game score ]為 贏 .( nl )(nl)” 3個本壘打 打 情緒 好，但很重要 案子 輸贏。”叫 他 說.(nl)(nl)但[%personlink l] (是) 現在 聯盟 在登記冊中 上市 . (nl)(nl)”出色地 如果你出去 出色地 傳出 就是這樣。本壘打 目的是 沒有。今天是 運氣 好的 "(nl)(nl)[%string#1]</TXT >
+        <COND id="62" value="0"/>
+    </OBJ>
+    <OBJ id="19113">
+        <TXT>有時 有了這個 不夠 慣於 時間 . (nl)(nl)[%personlink](是)在[ %ballpark] 今天 3個本壘打 [%team#1link 暱稱]到團隊 高昂 天 天賦異禀。但是，團隊 [%team#1nickname ]會將[%game score]給團隊[ % team#2link 暱稱] 丟失.(nl)(nl)[%personlink l ] 給他 未來 球 全部 擊倒。 [ %personage]三個[%playerposition]人 這個 玩家有[%batting ab word]命中[%batting h word] ，命中[%batting r] 得分，[%batting rbi] RBI 記錄下來。這個 高昂 即使在活動中 儘管如此，隊伍 [%team#1nickname] 還是摧毀了隊伍[% team #2nickname] 打敗它 失敗.(nl)(nl ) 完畢 後 在採訪中， [%personname l]( is )是&quot;棒球是 樂趣 有 這是一項運動。打敗 原因 適當地 解釋 數字 無。 4擊中0安打 甚至記錄 獲勝 我也是 成為 將“叫 說.(nl)(nl)[%string#1]</TXT>
+        <COND id="62" value="0"/>
+    </OBJ>
+    <OBJ id="19343">
+        <TXT>[%team#1link] 的玩家 [%playerposition] [%personlink]在[ %ballpark]擊出3 個本壘打 爆炸了 中間[%team#1nickname]隊伍在[%team#2link 暱稱]之前贏得[%game score ] .( nl )(nl)今天 在一場比賽中，玩家[%personlink]得分[%batting r]並跑動[%batting rbi] 記錄下來。他 最後的 本壘打 朋友 瞬間，命中 聲音 聽 團隊 同事們 在板凳上 踴躍 家 帶盤子 傳入[%personlink l]玩家 朝向 我跑了.(nl)(nl)"一 到遊戲 但只有 真的 快樂的 這是一場比賽。 [%batting ab]擊球[%batting h]命中 記錄 在那些 如果你有3 個本壘打 更 沒錯。”欣喜若狂 圭雲 [% personname l]是 遊戲 之後致BNN記者 像這樣 回答。 ”偉大的 一天。"(nl)(nl)[%string#1]</TXT>
+        <COND id="62" value="1"/>
+    </OBJ>
+    <OBJ id="19344">
+        <TXT> [%team#1link]的玩家[%playerposition] [%personlink]選擇隊伍 [% team #2link 暱稱] 贏得[ %team#1nickname]的[ %game score ]對抗 領先時打出3 個本壘打 記錄.(nl)(nl)”好像今天 蝙蝠 如果你擺動 非常 害怕 播放器 成為 會。” [% team manager] of [% team #1link] 像這樣 說.(nl)(nl)再一次[% personlink l] 可怕的 記錄 離開了。 3 _ 本壘打 [%batting ab word] [%batting h word], [%batting r word], [%batting rbi]是 RBI .(nl)(nl)”我 只是 在比賽中 打 只是想 。 ”玩家的[%personname l] 這是一次採訪。 ”僅限本壘打 如果你全神貫注 事實上 毆打 更多的 很難。”(nl)(nl)[%string#1]</TXT>
+        <COND id="62" value="1"/>
+    </OBJ>
 </CAT>
 
-<CAT id="25">
-<OBJ id="66">
-<TXT>[%personname F L] 선수가 쏘아 올린 세 방</TXT>
-</OBJ>
-<OBJ id="67">
-<TXT>[%personname L], [%team#2name] 상대로 3홈런 기록</TXT>
-</OBJ>
-<OBJ id="3750">
-<TXT>[%personname L], 세 번이나 담장 밖으로 공을 보내다</TXT>
-</OBJ>
-<OBJ id="3751">
-<TXT>[%team#1name]의 [%personname L], 홈런 3개를 때리다</TXT>
-</OBJ>
-<OBJ id="3783">
-<TXT>[%personname F L], 세 번이나 담장을 넘기다</TXT>
-</OBJ>
-<OBJ id="3784">
-<TXT>[%personname L], 3홈런 달성</TXT>
-</OBJ>
-<OBJ id="3786">
-<TXT>[%personname L], [%team#2nickname] 상대로 3홈런 작렬</TXT>
-</OBJ>
-<OBJ id="3791">
-<TXT>[%personname L], [%team#2name] 상대로 3홈런 폭발</TXT>
-</OBJ>
-<OBJ id="15702">
-<TXT>[%team#2name] 상대로 쏘아 올린 [%personname l]의 홈런 세 방</TXT>
-</OBJ>
-<OBJ id="17473">
-<TXT>[%personname l], 관중석을 향해 홈런 3발 발사</TXT>
-</OBJ>
-<OBJ id="19215">
-<TXT>[%personname l]의 홈런 해트트릭</TXT>
-</OBJ>
-<OBJ id="19216">
-<TXT>[%personname l], 3홈런 기록</TXT>
-</OBJ>
-<OBJ id="19217">
-<TXT>홈런! 홈런! 홈런! [%personname l]의 3홈런 경기</TXT>
-</OBJ>
-<OBJ id="19221">
-<TXT>[%team#1nickname]의 [%personname l], 3홈런을 때리다</TXT>
-</OBJ>
-<OBJ id="19224">
-<TXT>[%personname l], 홈런 세 방으로 [%team#2nickname] 팀을 두들기다</TXT>
-</OBJ>
-<OBJ id="42335">
-<TXT>베테랑 [%personname L], 3홈런 작렬</TXT>
-<COND id="7" value="32"/>
-<COND id="9" value="8"/>
-</OBJ>
-</CAT>
+    <CAT id="25">
+        <OBJ id="66">
+            <TXT>[%人名 FL ] 射擊 提高 數數 房間</TXT>
+        </OBJ>
+        <OBJ id="67">
+            <TXT>[%personname L]，對[%team#2name] 的3 個本壘打 記錄</TXT>
+        </OBJ>
+        <OBJ id="3750">
+            <TXT>[%personname L]，三個 次 柵欄 外部 球 發送</TXT>
+        </OBJ>
+        <OBJ id="3751">
+            <TXT>[%team#1name]的 [%personname L]共[ %team#1name]擊出3 個本壘打 點擊</TXT>
+        </OBJ>
+        <OBJ id="3783">
+            <TXT>[%personname FL]，三個 次 柵欄 跳過</TXT>
+        </OBJ>
+        <OBJ id="3784">
+            <TXT>[%personname L]，3 個本壘打 實現</TXT>
+        </OBJ>
+        <OBJ id="3786">
+            <TXT>[%personname L]，對[%team#2nickname] 的3 個本壘打 爆破</TXT>
+        </OBJ>
+        <OBJ id="3791">
+            <TXT>[%personname L]，對[%team#2name] 的3 個本壘打 爆炸</TXT>
+        </OBJ>
+        <OBJ id="15702">
+            <TXT> 反對 [%team#2name ] 射擊 [ %personname l]已上傳 本壘打 數數 房間</TXT>
+        </OBJ>
+        <OBJ id="17473">
+            <TXT>[%personname l]，觀眾 朝向 3個本壘打 啟動</TXT>
+        </OBJ>
+        <OBJ id="19215">
+            <TXT> [%personname l] 本壘打 帽子戲法</TXT>
+        </OBJ>
+        <OBJ id="19216">
+            <TXT>[%personname l]，3 個本壘打 記錄</TXT>
+        </OBJ>
+        <OBJ id="19217">
+            <TXT>本壘打！本壘打！本壘打！ [%personname l] 3個本壘打 匹配</TXT>
+        </OBJ>
+        <OBJ id="19221">
+            <TXT>[%team#1nickname]的 [%personname l] of [ %team#1nickname] ，擊出 3 個本壘打 點擊</TXT>
+        </OBJ>
+        <OBJ id="19224">
+            <TXT>[%personname l]，本壘打 數數 團隊 [%team#2nickname]進入房間 擊敗</TXT>
+        </OBJ>
+        <OBJ id="42335">
+            <TXT>老將[%personname L]，3 個本壘打 爆破</TXT>
+            <COND id="7" value="32"/>
+            <COND id="9" value="8"/>
+        </OBJ>
+    </CAT>
 
-<CAT id="379">
-<OBJ id="14865">
-<TXT>[%personlink] 선수가 [%team#2link nickname]의 투수들을 강타했습니다. 그의 [%batting hr word] 기록은 [%subleaguename]의 기록으로 남을 것입니다.(nl)(nl)[%ballpark]에서 [%team#1link]의 [%playerposition]인 그는 계속해서 담장을 넘겼고, [%team#1nickname]의 [%game score] 승리를 이끌었습니다. 그는 이 역사적인 경기에서 [%batting ab]타수 [%batting h]안타, [%batting rbi]타점, [%batting r]득점을 기록했습니다.(nl)(nl)그는 경기 후 이렇게 말했습니다. &quot;처음에는 어떻게 넘어갔다는 생각이 들었죠. 하지만 마지막으로 담장을 넘겼을 때는 뭔가가 되는 날이구나 싶었습니다.&quot;(nl)(nl)[%string#1]</TXT>
-<COND id="62" value="1"/>
-</OBJ>
-<OBJ id="14868">
-<TXT>세기의 경기가 열렸습니다. [%team#1link nickname]의 [%playerposition], [%personlink] 선수가 [%ballpark]에서 [%team#2link nickname] 팀을 상대로 [%batting hr word]의 기록을 세웠습니다.(nl)(nl)[%personname l] 선수는 [%team#2nickname] 투수들을 상대로 몇 번이고 담장을 넘기면서 [%batting rbi]타점과 [%batting r]득점을 올렸고, [%team#1nickname] 팀은 [%game score]의 승리를 가져갔습니다.(nl)(nl)&quot;투수들은 던졌고 저는 쳤습니다. 오늘은 제가 그들보다 조금 나았을 뿐입니다.&quot; [%personname l] 선수가 역사적인 경기를 치른 이후 기자들 앞에 섰습니다. &quot;오늘은 제가 대승을 거두었지만 내일은 제가 [%batting hr]번이고 아웃을 당할지 모르는 일입니다.&quot;(nl)(nl)[%string#1]</TXT>
-<COND id="62" value="1"/>
-</OBJ>
-<OBJ id="17539">
-<TXT>어쩌면 야구 역사에서 패했지만 가장 인상적인 경기로 남을지도 모르겠습니다. [%team#1link nickname]의 [%personlink] 선수는 [%batting hr word]의 기록을 세웠지만 팀은 [%team#2link nickname] 상대로 패하고 말았습니다.(nl)(nl)[%personname l] 선수는 [%team#2name] 투수들을 상대로 일생일대의 활약을 펼쳤지만 팀을 승리로 이끌기에는 부족했습니다. 결과는 [%game score]로 [%team#2nickname]의 승리였습니다.(nl)(nl)&quot;어떻게 한 경기에서 [%batting hr word]의 기록을 세우고 질 수가 있을까요?&quot; 그는 경기 후 이렇게 말했습니다. &quot;솔직히 말해 어리둥절합니다.&quot;(nl)(nl)그는 [%batting ab]타수 [%batting h]안타, [%batting r]득점, [%batting rbi]타점을 기록했습니다.(nl)(nl)&quot;믿을 수 없는 활약이었습니다.&quot; [%team#2name] [%team#2 managerlink] 감독의 발언입니다. &quot;투수들이 최선을 다했지만 그가 좋은 공들을 잘 쳤습니다. 마치 홈런 치는 기계 같았습니다. 훌륭한 스윙이었습니다. 뭐든 던져도 담장 밖으로 날아갔을 겁니다.&quot;(nl)(nl)[%string#1]</TXT>
-<COND id="62" value="0"/>
-</OBJ>
-<OBJ id="19338">
-<TXT>오늘 [%team#2link nickname] 투수들 가운데 [%personlink] 선수를 막을 선수는 없었습니다.(nl)(nl)[%team#1link nickname]의 [%personage]세 [%playerposition]인 그는 [%ballpark]에서 [%batting hr]개의 홈런을 기록하면서 역사에 자신의 이름을 남겼습니다. 그의 활약 속에 [%team#1nickname] 팀은 [%game score]의 점수로 [%team#2nickname] 팀에게 승리했습니다.(nl)(nl)&quot;순위표에서는 똑같은 1패겠지만 아주 기분이 좋지 않은 패배입니다.&quot; [%team#2nickname]의 [%team#2 managerlink] 감독은 인터뷰에서 이렇게 답했습니다. &quot;우리 팀은 그야말로 두들겨 맞았습니다.&quot;(nl)(nl)꿈만 같은 활약을 펼친 [%personname l] 선수의 기록은 [%batting ab word] [%batting h]안타, [%batting hr]홈런, [%batting rbi]타점, [%batting r]득점이었습니다.(nl)(nl)경기 후 라커룸 안에서 [%personname l] 선수는 기자들에게 이렇게 답했습니다. &quot;오늘은 제 이야기만 실릴 것 같은데 그것도 좋습니다. 다음번에는 다른 선수가 저처럼 활약할 겁니다.&quot;(nl)(nl)[%string#1]</TXT>
-<COND id="62" value="1"/>
-</OBJ>
-</CAT>
+    <CAT id="379">
+        <OBJ id="14865">
+            <TXT>[% personlink] [ %team#2link 暱稱]的玩家 投手 打。他的[%batting hr word]記錄是[ %subleaguename] 按記錄 保留 是.(nl)(nl)[%ballpark]到[ %team#1link ]的[%playerposition] 他 繼續 柵欄 通過, [%team#1nickname]獲勝[%game score] 領導_他 這個 歷史性 [%batting ab]每場擊球數[%batting h]命中數， [%batting rbi]跑動， [%batting r]跑動數 寫了.(nl)(nl)他 遊戲 後 像這樣 說。 ”最初 如何 過去了 思維 我聽說了。然而 最後 柵欄 過去了 什麼時候 某物 砍伐 這是一天 &quot;(nl)(nl)[%string#1]</TXT >
+            <COND id="62" value="1"/>
+        </OBJ>
+        <OBJ id="14868">
+            <TXT> 世紀的匹配 打開。 [ %team#1link 暱稱] 、[ %personlink]的玩家[%playerposition]在[%ballpark]中選擇球隊 [% team #2link 暱稱] [ %batting hr word]反對 記錄 .(nl)(nl)[%personname l]球員[%team#2nickname ]投手 反對 一些 一遍又一遍 柵欄 [%batting rbi] RBI 和[%batting r]在傳球時跑動 ，並且 [%team# 1nickname ]團隊是[ %game score] 贏 我拿走了它。（nl）（nl）”投手 拋出 我 打。今天是 我 比他們 小的 本來會更好 只有。” [%personname l]玩家 歷史性 玩個遊戲 發生 後 記者 前 站著。 ”今天是 我 偉大的勝利 我拿了 明天 我在[%batting hr ] 出去 是否成為 不知道 工作。"(nl)(nl)[%string#1]</TXT>
+            <COND id="62" value="1"/>
+        </OBJ>
+        <OBJ id="17539">
+            <TXT>也許 棒球 在歷史上 丟失的 最多 氣勢磅礴 京畿路 可能會留下 我不知道。 [ %team#1link 暱稱]的玩家[ % personlink]是[%batting hr word]的玩家 記錄 我建造了 球隊將對陣[%team#2link 暱稱] 失去 .(nl)(nl)[%personname l]球員[%team#2name ]投手 反對 一生的 活動 展開 團隊 走向勝利 領導 還不夠。結果是[ %team#2nickname ]的[%game score ] 這是一場胜利。(nl)(nl)”如何 一 比賽中的[%batting hr word] 記錄 站起來 質量 醫療費 會有嗎？ ”他 遊戲 後 像這樣 說。 ”老實說 說吧 困惑.”(nl)(nl)他在bats [%batting h] hits , [%batting r] runs , [%batting rbi] RBI時得到 [%batting ab] 記錄.(nl)(nl)”相信 數字 沒有 這是一項活動。” [%team#2name] [%team#2 managerlink ] 這是一個聲明。 ”投手 盡力而為 我受夠了 他 好的 球 出色地 打。喜歡 本壘打 引人注目 機器 就像_出色的 這是鞦韆。任何 即使被扔 柵欄 外部 會飛的 . &quot;(nl)(nl)[%string#1]</TXT>
+            <COND id="62" value="0"/>
+        </OBJ>
+        <OBJ id="19338">
+            <TXT>今天[%team#2link 暱稱]投手 中間[%personlink]玩家 停止 玩家 (nl)(nl)[ % personage] [ %team# 1link暱稱]的三個[%playerposition ] 他在[ %ballpark]有[%batting hr ] 本壘打 錄製時 在歷史上 自己的 姓名 離開了。他的 活動 [ %game score]中的[%team#1nickname]球隊 [%team#2nickname]球隊得分 你贏了。(nl)(nl)"在排行榜中 這將是相同的損失 非常 感覺 好的 不是 這是一場失敗。” [% team#2 managerlink] [%team#2nickname]的主管 在接受采訪時 像這樣 回答。 ”我們 團隊 真的 毆打 沒錯。”(nl)(nl)只有夢想 相同的 活動 展開[%personname l]的玩家 記錄是[%batting ab word] [%batting h] hits , [%batting hr] home runs , [%batting rbi] runs , [%batting r] runs .(nl)(nl)匹配 後 更衣室 在 [%personname l]中，玩家是 對記者 像這樣 回答。 ”今天是 我的 只講故事 甲矽烷基 事物 好像 那個也是 好。下次 不同的 播放器 像我這樣的 積極 . &quot;(nl)(nl)[%string#1]</TXT>
+            <COND id="62" value="1"/>
+        </OBJ>
+    </CAT>
 
-<CAT id="666">
-<OBJ id="24297">
-<TXT>공에 맞았습니다!(nl)[%game base1] 선수는 피하려고 했지만...(nl)공에 맞고 말았습니다.(nl)수비 방해로 아웃 선언됩니다.(nl)[%game batter] 선수의 안타로 기록됩니다.(nl)1루로 진루합니다.</TXT>
-</OBJ>
-<OBJ id="45277">
-<TXT>공이 주자인 [%game base1] 선수를 스쳤습니다!(nl)심판이 아웃을 선언합니다...(nl)타자인 [%game batter] 선수가 1루로 향합니다.</TXT>
-</OBJ>
-</CAT>
+    <CAT id="666">
+        <OBJ id="24297">
+            <TXT>在球上 沒錯！(nl)[%game base1]玩家是 盡量避免 但是...（nl）在球上 打 .( nl )防禦 受阻 出去 宣布.(nl)[%game 麵糊] 有命中 它被記錄下來。（nl）1 rou 前進。</TXT>
+        </OBJ>
+        <OBJ id="45277">
+            <TXT>球 跑步者[% game base1] ! ( nl)裁判 出去 宣布...(nl)擊球手[%game 擊球手]進入一壘 標題。</TXT>
+        </OBJ>
+    </CAT>
 
-<CAT id="669">
-<OBJ id="25075">
-<TXT>[%team#1link]의 [%playerposition], [%personlink] 선수의 회복 기간이 길어질 것 같습니다. 구단에서는 [%personname l] 선수가 재활에 차질을 겪으면서 최소 [%injurytime] 이상 로스터에 복귀하지 못할 것이라 발표했습니다. 그는 [%injurydescription] 부상 치료를 받고 있습니다.</TXT>
-</OBJ>
-<OBJ id="25088">
-<TXT>[%personlink] 선수의 [%injurydescription] 부상 소식입니다. 추가로 몇 경기 더 결장할 예정입니다. 어제까지는 치료가 순조롭게 진행되었지만 [%team#1nickname]의 [%playerposition]인 그가 운동 도중 무리를 하는 바람에 문제가 생겼습니다. [%team#1link]의 의료진은 회복까지 [%injurytime] 이상 걸릴 것으로 내다봤습니다.</TXT>
-</OBJ>
-<OBJ id="25103">
-<TXT>팀 대변인에 따르면 [%team#1link nickname]의 [%playerposition], [%personlink] 선수는 [%injurydescription]에서 문제없이 회복 중이었지만 어제 문제가 발생했다고 합니다. &quot;[%personlink f] 선수의 재활이 순조로웠지만 얼마 전 운동에서 다소 무리했습니다. 현재 의사 소견으로는 [%injurytime] 이후에 다시 팀에 합류할 수 있을 것 같습니다.&quot;</TXT>
-</OBJ>
-<OBJ id="25120">
-<TXT>[%team#1link nickname]의 [%playerposition]인 [%personlink] 선수가 [%injurydescription]에서 회복하는 듯했지만 다시 난관에 봉착한 것 같습니다. 의사들의 의견에 따르면 어제까지 치료가 진행 중이었고, 운동 도중 [%personlink l] 선수가 약간의 통증을 느꼈습니다. 추가 검진 결과 부상이 심화되었고 [%injurytime] 이상 출전할 수 없을 듯합니다.</TXT>
-</OBJ>
-<OBJ id="25153">
-<TXT>[%team#1link nickname] 팀이 [%playerposition] [%personlink] 선수 없이 보내야 하는 기간이 예상보다 길어질 것입니다. 팀 의료진에 따르면 [%personlink l] 선수의 [%injurydescription] 회복이 잘 진행되지 않아 더 많은 시간이 필요할 것 같습니다. [%team#1nickname]의 트레이너는 [%personlink l] 선수가 다시 경기에 나서려면 [%injurytime]의 시간이 필요할 것 같다고 언급했습니다.</TXT>
-</OBJ>
-<OBJ id="25158">
-<TXT>[%team#1link]의 [%playerposition], [%personlink] 선수가 [%injurydescription] 회복에 어려움을 겪습니다. [%team#1nickname] 관계자에 따르면 [%injurytime] 동안 출전하지 못할 것이라 합니다.
+    <CAT id="669">
+        <OBJ id="25075">
+            <TXT>[ %team#1link]的[%playerposition]，玩家的[%personlink] 恢復 時期 被加長 事物 一樣。在俱樂部，球員[%personname l] 在康復中 挫折 經歷 至少[ %受傷時間] 在名冊上 不回來 不能 將 宣布。他受傷了[%injurydescription] 治療 在下面 有。</TXT>
+        </OBJ>
+        <OBJ id="25088">
+            <TXT>玩家[%personlink]受傷[%injurydescription ] 新聞。添加 一些 遊戲 更多的 缺席 這是計劃好的。直到昨天 治療師 有利 進步了，但[ %team#1nickname ]的[ %playerposition ] 他 鍛煉 在路上 群 正在做 在風中 問題 已創建。 [ %team#1link] 醫務人員 [%injurytime]或更多直到恢復 拿 作為 我很期待。</TXT>
+        </OBJ>
+        <OBJ id="25103">
+            <TXT>團隊 給發言人 根據[%team#1link 暱稱] , [%playerposition] , [%personlink]玩家[%injurydescription] 沒問題 恢復 在中間 昨天 問題 它發生了 做。 &quot;[%personlink f]玩家的 復原 但進展順利 多少錢 我是 在運動中 一點 這太過分了。今天 醫生 在我看來，在[%injurytime]之後 再次 在團隊中 加入 數字 成為 事物 等於。”</TXT>
+        </OBJ>
+        <OBJ id="25120">
+            <TXT>在[ %injurydescription ]中具有[ %team#1link 暱稱]的[%playerposition] 的玩家[%personlink ] 恢復 似乎 再次 麻煩 遭遇 事物 一樣。醫生 在評論中 根據 直到昨天 治療師 進步 正在練習中 在[%personlink l]期間，玩家 輕微地 疼痛 我感覺到了。添加 清理 結果 受傷 加深並超過[%injurytime] 參加 數字 將沒有 好像。</TXT>
+        </OBJ>
+        <OBJ id="25153">
+            <TXT>[%team#1link 暱稱]隊伍是玩家[%playerposition] [%personlink] 沒有 必鬚髮送 正在做 時期 超出預期 被加長 將。團隊 給醫務人員 根據[%personlink l]玩家[%injurydescription]恢復 出色地 沒有進步 不 更多的 許多 這次 需要 事物 一樣。 [ %team#1暱稱] 培訓師[%personlink l ] 再次 到遊戲 走出[ %injurytime] 這次 需要 事物 一樣的 提到了。</TXT>
+        </OBJ>
+        <OBJ id="25158">
+            <TXT>[ %team#1link]的[%playerposition]，玩家[ %personlink]有[%injurydescription] 困難 受苦。 [%team#1nickname]給官方 根據[ %injurytime] 不參加 不能 將 做。
 
-&quot;의사들이 치료 경과에 우려를 표했고 결국 [%personlink l] 선수가 경기에 나설 수 있을 때까지 시간이 더 필요하다는 결론을 내렸습니다.&quot; 팀의 대변인이 기자들에게 설명했습니다.</TXT>
-</OBJ>
-<OBJ id="25267">
-<TXT>[%team#1link]에 또 하나의 안 좋은 소식이 들렸습니다. 의사들의 말에 따르면 [%team#1nickname]의 [%playerposition]인 [%personlink] 선수가 회복에 어려움을 겪으면서 [%injurydescription] 부상 기간이 길어질 것이라 합니다. [%personlink l] 선수는 복귀 날짜가 다가오는 상황이었지만 이제 [%injurytime] 연장되고 말았습니다.</TXT>
-</OBJ>
-</CAT>
+”醫生 治愈 隨著時間的推移 關心 表達 最後，玩家[%personlink l] 到遊戲 出去 數字 成為 直到 這次 更多的 這是必要的 結論 下車了。”團隊的 發言人 對記者 解釋了。</TXT>
+        </OBJ>
+        <OBJ id="25267">
+            <TXT>在[%team#1link] 此外 單身的 不是 好的 消息 我聽到了。醫生 騎馬 根據[%team#1nickname] ，玩家[ % personlink] 與[%playerposition] 在恢復中 困難 [%injurydescription]受苦時受傷 時期 被加長 將 做。 [%personlink l]玩家是 回來 過時的 迎面而來 是這種情況 現在[%injurytime]已延長 </TXT>
+        </OBJ>
+    </CAT>
 
-<CAT id="32">
-<OBJ id="356">
-<TXT>[%subleagueabbr] 이주의 선수, [%teamname]의 [%personname L]</TXT>
-</OBJ>
-<OBJ id="358">
-<TXT>[%subleagueabbr], [%teamname] [%playerposition capital]에게 상 수여</TXT>
-</OBJ>
-<OBJ id="362">
-<TXT>[%teamname]의 [%playerposition capital], [%subleagueabbr] 선수상 획득</TXT>
-</OBJ>
-<OBJ id="366">
-<TXT>[%subleagueabbr] 이주의 선수 선정</TXT>
-</OBJ>
-<OBJ id="370">
-<TXT>[%personname l], [%subleagueabbr] 이주의 선수 수상</TXT>
-</OBJ>
-<OBJ id="376">
-<TXT>[%personname l], 이번 주 최고의 [%subleagueabbr] 선수</TXT>
-</OBJ>
-<OBJ id="381">
-<TXT>이주의 선수: [%teamnickname]의 [%personname L]</TXT>
-</OBJ>
-<OBJ id="387">
-<TXT>이번 주 최고의 선수: [%teamname]의 [%personname L]</TXT>
-</OBJ>
-<OBJ id="388">
-<TXT>[%subleagueabbr], 이주의 선수 수상자 발표</TXT>
-</OBJ>
-<OBJ id="794">
-<TXT>[%teamname]의 [%personname F L], 최고의 한 주</TXT>
-</OBJ>
-<OBJ id="796">
-<TXT>뜨거운 기세의 [%personname L], [%subleagueabbr] 이주의 선수</TXT>
-</OBJ>
-<OBJ id="800">
-<TXT>맹타를 휘두른 [%personname l], [%subleagueabbr] 수상자로 선정</TXT>
-</OBJ>
-<OBJ id="803">
-<TXT>[%personname l], [%subleagueabbr] 최고의 선수상 획득</TXT>
-</OBJ>
-<OBJ id="811">
-<TXT>[%subleaguename], 최고의 타자로 [%personname l] 낙점</TXT>
-</OBJ>
-<OBJ id="816">
-<TXT>[%personname l]: [%subleaguename] 최고의 선수</TXT>
-</OBJ>
-<OBJ id="819">
-<TXT>뜨거운 기세의 [%personname L], 이주의 선수로 선정</TXT>
-</OBJ>
-<OBJ id="824">
-<TXT>[%subleagueabbr] 위클리 MVP 발표</TXT>
-</OBJ>
-<OBJ id="15662">
-<TXT>[%subleagueabbr], 최고의 선수 발표</TXT>
-</OBJ>
-<OBJ id="15663">
-<TXT>[%teamnickname]의 [%personname l], [%subleagueabbr] 최고의 선수로 선정</TXT>
-</OBJ>
-<OBJ id="15671">
-<TXT>[%subleagueabbr] 최고의 선수, [%teamname]의 [%personname L]</TXT>
-</OBJ>
-<OBJ id="15677">
-<TXT>[%personname L], 주간 최고의 선수</TXT>
-</OBJ>
-<OBJ id="15682">
-<TXT>이주의 선수: [%teamname]의 [%personname L]</TXT>
-</OBJ>
-<OBJ id="15689">
-<TXT>[%teamname]의 [%personname l], 최고의 한 주를 보내다!</TXT>
-</OBJ>
-</CAT>
+    <CAT id="32">
+        <OBJ id="356">
+            <TXT>[%subleagueabbr]遷移週 玩家，[ %teamname ]的[%personname L ]</TXT>
+        </OBJ>
+        <OBJ id="358">
+            <TXT>致 [%subleagueabbr], [%teamname] [%playerposition capital ] 獎 獎勵</TXT>
+        </OBJ>
+        <OBJ id="362">
+            <TXT>[% playerposition capital] , [%subleagueabbr] [%teamname] 的球員獎勵 獲取</TXT>
+        </OBJ>
+        <OBJ id="366">
+            <TXT>[%subleagueabbr]遷移週 播放器 選擇</TXT>
+        </OBJ>
+        <OBJ id="370">
+            <TXT>[%personname l], [%subleagueabbr]遷移通知 播放器 獎勵</TXT>
+        </OBJ>
+        <OBJ id="376">
+            <TXT>[%personname l]，這次 主要的 最佳[%subleagueabbr]球員</TXT>
+        </OBJ>
+        <OBJ id="381">
+            <TXT>遷移 玩家：[ %personname L] of [%teamnickname]</TXT>
+        </OBJ>
+        <OBJ id="387">
+            <TXT>這次 主要的 偉大的 玩家：[ %personname L] of [%teamname]</TXT>
+        </OBJ>
+        <OBJ id="388">
+            <TXT>[%subleagueabbr]，遷移週 播放器 優勝者 公告</TXT>
+        </OBJ>
+        <OBJ id="794">
+            <TXT>[%teamname]來自[%personname FL]，最佳 一 一周</TXT>
+        </OBJ>
+        <OBJ id="796">
+            <TXT>熱 [%personname L], [%subleagueabbr]遷移動量 播放器</TXT>
+        </OBJ>
+        <OBJ id="800">
+            <TXT>吹 使用[%personname l], [%subleagueabbr]作為獲勝者 選擇</TXT>
+        </OBJ>
+        <OBJ id="803">
+            <TXT>[%personname l], [%subleagueabbr]最佳 球員獎 獲取</TXT>
+        </OBJ>
+        <OBJ id="811">
+            <TXT>[%subleaguename]，最好的 輸入[%personname l] </TXT>
+        </OBJ>
+        <OBJ id="816">
+            <TXT>[%personname l]: [%subleaguename]最佳 播放器</TXT>
+        </OBJ>
+        <OBJ id="819">
+            <TXT>熱 動量[%personname L]，遷移 作為玩家 選擇</TXT>
+        </OBJ>
+        <OBJ id="824">
+            <TXT>[%subleagueabbr]每週MVP公告</TXT>
+        </OBJ>
+        <OBJ id="15662">
+            <TXT>[%subleagueabbr]，最好的 播放器 公告</TXT>
+        </OBJ>
+        <OBJ id="15663">
+            <TXT>[personname l], [%subleagueabbr ] of [ %teamnickname] 中的最佳 作為玩家 選擇</TXT>
+        </OBJ>
+        <OBJ id="15671">
+            <TXT>[%subleagueabbr]最佳 玩家，[ %teamname ]的[%personname L ]</TXT>
+        </OBJ>
+        <OBJ id="15677">
+            <TXT>[%personname L]，每週 偉大的 播放器</TXT>
+        </OBJ>
+        <OBJ id="15682">
+            <TXT>遷移 玩家：[ %personname L] of [%teamname]</TXT>
+        </OBJ>
+        <OBJ id="15689">
+            <TXT>[%teamname]來自[%personname l]，最佳 一 星期 發送！</TXT>
+        </OBJ>
+    </CAT>
 
 <CAT id="33">
 <OBJ id="453">
