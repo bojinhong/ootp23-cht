@@ -4,16 +4,16 @@
 
 <CAT id="13">
     <OBJ id="16880">
-        <TXT>[%personname l]，二壘 輸入...</TXT>
+        <TXT>[%personname l] 攻佔二壘...</TXT>
     </OBJ>
     <OBJ id="19839">
-        <TXT>[%personname l]，二壘 朝向 我去……</TXT>
+        <TXT>[%personname l] 攻佔二壘...</TXT>
     </OBJ>
     <OBJ id="24142">
-        <TXT>[%personname L]，二壘 標題...</TXT>
+        <TXT>[%personname L] 攻佔二壘...</TXT>
     </OBJ>
     <OBJ id="27338">
-        <TXT>[%personname L]，二壘 它會動……</TXT>
+        <TXT>[%personname L] 攻佔二壘...</TXT>
     </OBJ>
     <OBJ id="28619">
         <TXT>2基地 朝向 瘦[%personname L]...</TXT>
@@ -22,25 +22,25 @@
         <TXT>2樓 朝著[%personname L]...</TXT>
     </OBJ>
     <OBJ id="32999">
-        <TXT>[%personname L]，二壘 朝向 轉到...</TXT>
+        <TXT>[%personname L] 攻佔二壘...</TXT>
     </OBJ>
     <OBJ id="35910">
-        <TXT>[%personname L]，二壘 標題...</TXT>
+        <TXT>[%personname L] 攻佔二壘...</TXT>
     </OBJ>
     <OBJ id="40430">
-        <TXT>[%personname L]，二壘 我去……</TXT>
+        <TXT>[%personname L] 攻佔二壘...</TXT>
     </OBJ>
     <OBJ id="46884">
         <TXT>2樓 動畫[%personname l]...</TXT>
     </OBJ>
     <OBJ id="50484">
-        <TXT>[%personname l]，到二壘 輸入...</TXT>
+        <TXT>[%personname l] 攻佔二壘...</TXT>
     </OBJ>
     <OBJ id="50485">
-        <TXT>[%personname l]，到二壘 輸入...</TXT>
+        <TXT>[%personname l] 攻佔二壘...</TXT>
     </OBJ>
     <OBJ id="50492">
-        <TXT>[%personname l]，到第二基地...</TXT>
+        <TXT>[%personname l] 攻佔二壘...</TXT>
     </OBJ>
     <OBJ id="55023">
         <TXT>2樓 [%人名L]...</TXT>
@@ -49,40 +49,40 @@
 
 <CAT id="14">
     <OBJ id="7696">
-        <TXT>[%personname l]，三壘 我前進……</TXT>
+        <TXT>[%personname l] 攻佔三壘...</TXT>
     </OBJ>
     <OBJ id="16879">
-        <TXT>[%personname l]，三壘 輸入...</TXT>
+        <TXT>[%personname l] 攻佔三壘...</TXT>
     </OBJ>
     <OBJ id="19829">
-        <TXT>[%personname l]，三壘 朝向 它會動……</TXT>
+        <TXT>[%personname l] 攻佔三壘...</TXT>
     </OBJ>
     <OBJ id="27339">
-        <TXT>[%personname L]，三壘 它會動……</TXT>
+        <TXT>[%personname L] 攻佔三壘...</TXT>
     </OBJ>
     <OBJ id="28620">
         <TXT>3鹼基 朝向 瘦[%personname L]...</TXT>
     </OBJ>
     <OBJ id="30797">
-        <TXT>[%personname L]，三壘 我去……</TXT>
+        <TXT>[%personname L] 攻佔三壘...</TXT>
     </OBJ>
     <OBJ id="33000">
-        <TXT>[%personname L]，三壘 它會動……</TXT>
+        <TXT>[%personname L] 攻佔三壘...</TXT>
     </OBJ>
     <OBJ id="33906">
-        <TXT>[%personname L]，三壘 標題...</TXT>
+        <TXT>[%personname L] 攻佔三壘...</TXT>
     </OBJ>
     <OBJ id="35604">
-        <TXT>[%personname L]，三壘 標題...</TXT>
+        <TXT>[%personname L] 攻佔三壘...</TXT>
     </OBJ>
     <OBJ id="50480">
-        <TXT>[%personname L]，三壘 輸入...</TXT>
+        <TXT>[%personname L] 攻佔三壘...</TXT>
     </OBJ>
     <OBJ id="50481">
-        <TXT>[%personname L]，三壘 輸入...</TXT>
+        <TXT>[%personname L] 攻佔三壘...</TXT>
     </OBJ>
     <OBJ id="50482">
-        <TXT>[%personname L]，三壘 輸入...</TXT>
+        <TXT>[%personname L] 攻佔三壘...</TXT>
     </OBJ>
     <OBJ id="50609">
         <TXT>3露露 朝著[%personname l]...</TXT>
@@ -94,25 +94,25 @@
 
 <CAT id="15">
     <OBJ id="7720">
-        <TXT>[%personname l]，得分...</TXT>
+        <TXT>[%personname l] 衝回本壘得分...</TXT>
     </OBJ>
     <OBJ id="7722">
-        <TXT> [%personname l]玩家得分...</TXT>
+        <TXT>[%personname l] 衝回本壘得分...</TXT>
     </OBJ>
     <OBJ id="7729">
         <TXT> [%personname l] 得分 正在導入[%game teamab]...</TXT>
     </OBJ>
     <OBJ id="7733">
-        <TXT>[%personname l]，得分 成功...</TXT>
+        <TXT>[%personname l] 衝回本壘得分...</TXT>
     </OBJ>
     <OBJ id="7734">
-        <TXT>[%personname l]，家 進來……</TXT>
+        <TXT>[%personname l] 衝回本壘得分...</TXT>
     </OBJ>
     <OBJ id="16885">
-        <TXT>[%personname l]，得分...</TXT>
+        <TXT>[%personname l] 衝回本壘得分...</TXT>
     </OBJ>
     <OBJ id="19831">
-        <TXT>[%personname l]，得分...</TXT>
+        <TXT>[%personname l] 衝回本壘得分...</TXT>
     </OBJ>
     <OBJ id="27980">
         <TXT>首頁 踏[%personname L]...</TXT>
@@ -121,7 +121,7 @@
         <TXT>分數 發布[%personname L]...</TXT>
     </OBJ>
     <OBJ id="57345">
-        <TXT>[%personname L]，得分...</TXT>
+        <TXT>[%personname L] 衝回本壘得分...</TXT>
     </OBJ>
 </CAT>
 
@@ -234,7 +234,7 @@
 
 <CAT id="12">
     <OBJ id="25">
-        <TXT>球 數數 一 球，兩個 罷工。</TXT>
+        <TXT>球數 1好球 2壞球。</TXT>
         <COND id="60" value="1"/>
         <COND id="61" value="2"/>
     </OBJ>
@@ -511,76 +511,76 @@
 
 <CAT id="18">
     <OBJ id="10977">
-        <TXT>跑步者，移動中……</TXT>
+        <TXT>跑者開始啟動...</TXT>
     </OBJ>
     <OBJ id="10979">
-        <TXT>跑步者 出發……</TXT>
+        <TXT>跑者開始啟動...</TXT>
     </OBJ>
     <OBJ id="10981">
-        <TXT>跑步者 它會動……</TXT>
+        <TXT>跑者開始啟動...</TXT>
     </OBJ>
     <OBJ id="33072">
-        <TXT>跑步者 它會動……</TXT>
+        <TXT>跑者開始啟動...</TXT>
     </OBJ>
     <OBJ id="33074">
-        <TXT>跑步者 它會動……</TXT>
+        <TXT>跑者開始啟動...</TXT>
     </OBJ>
     <OBJ id="39944">
-        <TXT>跑步者 轉到...</TXT>
+        <TXT>跑者開始啟動...</TXT>
     </OBJ>
     <OBJ id="39947">
-        <TXT>跑步者 轉到...</TXT>
+        <TXT>跑者開始啟動...</TXT>
     </OBJ>
 </CAT>
 
 <CAT id="19">
     <OBJ id="11350">
-        <TXT>[%personname l]，到二壘 標題...</TXT>
+        <TXT>[%personname l] 開始衝到二壘...</TXT>
     </OBJ>
     <OBJ id="11356">
-        <TXT>[%personname l]，運行...</TXT>
+        <TXT>[%personname l] 開始衝到二壘...</TXT>
     </OBJ>
     <OBJ id="11358">
-        <TXT>[%personname l]，到二壘 繼續……</TXT>
+        <TXT>[%personname l] 開始衝到二壘...</TXT>
     </OBJ>
     <OBJ id="35621">
         <TXT>賽跑者 它會動……</TXT>
     </OBJ>
     <OBJ id="35679">
-        <TXT>[%personname l]，運行...</TXT>
+        <TXT>[%personname l] 開始衝到二壘...</TXT>
     </OBJ>
     <OBJ id="35681">
-        <TXT>[%personname l]，移動...</TXT>
+        <TXT>[%personname l] 開始衝到二壘...</TXT>
     </OBJ>
     <OBJ id="49960">
-        <TXT>[%personname l]玩家，移動中……</TXT>
+        <TXT>[%personname l] 開始衝到二壘...</TXT>
     </OBJ>
 </CAT>
 
 <CAT id="20">
     <OBJ id="10989">
-        <TXT>[%personname l]，家 標題...</TXT>
+        <TXT>[%personname l] 開始衝回本壘...</TXT>
     </OBJ>
     <OBJ id="10991">
-        <TXT>[%personname l]，家 趕...</TXT>
+        <TXT>[%personname l] 開始衝回本壘...</TXT>
     </OBJ>
     <OBJ id="10993">
-        <TXT>[%personname l]，運行...</TXT>
+        <TXT>[%personname l] 開始衝回本壘...</TXT>
     </OBJ>
     <OBJ id="10995">
-        <TXT>[%personname l]，運行...</TXT>
+        <TXT>[%personname l] 開始衝回本壘...</TXT>
     </OBJ>
 </CAT>
 
 <CAT id="21">
     <OBJ id="11001">
-        <TXT>[%personname l]，三壘 運行...</TXT>
+        <TXT>[%personname l] 開始衝向三壘...</TXT>
     </OBJ>
     <OBJ id="36785">
-        <TXT>賽跑者，三壘 標題...</TXT>
+        <TXT>跑者開始衝向三壘...</TXT>
     </OBJ>
     <OBJ id="40637">
-        <TXT>[%personname l]，三壘 它會動……</TXT>
+        <TXT>[%personname l] 開始衝向三壘...</TXT>
     </OBJ>
 </CAT>
 
@@ -866,49 +866,49 @@
             <TXT>[%人名 FL ] 射擊 提高 數數 房間</TXT>
         </OBJ>
         <OBJ id="67">
-            <TXT>[%personname L]，對[%team#2name] 的3 個本壘打 記錄</TXT>
+            <TXT>[%personname L] 對 [%team#2name] 打出三支全壘打</TXT>
         </OBJ>
         <OBJ id="3750">
-            <TXT>[%personname L]，三個 次 柵欄 外部 球 發送</TXT>
+            <TXT>[%personname L] 打出三支全壘打</TXT>
         </OBJ>
         <OBJ id="3751">
-            <TXT>[%team#1name]的 [%personname L]共[ %team#1name]擊出3 個本壘打 點擊</TXT>
+            <TXT>[%team#1name] 的 [%personname L] 共 [ %team#1name] 打出三支全壘打</TXT>
         </OBJ>
         <OBJ id="3783">
-            <TXT>[%personname FL]，三個 次 柵欄 跳過</TXT>
+            <TXT>[%personname FL] 打出三支全壘打</TXT>
         </OBJ>
         <OBJ id="3784">
-            <TXT>[%personname L]，3 個本壘打 實現</TXT>
+            <TXT>[%personname L] 打出三支全壘打</TXT>
         </OBJ>
         <OBJ id="3786">
-            <TXT>[%personname L]，對[%team#2nickname] 的3 個本壘打 爆破</TXT>
+            <TXT>[%personname L] 對 [%team#2nickname] 打出三支全壘打</TXT>
         </OBJ>
         <OBJ id="3791">
-            <TXT>[%personname L]，對[%team#2name] 的3 個本壘打 爆炸</TXT>
+            <TXT>[%personname L] 對 [%team#2name] 打出三支全壘打</TXT>
         </OBJ>
         <OBJ id="15702">
             <TXT> 反對 [%team#2name ] 射擊 [ %personname l]已上傳 本壘打 數數 房間</TXT>
         </OBJ>
         <OBJ id="17473">
-            <TXT>[%personname l]，觀眾 朝向 3個本壘打 啟動</TXT>
+            <TXT>[%personname l] 打出三支全壘打</TXT>
         </OBJ>
         <OBJ id="19215">
-            <TXT> [%personname l] 本壘打 帽子戲法</TXT>
+            <TXT>[%personname l] 打出三支全壘打</TXT>
         </OBJ>
         <OBJ id="19216">
-            <TXT>[%personname l]，3 個本壘打 記錄</TXT>
+            <TXT>[%personname l] 打出三支全壘打</TXT>
         </OBJ>
         <OBJ id="19217">
             <TXT>本壘打！本壘打！本壘打！ [%personname l] 3個本壘打 匹配</TXT>
         </OBJ>
         <OBJ id="19221">
-            <TXT>[%team#1nickname]的 [%personname l] of [ %team#1nickname] ，擊出 3 個本壘打 點擊</TXT>
+            <TXT>[%team#1nickname] 的 [%personname l] of [ %team#1nickname] ，擊出 3 個本壘打 點擊</TXT>
         </OBJ>
         <OBJ id="19224">
             <TXT>[%personname l]，本壘打 數數 團隊 [%team#2nickname]進入房間 擊敗</TXT>
         </OBJ>
         <OBJ id="42335">
-            <TXT>老將[%personname L]，3 個本壘打 爆破</TXT>
+            <TXT>老將 [%personname L] 打出三支全壘打</TXT>
             <COND id="7" value="32"/>
             <COND id="9" value="8"/>
         </OBJ>
@@ -970,7 +970,7 @@
 
     <CAT id="32">
         <OBJ id="356">
-            <TXT>[%subleagueabbr]遷移週 玩家，[ %teamname ]的[%personname L ]</TXT>
+            <TXT>[%subleagueabbr]本週最佳球員是[ %teamname ]的[%personname L ]</TXT>
         </OBJ>
         <OBJ id="358">
             <TXT>致 [%subleagueabbr], [%teamname] [%playerposition capital ] 獎 獎勵</TXT>
@@ -5552,221 +5552,221 @@
 
 <CAT id="147">
 <OBJ id="7019">
-<TXT>3루 쪽으로...</TXT>
+<TXT>落在三壘邊線...</TXT>
 </OBJ>
 <OBJ id="18441">
-<TXT>3루 파울 라인을 따라...</TXT>
+<TXT>落在三壘邊線...</TXT>
 </OBJ>
 <OBJ id="33915">
-<TXT>3루 파울 라인 근처...</TXT>
+<TXT>落在三壘邊線...</TXT>
 </OBJ>
 <OBJ id="51630">
-<TXT>3루 파울 라인 근처에서...</TXT>
+<TXT>落在三壘邊線...</TXT>
 </OBJ>
 </CAT>
 
 <CAT id="148">
 <OBJ id="9313">
-<TXT>3루 쪽으로...</TXT>
+<TXT>落在三壘附近...</TXT>
 </OBJ>
 <OBJ id="9316">
-<TXT>좌측으로...</TXT>
+<TXT>落在三壘附近...</TXT>
 </OBJ>
 <OBJ id="9318">
-<TXT>3루를 따라...</TXT>
+<TXT>落在三壘附近...</TXT>
 </OBJ>
 <OBJ id="9322">
-<TXT>3루 쪽으로...</TXT>
+<TXT>落在三壘附近...</TXT>
 </OBJ>
 <OBJ id="9331">
-<TXT>3루 쪽으로...</TXT>
+<TXT>落在三壘附近...</TXT>
 </OBJ>
 <OBJ id="9348">
-<TXT>3루를 따라...</TXT>
+<TXT>落在三壘附近...</TXT>
 </OBJ>
 </CAT>
 
 <CAT id="149">
 <OBJ id="7824">
-<TXT>좌측으로...</TXT>
+<TXT>穿越左邊的防線漏洞...</TXT>
 </OBJ>
 <OBJ id="28949">
-<TXT>좌측으로...</TXT>
+<TXT>穿越左邊的防線漏洞...</TXT>
 </OBJ>
 <OBJ id="36525">
-<TXT>좌측으로...</TXT>
+<TXT>穿越左邊的防線漏洞...</TXT>
 </OBJ>
 <OBJ id="36610">
-<TXT>좌측으로...</TXT>
+<TXT>穿越左邊的防線漏洞...</TXT>
 </OBJ>
 <OBJ id="36611">
-<TXT>좌측으로...</TXT>
+<TXT>穿越左邊的防線漏洞...</TXT>
 </OBJ>
 </CAT>
 
 <CAT id="150">
 <OBJ id="6283">
-<TXT>내야 왼쪽으로 흐릅니다...</TXT>
+<TXT>左邊內野滾地球...</TXT>
 </OBJ>
 <OBJ id="6294">
-<TXT>유격수 방향...</TXT>
+<TXT>左邊內野滾地球...</TXT>
 </OBJ>
 <OBJ id="6297">
-<TXT>내야 왼쪽으로 향합니다...</TXT>
+<TXT>左邊內野滾地球...</TXT>
 </OBJ>
 <OBJ id="6299">
-<TXT>유격수 방향...</TXT>
+<TXT>左邊內野滾地球...</TXT>
 </OBJ>
 <OBJ id="31378">
-<TXT>좌측으로...</TXT>
+<TXT>左邊內野滾地球...</TXT>
 </OBJ>
 </CAT>
 
 <CAT id="151">
 <OBJ id="5252">
-<TXT>가운데로 향합니다...</TXT>
+<TXT>穿過投手丘...</TXT>
 </OBJ>
 <OBJ id="9349">
-<TXT>가운데로 향합니다...</TXT>
+<TXT>穿過投手丘...</TXT>
 </OBJ>
 <OBJ id="9352">
-<TXT>가운데로 향합니다...</TXT>
+<TXT>穿過投手丘...</TXT>
 </OBJ>
 <OBJ id="9363">
-<TXT>가운데로 흐릅니다...</TXT>
+<TXT>穿過投手丘...</TXT>
 </OBJ>
 <OBJ id="9366">
-<TXT>가운데로 향합니다...</TXT>
+<TXT>穿過投手丘...</TXT>
 </OBJ>
 <OBJ id="9369">
-<TXT>가운데로 향합니다...</TXT>
+<TXT>穿過投手丘...</TXT>
 </OBJ>
 <OBJ id="9370">
-<TXT>가운데로 흐릅니다...</TXT>
+<TXT>穿過投手丘...</TXT>
 </OBJ>
 <OBJ id="9375">
-<TXT>가운데로 흐릅니다...</TXT>
+<TXT>穿過投手丘...</TXT>
 </OBJ>
 <OBJ id="9382">
-<TXT>가운데로 흐릅니다...</TXT>
+<TXT>穿過投手丘...</TXT>
 </OBJ>
 <OBJ id="9384">
-<TXT>가운데로 흐릅니다...</TXT>
+<TXT>穿過投手丘...</TXT>
 </OBJ>
 <OBJ id="9402">
-<TXT>중앙으로 향합니다...</TXT>
+<TXT>穿過投手丘...</TXT>
 </OBJ>
 <OBJ id="40559">
-<TXT>가운데로 흐릅니다...</TXT>
+<TXT>穿過投手丘...</TXT>
 </OBJ>
 </CAT>
 
 <CAT id="152">
 <OBJ id="6056">
-<TXT>2루 방향...</TXT>
+<TXT>朝著二壘方向過去...</TXT>
 </OBJ>
 <OBJ id="6058">
-<TXT>2루 쪽으로...</TXT>
+<TXT>朝著二壘方向過去...</TXT>
 </OBJ>
 <OBJ id="6071">
-<TXT>오른쪽으로...</TXT>
+<TXT>朝著二壘方向過去...</TXT>
 </OBJ>
 <OBJ id="18383">
-<TXT>오른쪽으로...</TXT>
+<TXT>朝著二壘方向過去...</TXT>
 </OBJ>
 <OBJ id="18384">
-<TXT>2루 방향...</TXT>
+<TXT>朝著二壘方向過去...</TXT>
 </OBJ>
 </CAT>
 
 <CAT id="153">
 <OBJ id="35507">
-<TXT>우측으로...</TXT>
+<TXT>穿越右邊的防線漏洞...</TXT>
 </OBJ>
 <OBJ id="36528">
-<TXT>우측으로...</TXT>
+<TXT>穿越右邊的防線漏洞...</TXT>
 </OBJ>
 <OBJ id="36529">
-<TXT>우측으로...</TXT>
+<TXT>穿越右邊的防線漏洞...</TXT>
 </OBJ>
 <OBJ id="36613">
-<TXT>오른쪽으로...</TXT>
+<TXT>穿越右邊的防線漏洞...</TXT>
 </OBJ>
 <OBJ id="36614">
-<TXT>우측으로...</TXT>
+<TXT>穿越右邊的防線漏洞...</TXT>
 </OBJ>
 </CAT>
 
 <CAT id="154">
 <OBJ id="6106">
-<TXT>1루 방향으로...</TXT>
+<TXT>朝著一壘方向過去...</TXT>
 </OBJ>
 <OBJ id="6107">
-<TXT>1루 방향으로...</TXT>
+<TXT>朝著一壘方向過去...</TXT>
 </OBJ>
 <OBJ id="6112">
-<TXT>1루 방향으로...</TXT>
+<TXT>朝著一壘方向過去...</TXT>
 </OBJ>
 <OBJ id="6120">
-<TXT>1루 방향...</TXT>
+<TXT>朝著一壘方向過去...</TXT>
 </OBJ>
 <OBJ id="6127">
-<TXT>오른쪽으로...</TXT>
+<TXT>朝著一壘方向過去...</TXT>
 </OBJ>
 </CAT>
 
 <CAT id="155">
 <OBJ id="7056">
-<TXT>1루 파울 라인을 따라...</TXT>
+<TXT>沿著一壘邊線...</TXT>
 </OBJ>
 <OBJ id="18448">
-<TXT>1루 파울 라인을 따라...</TXT>
+<TXT>沿著一壘邊線...</TXT>
 </OBJ>
 <OBJ id="33878">
-<TXT>1루 쪽으로...</TXT>
+<TXT>沿著一壘邊線...</TXT>
 </OBJ>
 <OBJ id="33880">
-<TXT>1루 파울 라인 근처...</TXT>
+<TXT>沿著一壘邊線...</TXT>
 </OBJ>
 <OBJ id="40824" only_once_per_x2="1">
-<TXT>1루 파울 라인 안으로...</TXT>
+<TXT>沿著一壘邊線...</TXT>
 </OBJ>
 </CAT>
 
 <CAT id="156">
 <OBJ id="9419">
-<TXT>투수 정면...</TXT>
+<TXT>在投手附近...</TXT>
 </OBJ>
 <OBJ id="9432">
-<TXT>마운드 쪽으로 갑니다...</TXT>
+<TXT>在投手附近...</TXT>
 </OBJ>
 </CAT>
 
 <CAT id="157">
 <OBJ id="5246">
-<TXT>홈 플레이트 앞...</TXT>
+<TXT>本壘板前軟弱滾地球...</TXT>
 <COND id="57" value="2"/>
 </OBJ>
 <OBJ id="7835">
-<TXT>홈 플레이트 근처...</TXT>
+<TXT>本壘板前軟弱滾地球...</TXT>
 </OBJ>
 <OBJ id="7841">
-<TXT>홈 플레이트 근처를 구릅니다...</TXT>
+<TXT>本壘板前軟弱滾地球...</TXT>
 <COND id="57" value="2"/>
 </OBJ>
 <OBJ id="7849">
-<TXT>홈 플레이트 근처...</TXT>
+<TXT>本壘板前軟弱滾地球...</TXT>
 <COND id="57" value="2"/>
 </OBJ>
 <OBJ id="7850">
-<TXT>홈 플레이트 근처...</TXT>
+<TXT>本壘板前軟弱滾地球...</TXT>
 </OBJ>
 <OBJ id="7851">
-<TXT>홈 플레이트 근처에서...</TXT>
+<TXT>本壘板前軟弱滾地球...</TXT>
 <COND id="57" value="2"/>
 </OBJ>
 <OBJ id="7869">
-<TXT>홈 플레이트 앞에서...</TXT>
+<TXT>本壘板前軟弱滾地球...</TXT>
 </OBJ>
 </CAT>
 
@@ -5817,76 +5817,76 @@
 
 <CAT id="159">
 <OBJ id="6523">
-<TXT>[%game groundball location] 방향 땅볼...</TXT>
+<TXT>[%game groundball location] 滾地球...</TXT>
 </OBJ>
 <OBJ id="6525">
-<TXT>[%game groundball location] 방향 땅볼...</TXT>
+<TXT>[%game groundball location] 滾地球...</TXT>
 </OBJ>
 <OBJ id="6526">
-<TXT>[%game groundball location] 방향으로 구르는 공...</TXT>
+<TXT>[%game groundball location] 滾地球...</TXT>
 </OBJ>
 <OBJ id="6530">
-<TXT>[%game groundball location] 방향으로 흐르는 공...</TXT>
+<TXT>[%game groundball location] 滾地球...</TXT>
 </OBJ>
 <OBJ id="6532">
-<TXT>[%game groundball location] 방향으로 구르는 공...</TXT>
+<TXT>[%game groundball location] 滾地球...</TXT>
 </OBJ>
 <OBJ id="6768">
-<TXT>[%game groundball location] 쪽으로 흐르는 공...</TXT>
+<TXT>[%game groundball location] 滾地球...</TXT>
 </OBJ>
 <OBJ id="6773">
-<TXT>[%game groundball location] 방향의 땅볼...</TXT>
+<TXT>[%game groundball location] 滾地球...</TXT>
 </OBJ>
 <OBJ id="6774">
-<TXT>[%game groundball location] 방향으로 구르는 공...</TXT>
+<TXT>[%game groundball location] 滾地球...</TXT>
 </OBJ>
 <OBJ id="6788">
-<TXT>[%game groundball location] 방향으로 흐르는 공...</TXT>
+<TXT>[%game groundball location] 滾地球...</TXT>
 </OBJ>
 <OBJ id="6790">
-<TXT>[%game groundball location] 방향으로 튀는 땅볼...</TXT>
+<TXT>[%game groundball location] 滾地球...</TXT>
 </OBJ>
 <OBJ id="22906">
-<TXT>[%game groundball location] 앞에서 높게 튀는 타구...</TXT>
+<TXT>[%game groundball location] 滾地球...</TXT>
 </OBJ>
 <OBJ id="22910" usage_chance_for_game="1" only_once_per_x2="1">
-<TXT>[%game groundball location] 방향의 땅볼...</TXT>
+<TXT>[%game groundball location] 滾地球...</TXT>
 </OBJ>
 </CAT>
 
 <CAT id="160">
 <OBJ id="8314">
-<TXT>[%game groundball location] 방향 천천히 흐르는 타구...</TXT>
+<TXT>[%game groundball location] 軟弱滾地球...</TXT>
 </OBJ>
 <OBJ id="8316">
-<TXT>[%game groundball location] 방향 느린 땅볼...</TXT>
+<TXT>[%game groundball location] 軟弱滾地球...</TXT>
 </OBJ>
 <OBJ id="8320">
-<TXT>[%game groundball location] 방향으로 약하게 굴러갑니다...</TXT>
+<TXT>[%game groundball location] 軟弱滾地球...</TXT>
 </OBJ>
 <OBJ id="8334">
-<TXT>[%game groundball location] 방향의 땅볼...</TXT>
+<TXT>[%game groundball location] 軟弱滾地球...</TXT>
 </OBJ>
 <OBJ id="8337">
-<TXT>[%game groundball location] 방향으로 힘없이 구릅니다...</TXT>
+<TXT>[%game groundball location] 軟弱滾地球...</TXT>
 </OBJ>
 <OBJ id="8352">
-<TXT>[%game groundball location] 방향으로 천천히 흐르는 공...</TXT>
+<TXT>[%game groundball location] 軟弱滾地球...</TXT>
 </OBJ>
 <OBJ id="8358">
-<TXT>[%game groundball location] 방향으로 힘없이 구르는 타구...</TXT>
+<TXT>[%game groundball location] 軟弱滾地球...</TXT>
 </OBJ>
 <OBJ id="58300" only_once_per_x2="1">
-<TXT>[%game groundball location] 방향 느린 땅볼...</TXT>
+<TXT>[%game groundball location] 軟弱滾地球...</TXT>
 </OBJ>
 <OBJ id="58303" only_once_per_x2="1">
-<TXT>[%game groundball location] 방향의 느린 땅볼...</TXT>
+<TXT>[%game groundball location] 軟弱滾地球...</TXT>
 </OBJ>
 </CAT>
 
 <CAT id="161">
 <OBJ id="5341">
-<TXT>사용하지 않는 카테고리</TXT>
+<TXT>分類不使用</TXT>
 </OBJ>
 </CAT>
 
@@ -16289,31 +16289,31 @@
 
 <CAT id="280">
 <OBJ id="10310">
-<TXT>[%game homerun distance]까지 날아갔습니다.</TXT>
+<TXT>[%game homerun distance]的全壘打</TXT>
 </OBJ>
 <OBJ id="10314">
-<TXT>타구 비거리는 [%game homerun distance].</TXT>
+<TXT>飛行距離[%game homerun distance].</TXT>
 </OBJ>
 <OBJ id="10316">
-<TXT>[%game homerun distance] 비거리의 홈런.</TXT>
+<TXT>[%game homerun distance]的全壘打</TXT>
 </OBJ>
 <OBJ id="10320">
-<TXT>타구가 [%game homerun distance] 만큼 날아갔습니다.</TXT>
+<TXT>大約 [%game homerun distance]的全壘打</TXT>
 </OBJ>
 <OBJ id="10321">
-<TXT>타구 비거리는 [%game homerun distance].</TXT>
+<TXT>飛行距離 [%game homerun distance].</TXT>
 </OBJ>
 <OBJ id="22900">
-<TXT>[%game homerun distance] 만큼 날아갔습니다.</TXT>
+<TXT>[%game homerun distance] 的全壘打</TXT>
 </OBJ>
 <OBJ id="22902">
-<TXT>[%game homerun distance]까지 타구를 보냈습니다.</TXT>
+<TXT>[%game homerun distance]的全壘打</TXT>
 </OBJ>
 <OBJ id="36429">
-<TXT>홈런 비거리는 [%game homerun distance]였습니다.</TXT>
+<TXT>飛行距離 [%game homerun distance]的全壘打</TXT>
 </OBJ>
 <OBJ id="36431">
-<TXT>홈 플레이트에서 [%game homerun distance] 만큼이나 날아갔습니다.</TXT>
+<TXT>飛行距離 [%game homerun distance] 的全壘打</TXT>
 </OBJ>
 </CAT>
 
