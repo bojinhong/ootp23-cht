@@ -5,7 +5,11 @@ OOTP 23 繁體中文化
 OOTP 有韓國版之後讓中文化有了可能性，再加上網路上搜尋到日本網友製作日文版的流程 (https://reurl.cc/l9eyNv) ，所以評估決定可行
 
 ## Demo畫面
-![遊戲進入頁](https://bojin-pdfserver.s3.ap-northeast-1.amazonaws.com/demo1.png)
+![遊戲頁面](https://bojin-pdfserver.s3.ap-northeast-1.amazonaws.com/demo1.png)
+![遊戲頁面](https://bojin-pdfserver.s3.ap-northeast-1.amazonaws.com/demo2.png)
+![遊戲頁面](https://bojin-pdfserver.s3.ap-northeast-1.amazonaws.com/demo3.png)
+![遊戲頁面](https://bojin-pdfserver.s3.ap-northeast-1.amazonaws.com/demo4.png)
+![遊戲頁面](https://bojin-pdfserver.s3.ap-northeast-1.amazonaws.com/demo5.png)
 
 ## 使用方式
 - Step 1: 下載本專案的所有檔案
