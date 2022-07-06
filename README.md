@@ -4,6 +4,9 @@ OOTP 23 繁體中文化
 ## 原因
 OOTP 有韓國版之後讓中文化有了可能性，再加上網路上搜尋到日本網友製作日文版的流程 (https://reurl.cc/l9eyNv) ，所以評估決定可行
 
+## Demo畫面
+![遊戲進入頁](https://bojin-pdfserver.s3.ap-northeast-1.amazonaws.com/demo1.png)
+
 ## 使用方式
 - Step 1: 下載本專案的所有檔案
 - Step 2: 找到你的 OOTP 23 的應用程式資料夾，將本專案的所有檔案依照對應的位置放入並覆蓋原先的檔案（建議先將原檔案備份，如中文化檔案導致遊戲損毀可用備份檔還原即可）
