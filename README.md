@@ -10,6 +10,7 @@ OOTP 有韓國版之後讓中文化有了可能性，再加上網路上搜尋到
 ![遊戲頁面](https://bojin-pdfserver.s3.ap-northeast-1.amazonaws.com/demo3.png)
 ![遊戲頁面](https://bojin-pdfserver.s3.ap-northeast-1.amazonaws.com/demo4.png)
 ![遊戲頁面](https://bojin-pdfserver.s3.ap-northeast-1.amazonaws.com/demo5.png)
+![遊戲頁面](https://bojin-pdfserver.s3.ap-northeast-1.amazonaws.com/demo6.png)
 
 ## 使用方式
 - Step 1: 下載本專案的所有檔案
