@@ -7140,7 +7140,7 @@
   </TI>
   <TI i="684" pid="3" tid="1" nid="0" soid="0" sf="1" pt="0" im="1" ena="1">
    <EN>Welcome to the team home screen. Here you’ll find overviews of your team, lineups, staff, and history.</EN>
-   <KR></KR>
+   <KR>歡迎來到球隊主介面。在這裡，您將找到您的團隊，陣容，員工和歷史的概述。</KR>
    <ES></ES>
    <JP></JP>
    <CN></CN>
@@ -7153,7 +7153,7 @@
   </TI>
   <TI i="685" pid="3" tid="1" nid="0" soid="213" sf="2" pt="0" im="1" ena="1">
    <EN>Use these tabs to switch between overview sections.</EN>
-   <KR></KR>
+   <KR>使用這些選項卡可以在概述部分之間切換。</KR>
    <ES></ES>
    <JP></JP>
    <CN></CN>
@@ -7166,7 +7166,7 @@
   </TI>
   <TI i="686" pid="3" tid="4" nid="0" soid="0" sf="1" pt="0" im="1" ena="1">
    <EN>Welcome to your to roster screen. This is where you can find all players in your organization. Tap on the name of any player in order to be taken to their player screen.</EN>
-   <KR></KR>
+   <KR>歡迎來到您的名冊螢幕。在這裡您可以找到組織中的所有參與者。點選任何玩家的名字，以進入他們的玩家螢幕。</KR>
    <ES></ES>
    <JP></JP>
    <CN></CN>
@@ -7179,7 +7179,7 @@
   </TI>
   <TI i="687" pid="3" tid="5" nid="0" soid="0" sf="1" pt="0" im="1" ena="1">
    <EN>This transaction screen is helpful for moving players between different levels of your organization.</EN>
-   <KR></KR>
+   <KR>此事務螢幕有助於在組織的不同等級之間移動玩家。</KR>
    <ES></ES>
    <JP></JP>
    <CN></CN>
@@ -7192,7 +7192,7 @@
   </TI>
   <TI i="688" pid="3" tid="4" nid="0" soid="213" sf="2" pt="0" im="1" ena="1">
    <EN>Use these tabs to navigate to different sections of your organization.</EN>
-   <KR></KR>
+   <KR>使用這些選項卡可以導航到組織的不同部分。</KR>
    <ES></ES>
    <JP></JP>
    <CN></CN>
@@ -7205,7 +7205,7 @@
   </TI>
   <TI i="689" pid="3" tid="5" nid="0" soid="0" sf="2" pt="0" im="1" ena="1">
    <EN>Use the + buttons next to the players’ names to select them, then use the &lt;&lt; and &gt;&gt; buttons to move them from one section to the other.</EN>
-   <KR></KR>
+   <KR>使用球員名字旁邊的 + 按鈕選擇他們，然後使用 &lt;&lt; 和 &gt;&gt; 按鈕，將它們從一個部分移動到另一個部分。</KR>
    <ES></ES>
    <JP></JP>
    <CN></CN>
@@ -7218,7 +7218,7 @@
   </TI>
   <TI i="690" pid="3" tid="11" nid="0" soid="0" sf="1" pt="0" im="1" ena="1">
    <EN>Welcome to the team pitching screen. If you control a team, this is where you can manage your pitchers and their roles.</EN>
-   <KR></KR>
+   <KR>歡迎來到球隊投球畫面。如果你控制一支球隊，這是你可以管理你的投手和他們的角色。</KR>
    <ES></ES>
    <JP></JP>
    <CN></CN>
@@ -7231,7 +7231,7 @@
   </TI>
   <TI i="691" pid="3" tid="11" nid="0" soid="213" sf="2" pt="0" im="1" ena="1">
    <EN>Use these tabs to switch between the rotation and bullpen.</EN>
-   <KR></KR>
+   <KR>使用這些選項卡在旋轉和牛棚之間切換。</KR>
    <ES></ES>
    <JP></JP>
    <CN></CN>
@@ -7244,7 +7244,7 @@
   </TI>
   <TI i="692" pid="3" tid="17" nid="0" soid="0" sf="1" pt="0" im="1" ena="1">
    <EN>Welcome to the lineups screen. This is where you can set the batting order and the starters’ positions. Hold then drag and drop players to reorder them.</EN>
-   <KR></KR>
+   <KR>歡迎來到陣容螢幕。  在這裡您可以設定擊球順序和先發位置。  按住然後拖放玩家以重新排序。</KR>
    <ES></ES>
    <JP></JP>
    <CN></CN>
@@ -7257,7 +7257,7 @@
   </TI>
   <TI i="693" pid="3" tid="42" nid="0" soid="213" sf="2" pt="0" im="1" ena="1">
    <EN>You can set the depth charts for matchups versus right and left handed pitchers separately.</EN>
-   <KR></KR>
+   <KR>您可以分別設定匹配與右手和左手投手的深度圖。</KR>
    <ES></ES>
    <JP></JP>
    <CN></CN>
