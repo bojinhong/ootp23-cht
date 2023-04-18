@@ -5788,7 +5788,7 @@
   </TI>
   <TI i="565" pid="3" tid="1" nid="566" soid="81" sf="1" pt="0" im="0" ena="1">
    <EN>Welcome back to the Hawks home screen. For this tutorial we will head over to the front office screen and then one tab further.</EN>
-   <KR>歡迎回到老鷹隊的主屏幕。對於本教程，我們將前往前台頁面以從該頁面獲取一個選項卡。</KR>
+   <KR>歡迎回到老鷹隊主畫面。在這個教學中，我們將轉到前台畫面，然後再轉到下一個標籤頁。</KR>
    <ES>Bienvenido de nuevo a la pantalla de inicio de los Hawks. Para este tutorial, nos dirigiremos a la página principal para tomar una pestaña de esa página.</ES>
    <JP>ホークスのホーム画面にようこそ。このチュートリアルでは、フロントオフィスのページに移動して、そのページからタブを取得します。</JP>
    <CN>歡迎回到老鷹隊的主屏幕。對於本教程，我們將前往前台頁面以從該頁面獲取一個選項卡。</CN>
@@ -7699,7 +7699,7 @@
   </TI>
   <TI i="727" pid="5" tid="4" nid="0" soid="0" sf="1" pt="0" im="1" ena="1">
    <EN>Welcome to your inbox. This is where you will receive messages that you are subscribed to. You can change your subscription settings in the manager settings, on the inbox tab.</EN>
-   <KR></KR>
+   <KR>歡迎來到您的收件匣。這裡是您訂閱的訊息接收地點。您可以在管理員設定中的收件匣選項卡中更改您的訂閱設定。</KR>
    <ES></ES>
    <JP></JP>
    <CN></CN>
@@ -7764,7 +7764,7 @@
   </TI>
   <TI i="732" pid="4" tid="1" nid="0" soid="0" sf="1" pt="0" im="1" ena="1">
    <EN>This is the player overview screen. Here you can see this player’s info, stats, and general ratings. Among other things, these ratings will heavily influence how well this player will perform in different areas of their game.</EN>
-   <KR></KR>
+   <KR>這是球員總覽畫面，您可以在此看到球員的資訊、數據和一般評價。其中，這些評價將在許多方面影響這位球員在比賽中的表現。</KR>
    <ES></ES>
    <JP></JP>
    <CN></CN>
@@ -8141,7 +8141,7 @@
   </TI>
   <TI i="761" pid="53" tid="3" nid="0" soid="0" sf="1" pt="1" im="1" ena="1">
    <EN>The Card Shop is where you can go to buy and sell cards in the Perfect Team Universe. Every active card is listed in the Card Shop and you can filter by card type, card value, positions, ratings player name and missions. You can also filter out cards you already own. You can post up to a total of 50 buy and sell orders combined.</EN>
-   <KR></KR>
+   <KR>「卡片商店」是您在完美球隊宇宙中買賣卡片的地方。每張有效的卡片都會列在卡片商店中，您可以按照卡片類型、卡片價值、位置、評級球員名稱和任務進行篩選。您也可以過濾已擁有的卡片。您最多可以張貼總計 50 張買入和賣出訂單的組合。</KR>
    <ES></ES>
    <JP></JP>
    <CN></CN>
