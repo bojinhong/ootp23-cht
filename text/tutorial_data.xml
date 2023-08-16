@@ -5788,7 +5788,7 @@
   </TI>
   <TI i="565" pid="3" tid="1" nid="566" soid="81" sf="1" pt="0" im="0" ena="1">
    <EN>Welcome back to the Hawks home screen. For this tutorial we will head over to the front office screen and then one tab further.</EN>
-   <KR>歡迎回到老鷹隊的主屏幕。對於本教程，我們將前往前台頁面以從該頁面獲取一個選項卡。</KR>
+   <KR>歡迎回到老鷹隊主畫面。在這個教學中，我們將轉到前台畫面，然後再轉到下一個標籤頁。</KR>
    <ES>Bienvenido de nuevo a la pantalla de inicio de los Hawks. Para este tutorial, nos dirigiremos a la página principal para tomar una pestaña de esa página.</ES>
    <JP>ホークスのホーム画面にようこそ。このチュートリアルでは、フロントオフィスのページに移動して、そのページからタブを取得します。</JP>
    <CN>歡迎回到老鷹隊的主屏幕。對於本教程，我們將前往前台頁面以從該頁面獲取一個選項卡。</CN>
@@ -7140,7 +7140,7 @@
   </TI>
   <TI i="684" pid="3" tid="1" nid="0" soid="0" sf="1" pt="0" im="1" ena="1">
    <EN>Welcome to the team home screen. Here you’ll find overviews of your team, lineups, staff, and history.</EN>
-   <KR></KR>
+   <KR>歡迎來到球隊主介面。在這裡，您將找到您的團隊，陣容，員工和歷史的概述。</KR>
    <ES></ES>
    <JP></JP>
    <CN></CN>
@@ -7153,7 +7153,7 @@
   </TI>
   <TI i="685" pid="3" tid="1" nid="0" soid="213" sf="2" pt="0" im="1" ena="1">
    <EN>Use these tabs to switch between overview sections.</EN>
-   <KR></KR>
+   <KR>使用這些選項卡可以在概述部分之間切換。</KR>
    <ES></ES>
    <JP></JP>
    <CN></CN>
@@ -7166,7 +7166,7 @@
   </TI>
   <TI i="686" pid="3" tid="4" nid="0" soid="0" sf="1" pt="0" im="1" ena="1">
    <EN>Welcome to your to roster screen. This is where you can find all players in your organization. Tap on the name of any player in order to be taken to their player screen.</EN>
-   <KR></KR>
+   <KR>歡迎來到您的名冊螢幕。在這裡您可以找到組織中的所有參與者。點選任何玩家的名字，以進入他們的玩家螢幕。</KR>
    <ES></ES>
    <JP></JP>
    <CN></CN>
@@ -7179,7 +7179,7 @@
   </TI>
   <TI i="687" pid="3" tid="5" nid="0" soid="0" sf="1" pt="0" im="1" ena="1">
    <EN>This transaction screen is helpful for moving players between different levels of your organization.</EN>
-   <KR></KR>
+   <KR>此事務螢幕有助於在組織的不同等級之間移動玩家。</KR>
    <ES></ES>
    <JP></JP>
    <CN></CN>
@@ -7192,7 +7192,7 @@
   </TI>
   <TI i="688" pid="3" tid="4" nid="0" soid="213" sf="2" pt="0" im="1" ena="1">
    <EN>Use these tabs to navigate to different sections of your organization.</EN>
-   <KR></KR>
+   <KR>使用這些選項卡可以導航到組織的不同部分。</KR>
    <ES></ES>
    <JP></JP>
    <CN></CN>
@@ -7205,7 +7205,7 @@
   </TI>
   <TI i="689" pid="3" tid="5" nid="0" soid="0" sf="2" pt="0" im="1" ena="1">
    <EN>Use the + buttons next to the players’ names to select them, then use the &lt;&lt; and &gt;&gt; buttons to move them from one section to the other.</EN>
-   <KR></KR>
+   <KR>使用球員名字旁邊的 + 按鈕選擇他們，然後使用 &lt;&lt; 和 &gt;&gt; 按鈕，將它們從一個部分移動到另一個部分。</KR>
    <ES></ES>
    <JP></JP>
    <CN></CN>
@@ -7218,7 +7218,7 @@
   </TI>
   <TI i="690" pid="3" tid="11" nid="0" soid="0" sf="1" pt="0" im="1" ena="1">
    <EN>Welcome to the team pitching screen. If you control a team, this is where you can manage your pitchers and their roles.</EN>
-   <KR></KR>
+   <KR>歡迎來到球隊投球畫面。如果你控制一支球隊，這是你可以管理你的投手和他們的角色。</KR>
    <ES></ES>
    <JP></JP>
    <CN></CN>
@@ -7231,7 +7231,7 @@
   </TI>
   <TI i="691" pid="3" tid="11" nid="0" soid="213" sf="2" pt="0" im="1" ena="1">
    <EN>Use these tabs to switch between the rotation and bullpen.</EN>
-   <KR></KR>
+   <KR>使用這些選項卡在旋轉和牛棚之間切換。</KR>
    <ES></ES>
    <JP></JP>
    <CN></CN>
@@ -7244,7 +7244,7 @@
   </TI>
   <TI i="692" pid="3" tid="17" nid="0" soid="0" sf="1" pt="0" im="1" ena="1">
    <EN>Welcome to the lineups screen. This is where you can set the batting order and the starters’ positions. Hold then drag and drop players to reorder them.</EN>
-   <KR></KR>
+   <KR>歡迎來到陣容螢幕。  在這裡您可以設定擊球順序和先發位置。  按住然後拖放玩家以重新排序。</KR>
    <ES></ES>
    <JP></JP>
    <CN></CN>
@@ -7257,7 +7257,7 @@
   </TI>
   <TI i="693" pid="3" tid="42" nid="0" soid="213" sf="2" pt="0" im="1" ena="1">
    <EN>You can set the depth charts for matchups versus right and left handed pitchers separately.</EN>
-   <KR></KR>
+   <KR>您可以分別設定匹配與右手和左手投手的深度圖。</KR>
    <ES></ES>
    <JP></JP>
    <CN></CN>
@@ -7699,7 +7699,7 @@
   </TI>
   <TI i="727" pid="5" tid="4" nid="0" soid="0" sf="1" pt="0" im="1" ena="1">
    <EN>Welcome to your inbox. This is where you will receive messages that you are subscribed to. You can change your subscription settings in the manager settings, on the inbox tab.</EN>
-   <KR></KR>
+   <KR>歡迎來到您的收件匣。這裡是您訂閱的訊息接收地點。您可以在管理員設定中的收件匣選項卡中更改您的訂閱設定。</KR>
    <ES></ES>
    <JP></JP>
    <CN></CN>
@@ -7764,7 +7764,7 @@
   </TI>
   <TI i="732" pid="4" tid="1" nid="0" soid="0" sf="1" pt="0" im="1" ena="1">
    <EN>This is the player overview screen. Here you can see this player’s info, stats, and general ratings. Among other things, these ratings will heavily influence how well this player will perform in different areas of their game.</EN>
-   <KR></KR>
+   <KR>這是球員總覽畫面，您可以在此看到球員的資訊、數據和一般評價。其中，這些評價將在許多方面影響這位球員在比賽中的表現。</KR>
    <ES></ES>
    <JP></JP>
    <CN></CN>
@@ -8141,7 +8141,7 @@
   </TI>
   <TI i="761" pid="53" tid="3" nid="0" soid="0" sf="1" pt="1" im="1" ena="1">
    <EN>The Card Shop is where you can go to buy and sell cards in the Perfect Team Universe. Every active card is listed in the Card Shop and you can filter by card type, card value, positions, ratings player name and missions. You can also filter out cards you already own. You can post up to a total of 50 buy and sell orders combined.</EN>
-   <KR></KR>
+   <KR>「卡片商店」是您在完美球隊宇宙中買賣卡片的地方。每張有效的卡片都會列在卡片商店中，您可以按照卡片類型、卡片價值、位置、評級球員名稱和任務進行篩選。您也可以過濾已擁有的卡片。您最多可以張貼總計 50 張買入和賣出訂單的組合。</KR>
    <ES></ES>
    <JP></JP>
    <CN></CN>
