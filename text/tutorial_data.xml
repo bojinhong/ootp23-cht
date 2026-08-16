@@ -1,4 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <TUTORIAL_DATA fileversion="OOTP Developments 2022-07-29 12:25:23">
 
 <TUTORIAL_ITEMS>
@@ -388,7 +389,8 @@
 </TI>
 
 <TI i="106" pid="5" tid="1" nid="107" soid="0" sf="1" pt="0" im="0" ena="1">
-<EN>Tutorial 1-Covering the Basics This tutorial is for brand new players to OOTP. We will run through some of the major screens you will need to get familiar with on the start of your OOTP journey. </EN>
+<EN>Tutorial 1-Covering the Basics 
+This tutorial is for brand new players to OOTP. We will run through some of the major screens you will need to get familiar with on the start of your OOTP journey. </EN>
 <KR>歡迎來到教程 1： 本教程適用於OOTP的全新玩家。我們將介紹您在開始OOTP之旅時需要熟悉的一些 主要頁面。</KR>
 <ES>Bienvenido al Tutorial 101: Conceptos básicos. Este tutorial es para jugadores nuevos en OOTP. Revisaremos algunas de las páginas principales con las que necesitará familiarizarse al comienzo de su viaje OOTP.</ES>
 <JP>チュートリアル101へようこそ-基本をカバーします。このチュートリアルは、OOTPの初心者向けです。 OOTPの旅の開始時に、理解しておく必要のある主要なページをいくつか紹介します。</JP>
@@ -1860,7 +1862,7 @@ We will talk about finances and budgeting in more detail in a later tutorial.</E
 <KR>歡迎來到教程 3： 我們將討論如何管理這兩者以及OOTP為您提供的控制選項。與往常一樣，可以通 過單擊右下角的youtube鏈接找到隨附的教程視頻。</KR>
 <ES>Bienvenido al tutorial 3 sobre estrategias de equipos y jugadores. Veremos cómo administrar ambos y qué opciones OOTP le brinda para controlar. Como siempre, se puede encontrar un video tutorial adjunto haciendo clic en el enlace de YouTube en la esquina inferior derecha.</ES>
 <JP>チームとプレーヤーの戦略に関するチュートリアル3へようこそ。これらの両方を管理する方法と、OOTPが制御できるオプションについて説明します。いつものように、付随するチュートリアルビデオは右下隅のyoutubeリンクをクリックすることで見つけることができます。</JP>
-<CN>歡迎來到關於團隊和玩家策略的教程 3。我們將討論如何管理這兩者以及OOTP為您提供的控制選項。與往常一樣，可以通過單擊右下角的 youtube 鏈接找到隨附的教程視頻。</CN>
+<CN>歡迎來到關於團隊和玩家策略的教程 3。我們將討論如何管理這兩者以及 OOTP 為您提供的控制選項。與往常一樣，可以通過單擊右下角的 youtube 鏈接找到隨附的教程視頻。</CN>
 <LINK>https://youtu.be/LFiCmyDZKlw</LINK>
 <ENGROUP>Tutorial 3-Team and Player Strategies</ENGROUP>
 <KRGROUP>教程 3-團隊和球員策略</KRGROUP>

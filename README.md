@@ -65,5 +65,14 @@ python3 tools/merge_world.py             # temp + database -> database/world_def
 ```
 英文屬性（`name`/`abbr`/`dem`/`short`）與經緯度、人口等資料一律沿用官方新版。本來就是拉丁字母、但刻意與英文不同的官方縮寫（例：`abbr="GUN" abbr_korean="GUM"`）會原樣保留，不會被覆蓋。
 
+### 教學資料 tutorial_data.xml
+`text/tutorial_data.xml` 的 `<KR>` 與 `<KRGROUP>` 已全部是中文，來源是 `<CN>`／`<CNGROUP>`（後者原為簡體，已轉繁體）加上少數人工改寫。
+
+遊戲改版時把新的原始檔放到 `temp/tutorial_data.xml`，執行：
+```
+python3 tools/merge_tutorial.py          # temp + text -> text/tutorial_data.xml
+```
+其餘標籤（`EN`/`ES`/`JP`/`CN` 及各自的 GROUP）一律沿用官方新版。注意這個檔案有 6 筆標籤的值跨行、且值裡藏有 CRLF，處理時不能逐行取代。
+
 ## 希望
 大家如果對棒球有興趣，或是熟悉OOTP的遊戲內容，也煩請的大家一起來貢獻，想辦法弄出一個大家期盼已久的中文版 OOTP
