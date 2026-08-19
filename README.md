@@ -24,7 +24,7 @@ OOTP 有韓國版之後讓中文化有了可能性，再加上網路上搜尋到
 ### 主要需要翻譯的檔案有兩個：
 1. gui_translations.xml (這個檔案主要是遊戲介面的文字部分，大部分都有翻譯了，但有非常多的翻譯錯誤需要修改，請記得改KR韓文標籤裡面的文字，改成正確的中文翻譯)
 
-目前 `HARD_CODED_STRINGS` 與 `LEAGUE_NAMES` 已經沒有韓文和簡體字，剩下的是用詞問題（「設置/數據/信息/用戶」等對岸用語）與 142 條刻意留英文的字串。`TEAM_NAMES`（410 筆）和 `TEAM_NICKNAMES`（483 筆）整段還是韓文，是目前最大的缺口。翻好之後請跑 `python3 tools/merge_gui.py --verify` 確認。
+目前五個段落都已經沒有韓文和簡體字，剩下的主要是用詞問題（「設置/數據/信息/用戶」等對岸用語）與 142 條刻意留英文的字串。改完請跑 `python3 tools/merge_gui.py --verify` 確認。
 
 範例：其中我們需要改的部分就是KR標籤 (```<KR>XXXX</KR>```) 裡面的字，如果有遇到%d這類的特殊符號請不要去改動它，只要改文字的部分就好。
 ```
@@ -43,12 +43,25 @@ OOTP 有韓國版之後讓中文化有了可能性，再加上網路上搜尋到
 ### 介面文字 gui_translations.xml
 `text/gui_translations.xml` 的 `<KR>` 由 `tools/merge_gui.py` 產生，規則依序是：
 
+0. `TEAM_NAMES` / `TEAM_NICKNAMES` → 由「城市 + 綽號」兩張表組出中文（見下）
 1. 程式裡的 `OVERRIDES` 有這個 `i` → 用人工翻譯（`<CN>` 是機翻、救不回來時走這條）
 2. 舊檔的 `<KR>` 不是韓文、且不等於 `<CN>` → 保留舊檔的值（既有翻譯，或刻意留著的英文縮寫如 `%a OBP`、`AL`、`TFBL`）
 3. `<CN>` 有中文 → 用 `<CN>` 轉繁體填入
 4. 是韓文但 `<CN>` 沒中文可用 → 退回填 `<EN>`（如 `TOPPS`、`iPhone 13`）
 
-規則 3、4 只套用在 `HARD_CODED_STRINGS` 與 `LEAGUE_NAMES`。`TEAM_NAMES` / `TEAM_NICKNAMES` 的 `<CN>` 是不能用的機翻（`Reading Fightin Phils` → 「閱讀格鬥菲爾斯」），那兩段還是韓文，要人工翻。
+規則 3、4 只套用在 `HARD_CODED_STRINGS` 與 `LEAGUE_NAMES`。
+
+#### 球隊名稱怎麼組
+`TEAM_NAMES` / `TEAM_NICKNAMES` 的 `<CN>` 是不能用的機翻（`Reading Fightin Phils` → 「閱讀格鬥菲爾斯」），所以不從 `<CN>` 來，改用 `TEAM_CITY`（城市）與 `TEAM_NICK`（綽號）兩張表去組：
+
+```
+TEAM_NAMES      = 城市中文 + 綽號中文     托萊多 + 泥母雞 -> 托萊多泥母雞
+TEAM_NICKNAMES  = 綽號中文                              -> 泥母雞
+```
+
+綽號用「由右往左找最長的、在 `TEAM_NICK` 裡的字尾」來切，所以 `Round Rock Express` 會切成 `Round Rock` | `Express` 而不是 `Round` | `Rock Express`。農場隊 `Chicago N (AZL) Cubs Blue` 之類的另外處理成「芝加哥小熊藍 (AZL)」，NPB 的 `(Ni-Gun)` 則接成「二軍」。中職與明尼蘇達雙城不照這個規則，寫在 `TEAM_BY_I` 直接指定。
+
+**組不出來就退回 `<EN>` 英文原名。** 歐洲各國聯盟那 69 支（`Sénart Templiers`、`Cardion Hrosi Brno Baseball`、`CBS Antorcha Valencia Beisbol`…）沒有通用中文譯名，硬翻只會變成自創名字，跟 `names.xml`、`schools.xml` 的處理原則一致。這也讓改版新增的球隊自動落在英文，不會生出亂翻的中文。`TEAM_ABBR` 是三碼英文縮寫，整段不動。
 
 需要 opencc：
 ```
