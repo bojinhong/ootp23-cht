@@ -24,6 +24,8 @@ OOTP 有韓國版之後讓中文化有了可能性，再加上網路上搜尋到
 ### 主要需要翻譯的檔案有兩個：
 1. gui_translations.xml (這個檔案主要是遊戲介面的文字部分，大部分都有翻譯了，但有非常多的翻譯錯誤需要修改，請記得改KR韓文標籤裡面的文字，改成正確的中文翻譯)
 
+目前 `HARD_CODED_STRINGS` 與 `LEAGUE_NAMES` 已經沒有韓文和簡體字，剩下的是用詞問題（「設置/數據/信息/用戶」等對岸用語）與 142 條刻意留英文的字串。`TEAM_NAMES`（410 筆）和 `TEAM_NICKNAMES`（483 筆）整段還是韓文，是目前最大的缺口。翻好之後請跑 `python3 tools/merge_gui.py --verify` 確認。
+
 範例：其中我們需要改的部分就是KR標籤 (```<KR>XXXX</KR>```) 裡面的字，如果有遇到%d這類的特殊符號請不要去改動它，只要改文字的部分就好。
 ```
 <HCS i="18722">
@@ -37,6 +39,26 @@ OOTP 有韓國版之後讓中文化有了可能性，再加上網路上搜尋到
  ```
 
 2. korean.xml (這個檔案主要是比賽中的播報對話，還有遊戲介面裡面比較長的文字部分，都是英文的需要英翻中，請記得改KR韓文標籤裡面的文字，改成正確的中文翻譯)
+
+### 介面文字 gui_translations.xml
+`text/gui_translations.xml` 的 `<KR>` 由 `tools/merge_gui.py` 產生，規則依序是：
+
+1. 程式裡的 `OVERRIDES` 有這個 `i` → 用人工翻譯（`<CN>` 是機翻、救不回來時走這條）
+2. 舊檔的 `<KR>` 不是韓文、且不等於 `<CN>` → 保留舊檔的值（既有翻譯，或刻意留著的英文縮寫如 `%a OBP`、`AL`、`TFBL`）
+3. `<CN>` 有中文 → 用 `<CN>` 轉繁體填入
+4. 是韓文但 `<CN>` 沒中文可用 → 退回填 `<EN>`（如 `TOPPS`、`iPhone 13`）
+
+規則 3、4 只套用在 `HARD_CODED_STRINGS` 與 `LEAGUE_NAMES`。`TEAM_NAMES` / `TEAM_NICKNAMES` 的 `<CN>` 是不能用的機翻（`Reading Fightin Phils` → 「閱讀格鬥菲爾斯」），那兩段還是韓文，要人工翻。
+
+需要 opencc：
+```
+pip install opencc-python-reimplemented
+python3 tools/merge_gui.py               # 基底 + text -> text
+python3 tools/merge_gui.py --verify      # 只檢查不寫檔
+```
+遊戲改版時把新的原始檔放到 `temp/gui_translations.xml` 再執行同一行指令；沒有那個檔的話會拿 `text/gui_translations.xml` 自己當基底，等於就地把還沒中文化的部分補起來。其他標籤（`EN`/`DC`/`ES`/`JP`/`CN`）一律沿用基底，不做任何改動。
+
+轉繁體用的是 opencc 的 `s2tw`（只換字不換詞）。之後若要把「設置/數據/信息」一併換成「設定/資料/資訊」，把程式裡的 `OPENCC_CONFIG` 改成 `s2twp` 重跑即可。
 
 ### 人名字庫 names.xml
 `database/names.xml` 不做中文翻譯，而是把 `<KR>` 直接換成 `<EN>` 的英文原名，因為遊戲內建的 `<CN>` 人名是機翻結果不堪使用（例：`A.C.` → `交流電`、`Aad` → `廣告`）。

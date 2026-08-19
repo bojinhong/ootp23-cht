@@ -89612,7 +89612,7 @@
         </HCS>
         <HCS i="13053">
             <EN>Infield</EN>
-            <KR>内野</KR>
+            <KR>內野</KR>
             <ES>dentro del campo</ES>
             <JP>内野</JP>
             <CN>内场</CN>
@@ -94633,7 +94633,7 @@
         </HCS>
         <HCS i="13735">
             <EN>Cards &lt;= 94</EN>
-            <KR>卡片 &amp;lt;= 94</KR>
+            <KR>卡片 &lt;= 94</KR>
             <ES>Tarjetas &amp;lt;= 94</ES>
             <JP>カード&amp;lt;= 94</JP>
             <CN>卡片 &amp;lt;= 94</CN>
@@ -95973,7 +95973,7 @@
         </HCS>
         <HCS i="13929">
             <EN>INFIELD POSITIONS</EN>
-            <KR>内野位置</KR>
+            <KR>內野位置</KR>
             <ES>POSICIONES DENTRO DEL CAMPO</ES>
             <JP>内野の位置</JP>
             <CN>场内位置</CN>
@@ -109469,7 +109469,7 @@
         </HCS>
         <HCS i="15863">
             <EN>but &#37;bpn just brings it into the infield</EN>
-            <KR>但是 &#37;bpn 只是把它帶到了内野</KR>
+            <KR>但是 %bpn 只是把它帶到了內野</KR>
             <ES>pero &#37;bpn simplemente lo lleva al campo</ES>
             <JP>しかし、％bpnはそれを内野に持ち込むだけです</JP>
             <CN>但是 &#37;bpn 只是把它带到了内场</CN>
@@ -111560,7 +111560,7 @@
         </HCS>
         <HCS i="16159">
             <EN>Is At Most (&lt;</EN>
-            <KR>最多 (&amp;lt;</KR>
+            <KR>最多 (&lt;</KR>
             <ES>es como máximo (&amp;lt;</ES>
             <JP>せいぜい（&amp;lt;</JP>
             <CN>最多 (&amp;lt;</CN>
@@ -111581,7 +111581,7 @@
         </HCS>
         <HCS i="16162">
             <EN>Is At Least (&gt;</EN>
-            <KR>至少 (&amp;gt;</KR>
+            <KR>至少 (&gt;</KR>
             <ES>es al menos (&amp;gt;</ES>
             <JP>少なくとも（&amp;gt;</JP>
             <CN>至少 (&amp;gt;</CN>
@@ -121706,7 +121706,7 @@
         </HCS>
         <HCS i="17594">
             <EN>&lt;&lt; PREVIOUS</EN>
-            <KR>&amp;lt;&amp;lt; 以前的</KR>
+            <KR>&lt;&lt; 以前的</KR>
             <ES>&amp;lt;&amp;lt; ANTERIOR</ES>
             <JP>&amp;lt;&amp;lt;前へ</JP>
             <CN>&amp;lt;&amp;lt; 以前的</CN>
@@ -127245,7 +127245,7 @@
         </HCS>
         <HCS i="18380">
             <EN>&lt; Back</EN>
-            <KR>&amp;lt; 返回</KR>
+            <KR>&lt; 返回</KR>
             <ES>&amp;lt; Atrás</ES>
             <JP>&amp;lt;戻る</JP>
             <CN>&amp;lt; 返回</CN>
@@ -130017,7 +130017,7 @@
         </HCS>
         <HCS i="18785">
             <EN>infield hit</EN>
-            <KR>内野安打</KR>
+            <KR>內野安打</KR>
             <ES>golpe dentro del cuadro</ES>
             <JP>内野安打</JP>
             <CN>内场命中</CN>
@@ -132146,7 +132146,7 @@
         </HCS>
         <HCS i="19727">
             <EN>Limited Edition/25</EN>
-            <KR>한정판/25</KR>
+            <KR>限量版/25</KR>
             <ES>Edición Limitada/25</ES>
             <JP>限定版/ 25</JP>
             <CN>限量版/25</CN>
@@ -135626,119 +135626,119 @@
         </HCS>
         <HCS i="23302">
             <EN>You tried to fulfill a buy order associated with your license</EN>
-            <KR>라이선스와 관련된 구매 주문을 이행하려고 했습니다.</KR>
+            <KR>您試圖履行與您的許可證相關的採購訂單</KR>
             <ES>Intentó cumplir con una orden de compra asociada con su licencia</ES>
             <JP>ライセンスに関連付けられた購入注文を履行しようとしました</JP>
             <CN>您試圖履行與您的許可證相關的採購訂單</CN>
         </HCS>
         <HCS i="23303">
             <EN>You tried to fulfill your own buy order</EN>
-            <KR>자신의 구매 주문을 이행하려고 했습니다.</KR>
+            <KR>您試圖履行自己的購買訂單</KR>
             <ES>Intentaste completar tu propia orden de compra.</ES>
             <JP>あなたはあなた自身の購入注文を履行しようとしました</JP>
             <CN>您試圖履行自己的購買訂單</CN>
         </HCS>
         <HCS i="23304">
             <EN>You tried to fulfill a sell order associated with your license</EN>
-            <KR>라이선스와 관련된 판매 주문을 이행하려고 했습니다.</KR>
+            <KR>您嘗試履行與您的許可證相關的銷售訂單</KR>
             <ES>Intentó cumplir con una orden de venta asociada con su licencia</ES>
             <JP>ライセンスに関連付けられた売り注文を履行しようとしました</JP>
             <CN>您嘗試履行與您的許可證相關的銷售訂單</CN>
         </HCS>
         <HCS i="23305">
             <EN>You tried to fulfill your own sell order</EN>
-            <KR>자신의 판매 주문을 이행하려고 했습니다.</KR>
+            <KR>您試圖履行自己的賣單</KR>
             <ES>Intentaste completar tu propia orden de venta.</ES>
             <JP>あなたはあなた自身の売り注文を履行しようとしました</JP>
             <CN>您試圖履行自己的賣單</CN>
         </HCS>
         <HCS i="23306">
             <EN>Low device memory, high risk of crash if continuing 3D game. Please turn off any background apps or processes that may be running before reattempting. You can also disable this in the game settings &gt; interface &gt; out of memory protection, at your own risk</EN>
-            <KR>낮은 장치 메모리, 3D 게임을 계속할 경우 충돌 위험이 높습니다. 다시 시도하기 전에 실행 중일 수 있는 백그라운드 앱이나 프로세스를 끄십시오. 게임 설정 &amp;gt; 인터페이스 &amp;gt; 메모리 부족 보호에서 이 기능을 비활성화할 수도 있습니다.</KR>
+            <KR>設備內存低，如果繼續 3D 遊戲，崩潰的風險很高。請在重新嘗試之前關閉所有可能正在運行的後臺應用程序或進程。您也可以在遊戲設置&gt;界面&gt;內存不足保護中禁用此功能，風險自負</KR>
             <ES>Poca memoria del dispositivo, alto riesgo de bloqueo si continúa el juego en 3D. Desactive cualquier aplicación o proceso en segundo plano que pueda estar ejecutándose antes de volver a intentarlo. También puede deshabilitar esto en la configuración del juego&amp;gt; interfaz&amp;gt; protección contra falta de memoria, bajo su propio riesgo</ES>
             <JP>デバイスメモリが少なく、3Dゲームを続行するとクラッシュするリスクが高くなります。再試行する前に、実行中の可能性のあるバックグラウンドアプリまたはプロセスをすべてオフにしてください。また、ご自身の責任で、ゲーム設定&amp;gt;インターフェイス&amp;gt;メモリ不足保護でこれを無効にすることもできます</JP>
             <CN>設備內存低，如果繼續 3D 遊戲，崩潰的風險很高。請在重新嘗試之前關閉所有可能正在運行的後台應用程序或進程。您也可以在遊戲設置&amp;gt;界面&amp;gt;內存不足保護中禁用此功能，風險自負</CN>
         </HCS>
         <HCS i="23307">
             <EN>Welcome to the OOTP jobs center, here you will find a list of teams which offer you a job. Your current play mode is &#39;&#37;m&#39;, you may change this in the &lt;team control settings:page#&#37;p&gt;. Your reputation rates as &#39;&#37;r&#39; at the moment. The more success you have during &lt;your career:page#&#37;h&gt;, the better your reputation and the more job offers you will receive</EN>
-            <KR>OOTP 직업 센터에 오신 것을 환영합니다. 여기에서 일자리를 제공하는 팀 목록을 찾을 수 있습니다. 현재 플레이 모드는 &amp;#39;&#37;m&amp;#39;입니다.&lt;team control settings:page#&#37;p&gt; . 현재 당신의 평판은 &amp;#39;&#37;r&amp;#39;입니다. 더 많은 성공을 거두는 동안&lt;your career:page#&#37;h&gt; , 평판이 좋아지고 더 많은 일자리 제안을 받게 됩니다.</KR>
+            <KR>歡迎來到 OOTP 求職中心，這裡會列出願意提供你工作的球隊。你目前的遊戲模式是「%m」，可以在&lt;team control settings:page#%p&gt;中變更。你目前的聲望等級為「%r」。&lt;your career:page#%h&gt;的成績越好，聲望就越高，收到的工作邀約也越多</KR>
             <ES>Bienvenido al centro de empleos de OOTP, aquí encontrará una lista de equipos que le ofrecen un trabajo. Su modo de juego actual es &amp;#39;&#37;m&amp;#39;, puede cambiar esto en el&lt;team control settings:page#&#37;p&gt; . Tu reputación califica como &amp;#39;&#37;r&amp;#39; en este momento. Cuanto más éxito tenga durante&lt;your career:page#&#37;h&gt; , mejor será tu reputación y más ofertas de trabajo recibirás</ES>
             <JP>OOTPジョブセンターへようこそ。ここには、あなたに仕事を提供するチームのリストがあります。現在の再生モードは&amp;#39;％m&amp;#39;です。これは、&lt;team control settings:page#&#37;p&gt; 。現時点での評判は「％r」です。あなたが中に持っているより多くの成功&lt;your career:page#&#37;h&gt;、あなたの評判が良くなり、より多くの求人が届きます</JP>
             <CN>歡迎來到 OOTP 工作中心，在這裡您可以找到為您提供工作的團隊列表。您當前的播放模式是“&#37;m”，您可以在&lt;team control settings:page#&#37;p&gt;.目前您的聲望等級為 &amp;#39;&#37;r&amp;#39;。您在此期間取得的成功越多&lt;your career:page#&#37;h&gt;，您的聲譽越好，您將獲得越多的工作機會</CN>
         </HCS>
         <HCS i="23308">
             <EN>Framing Balance</EN>
-            <KR>프레이밍 밸런스</KR>
+            <KR>取景平衡</KR>
             <ES>Equilibrio de encuadre</ES>
             <JP>フレーミングバランス</JP>
             <CN>取景平衡</CN>
         </HCS>
         <HCS i="23309">
             <EN>Allow AI additions</EN>
-            <KR>AI 추가 허용</KR>
+            <KR>允許添加 AI</KR>
             <ES>Permitir adiciones de IA</ES>
             <JP>AIの追加を許可する</JP>
             <CN>允許添加 AI</CN>
         </HCS>
         <HCS i="23310">
             <EN>Auto-protect Players with &lt; X Pro Service Years</EN>
-            <KR>X년 이하 프로 출장 기간으로 선수 자동 보호</KR>
+            <KR>自動保護大聯盟年資低於 X 年的球員</KR>
             <ES>Protege automáticamente a los jugadores con &amp;lt; X años de servicio profesional</ES>
             <JP>Xプロサービス年未満のプレーヤーを自動保護する</JP>
             <CN>自動保護具有 &amp;lt; X Pro Service Years 的玩家</CN>
         </HCS>
         <HCS i="23311">
             <EN>Do you wish to clear the current names database before importing</EN>
-            <KR>불러오기 전에 현재 성명DB를 지우시겠습니까</KR>
+            <KR>您是否希望在導入前清除當前名稱數據庫</KR>
             <ES>¿Desea borrar la base de datos de nombres actual antes de importar?</ES>
             <JP>インポートする前に現在の名前データベースをクリアしますか</JP>
             <CN>您是否希望在導入前清除當前名稱數據庫</CN>
         </HCS>
         <HCS i="23312">
             <EN>Created &#37;d players</EN>
-            <KR>&#37;d 명의 선수 생성</KR>
+            <KR>已建立 %d 名球員</KR>
             <ES>&#37;d jugadores creados</ES>
             <JP>作成された％dプレーヤー</JP>
             <CN>創建了 &#37;d 個玩家</CN>
         </HCS>
         <HCS i="23313">
             <EN>Successfully sold card</EN>
-            <KR>카드 판매 성공</KR>
+            <KR>成功售卡</KR>
             <ES>Tarjeta vendida con éxito</ES>
             <JP>カードの販売に成功</JP>
             <CN>成功售卡</CN>
         </HCS>
         <HCS i="23314">
             <EN>Successfully sold card for &#37;s PP</EN>
-            <KR>&#37;s PP에 대한 카드를 성공적으로 판매했습니다.</KR>
+            <KR>為 &#37;s PP 成功出售卡</KR>
             <ES>Tarjeta vendida con éxito por &#37;s PP</ES>
             <JP>％sPPのカードの販売に成功</JP>
             <CN>為 &#37;s PP 成功出售卡</CN>
         </HCS>
         <HCS i="23315">
             <EN>Cards reload complete</EN>
-            <KR>카드 새로고침 완료</KR>
+            <KR>卡重新加載完成</KR>
             <ES>Recarga de tarjetas completa</ES>
             <JP>カードのリロードが完了</JP>
             <CN>卡重新加載完成</CN>
         </HCS>
         <HCS i="23316">
             <EN>The last export for this draft has been imported automatically</EN>
-            <KR>이 드래프트의 최근 익스포트 내용을 자동으로 불러왔습니다</KR>
+            <KR>此次選秀的最後一次匯出已自動匯入</KR>
             <ES>La última exportación de este borrador se ha importado automáticamente</ES>
             <JP>このドラフトの最後のエクスポートは自動的にインポートされました</JP>
             <CN>此草稿的最後一次導出已自動導入</CN>
         </HCS>
         <HCS i="23317">
             <EN>Tie at &#37;team</EN>
-            <KR>&#37;team 와(과) 동점</KR>
+            <KR>與 &#37;team 並列</KR>
             <ES>Empate en &#37;equipo</ES>
             <JP>％teamで結ぶ</JP>
             <CN>與 &#37;team 並列</CN>
         </HCS>
         <HCS i="23318">
             <EN>Tie vs &#37;team</EN>
-            <KR>&#37;team 와(과) 동점</KR>
+            <KR>與 %team 平手</KR>
             <ES>Empate contra &#37;equipo</ES>
             <JP>ネクタイvs％チーム</JP>
             <CN>平局 vs &#37;team</CN>
@@ -135753,294 +135753,294 @@
         </HCS>
         <HCS i="23320">
             <EN>Use VIEW menu to switch to lineups</EN>
-            <KR>VIEW 메뉴를 사용하여 라인업 간 전환</KR>
+            <KR>使用 VIEW 菜單切換到陣容</KR>
             <ES>Use el menú VER para cambiar a alineaciones</ES>
             <JP>VIEWメニューを使用してラインナップに切り替えます</JP>
             <CN>使用 VIEW 菜單切換到陣容</CN>
         </HCS>
         <HCS i="23321">
             <EN>Past 10 Sales AVG</EN>
-            <KR>지난 10번의 평균 판매</KR>
+            <KR>過去 10 次銷售平均</KR>
             <ES>Promedio de las últimas 10 ventas</ES>
             <JP>過去10回の販売AVG</JP>
             <CN>過去 10 次銷售平均</CN>
         </HCS>
         <HCS i="23322">
             <EN>Top Buy Orders</EN>
-            <KR>상위 구매 주문</KR>
+            <KR>熱門購買訂單</KR>
             <ES>Principales pedidos de compra</ES>
             <JP>トップバイオーダー</JP>
             <CN>熱門購買訂單</CN>
         </HCS>
         <HCS i="23323">
             <EN>Top Sell Orders</EN>
-            <KR>최고 판매 주문</KR>
+            <KR>熱門賣單</KR>
             <ES>Principales pedidos de venta</ES>
             <JP>トップセル注文</JP>
             <CN>暢銷訂單</CN>
         </HCS>
         <HCS i="23324">
             <EN>Request Code</EN>
-            <KR>요청 코드</KR>
+            <KR>請求代碼</KR>
             <ES>Código de solicitud</ES>
             <JP>リクエストコード</JP>
             <CN>請求代碼</CN>
         </HCS>
         <HCS i="23325">
             <EN>To load purchases from the previous game, make sure the previous app is up-to-date and in the previous app, tap the &quot;EXPORT SEASONS&quot; button and follow the instructions there. Then return here, enter your email, and request another verification code which you will enter in the next step</EN>
-            <KR>이전 게임에서 구매한 항목을 로드하려면 이전 앱이 최신 버전인지 확인하고 이전 앱에서 &amp;quot;시즌 내보내기&amp;quot; 버튼을 누르고 지침을 따르세요. 그런 다음 여기로 돌아와 이메일을 입력하고 다음 단계에서 입력할 다른 인증 코드를 요청하세요.</KR>
+            <KR>若要載入先前遊戲的購買紀錄，請確認舊版 App 已更新到最新版，在舊版 App 中按下「匯出賽季」按鈕並依照指示操作。然後回到這裡輸入您的電子郵件，並索取下一步要輸入的驗證碼</KR>
             <ES>Para cargar compras del juego anterior, asegúrese de que la aplicación anterior esté actualizada y, en la aplicación anterior, toque el botón &amp;quot;EXPORTAR TEMPORADAS&amp;quot; y siga las instrucciones allí. Luego regrese aquí, ingrese su correo electrónico y solicite otro código de verificación que ingresará en el siguiente paso</ES>
             <JP>前のゲームから購入したものを読み込むには、前のアプリが最新であることを確認し、前のアプリで[シーズンのエクスポート]ボタンをタップして、そこにある指示に従います。次に、ここに戻り、メールアドレスを入力して、次のステップで入力する別の確認コードをリクエストします</JP>
             <CN>要加載以前遊戲的購買，請確保以前的應用程序是最新的，在以前的應用程序中，點擊“導出季節”按鈕並按照那裡的說明進行操作。然後返回此處，輸入您的電子郵件，並請求另一個驗證碼，您將在下一步中輸入該驗證碼</CN>
         </HCS>
         <HCS i="23326">
             <EN>Enter your email</EN>
-            <KR>이메일을 입력하세요</KR>
+            <KR>輸入你的電子郵箱</KR>
             <ES>Introduce tu correo electrónico</ES>
             <JP>メールアドレスを入力</JP>
             <CN>輸入你的電子郵箱</CN>
         </HCS>
         <HCS i="23327">
             <EN>Please check your email for a verification code and enter it here</EN>
-            <KR>이메일에서 인증 코드를 확인하고 여기에 입력하세요.</KR>
+            <KR>請檢查您的電子郵件以獲取驗證碼並在此處輸入</KR>
             <ES>Verifique su correo electrónico para obtener un código de verificación e ingréselo aquí</ES>
             <JP>メールで確認コードを確認し、ここに入力してください</JP>
             <CN>請檢查您的電子郵件以獲取驗證碼並在此處輸入</CN>
         </HCS>
         <HCS i="23328">
             <EN>Verify Code</EN>
-            <KR>코드 확인</KR>
+            <KR>驗證碼</KR>
             <ES>Código de verificación</ES>
             <JP>コードを確認する</JP>
             <CN>驗證碼</CN>
         </HCS>
         <HCS i="23329">
             <EN>Could not send verification code</EN>
-            <KR>인증 코드를 보낼 수 없습니다</KR>
+            <KR>無法發送驗證碼</KR>
             <ES>No se pudo enviar el código de verificación</ES>
             <JP>確認コードを送信できませんでした</JP>
             <CN>無法發送驗證碼</CN>
         </HCS>
         <HCS i="23330">
             <EN>There is a problem with the email you have entered</EN>
-            <KR>입력하신 이메일에 문제가 있습니다</KR>
+            <KR>您輸入的電子郵件有問題</KR>
             <ES>Hay un problema con el correo electrónico que has introducido</ES>
             <JP>入力したメールアドレスに問題があります</JP>
             <CN>您輸入的電子郵件有問題</CN>
         </HCS>
         <HCS i="23331">
             <EN>Could not receive data. Please make sure you are entering the correct verification code</EN>
-            <KR>데이터를 수신할 수 없습니다. 올바른 인증 코드를 입력했는지 확인하세요.</KR>
+            <KR>無法接收數據。請確保您輸入了正確的驗證碼</KR>
             <ES>No se pudieron recibir datos. Por favor, asegúrese de que está ingresando el código de verificación correcto</ES>
             <JP>データを受信できませんでした。正しい確認コードを入力していることを確認してください</JP>
             <CN>無法接收數據。請確保您輸入了正確的驗證碼</CN>
         </HCS>
         <HCS i="23332">
             <EN>There is a problem with the email you entered</EN>
-            <KR>입력한 이메일에 문제가 있습니다</KR>
+            <KR>您輸入的電子郵件有問題</KR>
             <ES>Hay un problema con el correo electrónico que ingresaste</ES>
             <JP>入力したメールアドレスに問題があります</JP>
             <CN>您輸入的電子郵件有問題</CN>
         </HCS>
         <HCS i="23333">
             <EN>There is a problem with the data received</EN>
-            <KR>수신된 데이터에 문제가 있습니다.</KR>
+            <KR>接收到的數據有問題</KR>
             <ES>Hay un problema con los datos recibidos</ES>
             <JP>受信したデータに問題があります</JP>
             <CN>接收到的數據有問題</CN>
         </HCS>
         <HCS i="23334">
             <EN>Your seasons have been restored on this device</EN>
-            <KR>이 기기에서 시즌이 복원되었습니다.</KR>
+            <KR>您的賽季已在此裝置上還原</KR>
             <ES>Tus temporadas han sido restauradas en este dispositivo</ES>
             <JP>あなたの季節はこのデバイスで復元されました</JP>
             <CN>您的季節已在此設備上恢復</CN>
         </HCS>
         <HCS i="23335">
             <EN>The code you entered is not correct</EN>
-            <KR>입력한 코드가 올바르지 않습니다.</KR>
+            <KR>您輸入的代碼不正確</KR>
             <ES>El código que ingresaste no es correcto</ES>
             <JP>入力したコードが正しくありません</JP>
             <CN>您輸入的代碼不正確</CN>
         </HCS>
         <HCS i="23336">
             <EN>Historical Lineups</EN>
-            <KR>역사적 라인업</KR>
+            <KR>歷史陣容</KR>
             <ES>Alineaciones históricas</ES>
             <JP>歴史的なラインナップ</JP>
             <CN>歷史陣容</CN>
         </HCS>
         <HCS i="23337">
             <EN>Leads &#37;l in stolen bases with &#37;a</EN>
-            <KR>&#37;a 도루로 &#37;l 을(를) 이끕니다</KR>
+            <KR>以 %a 次盜壘領先 %l</KR>
             <ES>Lidera a &#37;l en bases robadas con &#37;a</ES>
             <JP>盗塁で％lを％aでリード</JP>
             <CN>以 &#37;a 帶領 &#37;l 進入被盜基地</CN>
         </HCS>
         <HCS i="23338">
             <EN>Convert lineup for game to a one-time line and continue paste</EN>
-            <KR>게임 라인업을 일회성 라인으로 변환하고 계속 붙여넣기</KR>
+            <KR>將該場比賽的陣容轉為一次性陣容並繼續貼上</KR>
             <ES>Convierta la alineación para el juego en una línea de una sola vez y continúe pegando</ES>
             <JP>ゲームのラインナップを1回限りのラインに変換し、貼り付けを続行します</JP>
             <CN>將比賽陣容轉換為一次性陣容並繼續粘貼</CN>
         </HCS>
         <HCS i="23339">
             <EN>Could not copy file &#37;file_name to user data folder. Please reinstall Out of the Park Baseball</EN>
-            <KR>&#37;file_name 파일을 사용자 데이터 폴더에 복사할 수 없습니다. OOTP를 다시 설치하십시오</KR>
+            <KR>無法將文件 &#37;file_name 複製到用戶數據文件夾。請重新安裝 Out of the Park Baseball</KR>
             <ES>No se pudo copiar el archivo &#37;file_name a la carpeta de datos del usuario. Vuelva a instalar Out of the Park Baseball</ES>
             <JP>ファイル％file_nameをユーザーデータフォルダーにコピーできませんでした。 Out of theParkBaseballを再インストールしてください</JP>
             <CN>無法將文件 &#37;file_name 複製到用戶數據文件夾。請重新安裝 Out of the Park Baseball</CN>
         </HCS>
         <HCS i="23340">
             <EN>Could not open folder /default_data. Please reinstall Out of the Park Baseball</EN>
-            <KR>/default_data 폴더를 열 수 없습니다. OOTP를 다시 설치하십시오</KR>
+            <KR>無法打開文件夾 /default_data。請重新安裝 Out of the Park Baseball</KR>
             <ES>No se pudo abrir la carpeta /datos_predeterminados. Vuelva a instalar Out of the Park Baseball</ES>
             <JP>フォルダ/default_dataを開くことができませんでした。 Out of theParkBaseballを再インストールしてください</JP>
             <CN>無法打開文件夾 /default_data。請重新安裝 Out of the Park Baseball</CN>
         </HCS>
         <HCS i="23341">
             <EN>Could not open &#39;cust data misc&#39; folder. Please reinstall Out of the Park Baseball</EN>
-            <KR>&amp;#39;cust data misc#39; 폴더를 열 수 없습니다. OOTP를 다시 설치하십시오</KR>
+            <KR>無法打開 &#39;cust data misc&#39; 文件夾。請重新安裝 Out of the Park Baseball</KR>
             <ES>No se pudo abrir la carpeta &amp;#39;misc de datos personalizados&amp;#39;. Vuelva a instalar Out of the Park Baseball</ES>
             <JP>&amp;#39;custdatamisc&amp;#39;フォルダを開くことができませんでした。 Out of theParkBaseballを再インストールしてください</JP>
             <CN>無法打開 &amp;#39;cust data misc&amp;#39; 文件夾。請重新安裝 Out of the Park Baseball</CN>
         </HCS>
         <HCS i="23342">
             <EN>This username is reserved from an account created in OOTP 22 or an earlier version. Please use the email associated with that account to register this username</EN>
-            <KR>이 사용자 이름은 OOTP 22 또는 이전 버전에서 생성된 계정에서 예약되어 있습니다. 이 사용자 이름을 등록하려면 해당 계정과 연결된 이메일을 사용하십시오.</KR>
+            <KR>此用戶名是從在 OOTP 22 或更早版本中創建的帳戶中保留的。請使用與該帳戶關聯的電子郵件來註冊此用戶名</KR>
             <ES>Este nombre de usuario está reservado desde una cuenta creada en OOTP 22 o una versión anterior. Utilice el correo electrónico asociado con esa cuenta para registrar este nombre de usuario</ES>
             <JP>このユーザー名は、OOTP22以前のバージョンで作成されたアカウントから予約されています。このユーザー名を登録するには、そのアカウントに関連付けられているメールアドレスを使用してください</JP>
             <CN>此用戶名是從在 OOTP 22 或更早版本中創建的帳戶中保留的。請使用與該帳戶關聯的電子郵件來註冊此用戶名</CN>
         </HCS>
         <HCS i="23343">
             <EN>Paid PP for buy order</EN>
-            <KR>구매 주문에 대한 유료 PP</KR>
+            <KR>購買訂單的付費PP</KR>
             <ES>PP pagado por orden de compra</ES>
             <JP>購入注文の有料PP</JP>
             <CN>購買訂單的付費PP</CN>
         </HCS>
         <HCS i="23344">
             <EN>Paid card for sell order</EN>
-            <KR>판매 주문을 위한 유료 카드</KR>
+            <KR>賣單支付卡</KR>
             <ES>Tarjeta pagada por orden de venta</ES>
             <JP>売り注文の有料カード</JP>
             <CN>賣單支付卡</CN>
         </HCS>
         <HCS i="23345">
             <EN>Sell Order Refund</EN>
-            <KR>판매 주문 환불</KR>
+            <KR>賣單退款</KR>
             <ES>Reembolso de orden de venta</ES>
             <JP>販売注文の払い戻し</JP>
             <CN>賣單退款</CN>
         </HCS>
         <HCS i="23346">
             <EN>Got card back from a canceled sell order</EN>
-            <KR>취소된 판매 주문에서 카드를 돌려받았습니다.</KR>
+            <KR>從取消的賣單中取回卡</KR>
             <ES>Me devolvieron la tarjeta de una orden de venta cancelada</ES>
             <JP>キャンセルされた販売注文からカードを取り戻しました</JP>
             <CN>從取消的賣單中取回卡</CN>
         </HCS>
         <HCS i="23347">
             <EN>Standings PP</EN>
-            <KR>순위 PP</KR>
+            <KR>排名PP</KR>
             <ES>Posiciones PP</ES>
             <JP>順位表PP</JP>
             <CN>排名PP</CN>
         </HCS>
         <HCS i="23348">
             <EN>Got PP from a tournament standing</EN>
-            <KR>토너먼트 스탠딩에서 PP 획득</KR>
+            <KR>從錦標賽排名中獲得 PP</KR>
             <ES>Obtuve PP de un torneo de pie</ES>
             <JP>トーナメントスタンディングからPPを獲得</JP>
             <CN>從錦標賽排名中獲得 PP</CN>
         </HCS>
         <HCS i="23349">
             <EN>Standings Card</EN>
-            <KR>순위 카드</KR>
+            <KR>排名卡片</KR>
             <ES>Tarjeta de Posiciones</ES>
             <JP>スタンディングカード</JP>
             <CN>積分卡</CN>
         </HCS>
         <HCS i="23350">
             <EN>Got card from a tournament standing</EN>
-            <KR>토너먼트 스탠딩에서 카드를 받았습니다.</KR>
+            <KR>從錦標賽排名中獲得卡片</KR>
             <ES>Obtuve la tarjeta de un torneo de pie</ES>
             <JP>トーナメントスタンディングからカードを手に入れました</JP>
             <CN>從錦標賽站立中獲得卡片</CN>
         </HCS>
         <HCS i="23351">
             <EN>Standings Pack</EN>
-            <KR>순위 팩</KR>
+            <KR>排名包</KR>
             <ES>Paquete de posiciones</ES>
             <JP>スタンディングパック</JP>
             <CN>排名包</CN>
         </HCS>
         <HCS i="23352">
             <EN>Preparing team graphics</EN>
-            <KR>팀 그래픽 준비</KR>
+            <KR>準備球隊圖像</KR>
             <ES>Preparando gráficos de equipo</ES>
             <JP>チームグラフィックの準備</JP>
             <CN>準備團隊圖形</CN>
         </HCS>
         <HCS i="23353">
             <EN>This player has not cleared waivers</EN>
-            <KR>이 선수는 웨이버를 클리어하지 않았습니다</KR>
+            <KR>該球員尚未通過釋出程序</KR>
             <ES>Este jugador no ha limpiado exenciones</ES>
             <JP>このプレイヤーは免除をクリアしていません</JP>
             <CN>該玩家尚未清除豁免</CN>
         </HCS>
         <HCS i="23354">
             <EN>List cards I own</EN>
-            <KR>내가 소유한 카드 나열</KR>
+            <KR>列出我擁有的卡片</KR>
             <ES>Lista de tarjetas que tengo</ES>
             <JP>私が所有するリストカード</JP>
             <CN>列出我擁有的卡片</CN>
         </HCS>
         <HCS i="23355">
             <EN>Are you sure you want to remove all players from your watchlist</EN>
-            <KR>관심 목록에서 모든 플레이어를 제거하시겠습니까?</KR>
+            <KR>您確定要從關注清單中移除所有球員嗎</KR>
             <ES>¿Estás seguro de que quieres eliminar a todos los jugadores de tu lista de observación?</ES>
             <JP>ウォッチリストからすべてのプレーヤーを削除してもよろしいですか</JP>
             <CN>您確定要從關注列表中刪除所有玩家嗎</CN>
         </HCS>
         <HCS i="23356">
             <EN>Defense at Primary Position</EN>
-            <KR>주 포지션에서 수비</KR>
+            <KR>主要位置的防守</KR>
             <ES>Defensa en la posición principal</ES>
             <JP>プライマリーポジションでの防御</JP>
             <CN>主要位置的防守</CN>
         </HCS>
         <HCS i="23357">
             <EN>Submit the new price of the order</EN>
-            <KR>주문의 새 가격 제출</KR>
+            <KR>提交訂單的新價格</KR>
             <ES>Enviar el nuevo precio del pedido</ES>
             <JP>注文の新しい価格を送信します</JP>
             <CN>提交訂單的新價格</CN>
         </HCS>
         <HCS i="23358">
             <EN>You need to complete &#37;required out of &#37;ncards missions to complete this mission</EN>
-            <KR>이 임무를 완료하려면 &#37;ncards 개 중 &#37;required 임무를 완료해야 합니다.</KR>
+            <KR>您需要完成 &#37;ncards 個任務中的 &#37;required 才能完成此任務</KR>
             <ES>Necesitas completar &#37;requerido de &#37;ncards misiones para completar esta misión</ES>
             <JP>このミッションを完了するには、％ncardsミッションのうち％requiredを完了する必要があります</JP>
             <CN>您需要完成 &#37;ncards 個任務中的 &#37;required 才能完成此任務</CN>
         </HCS>
         <HCS i="23359">
             <EN>Unzipping Archive</EN>
-            <KR>아카이브 압축 해제</KR>
+            <KR>解壓存檔</KR>
             <ES>Descomprimir archivo</ES>
             <JP>アーカイブの解凍</JP>
             <CN>解壓存檔</CN>
         </HCS>
         <HCS i="23360">
             <EN>Use 3D Pack Opening Screen</EN>
-            <KR>3D 팩 시작 화면 사용</KR>
+            <KR>使用 3D 開包畫面</KR>
             <ES>Usar la pantalla de apertura del paquete 3D</ES>
             <JP>3Dパックのオープニング画面を使用する</JP>
             <CN>使用 3D 包打開屏幕</CN>
         </HCS>
         <HCS i="23361">
             <EN>Fielding Potential Rating at the Primary Position of the Player</EN>
-            <KR>선수 주 포지션에서의 수비 포텐셜 레이팅</KR>
+            <KR>在球員的主要位置上的防守潛力等級</KR>
             <ES>Clasificación de potencial de fildeo en la posición principal del jugador</ES>
             <JP>プレーヤーの主要な位置でのフィールディングポテンシャル評価</JP>
             <CN>在球員的主要位置上的防守潛力等級</CN>
@@ -136048,7 +136048,7 @@
         <HCS i="23362">
             <EN>DEF Pot</EN>
             <DC>Fielding Potential Rating at the Primary Position of the Player</DC>
-            <KR>수비포텐셜</KR>
+            <KR>DEF潛力</KR>
             <ES>Olla DEF</ES>
             <JP>DEFポット</JP>
             <CN>DEF鍋</CN>
@@ -136056,539 +136056,539 @@
         <HCS i="23363">
             <EN>Fielding Potential at Primary Pos</EN>
             <DC>Fielding Potential Rating at the Primary Position of the Player</DC>
-            <KR>주 포지션의 수비포텐셜</KR>
+            <KR>主守位守備潛力</KR>
             <ES>Potencial de campo en la pos. primaria</ES>
             <JP>一次位置での守備の可能性</JP>
             <CN>初級職位的防守潛力</CN>
         </HCS>
         <HCS i="23364">
             <EN>Reload Perfect Draft</EN>
-            <KR>퍼펙트 드래프트 다시 로드</KR>
+            <KR>重新載入 Perfect Draft</KR>
             <ES>Recargar borrador perfecto</ES>
             <JP>パーフェクトドラフトをリロード</JP>
             <CN>重新加載完美草稿</CN>
         </HCS>
         <HCS i="23365">
             <EN>Age &#37;d</EN>
-            <KR>나이 &#37;d</KR>
+            <KR>年齡 &#37;d</KR>
             <ES>Envejecido</ES>
             <JP>年齢％d</JP>
             <CN>年齡 &#37;d</CN>
         </HCS>
         <HCS i="23366">
             <EN>Test Fireworks</EN>
-            <KR>불꽃놀이 테스트</KR>
+            <KR>測試煙火</KR>
             <ES>fuegos artificiales de prueba</ES>
             <JP>花火をテストする</JP>
             <CN>測試煙花</CN>
         </HCS>
         <HCS i="23367">
             <EN>Select Emitter</EN>
-            <KR>이미터 선택</KR>
+            <KR>選擇發射器</KR>
             <ES>Seleccionar emisor</ES>
             <JP>エミッタを選択</JP>
             <CN>選擇發射器</CN>
         </HCS>
         <HCS i="23368">
             <EN>Remove the last added emitter</EN>
-            <KR>최근 추가된 이미터 제거</KR>
+            <KR>移除最後添加的發射器</KR>
             <ES>Eliminar el último emisor agregado</ES>
             <JP>最後に追加したエミッタを削除します</JP>
             <CN>移除最後添加的發射器</CN>
         </HCS>
         <HCS i="23369">
             <EN>Remove last</EN>
-            <KR>최근 제거</KR>
+            <KR>刪除最後一個</KR>
             <ES>Quitar último</ES>
             <JP>最後に削除</JP>
             <CN>刪除最後一個</CN>
         </HCS>
         <HCS i="23370">
             <EN>To move the emitter parallel to the field use SHIFT + RIGHT_MOUSE_BUTTON + MOUSE. To move up and down use SHIFT + MIDDLE_MOUSE_BUTTON + MOUSE and SHIFT + LEFT_MOUSE_BUTTON + MOUSE to rotate. Use SHIFT + MOUSE_WHEEL to scale</EN>
-            <KR>이미터를 필드와 평행하게 이동하려면 SHIFT + RIGHT_MOUSE_BUTTON + MOUSE를 사용합니다. 위아래로 이동하려면 SHIFT + MIDDLE_MOUSE_BUTTON + MOUSE 및 SHIFT + LEFT_MOUSE_BUTTON + MOUSE를 사용하여 회전합니다. SHIFT + MOUSE_WHEEL을 사용하여 크기 조정</KR>
+            <KR>要使發射器平行於場移動，請使用 SHIFT + RIGHT_MOUSE_BUTTON + MOUSE。要上下移動，請使用 SHIFT + MIDDLE_MOUSE_BUTTON + MOUSE 和 SHIFT + LEFT_MOUSE_BUTTON + MOUSE 進行旋轉。使用 SHIFT + MOUSE_WHEEL 進行縮放</KR>
             <ES>Para mover el emisor paralelo al campo, use SHIFT + RIGHT_MOUSE_BUTTON + MOUSE. Para moverse hacia arriba y hacia abajo, use SHIFT + MIDDLE_MOUSE_BUTTON + MOUSE y SHIFT + LEFT_MOUSE_BUTTON + MOUSE para rotar. Use SHIFT + MOUSE_WHEEL para escalar</ES>
             <JP>エミッタをフィールドと平行に移動するには、SHIFT + RIGHT_MOUSE_BUTTON+MOUSEを使用します。上下に移動するには、SHIFT + MIDDLE_MOUSE_BUTTON+MOUSEおよびSHIFT+LEFT_MOUSE_BUTTON+MOUSEを使用して回転します。 SHIFT+MOUSE_WHEELを使用してスケーリングします</JP>
             <CN>要使發射器平行於場移動，請使用 SHIFT + RIGHT_MOUSE_BUTTON + MOUSE。要上下移動，請使用 SHIFT + MIDDLE_MOUSE_BUTTON + MOUSE 和 SHIFT + LEFT_MOUSE_BUTTON + MOUSE 進行旋轉。使用 SHIFT + MOUSE_WHEEL 進行縮放</CN>
         </HCS>
         <HCS i="23371">
             <EN>Add / remove Emitter</EN>
-            <KR>이미터 추가/제거</KR>
+            <KR>添加/刪除發射器</KR>
             <ES>Añadir/eliminar emisor</ES>
             <JP>エミッターの追加/削除</JP>
             <CN>添加/刪除發射器</CN>
         </HCS>
         <HCS i="23372">
             <EN>Show Fireworks Emitters</EN>
-            <KR>불꽃놀아 이미터 표시</KR>
+            <KR>顯示煙火發射器</KR>
             <ES>Mostrar emisores de fuegos artificiales</ES>
             <JP>花火エミッターを表示する</JP>
             <CN>顯示煙花發射器</CN>
         </HCS>
         <HCS i="23373">
             <EN>Use default day skybox</EN>
-            <KR>기본 요일 스카이박스 사용</KR>
+            <KR>使用預設日間天空盒</KR>
             <ES>Usar skybox de día predeterminado</ES>
             <JP>デフォルトの日のスカイボックスを使用する</JP>
             <CN>使用默認天天空盒</CN>
         </HCS>
         <HCS i="23374">
             <EN>Era Heroes</EN>
-            <KR>시대의 영웅</KR>
+            <KR>時代英雄</KR>
             <ES>Héroes de la era</ES>
             <JP>時代の英雄</JP>
             <CN>時代英雄</CN>
         </HCS>
         <HCS i="23375">
             <EN>Topps Series</EN>
-            <KR>탑스 시리즈</KR>
+            <KR>Topps 系列</KR>
             <ES>Serie Topps</ES>
             <JP>Toppsシリーズ</JP>
             <CN>托普斯系列</CN>
         </HCS>
         <HCS i="23376">
             <EN>Maximum numbers of emitters reached</EN>
-            <KR>최대 이미터 수에 도달했습니다</KR>
+            <KR>已達到最大發射器數量</KR>
             <ES>Número máximo de emisores alcanzado</ES>
             <JP>エミッターの最大数に達しました</JP>
             <CN>已達到最大發射器數量</CN>
         </HCS>
         <HCS i="23377">
             <EN>Austrian Baseball Bundesliga</EN>
-            <KR>오스트리아 야구 분데스리가</KR>
+            <KR>奧地利棒球甲級聯盟</KR>
             <ES>Bundesliga de béisbol de Austria</ES>
             <JP>オーストリアンベースボールブンデスリーガ</JP>
             <CN>奧地利棒球德甲</CN>
         </HCS>
         <HCS i="23378">
             <EN>Belgian Baseball Championship</EN>
-            <KR>벨기에 야구 선수권 대회</KR>
+            <KR>比利時棒球錦標賽</KR>
             <ES>campeonato belga de beisbol</ES>
             <JP>ベルギー野球選手権</JP>
             <CN>比利時棒球錦標賽</CN>
         </HCS>
         <HCS i="23379">
             <EN>Perfect Team mode is still under development and will soon launch via a free game update</EN>
-            <KR>Perfect Team 모드는 아직 개발 중이며 무료 게임 업데이트를 통해 곧 출시될 예정입니다.</KR>
+            <KR>完美球隊模式仍在開發中，即將透過免費遊戲更新推出</KR>
             <ES>El modo Perfect Team aún está en desarrollo y pronto se lanzará a través de una actualización gratuita del juego.</ES>
             <JP>パーフェクトチームモードはまだ開発中であり、無料のゲームアップデートでまもなくリリースされます</JP>
             <CN>完美團隊模式仍在開發中，即將通過免費遊戲更新推出</CN>
         </HCS>
         <HCS i="23380">
             <EN>Please visit our forums for more information and status updates</EN>
-            <KR>자세한 정보 및 상태 업데이트를 보려면 포럼을 방문하십시오.</KR>
+            <KR>請訪問我們的論壇以獲取更多信息和狀態更新</KR>
             <ES>Visite nuestros foros para obtener más información y actualizaciones de estado.</ES>
             <JP>詳細およびステータスの更新については、フォーラムにアクセスしてください。</JP>
             <CN>請訪問我們的論壇以獲取更多信息和狀態更新</CN>
         </HCS>
         <HCS i="23381">
             <EN>Your account is deleted or banned</EN>
-            <KR>귀하의 계정이 삭제되거나 차단되었습니다.</KR>
+            <KR>您的帳戶已被刪除或禁止</KR>
             <ES>Su cuenta ha sido eliminada o prohibida</ES>
             <JP>アカウントが削除または禁止された</JP>
             <CN>您的帳戶已被刪除或禁止</CN>
         </HCS>
         <HCS i="23382">
             <EN>OOTP Era</EN>
-            <KR>OOTP 시대</KR>
+            <KR>OOTP時代</KR>
             <ES>Era OTP</ES>
             <JP>OOTP時代</JP>
             <CN>OOTP時代</CN>
         </HCS>
         <HCS i="23383">
             <EN>Fetching Rankings List</EN>
-            <KR>순위 목록 가져오기</KR>
+            <KR>獲取排名列表</KR>
             <ES>Obtención de la lista de clasificaciones</ES>
             <JP>ランキングリストの取得</JP>
             <CN>獲取排名列表</CN>
         </HCS>
         <HCS i="23384">
             <EN>Select Ranking</EN>
-            <KR>순위 선택</KR>
+            <KR>選擇排名</KR>
             <ES>Seleccionar clasificación</ES>
             <JP>ランキングを選択</JP>
             <CN>選擇排名</CN>
         </HCS>
         <HCS i="23385">
             <EN>Compete in select tournaments and earn bonus prizes based on your standings each week. The top competitors each period will compete in exclusive monthly tournaments with unique prizes for the winners</EN>
-            <KR>일부 토너먼트에서 경쟁하고 매주 순위에 따라 보너스 상품을 받으십시오. 각 기간의 최고 경쟁자는 독점적인 월간 토너먼트에서 경쟁하며 우승자에게는 고유한 상품이 제공됩니다.</KR>
+            <KR>參加精選錦標賽，並根據您每週的排名贏取獎金。每個時期的頂級競爭對手將參加獨家每月錦標賽，為獲勝者提供獨特的獎品</KR>
             <ES>Compite en torneos selectos y gana premios de bonificación según tu clasificación cada semana. Los mejores competidores de cada período competirán en torneos mensuales exclusivos con premios únicos para los ganadores.</ES>
             <JP>選択したトーナメントに参加し、毎週あなたの順位に基づいてボーナス賞を獲得してください。各期間のトップの競争相手は、勝者のためのユニークな賞品で独占的な毎月のトーナメントで競争します</JP>
             <CN>參加精選錦標賽，並根據您每週的排名贏取獎金。每個時期的頂級競爭對手將參加獨家每月錦標賽，為獲勝者提供獨特的獎品</CN>
         </HCS>
         <HCS i="23386">
             <EN>Fetching Rankings Data</EN>
-            <KR>순위 데이터 가져오기</KR>
+            <KR>獲取排名數據</KR>
             <ES>Obtener datos de clasificación</ES>
             <JP>ランキングデータの取得</JP>
             <CN>獲取排名數據</CN>
         </HCS>
         <HCS i="23387">
             <EN>Total points earned this period</EN>
-            <KR>이 기간 동안 획득한 총 포인트</KR>
+            <KR>此期間獲得的總積分</KR>
             <ES>Puntos totales ganados este período</ES>
             <JP>この期間に獲得した合計ポイント</JP>
             <CN>此期間獲得的總積分</CN>
         </HCS>
         <HCS i="23388">
             <EN>Number of tournaments/drafts played this period</EN>
-            <KR>이 기간 동안 플레이한 토너먼트/드래프트 수</KR>
+            <KR>此期間參加的錦標賽/選秀次數</KR>
             <ES>Número de torneos/drafts jugados este período</ES>
             <JP>この期間にプレイされたトーナメント/ドラフトの数</JP>
             <CN>此期間參加的錦標賽/選秀次數</CN>
         </HCS>
         <HCS i="23389">
             <EN>Combined position total in tournaments/drafts this period</EN>
-            <KR>이번 기간 토너먼트/드래프트의 총 순위</KR>
+            <KR>此期間錦標賽/選秀中的總排名</KR>
             <ES>Total de posiciones combinadas en torneos/drafts este período</ES>
             <JP>この期間のトーナメント/ドラフトでの合計ポジション合計</JP>
             <CN>此期間錦標賽/選秀中的總排名</CN>
         </HCS>
         <HCS i="23390">
             <EN>Average position in tournaments/drafts this period</EN>
-            <KR>이번 기간 토너먼트/드래프트 평균 순위</KR>
+            <KR>這段時間在錦標賽/選秀中的平均排名</KR>
             <ES>Posición promedio en torneos/drafts este período</ES>
             <JP>この期間のトーナメント/ドラフトでの平均ポジション</JP>
             <CN>這段時間在錦標賽/選秀中的平均排名</CN>
         </HCS>
         <HCS i="23391">
             <EN>Best position in tournaments/drafts this period</EN>
-            <KR>이번 기간 토너먼트/드래프트에서 최고의 위치</KR>
+            <KR>本期比賽/選秀中的最佳位置</KR>
             <ES>Mejor posición en torneos/drafts este periodo</ES>
             <JP>この期間のトーナメント/ドラフトでの最高の位置</JP>
             <CN>本期比賽/選秀中的最佳位置</CN>
         </HCS>
         <HCS i="23392">
             <EN>Your Perfect Team Account has been banned or deleted.{nl}&#37;s{nl}Please check your email associated with this account for further details</EN>
-            <KR>귀하의 Perfect Team 계정이 차단 또는 삭제되었습니다. &#37;s 자세한 내용은 이 계정과 연결된 이메일을 확인하십시오</KR>
+            <KR>您的完美球隊帳戶已被停權或刪除。{nl}%s{nl}請查看與此帳戶關聯的電子郵件以獲取更多細節</KR>
             <ES>Su cuenta Perfect Team ha sido prohibida o eliminada. &#37;s Verifique su correo electrónico asociado con esta cuenta para obtener más detalles</ES>
             <JP>パーフェクトチームアカウントが禁止または削除されました。 ％s詳細については、このアカウントに関連付けられているメールアドレスを確認してください</JP>
             <CN>您的完美團隊帳戶已被禁止或刪除。 &#37;s 請查看與此帳戶關聯的電子郵件以獲取更多詳細信息</CN>
         </HCS>
         <HCS i="23393">
             <EN>Could not create your team. Currently the team creation is disabled. Please retry in several minutes</EN>
-            <KR>팀을 만들 수 없습니다. 현재 팀 생성이 비활성화되어 있습니다. 몇 분 후에 다시 시도하십시오</KR>
+            <KR>無法建立您的球隊。目前球隊建立功能已停用，請在幾分鐘後重試</KR>
             <ES>No se pudo crear tu equipo. Actualmente la creación de equipos está deshabilitada. Vuelva a intentarlo en varios minutos.</ES>
             <JP>チームを作成できませんでした。現在、チームの作成は無効になっています。数分後に再試行してください</JP>
             <CN>無法創建您的團隊。目前團隊創建被禁用。請在幾分鐘後重試</CN>
         </HCS>
         <HCS i="23394">
             <EN>Could not create your team. A team associated with this account is banned or deleted</EN>
-            <KR>팀을 만들 수 없습니다. 이 계정과 연결된 팀은 차단되거나 삭제됩니다.</KR>
+            <KR>無法建立您的球隊。與此帳戶關聯的球隊已被停權或刪除</KR>
             <ES>No se pudo crear tu equipo. Un equipo asociado con esta cuenta está prohibido o eliminado</ES>
             <JP>チームを作成できませんでした。このアカウントに関連付けられているチームは禁止または削除されます</JP>
             <CN>無法創建您的團隊。與此帳戶關聯的團隊被禁止或刪除</CN>
         </HCS>
         <HCS i="23395">
             <EN>Could not sync players. Please retry</EN>
-            <KR>플레이어를 동기화할 수 없습니다. 다시 시도하십시오</KR>
+            <KR>無法同步球員，請重試</KR>
             <ES>No se pudieron sincronizar los jugadores. Por favor, intenta de nuevo</ES>
             <JP>プレーヤーを同期できませんでした。再試行してください</JP>
             <CN>無法同步播放器。請重試</CN>
         </HCS>
         <HCS i="23396">
             <EN>An Error occurred, could not retrieve rankings list.{nl}Please try again. If the error persists, please try to restart OOTP</EN>
-            <KR>오류가 발생하여 순위 목록을 검색할 수 없습니다. 다시 시도해 주세요. 오류가 지속되면 OOTP를 다시 시작하십시오.</KR>
+            <KR>發生錯誤，無法檢索排名列表。請再試一次。如果錯誤仍然存在，請嘗試重新啟動 OOTP</KR>
             <ES>Ocurrió un error, no se pudo recuperar la lista de clasificaciones. Inténtalo de nuevo. Si el error persiste, intente reiniciar OOTP</ES>
             <JP>エラーが発生しました。ランキングリストを取得できませんでした。もう一度やり直してください。エラーが続く場合は、OOTPを再起動してみてください</JP>
             <CN>發生錯誤，無法檢索排名列表。請再試一次。如果錯誤仍然存在，請嘗試重新啟動 OOTP</CN>
         </HCS>
         <HCS i="23397">
             <EN>Your account is restricted for tournaments</EN>
-            <KR>귀하의 계정은 토너먼트용으로 제한됩니다.</KR>
+            <KR>您的帳戶被限制參加錦標賽</KR>
             <ES>Tu cuenta está restringida para torneos</ES>
             <JP>あなたのアカウントはトーナメントに制限されています</JP>
             <CN>您的帳戶被限制參加錦標賽</CN>
         </HCS>
         <HCS i="23398">
             <EN>Your account is restricted for drafts</EN>
-            <KR>귀하의 계정은 드래프트로 제한됩니다</KR>
+            <KR>您的帳戶被限制參加選秀</KR>
             <ES>Su cuenta está restringida para giros</ES>
             <JP>アカウントは下書きに制限されています</JP>
             <CN>您的帳戶受草稿限制</CN>
         </HCS>
         <HCS i="23399">
             <EN>Do you really want to request the deletion of your account? It can take up to 7 days until deletion is performed</EN>
-            <KR>계정 삭제를 정말로 요청하시겠습니까? 삭제가 수행될 때까지 최대 7일이 소요될 수 있습니다.</KR>
+            <KR>您真的要請求刪除您的帳戶嗎？最多可能需要 7 天才能執行刪除</KR>
             <ES>¿Realmente quieres solicitar la eliminación de tu cuenta? Pueden pasar hasta 7 días hasta que se realice la eliminación</ES>
             <JP>本当にアカウントの削除をリクエストしますか？削除が実行されるまで最大7日かかる場合があります</JP>
             <CN>您真的要請求刪除您的帳戶嗎？最多可能需要 7 天才能執行刪除</CN>
         </HCS>
         <HCS i="23400">
             <EN>Yes, delete account</EN>
-            <KR>예, 계정 삭제</KR>
+            <KR>是的，刪除帳戶</KR>
             <ES>Sí, eliminar cuenta</ES>
             <JP>はい、アカウントを削除します</JP>
             <CN>是的，刪除帳戶</CN>
         </HCS>
         <HCS i="23401">
             <EN>Purchase 2022 or historical seasons</EN>
-            <KR>2022년 또는 역사적 시즌 구매</KR>
+            <KR>購買 2022 年或歷史賽季</KR>
             <ES>Compra 2022 o temporadas históricas</ES>
             <JP>2022年または歴史的な季節を購入する</JP>
             <CN>購買 2022 年或歷史季節</CN>
         </HCS>
         <HCS i="23402">
             <EN>Play with real 2022 teams</EN>
-            <KR>실제 2022 팀으로 플레이</KR>
+            <KR>與真正的 2022 年球隊一起比賽</KR>
             <ES>Juega con equipos reales de 2022</ES>
             <JP>実際の2022チームで遊ぶ</JP>
             <CN>與真正的 2022 年球隊一起比賽</CN>
         </HCS>
         <HCS i="23403">
             <EN>Before this season, the &#37;nick_name had made the playoffs &#37;num_made_row times in a row</EN>
-            <KR>이번 시즌 이전에 &#37;nick_name은(는) 플레이오프에 &#37;num_made_row 연속으로 진출했습니다.</KR>
+            <KR>在本賽季之前，&#37;nick_name 連續 &#37;num_made_row 次進入季後賽</KR>
             <ES>Antes de esta temporada, &#37;nick_name había llegado a los playoffs &#37;num_made_row veces seguidas.</ES>
             <JP>今シーズンの前に、％nick_nameはプレーオフを％num_made_row回続けて行っていました</JP>
             <CN>在本賽季之前，&#37;nick_name 連續 &#37;num_made_row 次進入季后賽</CN>
         </HCS>
         <HCS i="23404">
             <EN>The first round will match teams in groups in a small round-robin tournament, with the top team(s) in each pool moving to a single-elimination bracket</EN>
-            <KR>첫 번째 라운드는 소규모 라운드 로빈 토너먼트에서 그룹의 팀과 맞붙게 되며, 각 풀의 상위 팀은 싱글 엘리미네이션 브래킷으로 이동합니다.</KR>
+            <KR>第一輪將在小型循環賽中分組比賽，每個小組中的頂級球隊將進入單淘汰賽</KR>
             <ES>La primera ronda emparejará equipos en grupos en un pequeño torneo de todos contra todos, y los mejores equipos de cada grupo pasarán a un grupo de eliminación simple.</ES>
             <JP>最初のラウンドは、小さなラウンドロビントーナメントでグループのチームと対戦し、各プールのトップチームがシングルエリミネーションブラケットに移動します</JP>
             <CN>第一輪將在小型循環賽中分組比賽，每個小組中的頂級球隊將進入單淘汰賽</CN>
         </HCS>
         <HCS i="23405">
             <EN>Login Daily to continue your streak and get new rewards every day. A new day begins at Midnight UTC</EN>
-            <KR>매일 로그인하여 연속 기록을 계속하고 매일 새로운 보상을 받으세요. UTC기준 자정에 새로운 하루가 시작됩니다.</KR>
+            <KR>每天登入以延續您的連續登入紀錄，天天都能獲得新獎勵。新的一天從 UTC 午夜開始</KR>
             <ES>Inicie sesión diariamente para continuar con su racha y obtener nuevas recompensas todos los días. Un nuevo día comienza a la medianoche UTC</ES>
             <JP>毎日ログインして、連勝を続け、毎日新しい報酬を獲得してください。新しい日はUTCの真夜中に始まります</JP>
             <CN>每天登錄以繼續您的連勝紀錄並每天獲得新的獎勵。新的一天從 UTC 午夜開始</CN>
         </HCS>
         <HCS i="23406">
             <EN>LOAD PREVIOUS PURCHASES</EN>
-            <KR>이전 구매 로드</KR>
+            <KR>加載以前的購買</KR>
             <ES>CARGAR COMPRAS ANTERIORES</ES>
             <JP>以前の購入をロードする</JP>
             <CN>加載以前的購買</CN>
         </HCS>
         <HCS i="23407">
             <EN>NO - START OPENING DAY</EN>
-            <KR>아니요 - 개막일 시작</KR>
+            <KR>否 - 從開幕日開始</KR>
             <ES>NO - INICIO DÍA DE APERTURA</ES>
             <JP>いいえ-営業日を開始します</JP>
             <CN>否 - 開始開放日</CN>
         </HCS>
         <HCS i="23408">
             <EN>YES - BASED ON PERFORMANCE</EN>
-            <KR>예 - 성능 기준</KR>
+            <KR>是 - 依球員表現</KR>
             <ES>SÍ - BASADO EN EL RENDIMIENTO</ES>
             <JP>はい-パフォーマンスに基づく</JP>
             <CN>是 - 基於性能</CN>
         </HCS>
         <HCS i="23409">
             <EN>NO - OPENING DAY RATINGS</EN>
-            <KR>아니요 - 개막일 등급</KR>
+            <KR>否 - 開幕日能力值</KR>
             <ES>NO - CALIFICACIONES DEL DÍA DE LA APERTURA</ES>
             <JP>いいえ-初日の評価</JP>
             <CN>無 - 開放日收視率</CN>
         </HCS>
         <HCS i="23410">
             <EN>NO - OPENING DAY ROSTERS</EN>
-            <KR>아니요 - 개막일 명단</KR>
+            <KR>否 - 開幕日名單</KR>
             <ES>NO - LISTAS DEL DÍA DE APERTURA</ES>
             <JP>いいえ-開幕戦の名簿</JP>
             <CN>不 - 開幕日名冊</CN>
         </HCS>
         <HCS i="23411">
             <EN>YES - CURRENT STATUS</EN>
-            <KR>예 - 현재 상태</KR>
+            <KR>是 - 當前狀態</KR>
             <ES>SÍ - ESTADO ACTUAL</ES>
             <JP>はい-現在のステータス</JP>
             <CN>是 - 當前狀態</CN>
         </HCS>
         <HCS i="23412">
             <EN>NO - OPENING DAY STATUS</EN>
-            <KR>아니요 - 개막일 상태</KR>
+            <KR>否 - 開幕日狀態</KR>
             <ES>NO - ESTADO DEL DÍA DE APERTURA</ES>
             <JP>いいえ-営業日のステータス</JP>
             <CN>否 - 開放日狀態</CN>
         </HCS>
         <HCS i="23413">
             <EN>Got pack(s) from a tournament standing</EN>
-            <KR>토너먼트 스탠딩에서 팩을 얻었습니다.</KR>
+            <KR>從錦標賽排名中獲得包</KR>
             <ES>Tengo paquete(s) de un torneo de pie</ES>
             <JP>トーナメントスタンディングからパックを手に入れました</JP>
             <CN>從錦標賽排名中獲得包</CN>
         </HCS>
         <HCS i="23414">
             <EN>Disable</EN>
-            <KR>비활성</KR>
+            <KR>禁用</KR>
             <ES>Deshabilitar</ES>
             <JP>無効にする</JP>
             <CN>禁用</CN>
         </HCS>
         <HCS i="23415">
             <EN>Limited Edition/100</EN>
-            <KR>한정판/100</KR>
+            <KR>限量版/100</KR>
             <ES>Edición limitada/100</ES>
             <JP>限定版/100</JP>
             <CN>限量版/100</CN>
         </HCS>
         <HCS i="23416">
             <EN>TOPPS</EN>
-            <KR>탑스</KR>
+            <KR>TOPPS</KR>
             <ES>SUPERIORES</ES>
             <JP>TOPPS</JP>
             <CN>TOPPS</CN>
         </HCS>
         <HCS i="23417">
             <EN>Only Deadball (&lt;1920) era</EN>
-            <KR>데드볼(1920 이전) 시대만</KR>
+            <KR>僅限死球（1920 以前）時代</KR>
             <ES>Solo era de Deadball (&amp;lt;1920)</ES>
             <JP>デッドボール（&amp;lt;1920）時代のみ</JP>
             <CN>只有死球（&amp;lt;1920）時代</CN>
         </HCS>
         <HCS i="23418">
             <EN>Only Rebirth (1921-1945) era</EN>
-            <KR>리버스(1921-1945) 시대만</KR>
+            <KR>僅限重生（1921-1945）時代</KR>
             <ES>Solo era del renacimiento (1921-1945)</ES>
             <JP>唯一の再生（1921-1945）時代</JP>
             <CN>只有重生（1921-1945）時代</CN>
         </HCS>
         <HCS i="23419">
             <EN>Only Golden Years (1946-1960) era</EN>
-            <KR>황금기(1946-1960) 시대만</KR>
+            <KR>僅限黃金歲月（1946-1960）時代</KR>
             <ES>Solo la era de los años dorados (1946-1960)</ES>
             <JP>ゴールデンイヤーズ（1946-1960）の時代のみ</JP>
             <CN>只有黃金歲月（1946-1960）時代</CN>
         </HCS>
         <HCS i="23420">
             <EN>Only Boom (1961-1979) era</EN>
-            <KR>붐(1961-1979) 시대만</KR>
+            <KR>僅限繁榮（1961-1979）時代</KR>
             <ES>Era solo Boom (1961-1979)</ES>
             <JP>ブーム（1961-1979）の時代のみ</JP>
             <CN>只有繁榮（1961-1979）時代</CN>
         </HCS>
         <HCS i="23421">
             <EN>Only Defense (1980-1992) era</EN>
-            <KR>디펜스(1980-1992) 시대만</KR>
+            <KR>僅限守備（1980-1992）時代</KR>
             <ES>Solo defensa (1980-1992) era</ES>
             <JP>唯一の防衛（1980-1992）時代</JP>
             <CN>只有國防（1980-1992）時代</CN>
         </HCS>
         <HCS i="23422">
             <EN>Only Power (1993-2004) era</EN>
-            <KR>파워(1993-2004) 시대만</KR>
+            <KR>僅限強打（1993-2004）時代</KR>
             <ES>Era de Solo Poder (1993-2004)</ES>
             <JP>唯一の力（1993-2004）時代</JP>
             <CN>只有權力（1993-2004）時代</CN>
         </HCS>
         <HCS i="23423">
             <EN>Only Modern (2005+) era</EN>
-            <KR>모던(2005+) 시대만</KR>
+            <KR>僅限現代（2005+）時代</KR>
             <ES>Solo era moderna (2005+)</ES>
             <JP>現代（2005+）の時代のみ</JP>
             <CN>只有現代（2005+）時代</CN>
         </HCS>
         <HCS i="23424">
             <EN>Rankings</EN>
-            <KR>순위</KR>
+            <KR>排名</KR>
             <ES>clasificaciones</ES>
             <JP>ランキング</JP>
             <CN>排名</CN>
         </HCS>
         <HCS i="23425">
             <EN>REQUEST ACCOUNT DELETION</EN>
-            <KR>계정 삭제 요청</KR>
+            <KR>請求刪除帳戶</KR>
             <ES>SOLICITAR ELIMINACIÓN DE CUENTA</ES>
             <JP>アカウントの削除をリクエストする</JP>
             <CN>請求刪除帳戶</CN>
         </HCS>
         <HCS i="23426">
             <EN>Skipped</EN>
-            <KR>건너뜀</KR>
+            <KR>跳過</KR>
             <ES>omitido</ES>
             <JP>スキップ</JP>
             <CN>跳過</CN>
         </HCS>
         <HCS i="23427">
             <EN>You have &#37;n more &#37;m shop(s) today</EN>
-            <KR>오늘 &#37;n 개 이상의 &#37;m 상점이 있습니다.</KR>
+            <KR>您今天還有 &#37;n 多 &#37;m 家商店</KR>
             <ES>Tienes &#37;n &#37;m tienda(s) más hoy</ES>
             <JP>今日は％n以上の％mショップがあります</JP>
             <CN>您今天還有 &#37;n 多 &#37;m 家商店</CN>
         </HCS>
         <HCS i="23428">
             <EN>Current number of Emitters</EN>
-            <KR>현재 이미터 수</KR>
+            <KR>當前發射器數量</KR>
             <ES>Número actual de emisores</ES>
             <JP>現在のエミッター数</JP>
             <CN>當前發射器數量</CN>
         </HCS>
         <HCS i="23429">
             <EN>REFRESH CARD SHOP DATA</EN>
-            <KR>리프레시 카드 숍 데이터</KR>
+            <KR>刷新卡店數據</KR>
             <ES>ACTUALIZAR DATOS DE LA TIENDA DE TARJETAS</ES>
             <JP>カードショップデータの更新</JP>
             <CN>刷新卡店數據</CN>
         </HCS>
         <HCS i="23430">
             <EN>Sell Orders: -- Buy Orders</EN>
-            <KR>매도 주문: -- 매수 주문</KR>
+            <KR>賣單： -- 買單</KR>
             <ES>Órdenes de venta: -- Órdenes de compra</ES>
             <JP>注文の販売：-注文の購入</JP>
             <CN>賣單： -- 買單</CN>
         </HCS>
         <HCS i="23431">
             <EN>REFRESH LIST</EN>
-            <KR>새로 고침 목록</KR>
+            <KR>刷新列表</KR>
             <ES>ACTUALIZAR LISTA</ES>
             <JP>リフレッシュリスト</JP>
             <CN>刷新列表</CN>
         </HCS>
         <HCS i="23432">
             <EN>RESET FILTER</EN>
-            <KR>필터 재설정</KR>
+            <KR>重置過濾器</KR>
             <ES>RESTABLECER FILTRO</ES>
             <JP>フィルターのリセット</JP>
             <CN>重置過濾器</CN>
         </HCS>
         <HCS i="23433">
             <EN>RELOAD CARD LIST FROM SERVER</EN>
-            <KR>서버에서 카드 목록 다시 로드</KR>
+            <KR>從伺服器重新載入卡片列表</KR>
             <ES>RECARGAR LISTA DE TARJETAS DESDE EL SERVIDOR</ES>
             <JP>サーバーからカードリストをリロードする</JP>
             <CN>從服務器重新加載卡列表</CN>
         </HCS>
         <HCS i="23434">
             <EN>CLEAR WATCHLIST</EN>
-            <KR>관심 목록 지우기</KR>
+            <KR>清除觀察名單</KR>
             <ES>BORRAR LISTA DE VIGILANCIA</ES>
             <JP>クリアウォッチリスト</JP>
             <CN>清除觀察名單</CN>
         </HCS>
         <HCS i="23435">
             <EN>LOAD SEASONS</EN>
-            <KR>로드 시즌</KR>
+            <KR>載入賽季</KR>
             <ES>TEMPORADAS DE CARGA</ES>
             <JP>ロードシーズン</JP>
             <CN>裝載季節</CN>
         </HCS>
         <HCS i="23436">
             <EN>VIEW MINORS OVERVIEW</EN>
-            <KR>마이너 개요 보기</KR>
+            <KR>檢視小聯盟總覽</KR>
             <ES>VER RESUMEN DE MENORES</ES>
             <JP>マイナーの概要を見る</JP>
             <CN>查看未成年人概述</CN>
         </HCS>
         <HCS i="23437">
             <EN>VIEW MINORS LISTS</EN>
-            <KR>마이너 목록 보기</KR>
+            <KR>檢視小聯盟名單</KR>
             <ES>VER LISTAS DE MENORES</ES>
             <JP>マイナーリストを見る</JP>
             <CN>查看未成年人名單</CN>
         </HCS>
         <HCS i="23438">
             <EN>ALT LINEUP vs RHP</EN>
-            <KR>우투상대 대체 라인업</KR>
+            <KR>備用陣容 vs 右投</KR>
             <ES>ALINEACIÓN ALTERNATIVA vs RHP</ES>
             <JP>ALTラインナップvsRHP</JP>
             <CN>ALT 陣容與 RHP</CN>
         </HCS>
         <HCS i="23439">
             <EN>ALT LINEUP vs LHP</EN>
-            <KR>좌투상대 대체 라인업</KR>
+            <KR>備用陣容 vs 左投</KR>
             <ES>ALINEACIÓN ALTERNATIVA vs LHP</ES>
             <JP>ALTラインナップvsLHP</JP>
             <CN>ALT 陣容與 LHP</CN>
@@ -136596,91 +136596,91 @@
         <HCS i="23440">
             <EN>ERA</EN>
             <DC>Era Heroes</DC>
-            <KR>연대</KR>
+            <KR>年代</KR>
             <ES>ERA</ES>
             <JP>時代</JP>
             <CN>時代</CN>
         </HCS>
         <HCS i="23441">
             <EN>FIREWORKS</EN>
-            <KR>불꽃</KR>
+            <KR>煙火</KR>
             <ES>FUEGOS ARTIFICIALES</ES>
             <JP>花火</JP>
             <CN>煙花</CN>
         </HCS>
         <HCS i="23442">
             <EN>Show Card Glow and Bloom (affects performance</EN>
-            <KR>카드 반짝임 보기(성능 영향</KR>
+            <KR>顯示卡片發光與泛光效果（影響效能</KR>
             <ES>Show Card Glow and Bloom (afecta el rendimiento</ES>
             <JP>カードのグローとブルームを表示（パフォーマンスに影響します</JP>
             <CN>顯示卡片發光和綻放（影響性能</CN>
         </HCS>
         <HCS i="23443">
             <EN>MinD</EN>
-            <KR>최소D</KR>
+            <KR>MinD</KR>
             <ES>Mente</ES>
             <JP>マインド</JP>
             <CN>頭腦</CN>
         </HCS>
         <HCS i="23444">
             <EN>MinG</EN>
-            <KR>최소G</KR>
+            <KR>MinG</KR>
             <ES>minería</ES>
             <JP>MinG</JP>
             <CN>銘</CN>
         </HCS>
         <HCS i="23445">
             <EN>MinB</EN>
-            <KR>최소B</KR>
+            <KR>MinB</KR>
             <ES>MinB</ES>
             <JP>MinB</JP>
             <CN>最小值</CN>
         </HCS>
         <HCS i="23446">
             <EN>Download League File (DEBUG</EN>
-            <KR>리그 파일 다운로드(DEBUG</KR>
+            <KR>下載聯盟檔案（DEBUG</KR>
             <ES>Descargar archivo de liga (DEBUG</ES>
             <JP>リーグファイルのダウンロード（DEBUG</JP>
             <CN>下載聯賽文件（調試</CN>
         </HCS>
         <HCS i="23447">
             <EN>Lost &#37;p (Historical Lineup</EN>
-            <KR>&#37;p 손실 (역사적 라인업</KR>
+            <KR>失去 %p（歷史陣容</KR>
             <ES>Perdió &#37;p (Alineación histórica</ES>
             <JP>％pを失った（歴史的なラインナップ</JP>
             <CN>損失&#37;p（歷史陣容</CN>
         </HCS>
         <HCS i="23448">
             <EN>Added to &#37;t1 (Historical Lineups</EN>
-            <KR>&#37;t1 획득 (역사적 라인업</KR>
+            <KR>添加到 &#37;t1（歷史陣容</KR>
             <ES>Añadido a &#37;t1 (Alineaciones históricas</ES>
             <JP>％t1に追加（履歴ラインナップ</JP>
             <CN>添加到 &#37;t1（歷史陣容</CN>
         </HCS>
         <HCS i="23449">
             <EN>Added &#37;p (Historical Lineup</EN>
-            <KR>&#37;p 획득 (역사적 라인업</KR>
+            <KR>添加了 &#37;p（歷史陣容</KR>
             <ES>Se agregó &#37;p (Alineación histórica</ES>
             <JP>％p（歴史的ラインナップ）を追加</JP>
             <CN>添加了 &#37;p（歷史陣容</CN>
         </HCS>
         <HCS i="23450">
             <EN>Lost &#37;p (Historical Transaction</EN>
-            <KR>&#37;p 손실 (역사적 선수이동</KR>
+            <KR>失去 %p（歷史交易</KR>
             <ES>&#37;p perdido (transacción histórica</ES>
             <JP>％pを失った（履歴トランザクション</JP>
             <CN>丟失 &#37;p (歷史交易</CN>
         </HCS>
         <HCS i="23451">
             <EN>Added to &#37;t1 (Historical Transaction</EN>
-            <KR>&#37;t1 획득 (역사적 선수이동</KR>
+            <KR>添加到 &#37;t1（歷史交易</KR>
             <ES>Agregado a &#37;t1 (Transacción histórica</ES>
             <JP>％t1に追加（履歴トランザクション</JP>
             <CN>添加到 &#37;t1（歷史交易</CN>
         </HCS>
         <HCS i="23452">
             <EN>Added &#37;p (Historical Transaction</EN>
-            <KR>&#37;p 획득 (역사적 선수이동</KR>
+            <KR>添加 &#37;p (歷史交易</KR>
             <ES>Se agregó &#37;p (transacción histórica</ES>
             <JP>％p（履歴トランザクション）を追加しました</JP>
             <CN>添加 &#37;p (歷史交易</CN>
@@ -136688,7 +136688,7 @@
         <HCS i="23453">
             <EN>EDIT DEFAULT LINEUP</EN>
             <DC>Edit Default Lineup</DC>
-            <KR>기본 라인업 편집</KR>
+            <KR>編輯預設陣容</KR>
             <ES>EDITAR ALINEACIÓN PREDETERMINADA</ES>
             <JP>デフォルトのラインナップを編集</JP>
             <CN>編輯默認陣容</CN>
@@ -136696,14 +136696,14 @@
         <HCS i="23454">
             <EN>EDIT ALT LINEUP</EN>
             <DC>Edit Alternate Lineup</DC>
-            <KR>대체 라인업 편집</KR>
+            <KR>編輯備用陣容</KR>
             <ES>EDITAR ALINEACIÓN ALTERNATIVA</ES>
             <JP>ALTラインナップを編集</JP>
             <CN>編輯 ALT 陣容</CN>
         </HCS>
         <HCS i="23455">
             <EN>a player card</EN>
-            <KR>선수 카드</KR>
+            <KR>球員卡</KR>
             <ES>una tarjeta de jugador</ES>
             <JP>プレイヤーカード</JP>
             <CN>球員卡</CN>
@@ -136742,28 +136742,28 @@
         </HCS>
         <HCS i="23460">
             <EN>The &#37;year &#37;tournament_name has announced the list of teams that will challenge for the &#37;championship_name this year. The teams competing this year will be:(nl)(nl</EN>
-            <KR>&#37;year &#37;tournament_name이(가) 올해 &#37;championship_name에 도전할 팀 목록을 발표했습니다. 올해 경쟁하는 팀은 다음과 같습니다:(nl)(nl</KR>
+            <KR>&#37;year &#37;tournament_name 公佈了今年將挑戰 &#37;championship_name 的球隊名單。今年參賽的球隊將是：(nl)(nl</KR>
             <ES>El &#37;year &#37;tournament_name ha anunciado la lista de equipos que competirán por el &#37;championship_name este año. Los equipos que competirán este año serán:(nl)(nl</ES>
             <JP>％year％tournament_nameは、今年％championship_nameに挑戦するチームのリストを発表しました。今年のチームは次のようになります：（nl）（nl</JP>
             <CN>&#37;year &#37;tournament_name 公佈了今年將挑戰 &#37;championship_name 的球隊名單。今年參賽的球隊將是：(nl)(nl</CN>
         </HCS>
         <HCS i="23461">
             <EN>Add Cash (-&#37;s Available</EN>
-            <KR>현금 추가 (-&#37;s 사용 가능</KR>
+            <KR>添加現金（-&#37;s 可用</KR>
             <ES>Añadir Efectivo (-&#37;s Disponible</ES>
             <JP>現金を追加（-％s利用可能</JP>
             <CN>添加現金（-&#37;s 可用</CN>
         </HCS>
         <HCS i="23462">
             <EN>Add Cash (&#37;s Available</EN>
-            <KR>현금 추가 (&#37;s 사용 가능</KR>
+            <KR>添加現金（&#37;s 可用</KR>
             <ES>Añadir Efectivo (&#37;s Disponible</ES>
             <JP>現金を追加（％s利用可能</JP>
             <CN>添加現金（&#37;s 可用</CN>
         </HCS>
         <HCS i="23463">
             <EN>Retain (&#37;</EN>
-            <KR>유지 (&#37;</KR>
+            <KR>保留（%</KR>
             <ES>Retener (&#37;</ES>
             <JP>保持 （％</JP>
             <CN>保持 （％</CN>
@@ -136777,7 +136777,7 @@
         </HCS>
         <HCS i="23465">
             <EN>Use simplified audience detail to improve fps during 3D games</EN>
-            <KR>관중 묘사 단순화로 3D 경기중 fps 향상</KR>
+            <KR>在 3D 遊戲中使用簡化的觀眾細節來提高 fps</KR>
             <ES>Use detalles simplificados de la audiencia para mejorar los fps durante los juegos en 3D</ES>
             <JP>簡略化されたオーディエンスの詳細を使用して、3Dゲーム中のfpsを改善します</JP>
             <CN>在 3D 遊戲中使用簡化的觀眾細節來提高 fps</CN>
@@ -136791,595 +136791,595 @@
         </HCS>
         <HCS i="23467">
             <EN>A new day begins at Midnight UTC</EN>
-            <KR>UTC 기준 자정에 새로운 하루가 시작됩니다.</KR>
+            <KR>新的一天從 UTC 午夜開始</KR>
             <ES>Un nuevo día comienza a la medianoche UTC</ES>
             <JP>新しい日はUTCの真夜中に始まります</JP>
             <CN>新的一天從 UTC 午夜開始</CN>
         </HCS>
         <HCS i="23468">
             <EN>Please make selection</EN>
-            <KR>선택해주세요</KR>
+            <KR>請做出選擇</KR>
             <ES>Por favor haga la selección</ES>
             <JP>選択してください</JP>
             <CN>請做出選擇</CN>
         </HCS>
         <HCS i="23469">
             <EN>Error placing player on injured list! Please make room for the player before putting him on the IL</EN>
-            <KR>부상자 명단에 선수를 등록하는 동안 오류가 발생했습니다! 선수를 부상자 명단에 올리기 전에 선수를 위한 자리를 만드십시오</KR>
+            <KR>將球員列入傷兵名單時發生錯誤！請先騰出名單空間再將他放入 IL</KR>
             <ES>¡Error al colocar al jugador en la lista de lesionados! Haz espacio para el jugador antes de ponerlo en la lista de lesionados.</ES>
             <JP>プレーヤーを負傷者リストに入れる際にエラーが発生しました!プレーヤーを IL に入れる前に、プレーヤーのためのスペースを確保してください</JP>
             <CN>將球員列入受傷名單時出錯！請先為玩家騰出空間，然後再將其放入 IL</CN>
         </HCS>
         <HCS i="23470">
             <EN>On-Base+Slug. Pct</EN>
-            <KR>출루율 + 장타율</KR>
+            <KR>整體攻擊指數</KR>
             <ES>En Base+Slug. porcentaje</ES>
             <JP>オンベース＋スラッグ。パーセント</JP>
             <CN>基礎+彈頭。百分比</CN>
         </HCS>
         <HCS i="23471">
             <EN>Free agents wear suits</EN>
-            <KR>자유계약선수는 정장을 입습니다</KR>
+            <KR>自由球員穿西裝</KR>
             <ES>Los agentes libres usan trajes</ES>
             <JP>フリーエージェントはスーツを着用</JP>
             <CN>自由球員穿西裝</CN>
         </HCS>
         <HCS i="23472">
             <EN>Would you like to reimport the names database now</EN>
-            <KR>지금 성명 데이터베이스를 다시 불러오겠습니까</KR>
+            <KR>您想現在重新導入名稱數據庫嗎</KR>
             <ES>¿Le gustaría volver a importar la base de datos de nombres ahora?</ES>
             <JP>名前データベースを今すぐ再インポートしますか?</JP>
             <CN>您想現在重新導入名稱數據庫嗎</CN>
         </HCS>
         <HCS i="23473">
             <EN>Please tap turned card to reveal</EN>
-            <KR>열지 않은 카드를 눌러 개봉하세요</KR>
+            <KR>請點擊翻面的卡片以揭曉</KR>
             <ES>Toque la tarjeta girada para revelar</ES>
             <JP>めくったカードをタップして公開してください</JP>
             <CN>請點按轉牌以顯示</CN>
         </HCS>
         <HCS i="23474">
             <EN>Roster not properly set or incomplete - AI Reset</EN>
-            <KR>로스터가 제대로 설정되지 않았거나 불완전합니다 - AI가 재설정합니다</KR>
+            <KR>名冊設置不正確或不完整 - AI 重置</KR>
             <ES>La lista no está configurada correctamente o está incompleta: restablecimiento de AI</ES>
             <JP>名簿が正しく設定されていないか不完全です - AI リセット</JP>
             <CN>名冊設置不正確或不完整 - AI 重置</CN>
         </HCS>
         <HCS i="23475">
             <EN>Updating languages</EN>
-            <KR>언어 업데이트</KR>
+            <KR>更新語言</KR>
             <ES>Actualización de idiomas</ES>
             <JP>言語の更新</JP>
             <CN>更新語言</CN>
         </HCS>
         <HCS i="23476">
             <EN>Please enter a valid email address to request a code</EN>
-            <KR>코드를 요청하려면 유효한 이메일 주소를 입력하세요.</KR>
+            <KR>請輸入有效的電子郵件地址以請求代碼</KR>
             <ES>Por favor, introduzca una dirección de correo electrónico válida para solicitar un código</ES>
             <JP>コードをリクエストするには、有効なメールアドレスを入力してください</JP>
             <CN>請輸入有效的電子郵件地址以請求代碼</CN>
         </HCS>
         <HCS i="23477">
             <EN>OOTP is unable to initiate the purchase because in-app-purchasing is blocked or it&#39;s not available on your system. To unblock, please go to Settings &gt; Screen Time &gt; Content &amp; Privacy Restrictions &gt; iTunes &amp; App Store Purchases &gt; In-app Purchases</EN>
-            <KR>인앱 구매가 차단되었거나 시스템에서 사용할 수 없기 때문에 OOTP에서 구매를 시작할 수 없습니다. 차단을 해제하려면 설정 &amp;gt; 스크린 타임 &amp;gt; 콘텐츠 및 개인 정보 보호 제한 &amp;gt; iTunes 및 App Store 구매 &amp;gt; 인앱 구매로 이동하세요.</KR>
+            <KR>OOTP 無法啟動購買，因為應用內購買被阻止或在您的系統上不可用。要取消阻止，請轉到設置 &gt; 屏幕使用時間 &gt; 內容和隱私限制 &gt; iTunes 和 App Store 購買 &gt; 應用內購買</KR>
             <ES>OOTP no puede iniciar la compra porque la compra desde la aplicación está bloqueada o no está disponible en su sistema. Para desbloquear, vaya a Configuración&amp;gt; Tiempo de pantalla&amp;gt; Restricciones de contenido y privacidad&amp;gt; Compras en iTunes y App Store&amp;gt; Compras en la aplicación</ES>
             <JP>アプリ内購入がブロックされているか、システムで利用できないため、OOTP は購入を開始できません。ブロックを解除するには、[設定] &amp;gt; [スクリーンタイム] &amp;gt; [コンテンツとプライバシーの制限] &amp;gt; [iTunes と App Store での購入] &amp;gt; [アプリ内購入] に移動してください</JP>
             <CN>OOTP 無法啟動購買，因為應用內購買被阻止或在您的系統上不可用。要取消阻止，請轉到設置 &amp;gt; 屏幕使用時間 &amp;gt; 內容和隱私限制 &amp;gt; iTunes 和 App Store 購買 &amp;gt; 應用內購買</CN>
         </HCS>
         <HCS i="23478">
             <EN>POSTED PLAYER</EN>
-            <KR>포스팅된 선수</KR>
+            <KR>發佈球員</KR>
             <ES>JUGADOR ANUNCIADO</ES>
             <JP>投稿者</JP>
             <CN>發布球員</CN>
         </HCS>
         <HCS i="23479">
             <EN>&#37;pname (&#37;teamname) was injured</EN>
-            <KR>&#37;pname(&#37;teamname)이(가) 부상당했습니다.</KR>
+            <KR>&#37;pname (&#37;teamname) 受傷</KR>
             <ES>&#37;pname (&#37;teamname) se lesionó</ES>
             <JP>&#37;pname (&#37;teamname) が負傷しました</JP>
             <CN>&#37;pname (&#37;teamname) 受傷</CN>
         </HCS>
         <HCS i="23480">
             <EN>HISTORY REPORT</EN>
-            <KR>역사 보고서</KR>
+            <KR>歷史報告</KR>
             <ES>REPORTE DE HISTORIA</ES>
             <JP>ヒストリーレポート</JP>
             <CN>歷史報告</CN>
         </HCS>
         <HCS i="23481">
             <EN>PITCHING RECORDS</EN>
-            <KR>피칭 기록</KR>
+            <KR>投球記錄</KR>
             <ES>REGISTROS DE LANZAMIENTO</ES>
             <JP>投球記録</JP>
             <CN>投球記錄</CN>
         </HCS>
         <HCS i="23482">
             <EN>None (Lottery Disabled</EN>
-            <KR>없음(로터리픽 사용 불가</KR>
+            <KR>無（抽籤已停用</KR>
             <ES>Ninguno (lotería deshabilitada)</ES>
             <JP>なし（抽選不可）</JP>
             <CN>無（彩票已禁用</CN>
         </HCS>
         <HCS i="23483">
             <EN>BATTING RECORDS 1</EN>
-            <KR>타자 기록 1</KR>
+            <KR>擊球記錄 1</KR>
             <ES>REGISTROS DE BATE 1</ES>
             <JP>打率1</JP>
             <CN>擊球記錄 1</CN>
         </HCS>
         <HCS i="23484">
             <EN>BATTING RECORDS 2</EN>
-            <KR>타자 기록 2</KR>
+            <KR>擊球記錄 2</KR>
             <ES>REGISTROS DE BATEO 2</ES>
             <JP>打率2</JP>
             <CN>擊球記錄 2</CN>
         </HCS>
         <HCS i="23485">
             <EN>iPhone 13 (2208 x 1242</EN>
-            <KR>아이폰 13 (2208 x 1242</KR>
+            <KR>iPhone 13 (2208 x 1242</KR>
             <ES>iPhone 13 (2208 x 1242)</ES>
             <JP>iPhone13（2208×1242）</JP>
             <CN>iPhone 13 (2208 x 1242</CN>
         </HCS>
         <HCS i="23486">
             <EN>Checking for package</EN>
-            <KR>패키지 확인</KR>
+            <KR>檢查卡包中</KR>
             <ES>Comprobación de paquete</ES>
             <JP>パッケージを確認しています</JP>
             <CN>檢查包裹</CN>
         </HCS>
         <HCS i="23487">
             <EN>Your device has reported it&#39;s low on memory; there high risk of a crash if continuing 3D game. Please turn off any background apps or processes that may be running before reattempting. You can also disable this in the game settings &gt; interface &gt; out of memory protection, at your own risk</EN>
-            <KR>기기에서 메모리가 부족하다고 보고했습니다. 3D 게임을 계속하면 충돌 위험이 높습니다. 다시 시도하기 전에 실행 중인 모든 백그라운드 앱이나 프로세스를 끄십시오. 게임 설정 &amp;gt; 인터페이스 &amp;gt; 메모리 부족 보호에서 이 기능을 비활성화할 수도 있습니다.</KR>
+            <KR>您的設備報告內存不足；如果繼續 3D 遊戲有很高的崩潰風險。請在重新嘗試之前關閉所有可能正在運行的後臺應用程序或進程。您也可以在遊戲設置 &gt; 界面 &gt; 內存不足保護中禁用此功能，風險自負</KR>
             <ES>Su dispositivo ha informado que tiene poca memoria; existe un alto riesgo de bloqueo si continúa el juego en 3D. Desactive cualquier aplicación o proceso en segundo plano que pueda estar ejecutándose antes de volver a intentarlo. También puede deshabilitar esto en la configuración del juego&amp;gt; interfaz&amp;gt; protección contra falta de memoria, bajo su propio riesgo</ES>
             <JP>デバイスからメモリが不足していると報告されました。 3D ゲームを続行するとクラッシュする危険性が高くなります。再試行する前に、実行中のバックグラウンド アプリまたはプロセスをすべてオフにしてください。ゲーム設定 &amp;gt; インターフェイス &amp;gt; メモリ不足保護でこれを無効にすることもできますが、自己責任で行ってください。</JP>
             <CN>您的設備報告內存不足；如果繼續 3D 遊戲有很高的崩潰風險。請在重新嘗試之前關閉所有可能正在運行的後台應用程序或進程。您也可以在遊戲設置 &amp;gt; 界面 &amp;gt; 內存不足保護中禁用此功能，風險自負</CN>
         </HCS>
         <HCS i="23488">
             <EN>Total value remaining</EN>
-            <KR>남은 총 가치</KR>
+            <KR>剩餘總值</KR>
             <ES>Valor total restante</ES>
             <JP>残りの合計値</JP>
             <CN>剩餘總值</CN>
         </HCS>
         <HCS i="23489">
             <EN>Fetching Choice Pack Data</EN>
-            <KR>초이스 팩 데이터 가져오기</KR>
+            <KR>取得自選卡包資料中</KR>
             <ES>Obtención de datos de Choice Pack</ES>
             <JP>チョイスパックデータの取得</JP>
             <CN>獲取選擇包數據</CN>
         </HCS>
         <HCS i="23490">
             <EN>You do not own any Choice Packs at this moment</EN>
-            <KR>현재 소유한 초이스 팩이 없습니다</KR>
+            <KR>您目前沒有任何自選卡包</KR>
             <ES>En este momento, no posee ningún Choice Pack</ES>
             <JP>現在、所有しているチョイス パックはありません</JP>
             <CN>您目前沒有任何選擇包</CN>
         </HCS>
         <HCS i="23491">
             <EN>Please select a Choice Pack to open</EN>
-            <KR>열려면 초이스 팩을 선택하십시오</KR>
+            <KR>請選擇要開啟的自選卡包</KR>
             <ES>Por favor seleccione un Choice Pack para abrir</ES>
             <JP>開くチョイスパックを選択してください</JP>
             <CN>請選擇一個選擇包打開</CN>
         </HCS>
         <HCS i="23492">
             <EN>Error Fetching Choice Pack Data</EN>
-            <KR>초이스 팩 데이터를 가져오는 동안 오류가 발생했습니다</KR>
+            <KR>取得自選卡包資料時發生錯誤</KR>
             <ES>Error al obtener los datos del paquete Choice</ES>
             <JP>Choice Pack データのフェッチ中にエラーが発生しました</JP>
             <CN>獲取選擇包數據時出錯</CN>
         </HCS>
         <HCS i="23493">
             <EN>Please restart OOTP</EN>
-            <KR>OOTP를 다시 시작하세요.</KR>
+            <KR>請重新啟動 OOTP</KR>
             <ES>Por favor reinicie OOTP</ES>
             <JP>OOTP を再起動してください</JP>
             <CN>請重新啟動 OOTP</CN>
         </HCS>
         <HCS i="23494">
             <EN>Please pick &#37;n cards and hit the SUBMIT PICK button to confirm your choice</EN>
-            <KR>&#37;n개의 카드를 선택하고 SUBMIT PICK 버튼을 눌러 선택을 확인하십시오</KR>
+            <KR>請選擇 %n 張卡片並按下 SUBMIT PICK 按鈕確認</KR>
             <ES>Elija &#37;n tarjetas y presione el botón ENVIAR ELECCIÓN para confirmar su elección</ES>
             <JP>&#37;n 枚のカードを選んで [SUBMIT PICK] ボタンをクリックして選択を確定してください</JP>
             <CN>請選擇 &#37;n 張卡片並點擊 SUBMIT PICK 按鈕以確認您的選擇</CN>
         </HCS>
         <HCS i="23495">
             <EN>Please pick one card and hit the SUBMIT PICK button to confirm your choice</EN>
-            <KR>하나의 카드를 선택하고 SUBMIT PICK 버튼을 눌러 선택을 확인하십시오.</KR>
+            <KR>請選擇一張卡片並按下 SUBMIT PICK 按鈕確認</KR>
             <ES>Elija una tarjeta y presione el botón ENVIAR ELECCIÓN para confirmar su elección</ES>
             <JP>カードを 1 枚選んで [SUBMIT PICK] ボタンを押して選択を確定してください</JP>
             <CN>請選擇一張卡片並點擊提交選擇按鈕以確認您的選擇</CN>
         </HCS>
         <HCS i="23496">
             <EN>Look up card in Card Shop</EN>
-            <KR>카드샵에서 카드찾기</KR>
+            <KR>在卡店查卡</KR>
             <ES>Buscar tarjeta en la tienda de tarjetas</ES>
             <JP>カードショップでカードを探す</JP>
             <CN>在卡店查卡</CN>
         </HCS>
         <HCS i="23497">
             <EN>Due to a TOS violation your access to the card shop has been temporarily restricted</EN>
-            <KR>TOS 위반으로 인해 카드 상점에 대한 액세스가 일시적으로 제한되었습니다.</KR>
+            <KR>由於違反 TOS，您對卡店的訪問已被暫時限制</KR>
             <ES>Debido a una violación de los TOS, su acceso a la tienda de tarjetas se ha restringido temporalmente</ES>
             <JP>TOS違反のため、カードショップへのアクセスが一時的に制限されています</JP>
             <CN>由於違反 TOS，您對卡店的訪問已被暫時限制</CN>
         </HCS>
         <HCS i="23498">
             <EN>You may open Choice Packs from the home page</EN>
-            <KR>홈페이지에서 초이스팩을 열 수 있습니다</KR>
+            <KR>您可以從首頁開啟自選卡包</KR>
             <ES>Puede abrir Choice Packs desde la página de inicio</ES>
             <JP>ホームページから選択パックを開くことができます</JP>
             <CN>您可以從主頁打開選擇包</CN>
         </HCS>
         <HCS i="23499">
             <EN>Are you sure you want to fill all visible daily lineups</EN>
-            <KR>표시되는 모든 일일 라인업을 채우시겠습니까?</KR>
+            <KR>您確定要填寫所有可見的每日陣容嗎</KR>
             <ES>¿Está seguro de que desea completar todas las alineaciones diarias visibles?</ES>
             <JP>表示されているすべてのデイリー ラインナップを埋めてもよろしいですか</JP>
             <CN>您確定要填寫所有可見的每日陣容嗎</CN>
         </HCS>
         <HCS i="23500">
             <EN>Auto-fill all lineups</EN>
-            <KR>모든 라인업 자동 채우기</KR>
+            <KR>自動填充所有陣容</KR>
             <ES>Autocompletar todas las alineaciones</ES>
             <JP>すべてのラインナップを自動入力</JP>
             <CN>自動填充所有陣容</CN>
         </HCS>
         <HCS i="23501">
             <EN>Could not submit Choice Pack pick</EN>
-            <KR>초이스 팩 선택을 제출할 수 없습니다.</KR>
+            <KR>無法提交自選卡包的選擇</KR>
             <ES>No se pudo enviar la selección de Choice Pack</ES>
             <JP>チョイス パック ピックを送信できませんでした</JP>
             <CN>無法提交選擇包選擇</CN>
         </HCS>
         <HCS i="23502">
             <EN>Loading/updating teams uniforms and team colors from XML files</EN>
-            <KR>XML 파일에서 팀 유니폼 및 팀 색상 로드/업데이트</KR>
+            <KR>從 XML 檔案載入/更新球隊制服與球隊顏色</KR>
             <ES>Cargar/actualizar uniformes de equipos y colores de equipos desde archivos XML</ES>
             <JP>XMLファイルからのチームユニフォームとチームカラーの読み込み/更新</JP>
             <CN>從 XML 文件加載/更新團隊制服和團隊顏色</CN>
         </HCS>
         <HCS i="23503">
             <EN>Load colors XML file</EN>
-            <KR>색상 XML 파일 로드</KR>
+            <KR>加載顏色 XML 文件</KR>
             <ES>Cargar archivo XML de colores</ES>
             <JP>色の XML ファイルを読み込む</JP>
             <CN>加載顏色 XML 文件</CN>
         </HCS>
         <HCS i="23504">
             <EN>Load XML file with team and outfit colors and other properties. Will create alternate outfits, if requered</EN>
-            <KR>팀 및 유니폼 색상 및 기타 속성이 포함된 XML 파일을 로드합니다. 만약 필요할 경우 대체 유니폼을 생성합니다.</KR>
+            <KR>載入包含球隊、球衣顏色與其他屬性的 XML 檔案。必要時會建立備用球衣</KR>
             <ES>Cargue el archivo XML con los colores del equipo y de la indumentaria y otras propiedades. Creará atuendos alternativos, si es necesario</ES>
             <JP>チームと衣装の色やその他のプロパティを含む XML ファイルを読み込みます。リクエストがあれば、別の衣装を作成します</JP>
             <CN>加載包含團隊和服裝顏色以及其他屬性的 XML 文件。如果需要，將創建備用服裝</CN>
         </HCS>
         <HCS i="23505">
             <EN>Select colors XML file</EN>
-            <KR>색상 XML 파일 선택</KR>
+            <KR>選擇顏色 XML 文件</KR>
             <ES>Seleccionar archivo XML de colores</ES>
             <JP>色の XML ファイルを選択</JP>
             <CN>選擇顏色 XML 文件</CN>
         </HCS>
         <HCS i="23506">
             <EN>SEARCH IN SHOP</EN>
-            <KR>숍에서 검색</KR>
+            <KR>在商店搜索</KR>
             <ES>BUSCAR EN LA TIENDA</ES>
             <JP>ショップで探す</JP>
             <CN>在商店搜索</CN>
         </HCS>
         <HCS i="23507">
             <EN>Please pick &#37;n card(s</EN>
-            <KR>&#37;n개의 카드를 선택하십시오</KR>
+            <KR>請選擇 %n 張卡片</KR>
             <ES>Elija &#37;n tarjeta(s)</ES>
             <JP>&#37;n カードを選択してください</JP>
             <CN>請選擇 &#37;n 卡(s</CN>
         </HCS>
         <HCS i="23508">
             <EN>Congratulations, you have opened a Choice Pack and submitted your pick(s). The card(s) can be found on your reserve roster or as an inactive card in your card collection list, which you can access via &#39;Manage Cards&#39; in the Main menu</EN>
-            <KR>축하합니다. 초이스 팩을 열고 선택 항목을 제출했습니다. 카드는 예비 명단에서 찾을 수 있거나 메인 메뉴의 &amp;#39;카드 관리&amp;#39;를 통해 액세스할 수 있는 카드 컬렉션 목록에서 비활성화된 카드로 찾을 수 있습니다.</KR>
+            <KR>恭喜，您已打開選擇包並提交了您的選擇。這些卡可以在您的儲備花名冊上找到，也可以作為您的卡收集列表中的非活動卡，您可以通過主菜單中的“管理卡”訪問該卡</KR>
             <ES>Felicitaciones, ha abierto un Choice Pack y ha enviado su(s) elección(es). Las tarjetas se pueden encontrar en su lista de reserva o como una tarjeta inactiva en su lista de colección de tarjetas, a la que puede acceder a través de &amp;#39;Gestionar tarjetas&amp;#39; en el menú principal</ES>
             <JP>おめでとうございます。チョイス パックを開き、ピックを送信しました。カードは、予備の名簿に表示されるか、メイン メニューの [カードの管理] からアクセスできるカード コレクション リストの非アクティブなカードとして見つかります。</JP>
             <CN>恭喜，您已打開選擇包並提交了您的選擇。這些卡可以在您的儲備花名冊上找到，也可以作為您的卡收集列表中的非活動卡，您可以通過主菜單中的“管理卡”訪問該卡</CN>
         </HCS>
         <HCS i="23509">
             <EN>OPEN CHOICE PACK</EN>
-            <KR>초이스 팩 열기</KR>
+            <KR>開啟自選卡包</KR>
             <ES>PAQUETE DE ELECCIÓN ABIERTA</ES>
             <JP>オープンチョイスパック</JP>
             <CN>開放式選擇包</CN>
         </HCS>
         <HCS i="23510">
             <EN>OPEN PACK</EN>
-            <KR>팩 열기</KR>
+            <KR>開包</KR>
             <ES>PAQUETE ABIERTO</ES>
             <JP>オープンパック</JP>
             <CN>開包</CN>
         </HCS>
         <HCS i="23511">
             <EN>SUBMIT PICK</EN>
-            <KR>픽 제출</KR>
+            <KR>提交選擇</KR>
             <ES>ENVIAR SELECCIÓN</ES>
             <JP>選択を送信</JP>
             <CN>提交選擇</CN>
         </HCS>
         <HCS i="23512">
             <EN>L10 Price (desc</EN>
-            <KR>L10 가격(설명</KR>
+            <KR>L10 價格（降冪</KR>
             <ES>Precio L10 (desc.</ES>
             <JP>L10 価格 (降格</JP>
             <CN>L10 價格（描述</CN>
         </HCS>
         <HCS i="23513">
             <EN>L10 Price (asc</EN>
-            <KR>L10 가격(오름차순</KR>
+            <KR>L10 價格（升冪</KR>
             <ES>L10 Precio (asc</ES>
             <JP>L10 価格 (昇順)</JP>
             <CN>L10 價格（升</CN>
         </HCS>
         <HCS i="23514">
             <EN>Reset all home/away uniform textures</EN>
-            <KR>모든 홈/어웨이 유니폼 텍스처 재설정</KR>
+            <KR>重設所有主場/客場制服貼圖</KR>
             <ES>Restablecer todas las texturas uniformes locales/visitantes</ES>
             <JP>すべてのホーム/アウェイ ユニフォーム テクスチャをリセットする</JP>
             <CN>重置所有主場/客場製服紋理</CN>
         </HCS>
         <HCS i="23515">
             <EN>ARE YOU SURE?{nl}This will delete and reload the logo files for each team in the database</EN>
-            <KR>확실합니까? 이렇게 하면 데이터베이스의 각 팀에 대한 로고 파일이 삭제되고 다시 로드됩니다.</KR>
+            <KR>你確定嗎？{nl}這將刪除並重新載入資料庫中每支球隊的隊徽檔案</KR>
             <ES>¿ESTÁ SEGURO? Esto eliminará y volverá a cargar los archivos de logotipo de cada equipo en la base de datos.</ES>
             <JP>本気ですか？これにより、データベース内の各チームのロゴ ファイルが削除され、再ロードされます</JP>
             <CN>你確定嗎？這將刪除並重新加載數據庫中每個團隊的徽標文件</CN>
         </HCS>
         <HCS i="23516">
             <EN>ARE YOU SURE?{nl}This will delete and reload/recreate textures files for each team in the database</EN>
-            <KR>확실합니까? 이렇게 하면 데이터베이스의 각 팀에 대한 텍스처 파일이 삭제되고 다시 로드/재생성됩니다.</KR>
+            <KR>你確定嗎？{nl}這將刪除並重新建立資料庫中每支球隊的貼圖檔案</KR>
             <ES>¿ESTÁ SEGURO? Esto eliminará y volverá a cargar/recrear archivos de texturas para cada equipo en la base de datos.</ES>
             <JP>本気ですか？これにより、データベース内の各チームのテクスチャ ファイルが削除され、再ロード/再作成されます。</JP>
             <CN>你確定嗎？這將為數據庫中的每個團隊刪除並重新加載/重新創建紋理文件</CN>
         </HCS>
         <HCS i="23517">
             <EN>Deleting and generating ballcap texture files</EN>
-            <KR>모자 텍스처 파일 삭제 및 생성</KR>
+            <KR>刪除並產生球帽貼圖檔案中</KR>
             <ES>Eliminación y generación de archivos de textura de gorra de béisbol</ES>
             <JP>ボールキャップ テクスチャ ファイルの削除と生成</JP>
             <CN>刪除和生成球帽紋理文件</CN>
         </HCS>
         <HCS i="23518">
             <EN>Deleting and generating jersey texture files</EN>
-            <KR>상의 텍스처 파일 삭제 및 생성</KR>
+            <KR>刪除並產生球衣貼圖檔案中</KR>
             <ES>Eliminación y generación de archivos de textura de jersey</ES>
             <JP>ジャージ テクスチャ ファイルの削除と生成</JP>
             <CN>刪除和生成球衣紋理文件</CN>
         </HCS>
         <HCS i="23519">
             <EN>Deleting and generating pants texture files</EN>
-            <KR>하의 텍스처 파일 삭제 및 생성</KR>
+            <KR>刪除並產生球褲貼圖檔案中</KR>
             <ES>Eliminación y generación de archivos de textura de pantalones.</ES>
             <JP>パンツ テクスチャ ファイルの削除と生成</JP>
             <CN>刪除和生成褲子紋理文件</CN>
         </HCS>
         <HCS i="23520">
             <EN>League folder</EN>
-            <KR>리그 폴더</KR>
+            <KR>聯賽文件夾</KR>
             <ES>Carpeta de la liga</ES>
             <JP>リーグフォルダ</JP>
             <CN>聯賽文件夾</CN>
         </HCS>
         <HCS i="23521">
             <EN>There is NO BACKUP for this league! Hit the &#39;F1&#39; key to learn how to make backups of your saved games</EN>
-            <KR>이 리그에는 백업이 없습니다! 저장된 게임을 백업하는 방법을 배우려면 &amp;#39;F1&amp;#39; 키를 누르십시오.</KR>
+            <KR>這個聯盟沒有備份！按「F1」鍵瞭解如何備份存檔</KR>
             <ES>¡NO HAY RESPALDO para esta liga! Presione la tecla &amp;#39;F1&amp;#39; para aprender cómo hacer copias de seguridad de sus juegos guardados</ES>
             <JP>このリーグにはバックアップはありません！ 「F1」キーを押して、保存したゲームのバックアップを作成する方法を学びましょう</JP>
             <CN>這個聯賽沒有後援！按“F1”鍵了解如何備份已保存的遊戲</CN>
         </HCS>
         <HCS i="23522">
             <EN>Restore from auto-save</EN>
-            <KR>자동 저장에서 복원</KR>
+            <KR>從自動保存恢復</KR>
             <ES>Restaurar desde guardado automático</ES>
             <JP>自動保存から復元</JP>
             <CN>從自動保存恢復</CN>
         </HCS>
         <HCS i="23523">
             <EN>Do you want to restore the league data files from the auto-save folder now</EN>
-            <KR>지금 자동 저장 폴더에서 리그 데이터 파일을 복원하시겠습니까</KR>
+            <KR>您現在要從自動保存文件夾中恢復聯賽數據文件嗎</KR>
             <ES>¿Desea restaurar los archivos de datos de la liga desde la carpeta de guardado automático ahora?</ES>
             <JP>今すぐ自動保存フォルダからリーグ データ ファイルを復元しますか?</JP>
             <CN>您現在要從自動保存文件夾中恢復聯賽數據文件嗎</CN>
         </HCS>
         <HCS i="23524">
             <EN>Restore from auto-save is not recommended</EN>
-            <KR>자동 저장에서 복원하는 것은 권장하지 않습니다.</KR>
+            <KR>不建議從自動保存恢復</KR>
             <ES>No se recomienda restaurar desde guardado automático</ES>
             <JP>自動保存からの復元はお勧めしません</JP>
             <CN>不建議從自動保存恢復</CN>
         </HCS>
         <HCS i="23525">
             <EN>No database selected</EN>
-            <KR>선택된 데이타베이스가 없습니다</KR>
+            <KR>未選擇數據庫</KR>
             <ES>No hay base de datos seleccionada</ES>
             <JP>データベースが選択されていません</JP>
             <CN>未選擇數據庫</CN>
         </HCS>
         <HCS i="23526">
             <EN>Successfully copyied all files from the auto-save folder to the league folder</EN>
-            <KR>자동 저장 폴더의 모든 파일을 리그 폴더로 성공적으로 복사했습니다.</KR>
+            <KR>成功將所有文件從自動保存文件夾複製到聯賽文件夾</KR>
             <ES>Copiado con éxito todos los archivos de la carpeta de guardado automático a la carpeta de la liga</ES>
             <JP>自動保存フォルダからリーグフォルダへ全ファイルコピー成功</JP>
             <CN>成功將所有文件從自動保存文件夾複製到聯賽文件夾</CN>
         </HCS>
         <HCS i="23527">
             <EN>Error: unable to copy files from the auto-save folder to the league folder</EN>
-            <KR>오류: 자동 저장 폴더에서 리그 폴더로 파일을 복사할 수 없습니다.</KR>
+            <KR>錯誤：無法將文件從自動保存文件夾複製到聯賽文件夾</KR>
             <ES>Error: no se pueden copiar archivos de la carpeta de guardado automático a la carpeta de la liga</ES>
             <JP>エラー: 自動保存フォルダーからリーグ フォルダーにファイルをコピーできません</JP>
             <CN>錯誤：無法將文件從自動保存文件夾複製到聯賽文件夾</CN>
         </HCS>
         <HCS i="23528">
             <EN>Error: unable to copy original files from the league folder to an incident folder</EN>
-            <KR>오류: 리그 폴더에서 인시던트 폴더로 원본 파일을 복사할 수 없습니다.</KR>
+            <KR>錯誤：無法將原始文件從聯賽文件夾複製到事件文件夾</KR>
             <ES>Error: no se pueden copiar los archivos originales de la carpeta de la liga a una carpeta de incidentes</ES>
             <JP>エラー: 元のファイルをリーグ フォルダからインシデント フォルダにコピーできません</JP>
             <CN>錯誤：無法將原始文件從聯賽文件夾複製到事件文件夾</CN>
         </HCS>
         <HCS i="23529">
             <EN>There is no auto-save folder for this saved game</EN>
-            <KR>이 저장된 게임에 대한 자동 저장 폴더가 없습니다</KR>
+            <KR>此已保存遊戲沒有自動保存文件夾</KR>
             <ES>No hay una carpeta de guardado automático para este juego guardado</ES>
             <JP>この保存されたゲームの自動保存フォルダはありません</JP>
             <CN>此已保存遊戲沒有自動保存文件夾</CN>
         </HCS>
         <HCS i="23530">
             <EN>Cannot open league folder</EN>
-            <KR>리그 폴더를 열 수 없습니다</KR>
+            <KR>無法打開聯賽文件夾</KR>
             <ES>No se puede abrir la carpeta de la liga</ES>
             <JP>リーグフォルダを開けません</JP>
             <CN>無法打開聯賽文件夾</CN>
         </HCS>
         <HCS i="23531">
             <EN>PROBLEM: The league folder contains all the required data files but the last save didn&#39;t finish</EN>
-            <KR>문제: 리그 폴더에 필요한 모든 데이터 파일이 포함되어 있지만 마지막 저장이 완료되지 않았습니다.</KR>
+            <KR>問題：聯賽文件夾包含所有必需的數據文件，但最後一次保存沒有完成</KR>
             <ES>PROBLEMA: La carpeta de la liga contiene todos los archivos de datos necesarios, pero no se completó la última vez que se guardó</ES>
             <JP>問題: リーグ フォルダには必要なすべてのデータ ファイルが含まれていますが、最後の保存が完了していません。</JP>
             <CN>問題：聯賽文件夾包含所有必需的數據文件，但最後一次保存沒有完成</CN>
         </HCS>
         <HCS i="23532">
             <EN>The league folder contains all the required data files and seems to be complete</EN>
-            <KR>리그 폴더에는 필요한 모든 데이터 파일이 포함되어 있으며 완전한 것으로 보입니다.</KR>
+            <KR>聯賽文件夾包含所有需要的數據文件，看起來很完整</KR>
             <ES>La carpeta de la liga contiene todos los archivos de datos necesarios y parece estar completa</ES>
             <JP>リーグフォルダには必要なすべてのデータファイルが含まれており、完成しているようです</JP>
             <CN>聯賽文件夾包含所有需要的數據文件，看起來很完整</CN>
         </HCS>
         <HCS i="23533">
             <EN>PROBLEM: The league folder is missing required data files</EN>
-            <KR>문제: 리그 폴더에 필요한 데이터 파일이 없습니다.</KR>
+            <KR>問題：聯賽文件夾缺少所需的數據文件</KR>
             <ES>PROBLEMA: Faltan los archivos de datos requeridos en la carpeta de la liga</ES>
             <JP>問題: リーグ フォルダに必要なデータ ファイルがありません</JP>
             <CN>問題：聯賽文件夾缺少所需的數據文件</CN>
         </HCS>
         <HCS i="23534">
             <EN>PROBLEM: The auto-save folder contains all the required data files but the last save didn&#39;t finish</EN>
-            <KR>문제: 자동 저장 폴더에 필요한 모든 데이터 파일이 포함되어 있지만 마지막 저장이 완료되지 않았습니다.</KR>
+            <KR>問題：自動保存文件夾包含所有需要的數據文件，但最後一次保存沒有完成</KR>
             <ES>PROBLEMA: La carpeta de guardado automático contiene todos los archivos de datos requeridos pero el último guardado no finalizó</ES>
             <JP>問題: 自動保存フォルダには必要なすべてのデータ ファイルが含まれていますが、最後の保存が完了していません。</JP>
             <CN>問題：自動保存文件夾包含所有需要的數據文件，但最後一次保存沒有完成</CN>
         </HCS>
         <HCS i="23535">
             <EN>The auto-save folder contains all the required data files and seems to be complete</EN>
-            <KR>자동 저장 폴더에는 필요한 모든 데이터 파일이 포함되어 있으며 완료된 것으로 보입니다.</KR>
+            <KR>自動保存文件夾包含所有需要的數據文件，看起來很完整</KR>
             <ES>La carpeta de guardado automático contiene todos los archivos de datos necesarios y parece estar completa</ES>
             <JP>自動保存フォルダーには、必要なすべてのデータ ファイルが含まれており、完全なようです。</JP>
             <CN>自動保存文件夾包含所有需要的數據文件，看起來很完整</CN>
         </HCS>
         <HCS i="23536">
             <EN>PROBLEM: The auto-save folder is missing required data files</EN>
-            <KR>문제: 자동 저장 폴더에 필요한 데이터 파일이 없습니다.</KR>
+            <KR>問題：自動保存文件夾缺少所需的數據文件</KR>
             <ES>PROBLEMA: Faltan los archivos de datos necesarios en la carpeta de guardado automático</ES>
             <JP>問題: 自動保存フォルダに必要なデータ ファイルがありません</JP>
             <CN>問題：自動保存文件夾缺少所需的數據文件</CN>
         </HCS>
         <HCS i="23537">
             <EN>You must enter a target folder name</EN>
-            <KR>대상 폴더 이름을 입력해야 합니다.</KR>
+            <KR>您必須輸入目標文件夾名稱</KR>
             <ES>Debe introducir un nombre de carpeta de destino</ES>
             <JP>ターゲット フォルダ名を入力する必要があります</JP>
             <CN>您必須輸入目標文件夾名稱</CN>
         </HCS>
         <HCS i="23538">
             <EN>Could not create target folder</EN>
-            <KR>대상 폴더를 만들 수 없습니다</KR>
+            <KR>無法創建目標文件夾</KR>
             <ES>No se pudo crear la carpeta de destino</ES>
             <JP>ターゲット フォルダを作成できませんでした</JP>
             <CN>無法創建目標文件夾</CN>
         </HCS>
         <HCS i="23539">
             <EN>Restore</EN>
-            <KR>복원하기</KR>
+            <KR>恢復</KR>
             <ES>Restaurar</ES>
             <JP>戻す</JP>
             <CN>恢復</CN>
         </HCS>
         <HCS i="23540">
             <EN>Load all colors xml files</EN>
-            <KR>모든 팀컬러 관련 xml 파일 불러오기</KR>
+            <KR>加載所有顏色的 xml 文件</KR>
             <ES>Cargue todos los archivos xml de colores</ES>
             <JP>すべての色の xml ファイルを読み込む</JP>
             <CN>加載所有顏色的 xml 文件</CN>
         </HCS>
         <HCS i="23541">
             <EN>Do you want to load all colors XML files for all teams?{nl}This will add new alternate uniforms and update the existing ones</EN>
-            <KR>모든 팀의 모든 팀컬러 관련 XML 파일을 로드하시겠습니까? 이렇게 하면 새로운 대체 유니폼 색상 정보가 추가되고 기존 유니폼 색상 정보가 업데이트됩니다.</KR>
+            <KR>您想為所有球隊載入所有顏色的 XML 檔案嗎？{nl}這將新增備用制服並更新現有的制服</KR>
             <ES>¿Quieres cargar archivos XML de todos los colores para todos los equipos? Esto agregará nuevos uniformes alternativos y actualizará los existentes.</ES>
             <JP>すべてのチームのすべての色の XML ファイルを読み込みますか?これにより、新しい代替ユニフォームが追加され、既存のユニフォームが更新されます</JP>
             <CN>您想為所有團隊加載所有顏色的 XML 文件嗎？這將添加新的備用制服並更新現有的</CN>
         </HCS>
         <HCS i="23542">
             <EN>Loading all colors XML files</EN>
-            <KR>모든 팀컬러 관련 XML 파일 로드</KR>
+            <KR>加載所有顏色 XML 文件</KR>
             <ES>Cargando archivos XML de todos los colores</ES>
             <JP>すべての色の XML ファイルを読み込んでいます</JP>
             <CN>加載所有顏色 XML 文件</CN>
         </HCS>
         <HCS i="23543">
             <EN>Updating ethnicities</EN>
-            <KR>인종 정보 업데이트</KR>
+            <KR>更新種族</KR>
             <ES>Actualización de etnias</ES>
             <JP>民族の更新</JP>
             <CN>更新種族</CN>
         </HCS>
         <HCS i="23544">
             <EN>Do you want to delete &#39;&#37;outfit_name_str&#39; uniform</EN>
-            <KR>&amp;#39;&#37;outfit_name_str&amp;#39; 유니폼을 삭제하시겠습니까?</KR>
+            <KR>你想刪除 &#39;&#37;outfit_name_str&#39; 制服嗎</KR>
             <ES>¿Quieres eliminar el uniforme &amp;#39;&#37;outfit_name_str&amp;#39;?</ES>
             <JP>&amp;#39;&#37;outfit_name_str&amp;#39; ユニフォームを削除しますか?</JP>
             <CN>你想刪除 &amp;#39;&#37;outfit_name_str&amp;#39; 制服嗎</CN>
         </HCS>
         <HCS i="23545">
             <EN>Opened Choice Pack</EN>
-            <KR>초이스 팩을 열었습니다.</KR>
+            <KR>已開啟的自選卡包</KR>
             <ES>Paquete de elección abierta</ES>
             <JP>選択パックを開いた</JP>
             <CN>打開的選擇包</CN>
         </HCS>
         <HCS i="23546">
             <EN>Opened a card choice pack</EN>
-            <KR>카드 선택 팩을 열었습니다.</KR>
+            <KR>開啟了一個自選卡包</KR>
             <ES>Abrió un paquete de elección de cartas</ES>
             <JP>カードチョイスパックを開封した</JP>
             <CN>打開了卡片選擇包</CN>
         </HCS>
         <HCS i="23547">
             <EN>Selected Choice Pack</EN>
-            <KR>셀렉티드 초이스 팩</KR>
+            <KR>已選擇的自選卡包</KR>
             <ES>Paquete de elección seleccionada</ES>
             <JP>厳選チョイスパック</JP>
             <CN>精選精選包</CN>
         </HCS>
         <HCS i="23548">
             <EN>Selected a card choice pack</EN>
-            <KR>카드 선택 팩을 선택했습니다.</KR>
+            <KR>選擇了一個自選卡包</KR>
             <ES>Seleccionó un paquete de elección de cartas</ES>
             <JP>カードチョイスパックを選んだ</JP>
             <CN>選擇了卡片選擇包</CN>
         </HCS>
         <HCS i="23549">
             <EN>Topps BUNT Series</EN>
-            <KR>Topps BUNT 시리즈</KR>
+            <KR>Topps BUNT 系列</KR>
             <ES>Topps Serie BUNT</ES>
             <JP>トップス BUNTシリーズ</JP>
             <CN>Topps BUNT 系列</CN>
         </HCS>
         <HCS i="23550">
             <EN>DB Path not found - using</EN>
-            <KR>DB 경로를 찾을 수 없음 - 사용 중</KR>
+            <KR>找不到數據庫路徑 - 使用</KR>
             <ES>No se encontró la ruta de la base de datos - usando</ES>
             <JP>DB パスが見つかりません - 使用中</JP>
             <CN>找不到數據庫路徑 - 使用</CN>
         </HCS>
         <HCS i="23551">
             <EN>WARNING: DB Path not found - using</EN>
-            <KR>경고: DB 경로를 찾을 수 없음 - 사용 중</KR>
+            <KR>警告：未找到數據庫路徑 - 使用</KR>
             <ES>ADVERTENCIA: No se encontró la ruta DB - usando</ES>
             <JP>警告: DB パスが見つかりません - を使用しています</JP>
             <CN>警告：未找到數據庫路徑 - 使用</CN>
@@ -138865,7 +138865,7 @@
         </HCS>
         <HCS i="21658">
             <EN>Hanwha Eagles</EN>
-            <KR>韓华鹰隊</KR>
+            <KR>韓華鷹</KR>
             <ES>águilas hanwha</ES>
             <JP>ハンファ・イーグルス</JP>
             <CN>韓华鹰隊</CN>
@@ -147670,42 +147670,42 @@
         </HCS>
         <HCS i="7691">
             <EN>Boca Chica Baseball City Division</EN>
-            <KR>博卡奇卡棒球城分区</KR>
+            <KR>博卡奇卡棒球城分區</KR>
             <ES>División de la Ciudad de Béisbol de Boca Chica</ES>
             <JP>ボカチカ野球市課</JP>
             <CN>博卡奇卡棒球城分区</CN>
         </HCS>
         <HCS i="7692">
             <EN>Boca Chica North Division</EN>
-            <KR>博卡奇卡北区</KR>
+            <KR>博卡奇卡北區</KR>
             <ES>División Boca Chica Norte</ES>
             <JP>ボカチカノースディビジョン</JP>
             <CN>博卡奇卡北区</CN>
         </HCS>
         <HCS i="7693">
             <EN>Boca Chica Northeast Division</EN>
-            <KR>博卡奇卡东北部</KR>
+            <KR>博卡奇卡東北區</KR>
             <ES>División Noreste de Boca Chica</ES>
             <JP>ボカチカ北東部</JP>
             <CN>博卡奇卡东北部</CN>
         </HCS>
         <HCS i="7694">
             <EN>Boca Chica Northwest Division</EN>
-            <KR>博卡奇卡西北区</KR>
+            <KR>博卡奇卡西北區</KR>
             <ES>División Noroeste de Boca Chica</ES>
             <JP>ボカチカ北西部</JP>
             <CN>博卡奇卡西北区</CN>
         </HCS>
         <HCS i="7695">
             <EN>Boca Chica South Division</EN>
-            <KR>博卡奇卡南区</KR>
+            <KR>博卡奇卡南區</KR>
             <ES>División Sur de Boca Chica</ES>
             <JP>ボカチカサウスディビジョン</JP>
             <CN>博卡奇卡南区</CN>
         </HCS>
         <HCS i="7696">
             <EN>Can-Am Division</EN>
-            <KR>加美事业部</KR>
+            <KR>加美分區</KR>
             <ES>División Can-Am</ES>
             <JP>Can-Am Division</JP>
             <CN>加美事业部</CN>
@@ -147719,28 +147719,28 @@
         </HCS>
         <HCS i="7698">
             <EN>Classement A</EN>
-            <KR>甲级</KR>
+            <KR>甲級</KR>
             <ES>Clase A</ES>
             <JP>分類A</JP>
             <CN>甲级</CN>
         </HCS>
         <HCS i="7699">
             <EN>Classement B</EN>
-            <KR>B 级</KR>
+            <KR>乙級</KR>
             <ES>Clase B</ES>
             <JP>分類B</JP>
             <CN>B 级</CN>
         </HCS>
         <HCS i="7701">
             <EN>FUTURE - East</EN>
-            <KR>未来 - 东</KR>
+            <KR>未來 - 東</KR>
             <ES>FUTURO - Este</ES>
             <JP>将来-東</JP>
             <CN>未来 - 东</CN>
         </HCS>
         <HCS i="7702">
             <EN>Grupo A</EN>
-            <KR>A集团</KR>
+            <KR>A組</KR>
             <ES>Grupo A</ES>
             <JP>グルポA</JP>
             <CN>A集团</CN>
@@ -147754,42 +147754,42 @@
         </HCS>
         <HCS i="7705">
             <EN>Jeonra &amp; Jungbu</EN>
-            <KR>全罗和中部</KR>
+            <KR>全羅和中部</KR>
             <ES>Jeonra y Jungbu</ES>
             <JP>チョンラ＆ジョンブ</JP>
             <CN>全罗和中部</CN>
         </HCS>
         <HCS i="7706">
             <EN>Midwest Division</EN>
-            <KR>中西部赛区</KR>
+            <KR>中西部賽區</KR>
             <ES>División del Medio Oeste</ES>
             <JP>ミッドウェストディビジョン</JP>
             <CN>中西部赛区</CN>
         </HCS>
         <HCS i="7707">
             <EN>Midwestern Division</EN>
-            <KR>中西部赛区</KR>
+            <KR>中西部賽區</KR>
             <ES>División del Medio Oeste</ES>
             <JP>中西部</JP>
             <CN>中西部赛区</CN>
         </HCS>
         <HCS i="7708">
             <EN>Mountain Division</EN>
-            <KR>마운틴 디비전</KR>
+            <KR>山區分區</KR>
             <ES>División de montaña</ES>
             <JP>山岳師団</JP>
             <CN>山地师</CN>
         </HCS>
         <HCS i="7710">
             <EN>North Country Division</EN>
-            <KR>北国分部</KR>
+            <KR>北國分部</KR>
             <ES>División del País del Norte</ES>
             <JP>北国師団</JP>
             <CN>北国分部</CN>
         </HCS>
         <HCS i="7711">
             <EN>Northern League</EN>
-            <KR>北方联赛</KR>
+            <KR>北方聯賽</KR>
             <ES>Liga del Norte</ES>
             <JP>ノーザンリーグ</JP>
             <CN>北方联赛</CN>
@@ -147803,63 +147803,63 @@
         </HCS>
         <HCS i="7713">
             <EN>San Pedro de Macoris Division</EN>
-            <KR>圣佩德罗德马科里斯分部</KR>
+            <KR>聖佩德羅德馬科里斯分部</KR>
             <ES>División San Pedro de Macorís</ES>
             <JP>サンペドロデマコリス部門</JP>
             <CN>圣佩德罗德马科里斯分部</CN>
         </HCS>
         <HCS i="7714">
             <EN>South Caribe Division</EN>
-            <KR>南加勒比区</KR>
+            <KR>南加勒比區</KR>
             <ES>División Caribe Sur</ES>
             <JP>サウスカリブ事業部</JP>
             <CN>南加勒比区</CN>
         </HCS>
         <HCS i="7715">
             <EN>Southeast Division</EN>
-            <KR>东南赛区</KR>
+            <KR>東南賽區</KR>
             <ES>División Sureste</ES>
             <JP>サウスイーストディビジョン</JP>
             <CN>东南赛区</CN>
         </HCS>
         <HCS i="7716">
             <EN>Southwest Division</EN>
-            <KR>西南赛区</KR>
+            <KR>西南賽區</KR>
             <ES>División Suroeste</ES>
             <JP>サウスウェストディビジョン</JP>
             <CN>西南赛区</CN>
         </HCS>
         <HCS i="7717">
             <EN>American Association</EN>
-            <KR>美国协会</KR>
+            <KR>美國協會</KR>
             <ES>Asociación Americana</ES>
             <JP>アメリカ協会</JP>
             <CN>美国协会</CN>
         </HCS>
         <HCS i="7718">
             <EN>Atlantic League</EN>
-            <KR>大西洋联盟</KR>
+            <KR>大西洋聯盟</KR>
             <ES>Liga Atlántica</ES>
             <JP>アトランティックリーグ</JP>
             <CN>大西洋联盟</CN>
         </HCS>
         <HCS i="7719">
             <EN>Baseball Challenge League</EN>
-            <KR>棒球挑战联赛</KR>
+            <KR>棒球挑戰聯賽</KR>
             <ES>Liga de Desafío de Béisbol</ES>
             <JP>野球チャレンジリーグ</JP>
             <CN>棒球挑战联赛</CN>
         </HCS>
         <HCS i="7720">
             <EN>Canadian-American Association</EN>
-            <KR>加拿大裔美国人协会</KR>
+            <KR>加美協會</KR>
             <ES>Asociación Canadiense-Americana</ES>
             <JP>カナディアンアメリカンアソシエーション</JP>
             <CN>加拿大裔美国人协会</CN>
         </HCS>
         <HCS i="7721">
             <EN>Can-Am League</EN>
-            <KR>加美联赛</KR>
+            <KR>加美聯賽</KR>
             <ES>Liga Can-Am</ES>
             <JP>Can-Amリーグ</JP>
             <CN>加美联赛</CN>
@@ -147873,329 +147873,329 @@
         </HCS>
         <HCS i="7724">
             <EN>Division A Baseball League</EN>
-            <KR>甲级棒球联赛</KR>
+            <KR>甲級棒球聯賽</KR>
             <ES>División A Liga de Béisbol</ES>
             <JP>ディビジョンA野球リーグ</JP>
             <CN>甲级棒球联赛</CN>
         </HCS>
         <HCS i="7725">
             <EN>Dominican Rookie League</EN>
-            <KR>多米尼加新秀联赛</KR>
+            <KR>多明尼加新人聯盟</KR>
             <ES>liga dominicana de novatos</ES>
             <JP>ドミニカ新人リーグ</JP>
             <CN>多米尼加新秀联赛</CN>
         </HCS>
         <HCS i="7726">
             <EN>Double-A Central</EN>
-            <KR>双A中环</KR>
+            <KR>2A中區</KR>
             <ES>Doble-A Central</ES>
             <JP>ダブルAセントラル</JP>
             <CN>双A中环</CN>
         </HCS>
         <HCS i="7727">
             <EN>Double-A Northeast</EN>
-            <KR>双A东北</KR>
+            <KR>2A東北區</KR>
             <ES>Doble-A Noreste</ES>
             <JP>ダブルAノースイースト</JP>
             <CN>双A东北</CN>
         </HCS>
         <HCS i="7728">
             <EN>Double-A South</EN>
-            <KR>双A南</KR>
+            <KR>2A南區</KR>
             <ES>Doble-A Sur</ES>
             <JP>ダブルAサウス</JP>
             <CN>双A南</CN>
         </HCS>
         <HCS i="7729">
             <EN>Empire Professional Baseball League</EN>
-            <KR>帝国职业棒球联盟</KR>
+            <KR>帝國職業棒球聯盟</KR>
             <ES>Liga de béisbol profesional Empire</ES>
             <JP>エンパイアプロ野球リーグ</JP>
             <CN>帝国职业棒球联盟</CN>
         </HCS>
         <HCS i="7730">
             <EN>European Baseball League</EN>
-            <KR>欧洲棒球联盟</KR>
+            <KR>歐洲棒球聯盟</KR>
             <ES>Liga Europea de Béisbol</ES>
             <JP>欧州野球連盟</JP>
             <CN>欧洲棒球联盟</CN>
         </HCS>
         <HCS i="7731">
             <EN>Frontier League</EN>
-            <KR>边疆联盟</KR>
+            <KR>邊疆聯盟</KR>
             <ES>Liga Fronteriza</ES>
             <JP>フロンティアリーグ</JP>
             <CN>边疆联盟</CN>
         </HCS>
         <HCS i="7732">
             <EN>High-A Central</EN>
-            <KR>高A中央</KR>
+            <KR>高階1A中區</KR>
             <ES>Central alta</ES>
             <JP>ハイAセントラル</JP>
             <CN>高A中央</CN>
         </HCS>
         <HCS i="7733">
             <EN>High-A East</EN>
-            <KR>高A东</KR>
+            <KR>高階1A東區</KR>
             <ES>Alto-A Este</ES>
             <JP>ハイAイースト</JP>
             <CN>高A东</CN>
         </HCS>
         <HCS i="7734">
             <EN>High-A West</EN>
-            <KR>High-A 西</KR>
+            <KR>高階1A西區</KR>
             <ES>Alto-A Oeste</ES>
             <JP>ハイウエスト</JP>
             <CN>High-A 西</CN>
         </HCS>
         <HCS i="7735">
             <EN>Korean Futures League</EN>
-            <KR>韩国期货联赛</KR>
+            <KR>韓國二軍聯盟</KR>
             <ES>Liga de Futuros de Corea</ES>
             <JP>フューチャーズリーグ</JP>
             <CN>韩国期货联赛</CN>
         </HCS>
         <HCS i="7736">
             <EN>Korean Highschool League</EN>
-            <KR>韩国高中联赛</KR>
+            <KR>韓國高中聯賽</KR>
             <ES>Liga de secundaria coreana</ES>
             <JP>韓国高校リーグ</JP>
             <CN>韩国高中联赛</CN>
         </HCS>
         <HCS i="7737">
             <EN>Korean University League</EN>
-            <KR>韩国大学联盟</KR>
+            <KR>韓國大學聯盟</KR>
             <ES>Liga Universitaria de Corea</ES>
             <JP>韓国大学リーグ</JP>
             <CN>韩国大学联盟</CN>
         </HCS>
         <HCS i="7738">
             <EN>Liga Mexicana de Beisbol</EN>
-            <KR>墨西哥甲级联赛</KR>
+            <KR>墨西哥棒球聯盟</KR>
             <ES>Liga Mexicana de Béisbol</ES>
             <JP>リガメキシカンデベイスボル</JP>
             <CN>墨西哥甲级联赛</CN>
         </HCS>
         <HCS i="7739">
             <EN>Low-A East</EN>
-            <KR>低A东</KR>
+            <KR>低階1A東區</KR>
             <ES>Bajo-A Este</ES>
             <JP>ロウAイースト</JP>
             <CN>低A东</CN>
         </HCS>
         <HCS i="7740">
             <EN>Low-A Southeast</EN>
-            <KR>低A东南</KR>
+            <KR>低階1A東南區</KR>
             <ES>Sudeste de baja A</ES>
             <JP>ロウAサウスイースト</JP>
             <CN>低A东南</CN>
         </HCS>
         <HCS i="7741">
             <EN>Low-A West</EN>
-            <KR>低-A西</KR>
+            <KR>低階1A西區</KR>
             <ES>Baja A Oeste</ES>
             <JP>ロウAウェスト</JP>
             <CN>低-A西</CN>
         </HCS>
         <HCS i="7742">
             <EN>Nippon Professional Baseball League</EN>
-            <KR>日本职业棒球联盟</KR>
+            <KR>日本職業棒球聯盟</KR>
             <ES>Liga de béisbol profesional de Japón</ES>
             <JP>日本プロ野球リーグ</JP>
             <CN>日本职业棒球联盟</CN>
         </HCS>
         <HCS i="7743">
             <EN>NPB Double A</EN>
-            <KR>NPB双A</KR>
+            <KR>NPB 2A</KR>
             <ES>NPB Doble A</ES>
             <JP>NPBダブルA</JP>
             <CN>NPB双A</CN>
         </HCS>
         <HCS i="7744">
             <EN>Pacific Association</EN>
-            <KR>太平洋协会</KR>
+            <KR>太平洋協會</KR>
             <ES>Asociación del Pacífico</ES>
             <JP>パシフィックアソシエーション</JP>
             <CN>太平洋协会</CN>
         </HCS>
         <HCS i="7745">
             <EN>Pecos League</EN>
-            <KR>佩科斯联盟</KR>
+            <KR>佩科斯聯盟</KR>
             <ES>Liga Pecos</ES>
             <JP>ペコスリーグ</JP>
             <CN>佩科斯联盟</CN>
         </HCS>
         <HCS i="7746">
             <EN>Serie Nacional de Baseball</EN>
-            <KR>意甲国家棒球</KR>
+            <KR>古巴全國棒球聯賽</KR>
             <ES>Serie Nacional de Beisbol</ES>
             <JP>セリエナシオナルデ野球</JP>
             <CN>意甲国家棒球</CN>
         </HCS>
         <HCS i="7747">
             <EN>Shikoku Island League Plus</EN>
-            <KR>四国岛联赛Plus</KR>
+            <KR>四國島聯賽Plus</KR>
             <ES>Liga de la isla de Shikoku Plus</ES>
             <JP>四国アイランドリーグプラス</JP>
             <CN>四国岛联赛Plus</CN>
         </HCS>
         <HCS i="7748">
             <EN>Spanish Baseball League</EN>
-            <KR>西班牙棒球联赛</KR>
+            <KR>西班牙棒球聯賽</KR>
             <ES>liga española de beisbol</ES>
             <JP>スペイン野球リーグ</JP>
             <CN>西班牙棒球联赛</CN>
         </HCS>
         <HCS i="7749">
             <EN>Triple-A East</EN>
-            <KR>三甲东</KR>
+            <KR>3A東區</KR>
             <ES>Triple-A Este</ES>
             <JP>トリプルAイースト</JP>
             <CN>三甲东</CN>
         </HCS>
         <HCS i="7750">
             <EN>Triple-A West</EN>
-            <KR>三甲西</KR>
+            <KR>3A西區</KR>
             <ES>Triple-A Oeste</ES>
             <JP>トリプルAウエスト</JP>
             <CN>三甲西</CN>
         </HCS>
         <HCS i="7751">
             <EN>United League Baseball</EN>
-            <KR>联合棒球联盟</KR>
+            <KR>聯合棒球聯盟</KR>
             <ES>Béisbol de la liga unida</ES>
             <JP>ユナイテッドリーグ野球</JP>
             <CN>联合棒球联盟</CN>
         </HCS>
         <HCS i="7752">
             <EN>United Shore Professional Baseball League</EN>
-            <KR>联合海岸职业棒球联盟</KR>
+            <KR>聯合海岸職業棒球聯盟</KR>
             <ES>Liga de béisbol profesional United Shore</ES>
             <JP>ユナイテッドショアプロ野球リーグ</JP>
             <CN>联合海岸职业棒球联盟</CN>
         </HCS>
         <HCS i="7753">
             <EN>Venezuelan Rookie League</EN>
-            <KR>委内瑞拉新秀联赛</KR>
+            <KR>委內瑞拉新人聯盟</KR>
             <ES>Liga Venezolana de Novatos</ES>
             <JP>ベネズエラルーキーリーグ</JP>
             <CN>委内瑞拉新秀联赛</CN>
         </HCS>
         <HCS i="7769">
             <EN>American Association</EN>
-            <KR>美国协会</KR>
+            <KR>美國協會</KR>
             <ES>Asociación Americana</ES>
             <JP>アメリカ協会</JP>
             <CN>美国协会</CN>
         </HCS>
         <HCS i="7770">
             <EN>Atlantic League</EN>
-            <KR>大西洋联盟</KR>
+            <KR>大西洋聯盟</KR>
             <ES>Liga Atlántica</ES>
             <JP>アトランティックリーグ</JP>
             <CN>大西洋联盟</CN>
         </HCS>
         <HCS i="7771">
             <EN>Baseball Challenge League</EN>
-            <KR>棒球挑战联赛</KR>
+            <KR>棒球挑戰聯賽</KR>
             <ES>Liga de Desafío de Béisbol</ES>
             <JP>野球チャレンジリーグ</JP>
             <CN>棒球挑战联赛</CN>
         </HCS>
         <HCS i="7772">
             <EN>Can-Am League</EN>
-            <KR>加美联赛</KR>
+            <KR>加美聯賽</KR>
             <ES>Liga Can-Am</ES>
             <JP>Can-Amリーグ</JP>
             <CN>加美联赛</CN>
         </HCS>
         <HCS i="7773">
             <EN>Division Elite</EN>
-            <KR>Division Elite</KR>
+            <KR>菁英級聯賽</KR>
             <ES>División Élite</ES>
             <JP>ディビジョンエリート</JP>
             <CN>师精英</CN>
         </HCS>
         <HCS i="7774">
             <EN>French Division I</EN>
-            <KR>法国一级</KR>
+            <KR>法國甲級聯賽</KR>
             <ES>División francesa I</ES>
             <JP>フランス師団I</JP>
             <CN>法国一级</CN>
         </HCS>
         <HCS i="7775">
             <EN>Frontier League</EN>
-            <KR>边疆联盟</KR>
+            <KR>邊疆聯盟</KR>
             <ES>Liga Fronteriza</ES>
             <JP>フロンティアリーグ</JP>
             <CN>边疆联盟</CN>
         </HCS>
         <HCS i="7776">
             <EN>Liga Mexicana de Beisbol</EN>
-            <KR>墨西哥甲级联赛</KR>
+            <KR>墨西哥棒球聯盟</KR>
             <ES>Liga Mexicana de Béisbol</ES>
             <JP>リガメキシカンデベイスボル</JP>
             <CN>墨西哥甲级联赛</CN>
         </HCS>
         <HCS i="7777">
             <EN>Northern League</EN>
-            <KR>北方联赛</KR>
+            <KR>北方聯賽</KR>
             <ES>Liga del Norte</ES>
             <JP>ノーザンリーグ</JP>
             <CN>北方联赛</CN>
         </HCS>
         <HCS i="7778">
             <EN>Pacific Association</EN>
-            <KR>太平洋协会</KR>
+            <KR>太平洋協會</KR>
             <ES>Asociación del Pacífico</ES>
             <JP>パシフィックアソシエーション</JP>
             <CN>太平洋协会</CN>
         </HCS>
         <HCS i="7779">
             <EN>Pecos League</EN>
-            <KR>佩科斯联盟</KR>
+            <KR>佩科斯聯盟</KR>
             <ES>Liga Pecos</ES>
             <JP>ペコスリーグ</JP>
             <CN>佩科斯联盟</CN>
         </HCS>
         <HCS i="7780">
             <EN>Shikoku Island League Plus</EN>
-            <KR>四国岛联赛Plus</KR>
+            <KR>四國島聯賽Plus</KR>
             <ES>Liga de la isla de Shikoku Plus</ES>
             <JP>四国アイランドリーグプラス</JP>
             <CN>四国岛联赛Plus</CN>
         </HCS>
         <HCS i="13002">
             <EN>Division 1</EN>
-            <KR>Division 1</KR>
+            <KR>甲級</KR>
             <ES>División 1</ES>
             <JP>ディビジョン1</JP>
             <CN>第 1 区</CN>
         </HCS>
         <HCS i="13003">
             <EN>Gyeongsang</EN>
-            <KR>Gyeongsang</KR>
+            <KR>慶尚</KR>
             <ES>Gyeongsang</ES>
             <JP>慶尚道</JP>
             <CN>庆尚</CN>
         </HCS>
         <HCS i="13004">
             <EN>Norte</EN>
-            <KR>Norte</KR>
+            <KR>北區</KR>
             <ES>Norte</ES>
             <JP>ノルテ</JP>
             <CN>北</CN>
         </HCS>
         <HCS i="13005">
             <EN>CanAm</EN>
-            <KR>CanAm</KR>
+            <KR>加美</KR>
             <ES>CanAm</ES>
             <JP>CanAm</JP>
             <CN>佳美</CN>
         </HCS>
         <HCS i="13006">
             <EN>Sud</EN>
-            <KR>Sud</KR>
+            <KR>南區</KR>
             <ES>Sud</ES>
             <JP>突然</JP>
             <CN>南</CN>
@@ -148272,14 +148272,14 @@
         </HCS>
         <HCS i="17070">
             <EN>1. Bundesliga Sud</EN>
-            <KR>1. 德甲南部</KR>
+            <KR>德國甲級南區</KR>
             <ES>1. Bundesliga Sur</ES>
             <JP>1. Bundesliga Sud</JP>
             <CN>1. 德甲南部</CN>
         </HCS>
         <HCS i="17071">
             <EN>1. Bundesliga Nord</EN>
-            <KR>1. 德甲北区</KR>
+            <KR>德國甲級北區</KR>
             <ES>1. Bundesliga Norte</ES>
             <JP>1. Bundesliga Nord</JP>
             <CN>1. 德甲北区</CN>
@@ -148300,7 +148300,7 @@
         </HCS>
         <HCS i="18432">
             <EN>Elite</EN>
-            <KR>Elite</KR>
+            <KR>菁英級</KR>
             <ES>Élite</ES>
             <JP>エリート</JP>
             <CN>精英</CN>
@@ -148321,7 +148321,7 @@
         </HCS>
         <HCS i="23298">
             <EN>Austrian Baseball Bundesliga</EN>
-            <KR>奧地利棒球德甲</KR>
+            <KR>奧地利棒球甲級聯盟</KR>
             <ES>Bundesliga de béisbol de Austria</ES>
             <JP>オーストリアンベースボールブンデスリーガ</JP>
             <CN>奧地利棒球德甲</CN>
