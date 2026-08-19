@@ -110950,53 +110950,53 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 </CAT>
 
 <CAT id="786">
-<OBJ id="40003" text="I'm very excited by how the team has performed so far.  If you keep this up, you certainly have a great chance to win it all!">
+<OBJ id="40003" text="球隊到目前為止的表現讓我非常興奮。照這樣下去，你絕對很有機會拿下總冠軍！">
 <COND id="173" value="90"/>
 <COND id="171" value="5"/>
 <COND id="256" value="0"/>
 </OBJ>
-<OBJ id="40179" text="I'm very excited by how the team has performed so far.  If you keep up this rate, I have no doubt that you will win the championship like I asked you to!">
+<OBJ id="40179" text="球隊到目前為止的表現讓我非常興奮。維持這個節奏，我毫不懷疑你會照我要求的那樣把冠軍拿下來！">
 <COND id="171" value="4"/>
 <COND id="169" value="5"/>
 <COND id="256" value="0"/>
 </OBJ>
-<OBJ id="40180" text="I'm very excited by how the team has performed so far.  Keep it going, and I have faith that you will surpass all expectations!">
+<OBJ id="40180" text="球隊到目前為止的表現讓我非常興奮。繼續保持，我相信你會超越所有人的期待！">
 <COND id="171" value="3"/>
 <COND id="173" value="90"/>
 </OBJ>
-<OBJ id="40181" text="I'm very happy with your [%team record num] record so far.  Keep up the good work!">
+<OBJ id="40181" text="我對你目前 [%team record num] 的戰績非常滿意。繼續保持！">
 <COND id="173" value="90"/>
 </OBJ>
-<OBJ id="40182" text="While a [%team record num] record is certainly not terrible, I did expect a little more from you. Here's hoping for an improved second half!">
+<OBJ id="40182" text="[%team record num] 的戰績當然不算糟，但我原本對你的期待再高一些。希望下半季能有所提升！">
 <COND id="171" value="3"/>
 <COND id="172" value="4"/>
 <COND id="174" value="90"/>
 </OBJ>
-<OBJ id="40183" text="While a [%team record num] record is certainly not terrible, I did expect a little more from you. Good luck making the second-half push!">
+<OBJ id="40183" text="[%team record num] 的戰績當然不算糟，但我原本對你的期待再高一些。祝你下半季衝刺順利！">
 <COND id="174" value="90"/>
 <COND id="171" value="3"/>
 </OBJ>
-<OBJ id="40184" text="I told you that I wanted you to &quot;[%string#1].&quot;  What part of that did you not understand?">
+<OBJ id="40184" text="我跟你說過，我要你「[%string#1]」。這句話你是哪個部分聽不懂？">
 <COND id="174" value="50"/>
 </OBJ>
-<OBJ id="40185" text="I'm very disappointed with your [%team record pct] winning percentage. I certainly expected better from you. I hope things improve in the second half.">
+<OBJ id="40185" text="我對你 [%team record pct] 的勝率非常失望。我對你的期待絕對更高。希望下半季情況能好轉。">
 <COND id="174" value="70"/>
 </OBJ>
-<OBJ id="40186" text="I guess a [%team record pct] winning percent is about what I asked of you. Nothing that gets me too excited, but not terrible.">
+<OBJ id="40186" text="我想 [%team record pct] 的勝率，大概就是我對你的要求了。談不上讓我興奮，但也不算糟。">
 <COND id="173" value="51"/>
 <COND id="174" value="90"/>
 </OBJ>
-<OBJ id="40187" text="Seems like the team is well on its way to another playoff appearance. Once you're there, anything can happen.">
+<OBJ id="40187" text="看來球隊正穩穩朝著再一次打進季後賽前進。只要進得去，什麼事都可能發生。">
 <COND id="171" value="4"/>
 </OBJ>
-<OBJ id="40188" text="It's a long season, but the way this team is playing, I think the fans wouldn't mind it if the season was cut short. I hope you have some tricks up your sleeve because I'm not liking where this team is headed at the moment.">
+<OBJ id="40188" text="球季還很長，但照這支球隊現在打的樣子，球迷大概不會介意球季提早結束。希望你手上還有什麼法寶，因為我不喜歡這支球隊目前的走向。">
 <COND id="172" value="2"/>
 <COND id="174" value="40"/>
 </OBJ>
-<OBJ id="40307" text="The team's performance is underwhelming. I really expect more during the second half of the season.">
+<OBJ id="40307" text="球隊的表現不如預期。我對下半季真的有更高的要求。">
 <COND id="174" value="30"/>
 </OBJ>
-<OBJ id="40308" text="The losses are really piling up and we are slipping further from our goal of making the playoffs. Try to right this ship before it is too late.">
+<OBJ id="40308" text="敗場愈積愈多，我們離打進季後賽的目標也愈來愈遠。趁還來得及，設法把這艘船扶正。">
 <COND id="174" value="30"/>
 <COND id="169" value="4"/>
 <COND id="313" value="1"/>
@@ -111006,22 +111006,22 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <COND id="174" value="30"/>
 <COND id="313" value="1"/>
 </OBJ>-->
-<OBJ id="40310" text="I'm disappointed in the team's performance this year. Worse, our fans are as well. Let's work on getting the team motivated to go out and win.">
+<OBJ id="40310" text="我對球隊今年的表現很失望。更糟的是，我們的球迷也一樣。我們得想辦法把球隊的士氣提起來，出去把球贏回來。">
 <COND id="174" value="30"/>
 <COND id="172" value="3"/>
 </OBJ>
-<OBJ id="40311" text="Our fans have been disappointed in the team's play this year and, honestly, so am I. Remember, we are trying to get to the playoffs this year.">
+<OBJ id="40311" text="我們的球迷對球隊今年的表現很失望，老實說，我也是。別忘了，我們今年是要打進季後賽的。">
 <COND id="169" value="4"/>
 <COND id="170" value="4"/>
 <COND id="172" value="3"/>
 <COND id="313" value="1"/>
 </OBJ>
-<OBJ id="40331" text="I'm angry with our team's performance this year. It needs to improve for us the second half of this season for us make it to the playoffs. That is your job. Don't fail me.">
+<OBJ id="40331" text="我對我們球隊今年的表現很生氣。下半季一定要有所提升，我們才進得了季後賽。這是你的工作，別讓我失望。">
 <COND id="169" value="4"/>
 <COND id="172" value="3"/>
 <COND id="313" value="1"/>
 </OBJ>
-<OBJ id="40332" text="I was serious when I told you our goal was to make the playoffs this year. Based on our team's performance during the first half of the season, I figured I should clarify.">
+<OBJ id="40332" text="我說我們今年的目標是打進季後賽時，是認真的。看了球隊上半季的表現，我想我有必要再說清楚一次。">
 <COND id="169" value="4"/>
 <COND id="172" value="2.5"/>
 <COND id="313" value="1"/>
@@ -111031,7 +111031,7 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <COND id="174" value="30"/>
 <COND id="313" value="1"/>
 </OBJ>-->
-<OBJ id="40334" text="I still believe you are the person who will lead our team to the playoffs this year. However, we really need to turn things around during the second half of this season. ">
+<OBJ id="40334" text="我仍然相信你就是那個能帶我們今年打進季後賽的人。不過，我們下半季真的必須把局面扭轉過來。">
 <COND id="169" value="4"/>
 <COND id="174" value="50"/>
 <COND id="173" value="10"/>
@@ -111042,13 +111042,13 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <COND id="172" value="3"/>
 <COND id="313" value="1"/>
 </OBJ>-->
-<OBJ id="40336" text="Did you forget our goal to [%string#1] this year? You'll need to get a lot more out of the team during the second half of the season to get it done.">
+<OBJ id="40336" text="你是不是忘了我們今年要「[%string#1]」的目標？下半季你得從這支球隊身上多榨出很多東西才辦得到。">
 <COND id="174" value="40"/>
 </OBJ><!--
 <OBJ id="40337" text="Your job performance is heavily based on the team's performance. It may not be fair but that's the way it is. For me to be satisfied, you'll need to do a lot better during the second half of the season.">
 <COND id="174" value="40"/>
 </OBJ>-->
-<OBJ id="40338" text="The losses piled up quickly during the first half of this year despite our team having some talent. I expect much better things from both you and the team during the second half of the season.">
+<OBJ id="40338" text="儘管球隊不乏人才，上半季的敗場還是累積得很快。下半季我對你和球隊都有高得多的期待。">
 <COND id="172" value="2"/>
 <COND id="174" value="40"/>
 <COND id="169" value="2"/>
@@ -111056,39 +111056,39 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <OBJ id="40339" text="We still have a ton of games left this year. I need you to get the team to fight for every win they can.">
 <COND id="174" value="50"/>
 </OBJ>-->
-<OBJ id="40340" text="They say winning fixes everything. It sure would be nice if you would get the team to fix some things during the second half of the year.">
+<OBJ id="40340" text="人家說贏球可以解決一切。要是你能讓球隊在下半季解決掉一些問題，那就太好了。">
 <COND id="172" value="2.5"/>
 <COND id="174" value="40"/>
 </OBJ>
-<OBJ id="40341" text="Things are moving in the right direction and it looks like we have the talent to hit our preseason goal of making the playoffs. Our fans will be counting on us to push the team to get it done, so do what you have to do to make the postseason happen.">
+<OBJ id="40341" text="事情正朝著正確的方向走，看起來我們也有實力達成季前設定的季後賽目標。球迷會指望我們把球隊推過終點線，所以該做什麼就去做，讓季後賽成真。">
 <COND id="173" value="40"/>
 <COND id="169" value="4"/>
 <COND id="313" value="1"/>
 </OBJ>
-<OBJ id="40342" text="You have put us in the position to make a second half run at the playoffs. Remember, the postseason has been our goal all year. Keep up the good work during the second half of the year.">
+<OBJ id="40342" text="你讓我們有了下半季衝擊季後賽的位置。別忘了，季後賽是我們整年的目標。下半季請繼續保持。">
 <COND id="173" value="50"/>
 <COND id="169" value="4"/>
 <COND id="313" value="1"/>
 </OBJ>
-<OBJ id="40343" text="With a bunch of games left to play, we are in a decent position to make the postseason. That's been our goal all year so keep driving to get it done!">
+<OBJ id="40343" text="還有一大堆比賽要打，我們的季後賽位置還算不錯。這是我們整年的目標，繼續往前衝！">
 <COND id="169" value="4"/>
 <COND id="170" value="4"/>
 <COND id="173" value="50"/>
 <COND id="313" value="1"/>
 </OBJ>
-<OBJ id="40344" text="Our fans are getting nervous. With half the season over, we are anything but favorites for making the postseason. Squeeze every drop you can out of our team and get it done.">
+<OBJ id="40344" text="我們的球迷開始緊張了。球季過了一半，我們離季後賽的熱門人選還差得遠。把球隊的每一滴實力都榨出來，把事情辦成。">
 <COND id="169" value="4"/>
 <COND id="173" value="30"/>
 <COND id="174" value="70"/>
 <COND id="313" value="1"/>
 </OBJ>
-<OBJ id="40345" text="You have done a heck of a job so far with this team. To hit our preseason goal of making the postseason, you'll have to keep it up. I know you can do it.">
+<OBJ id="40345" text="你到目前為止把這支球隊帶得非常好。要達成我們季前打進季後賽的目標，你得繼續保持。我知道你做得到。">
 <COND id="173" value="90"/>
 <COND id="170" value="4"/>
 <COND id="169" value="4"/>
 <COND id="313" value="1"/>
 </OBJ>
-<OBJ id="40346" text="The fans' hopes for a fruitful postseason are growing behind the team's first half efforts. Keep up the great work during the second part of the season so we can meet our goal of getting to the playoffs this year.">
+<OBJ id="40346" text="在球隊上半季的努力之下，球迷對季後賽的期待正在升高。下半季請繼續維持這樣的好表現，讓我們達成今年打進季後賽的目標。">
 <COND id="169" value="4"/>
 <COND id="170" value="4"/>
 <COND id="171" value="3.5"/>
@@ -111103,28 +111103,28 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <COND id="170" value="4"/>
 <COND id="313" value="1"/>
 </OBJ>-->
-<OBJ id="40349" text="I know I said you didn't have to hit the postseason this year but if you push the team a bit harder during the latter part of the year, maybe we can eke our way in. Once we get in, we have as good a chance as anyone. Do your best to get it done.">
+<OBJ id="40349" text="我知道我說過你今年不一定要打進季後賽，但如果你在球季後段把球隊再推一把，說不定我們還能擠進去。只要進得去，我們的機會不會比任何人差。盡全力把它辦成。">
 <COND id="171" value="3.5"/>
 <COND id="170" value="3"/>
 <COND id="313" value="1"/>
 </OBJ>
-<OBJ id="40350" text="Even if we can't make it to the playoffs this season, let's do what we can to win as many as possible. You have done an okay job with this, but there is room for improvement.">
+<OBJ id="40350" text="就算這季進不了季後賽，我們也盡可能多贏幾場。你在這方面做得還可以，但仍有進步空間。">
 <COND id="172" value="3"/>
 <COND id="173" value="30"/>
 <COND id="174" value="70"/>
 <COND id="313" value="1"/>
 </OBJ>
-<OBJ id="40351" text="Our fans deserve good baseball the second part of the year. Everything so far has been mediocre, including your job performance. Give it everything you've got the rest of the season.">
+<OBJ id="40351" text="我們的球迷值得在球季後半看到好棒球。到目前為止一切都很平庸，包括你的工作表現。剩下的球季，請把你所有的東西都拿出來。">
 <COND id="172" value="2"/>
 <COND id="174" value="50"/>
 </OBJ>
-<OBJ id="45321" text="If the team keeps up this pace, I have little concern that this team won't get promoted to the [%league prolg]. Keep up the good work!">
+<OBJ id="45321" text="如果球隊維持這個節奏，我一點也不擔心我們升不上 [%league prolg]。繼續保持！">
 <COND id="258" value="1"/>
 </OBJ><!--
 <OBJ id="45322" text="Now is not the time to back off. I believe this team can be moved up to the next level!">
 <COND id="258" value="1"/>
 </OBJ>-->
-<OBJ id="45323" text="I hope that you can turn things around, since this team is in danger of moving down to a lower league next year.">
+<OBJ id="45323" text="我希望你能扭轉局面，因為這支球隊明年有掉到更低層級聯盟的危險。">
 <COND id="259" value="1"/>
 </OBJ><!--
 <OBJ id="45324" text="I am concerned about the play of this team. If we can't improve, we're in danger of getting pushed to the [%league rellg] for next year, and nobody wants that to happen.">
@@ -111133,12 +111133,12 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <OBJ id="45369" text="I am concerned about the play of this team. If we can't improve, we're in danger of getting pushed to the [%league rellg] for next year, and nobody wants that to happen.">
 <COND id="259" value="1"/>
 </OBJ>-->
-<OBJ id="45370" text="We've had some bad luck so far this year.  We need to turn it around and avoid relegation. Falling below the drop is simply not acceptable in my book.">
+<OBJ id="45370" text="我們今年到目前為止運氣不太好。我們得把局面扭轉過來，避免降級。掉到降級線以下，在我這裡是絕對不能接受的。">
 <COND id="174" value="30"/>
 <COND id="172" value="3"/>
 <COND id="257" value="1"/>
 </OBJ>
-<OBJ id="49159" text="The losses are really piling up and we're not looking like a top team right now. Try to right this ship before it is too late.">
+<OBJ id="49159" text="敗場愈積愈多，我們現在看起來根本不像一支頂尖球隊。趁還來得及，設法把這艘船扶正。">
 <COND id="174" value="30"/>
 <COND id="169" value="4"/>
 </OBJ><!--
@@ -111146,26 +111146,26 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <COND id="169" value="4"/>
 <COND id="174" value="30"/>
 </OBJ>-->
-<OBJ id="49161" text="Our fans have been disappointed in the team's play this year and, honestly, so am I. Remember, we should be one of the top teams in the league this year.">
+<OBJ id="49161" text="我們的球迷對球隊今年的表現很失望，老實說，我也是。別忘了，我們今年應該要是聯盟裡的頂尖球隊之一。">
 <COND id="169" value="4"/>
 <COND id="170" value="4"/>
 <COND id="172" value="3"/>
 </OBJ>
-<OBJ id="49162" text="I'm angry with our team's performance this year. It needs to improve for us the second half of this season for us to be considered as one of the league's top teams. That is your job. Don't fail me.">
+<OBJ id="49162" text="我對我們球隊今年的表現很生氣。下半季一定要有所提升，我們才能被視為聯盟頂尖球隊之一。這是你的工作，別讓我失望。">
 <COND id="169" value="4"/>
 <COND id="172" value="3"/>
 </OBJ>
-<OBJ id="49163" text="I was serious when I told you our goal was to be one of the league's top teams this year. Based on our team's performance during the first half of the season, I figured I should clarify.">
+<OBJ id="49163" text="我說我們今年的目標是成為聯盟頂尖球隊之一時，是認真的。看了球隊上半季的表現，我想我有必要再說清楚一次。">
 <COND id="169" value="4"/>
 <COND id="172" value="2.5"/>
 <COND id="313" value="0"/>
 </OBJ>
-<OBJ id="49164" text="Man, that was a tough first half of the season. We really need to go full throttle in order to meet our goal of being one of the league's top teams this year. I know you'll get it done.">
+<OBJ id="49164" text="唉，這上半季打得真辛苦。我們得全速前進，才能達成今年成為聯盟頂尖球隊之一的目標。我相信你辦得到。">
 <COND id="169" value="4"/>
 <COND id="174" value="30"/>
 <COND id="313" value="0"/>
 </OBJ>
-<OBJ id="49165" text="I still believe you are the person who can show the league that we are one of the top teams. However, we really need to turn things around during the second half of this season. ">
+<OBJ id="49165" text="我仍然相信你就是那個能讓全聯盟看見我們是頂尖球隊的人。不過，我們下半季真的必須把局面扭轉過來。">
 <COND id="169" value="4"/>
 <COND id="174" value="50"/>
 <COND id="173" value="10"/>
@@ -111175,42 +111175,42 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <COND id="169" value="4"/>
 <COND id="172" value="3"/>
 </OBJ>-->
-<OBJ id="49167" text="Things are moving in the right direction and it looks like we have the talent to hit our preseason goal of being a top team. Our fans will be counting on us to push the team to get it done, so do what you have to do to make that happen.">
+<OBJ id="49167" text="事情正朝著正確的方向走，看起來我們也有實力達成季前成為頂尖球隊的目標。球迷會指望我們把球隊推過終點線，所以該做什麼就去做，讓它成真。">
 <COND id="313" value="0"/>
 <COND id="169" value="4"/>
 <COND id="173" value="40"/>
 </OBJ>
-<OBJ id="49168" text="You have put us in the position to make a second half run at the league. Remember, our goal has been to be considered one of the elite teams this year. Keep up the good work during the second half of the year.">
+<OBJ id="49168" text="你讓我們有了下半季衝擊聯盟的位置。別忘了，我們今年的目標是被視為頂級球隊之一。下半季請繼續保持。">
 <COND id="313" value="0"/>
 <COND id="169" value="4"/>
 <COND id="173" value="50"/>
 </OBJ>
-<OBJ id="49169" text="The league is taking notice of us. We're in good position to be considered one of the top teams by the end of the year.">
+<OBJ id="49169" text="全聯盟開始注意到我們了。到球季結束時，我們很有機會被視為頂尖球隊之一。">
 <COND id="173" value="50"/>
 <COND id="170" value="4"/>
 <COND id="169" value="4"/>
 </OBJ>
-<OBJ id="49170" text="Our fans are getting nervous. With half the season over, we're not looking like a top team. Squeeze every drop you can out of our team and get it done.">
+<OBJ id="49170" text="我們的球迷開始緊張了。球季過了一半，我們看起來還不像一支頂尖球隊。把球隊的每一滴實力都榨出來，把事情辦成。">
 <COND id="174" value="70"/>
 <COND id="173" value="30"/>
 <COND id="169" value="4"/>
 </OBJ>
-<OBJ id="49171" text="You have done a heck of a job so far with this team. To hit our preseason goal of being a top team, you'll have to keep it up. I know you can do it.">
+<OBJ id="49171" text="你到目前為止把這支球隊帶得非常好。要達成我們季前成為頂尖球隊的目標，你得繼續保持。我知道你做得到。">
 <COND id="313" value="0"/>
 <COND id="169" value="4"/>
 <COND id="170" value="4"/>
 <COND id="173" value="90"/>
 </OBJ>
-<OBJ id="49172" text="Winning sure feels good and you have been doing a lot of it during the first half of the year. Don't stop now! Get the guys to keep it up, so we can really be considered one of the top teams in the league.">
+<OBJ id="49172" text="贏球的感覺真好，而你上半季贏了不少。現在別停下來！讓大家繼續保持，我們才能真正被視為聯盟頂尖球隊之一。">
 <COND id="173" value="90"/>
 <COND id="169" value="4"/>
 <COND id="170" value="4"/>
 </OBJ>
-<OBJ id="49173" text="I know I said you didn't have to be one of the top teams in the league this year but if you push the team a bit harder during the latter part of the year, anything is possible. Do your best to keep it up.">
+<OBJ id="49173" text="我知道我說過你今年不一定要成為聯盟頂尖球隊之一，但如果你在球季後段把球隊再推一把，什麼都有可能。盡力維持下去。">
 <COND id="171" value="3.5"/>
 <COND id="170" value="3"/>
 </OBJ>
-<OBJ id="49174" text="Even if the league won't necessarily look at us as a top team, let's do what we can to win as many as possible. You have done an okay job with this, but there is room for improvement.">
+<OBJ id="49174" text="就算聯盟未必會把我們當成頂尖球隊，我們也盡可能多贏幾場。你在這方面做得還可以，但仍有進步空間。">
 <COND id="172" value="3"/>
 <COND id="173" value="30"/>
 <COND id="174" value="70"/>
@@ -111218,30 +111218,30 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 </CAT>
 
 <CAT id="787">
-<OBJ id="40189" text="I'm thrilled with how the team did this season!  I still can't believe that we actually won the championship!">
+<OBJ id="40189" text="我對球隊這季的表現欣喜若狂！我到現在還不敢相信我們真的拿下了總冠軍！">
 <COND id="171" value="5"/>
 <COND id="256" value="0"/>
 </OBJ>
-<OBJ id="40190" text="I told you before the season to win it all, and you almost did! Next year we'll bring the championship home to [%team#1name].">
+<OBJ id="40190" text="我季前跟你說要奪冠，你差一點就辦到了！明年我們一定要把冠軍帶回 [%team#1name]。">
 <COND id="169" value="5"/>
 <COND id="175" value="1"/>
 <COND id="176" value="1"/>
 <COND id="256" value="0"/>
 </OBJ>
-<OBJ id="40191" text="I told you before the season to win it all, and you at least made a strong push towards it.  I am a little disappointed, and I know I push hard, but only because I know this team has the talent to make it that last step.">
+<OBJ id="40191" text="我季前跟你說要奪冠，你至少也強力衝擊了一波。我是有點失望，我知道我逼得很緊，但那只是因為我知道這支球隊有實力跨出最後那一步。">
 <COND id="169" value="5"/>
 <COND id="175" value="0"/>
 <COND id="176" value="1"/>
 <COND id="256" value="0"/>
 </OBJ>
-<OBJ id="40192" text="I told you before the season I expected no less than a playoff appearance, and you did deliver that. You even went beyond expectations and nearly won it all.  I'm very happy about that!">
+<OBJ id="40192" text="我季前跟你說過，我的最低要求就是打進季後賽，而你做到了。你甚至超乎期待，差一點就奪冠。我對此非常滿意！">
 <COND id="176" value="1"/>
 <COND id="175" value="1"/>
 <COND id="169" value="4"/>
 <COND id="170" value="4"/>
 <COND id="313" value="1"/>
 </OBJ>
-<OBJ id="40194" text="I told you before the season I expected no less than a playoff appearance, and you did deliver that. You should be proud of the performance, even if you didn't make the finals.">
+<OBJ id="40194" text="我季前跟你說過，我的最低要求就是打進季後賽，而你做到了。即使沒能打進總冠軍賽，你也該以這樣的表現為榮。">
 <COND id="176" value="1"/>
 <COND id="169" value="4"/>
 <COND id="170" value="4"/>
@@ -111249,29 +111249,29 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <COND id="258" value="0"/>
 <COND id="313" value="1"/>
 </OBJ>
-<OBJ id="40195" text="I secretly hoped that you would make the playoffs, but I certainly did not expect it this year. Congratulations on a great season!">
+<OBJ id="40195" text="我私底下希望你能打進季後賽，但今年我確實沒有這樣期待。恭喜你打出精彩的一季！">
 <COND id="170" value="3"/>
 <COND id="171" value="4"/>
 <COND id="313" value="1"/>
 </OBJ>
-<OBJ id="40196" text="I secretly hoped that you would make the playoffs, but I certainly did not expect it this year. I'm very happy with what you did with this team this year.">
+<OBJ id="40196" text="我私底下希望你能打進季後賽，但今年我確實沒有這樣期待。我對你今年帶這支球隊的成果非常滿意。">
 <COND id="170" value="3"/>
 <COND id="171" value="4"/>
 <COND id="175" value="0"/>
 <COND id="313" value="1"/>
 </OBJ>
-<OBJ id="40197" text="While you didn't make the playoffs this year, you should still be very happy about a [%team record num] record. Keep up the good work!">
+<OBJ id="40197" text="雖然今年沒能打進季後賽，[%team record num] 的戰績還是很值得高興。繼續保持！">
 <COND id="169" value="3"/>
 <COND id="173" value="100"/>
 <COND id="176" value="0"/>
 <COND id="313" value="1"/>
 </OBJ>
-<OBJ id="40198" text="While you didn't make the playoffs this year, you should still be very happy about a [%team record num] record. You exceeded what I expected from this team, and I have a good feeling about future [%team#1nickname] success.">
+<OBJ id="40198" text="雖然今年沒能打進季後賽，[%team record num] 的戰績還是很值得高興。你超越了我對這支球隊的期待，我對 [%team#1nickname] 未來的表現很有信心。">
 <COND id="176" value="0"/>
 <COND id="173" value="95"/>
 <COND id="313" value="1"/>
 </OBJ>
-<OBJ id="40199" text="A [%team record num] record is about exactly what I predicted from this team. Good job!">
+<OBJ id="40199" text="[%team record num] 的戰績，差不多正是我對這支球隊的預期。做得好！">
 <COND id="176" value="0"/>
 <COND id="173" value="70"/>
 <COND id="174" value="110"/>
@@ -111281,25 +111281,25 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <COND id="173" value="70"/>
 <COND id="174" value="110"/>
 </OBJ>-->
-<OBJ id="40201" text="You know, I did expect a little bit more from you.  Finishing up [%team record num] is certainly nothing to write home about. Better luck next year!">
+<OBJ id="40201" text="你知道，我原本對你的期待再高一些。[%team record num] 收尾實在沒什麼好說嘴的。祝明年好運！">
 <COND id="176" value="0"/>
 <COND id="174" value="70"/>
 <COND id="173" value="30"/>
 </OBJ>
-<OBJ id="40202" text="You know, I did expect a little bit more from you.  Finishing up [%team record num] is certainly nothing to write home about. While I'm not furious with how you did, I do hope that you can exceed my expectations sometimes.">
+<OBJ id="40202" text="你知道，我原本對你的期待再高一些。[%team record num] 收尾實在沒什麼好說嘴的。我是沒有氣到不行，但我還是希望你有時候能超出我的期待。">
 <COND id="176" value="0"/>
 <COND id="173" value="30"/>
 <COND id="174" value="50"/>
 </OBJ>
-<OBJ id="40203" text="I expected better from this team. You may be happy with a [%team record num] record, but I sure am not. A performance like this season is not something to be proud of.">
+<OBJ id="40203" text="我對這支球隊的期待更高。你或許對 [%team record num] 的戰績感到滿意，我可一點也不。這樣的球季表現沒什麼好驕傲的。">
 <COND id="176" value="0"/>
 <COND id="174" value="30"/>
 </OBJ>
-<OBJ id="40204" text="Your task this year was to [%string#1], and from my point of view, you failed that goal completely. You and I may have different points of view of where the team should be at this point, but I would like to see you try harder.">
+<OBJ id="40204" text="你今年的任務是「[%string#1]」，而在我看來，你完全沒有達成。我們對球隊該站在什麼位置的看法或許不同，但我希望看到你更努力一點。">
 <COND id="176" value="0"/>
 <COND id="174" value="20"/>
 </OBJ>
-<OBJ id="40205" text="Well done on bringing a [%leaguefinals] title to [%team#1name]. Keep them coming and the fans may erect a statue of you in front of [%ballpark]!">
+<OBJ id="40205" text="恭喜你把 [%leaguefinals] 冠軍帶回 [%team#1name]。繼續這樣拿下去，球迷說不定會在 [%ballpark] 前面替你立一座銅像！">
 <COND id="176" value="2"/>
 <COND id="256" value="0"/>
 </OBJ><!--
@@ -111307,17 +111307,17 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <COND id="176" value="2"/>
 <COND id="256" value="0"/>
 </OBJ>-->
-<OBJ id="40207" text="That was a heart-wrenching loss in the finals, right? Oh, to come so close but have victory snatched from you! But we'll get them next year. Be proud of the team you put together.">
+<OBJ id="40207" text="總冠軍賽輸得讓人心碎，對吧？都已經這麼接近了，勝利卻被硬生生奪走！但明年我們會討回來。為你組出來的這支球隊感到驕傲吧。">
 <COND id="176" value="1"/>
 <COND id="175" value="1"/>
 </OBJ>
-<OBJ id="40208" text="You did make it above .500 this year, albeit barely. I know you always hope for more, but keep up the hard work and success will come your way soon.">
+<OBJ id="40208" text="今年你的勝率確實過了五成，儘管只是低空飛過。我知道你總是期待更多，但只要繼續努力，成功很快就會來。">
 <COND id="163" value="500"/>
 <COND id="176" value="0"/>
 <COND id="170" value="2"/>
 <COND id="164" value="525"/>
 </OBJ>
-<OBJ id="40209" text="It's not like every team with a winning record makes the playoffs. You put together a good season, even if it didn't quite live up to expectations.">
+<OBJ id="40209" text="又不是每支勝率過半的球隊都能打進季後賽。就算沒有完全達到期待，你這季還是打得不錯。">
 <COND id="163" value="550"/>
 <COND id="176" value="0"/>
 <COND id="169" value="4"/>
@@ -111325,17 +111325,17 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <COND id="313" value="1"/>
 </OBJ>
 <OBJ id="40210">
-<TXT>I really wanted you to at least make the playoffs, and the team you put together really did look like it could have gone all the way. But man, you have to give credit to the teams that made it in ahead of us. If we can do just as well next year, I don't doubt our results will be better.</TXT>
+<TXT>我真的很希望你至少能打進季後賽，你組出來的這支球隊看起來也真的有機會一路走到底。但唉，還是得給那些排在我們前面的球隊一點掌聲。如果明年我們能打得一樣好，我毫不懷疑結果會更好。</TXT>
 <COND id="163" value="580"/>
 <COND id="176" value="0"/>
 <COND id="169" value="4"/>
 <COND id="313" value="1"/>
 </OBJ>
-<OBJ id="40751" text="I'm not happy with how this season went at all. Are you? I hope not. It is time to get to work and really start planning for how next year will be different.">
+<OBJ id="40751" text="我對這季的結果一點也不滿意。你滿意嗎？我希望你也不滿意。是時候動起來，好好規劃明年該怎麼不一樣了。">
 <COND id="174" value="10"/>
 </OBJ>
 <OBJ id="40752">
-<TXT>You failed to meet your goal of making the playoffs. The fans are angry and why shouldn't they be - we should have done better. I know it isn't fair to place all of the blame on you but you're the easiest thing to 'fix'. Let's make sure next year goes better.</TXT>
+<TXT>你沒有達成打進季後賽的目標。球迷很生氣，他們當然有理由生氣——我們本來應該做得更好。我知道把責任全推到你身上並不公平，但你是最容易「修正」的那個環節。明年一定要更好。</TXT>
 <COND id="169" value="4"/>
 <COND id="174" value="10"/>
 <COND id="176" value="0"/>
@@ -111347,32 +111347,32 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <COND id="176" value="0"/>
 <COND id="313" value="1"/>
 </OBJ>-->
-<OBJ id="40754" text="The team never really pulled it together this year. Be it injuries, a lack of luck or something else, your goal was to make the playoffs and you failed. Next year I am expecting much better results.">
+<OBJ id="40754" text="球隊今年始終沒能整合起來。不論是傷病、運氣不好還是別的原因，你的目標是打進季後賽，而你失敗了。明年我期待好得多的結果。">
 <COND id="169" value="4"/>
 <COND id="170" value="4"/>
 <COND id="176" value="0"/>
 <COND id="313" value="1"/>
 </OBJ>
 <OBJ id="40755">
-<TXT>I know there are things beyond your control that hurt our chances of making the playoffs but still, I'm disappointed. As our over-arching goal this year, it should have been your top priority and at times, I felt like that wasn't the case. Let's do better next year.</TXT>
+<TXT>我知道有些事情不是你能控制的，那些事傷害了我們打進季後賽的機會，但我還是很失望。這是我們今年最重要的目標，本來應該是你的第一優先，而有些時候我覺得並不是。明年我們做得更好。</TXT>
 <COND id="169" value="4"/>
 <COND id="176" value="0"/>
 <COND id="313" value="1"/>
 </OBJ>
-<OBJ id="40756" text="I'm thrilled you were able to meet our goal of getting the team to the playoffs. I always believe you were up for the challenge. I can't wait for next year.">
+<OBJ id="40756" text="你達成了帶球隊打進季後賽的目標，我非常高興。我一直相信你扛得起這個挑戰。我已經等不及明年了。">
 <COND id="169" value="4"/>
 <COND id="170" value="4"/>
 <COND id="176" value="1"/>
 <COND id="313" value="1"/>
 </OBJ>
-<OBJ id="40757" text="The fans needed to see us in the playoffs this year and you guided the team and made it happen. I'm very happy you were able to meet this goal.">
+<OBJ id="40757" text="球迷今年需要看到我們打進季後賽，而你帶著球隊做到了。你能達成這個目標，我非常高興。">
 <COND id="170" value="4"/>
 <COND id="169" value="4"/>
 <COND id="176" value="1"/>
 <COND id="258" value="0"/>
 <COND id="313" value="1"/>
 </OBJ>
-<OBJ id="40758" text="Getting to the playoffs is always tough in a competitive league like ours but you made it happen! I'm very happy with the work you did here.">
+<OBJ id="40758" text="在我們這種競爭激烈的聯盟裡，打進季後賽向來不容易，但你辦到了！我對你在這裡的工作非常滿意。">
 <COND id="170" value="4"/>
 <COND id="176" value="1"/>
 <COND id="313" value="1"/>
@@ -111389,49 +111389,49 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <COND id="176" value="2"/>
 <COND id="256" value="0"/>
 </OBJ>-->
-<OBJ id="45313" text="I'm very disappointed in the team's performance this year. Not only did you fail to perform, but the team will now be relegated to the [%league rellg]. This is a terrible result.">
+<OBJ id="45313" text="我對球隊今年的表現非常失望。你不只沒有交出成績，球隊現在還要被降到 [%league rellg]。這是個糟糕透頂的結果。">
 <COND id="259" value="1"/>
 </OBJ>
-<OBJ id="45314" text="I told you to not get relegated, and the team was relegated. I can't begin to say how disappointed in this result.">
+<OBJ id="45314" text="我跟你說過不要降級，結果球隊還是降級了。我沒辦法形容我對這個結果有多失望。">
 <COND id="259" value="1"/>
 <COND id="170" value="1"/>
 </OBJ>
-<OBJ id="45315" text="Well, at least the team did not get relegated. Is that something we should be happy about?">
+<OBJ id="45315" text="好吧，至少球隊沒有降級。這算是值得高興的事嗎？">
 <COND id="259" value="0"/>
 <COND id="257" value="1"/>
 <COND id="172" value="2"/>
 <COND id="169" value="2"/>
 </OBJ>
-<OBJ id="45316" text="Congratulations! I'm excited to be playing in the [%league prolg] next year and see how we can compete with them!">
+<OBJ id="45316" text="恭喜！我很興奮明年能在 [%league prolg] 出賽，看看我們跟他們拚起來如何！">
 <COND id="258" value="1"/>
 </OBJ><!--
 <OBJ id="45317" text="I'm thrilled with how the team did this season! It's a great honor to be promoted to the [%league prolg].">
 <COND id="258" value="1"/>
 </OBJ>-->
-<OBJ id="45318" text="I told you before the season to move up to the [%league prolg], and you almost did! Next year I have faith that we'll be able to take that next step.">
+<OBJ id="45318" text="我季前跟你說要升上 [%league prolg]，你差一點就辦到了！我相信明年我們能跨出那一步。">
 <COND id="169" value="5"/>
 <COND id="175" value="1"/>
 <COND id="176" value="1"/>
 <COND id="256" value="1"/>
 <COND id="258" value="0"/>
 </OBJ>
-<OBJ id="45319" text="Goal: [%string#1]. Result: Promoted to [%league prolg]. What more do I need to say?">
+<OBJ id="45319" text="目標：[%string#1]。結果：升上 [%league prolg]。我還需要說什麼嗎？">
 <COND id="256" value="1"/>
 <COND id="258" value="1"/>
 </OBJ>
-<OBJ id="45320" text="You came so close to getting promoted to the next level. You should be proud of what the team accomplished.">
+<OBJ id="45320" text="你差一點就把球隊升上更高的層級。你該為球隊的成就感到驕傲。">
 <COND id="256" value="1"/>
 <COND id="258" value="0"/>
 <COND id="171" value="4"/>
 <COND id="170" value="4"/>
 </OBJ>
-<OBJ id="45331" text="I was hoping that you would be able to get this team promoted to the next level, and you came up a little short in that. Hopefully next year we can get that honor.">
+<OBJ id="45331" text="我本來希望你能把這支球隊升上更高的層級，可惜差了那麼一點。希望明年我們能拿到這份榮耀。">
 <COND id="256" value="1"/>
 <COND id="169" value="5"/>
 <COND id="258" value="0"/>
 <COND id="171" value="3.5"/>
 </OBJ>
-<OBJ id="45332" text="I was expecting this team to get promoted to the [%league prolg], and we weren't even close. Hopefully next year we have some better fortunes.">
+<OBJ id="45332" text="我原本預期這支球隊能升上 [%league prolg]，結果我們連邊都沒摸到。希望明年運氣好一些。">
 <COND id="256" value="1"/>
 <COND id="169" value="5"/>
 <COND id="258" value="0"/>
@@ -111440,14 +111440,14 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <OBJ id="45410" text="I've been taking a lot of heat from the fans and in the media for the way we finished the season. I know it's hard to point to one problem to explain why the season went south. But we need to make some upgrades. No more excuses.">
 <COND id="174" value="10"/>
 </OBJ>-->
-<OBJ id="49145" text="I told you before the season I expected no less than to be a top team, and you did deliver that. You even went beyond expectations and nearly won it all.  I'm very happy about that!">
+<OBJ id="49145" text="我季前跟你說過，我的最低要求就是成為頂尖球隊，而你做到了。你甚至超乎期待，差一點就奪冠。我對此非常滿意！">
 <COND id="176" value="1"/>
 <COND id="175" value="1"/>
 <COND id="169" value="4"/>
 <COND id="170" value="4"/>
 <COND id="313" value="0"/>
 </OBJ>
-<OBJ id="49146" text="I told you before the season I expected no less than to be a top team, and you did deliver that. You should be proud of the performance, even if you didn't quite win it all.">
+<OBJ id="49146" text="我季前跟你說過，我的最低要求就是成為頂尖球隊，而你做到了。即使沒能一路奪冠，你也該以這樣的表現為榮。">
 <COND id="176" value="1"/>
 <COND id="169" value="4"/>
 <COND id="170" value="4"/>
@@ -111455,33 +111455,33 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <COND id="258" value="0"/>
 <COND id="313" value="0"/>
 </OBJ>
-<OBJ id="49147" text="I secretly hoped that you would be a top team, but I certainly did not expect it this year. Congratulations on a great season!">
+<OBJ id="49147" text="我私底下希望你能成為頂尖球隊，但今年我確實沒有這樣期待。恭喜你打出精彩的一季！">
 <COND id="170" value="3"/>
 <COND id="171" value="4"/>
 </OBJ>
-<OBJ id="49148" text="While you didn't win the championship, you should still be very happy about a [%team record num] record. Keep up the good work!">
+<OBJ id="49148" text="雖然沒能拿下總冠軍，[%team record num] 的戰績還是很值得高興。繼續保持！">
 <COND id="169" value="3"/>
 <COND id="173" value="100"/>
 <COND id="176" value="0"/>
 </OBJ>
-<OBJ id="49149" text="While you didn't win it all this year, you should still be very happy about a [%team record num] record. You exceeded what I expected from this team, and I have a good feeling about future [%team#1nickname] success.">
+<OBJ id="49149" text="雖然今年沒能奪冠，[%team record num] 的戰績還是很值得高興。你超越了我對這支球隊的期待，我對 [%team#1nickname] 未來的表現很有信心。">
 <COND id="176" value="0"/>
 <COND id="173" value="95"/>
 </OBJ>
-<OBJ id="49150" text="It's not like every team with a winning record can come first. You put together a good season, even if it didn't quite live up to expectations.">
+<OBJ id="49150" text="又不是每支勝率過半的球隊都能拿到第一。就算沒有完全達到期待，你這季還是打得不錯。">
 <COND id="163" value="550"/>
 <COND id="176" value="0"/>
 <COND id="169" value="4"/>
 <COND id="170" value="4"/>
 <COND id="313" value="0"/>
 </OBJ>
-<OBJ id="49151" text="We had a great team, and it looked like we should have come out on top. But man, you have to give credit to the teams that made it in ahead of us. If we can do just as well next year, I don't doubt our results will be better.">
+<OBJ id="49151" text="我們有一支很好的球隊，看起來本來應該站上頂端的。但唉，還是得給那些排在我們前面的球隊一點掌聲。如果明年我們能打得一樣好，我毫不懷疑結果會更好。">
 <COND id="163" value="570"/>
 <COND id="176" value="0"/>
 <COND id="169" value="4"/>
 </OBJ>
 <OBJ id="49152">
-<TXT>You failed to meet your goal of being a top team. The fans are angry and why shouldn't they be - we should have done better. I know it isn't fair to place all of the blame on you but you're the easiest thing to 'fix'. Let's make sure next year goes better.</TXT>
+<TXT>你沒有達成成為頂尖球隊的目標。球迷很生氣，他們當然有理由生氣——我們本來應該做得更好。我知道把責任全推到你身上並不公平，但你是最容易「修正」的那個環節。明年一定要更好。</TXT>
 <COND id="169" value="4"/>
 <COND id="174" value="10"/>
 <COND id="176" value="0"/>
@@ -111493,31 +111493,31 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <COND id="176" value="0"/>
 <COND id="313" value="0"/>
 </OBJ>-->
-<OBJ id="49154" text="The team never really pulled it together this year. Be it injuries, a lack of luck or something else, your goal was to be a top team and you failed. Next year I am expecting much better results.">
+<OBJ id="49154" text="球隊今年始終沒能整合起來。不論是傷病、運氣不好還是別的原因，你的目標是成為頂尖球隊，而你失敗了。明年我期待好得多的結果。">
 <COND id="169" value="4"/>
 <COND id="170" value="4"/>
 <COND id="176" value="0"/>
 <COND id="313" value="0"/>
 </OBJ>
 <OBJ id="49155">
-<TXT>I know there are things beyond your control that hurt our chances of being a top team but still, I'm disappointed. As our over-arching goal this year, it should have been your top priority and at times, I felt like that wasn't the case. Let's do better next year.</TXT>
+<TXT>我知道有些事情不是你能控制的，那些事傷害了我們成為頂尖球隊的機會，但我還是很失望。這是我們今年最重要的目標，本來應該是你的第一優先，而有些時候我覺得並不是。明年我們做得更好。</TXT>
 <COND id="169" value="4"/>
 <COND id="176" value="0"/>
 <COND id="313" value="0"/>
 </OBJ>
-<OBJ id="49156" text="I'm thrilled you were able to meet our goal of being one of the top teams in the league. I always believe you were up for the challenge. I can't wait for next year.">
+<OBJ id="49156" text="你達成了讓我們成為聯盟頂尖球隊之一的目標，我非常高興。我一直相信你扛得起這個挑戰。我已經等不及明年了。">
 <COND id="169" value="4"/>
 <COND id="170" value="4"/>
 <COND id="176" value="1"/>
 <COND id="313" value="0"/>
 </OBJ>
-<OBJ id="49157" text="The fans needed to see us be a top team this year and you guided the team and made it happen. I'm very happy you were able to meet this goal.">
+<OBJ id="49157" text="球迷今年需要看到我們成為頂尖球隊，而你帶著球隊做到了。你能達成這個目標，我非常高興。">
 <COND id="170" value="4"/>
 <COND id="169" value="4"/>
 <COND id="176" value="1"/>
 <COND id="258" value="0"/>
 </OBJ>
-<OBJ id="49158" text="Being a top team is always tough in a competitive league like ours but you made it happen! I'm very happy with the work you did here.">
+<OBJ id="49158" text="在我們這種競爭激烈的聯盟裡，要成為頂尖球隊向來不容易，但你辦到了！我對你在這裡的工作非常滿意。">
 <COND id="170" value="4"/>
 <COND id="176" value="1"/>
 </OBJ><!--
@@ -111539,48 +111539,48 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <OBJ id="49183" text="The [%team nationalpaper] had an article about our season falling short of expectations. You know it's trouble when the team's problems make it to national headlines. We need to make some changes for next year.">
 <COND id="174" value="10"/>
 </OBJ>-->
-<OBJ id="49184" text="I was reading a magazine that mentioned the team's disappointing performance this year. A performance like we had this year brings down the team's reputation. We need to get back to winning ways sooner rather than later.">
+<OBJ id="49184" text="我讀到一本雜誌提到球隊今年令人失望的表現。像今年這樣的成績會拉低球隊的聲望。我們得盡快回到贏球的軌道上。">
 <COND id="174" value="10"/>
 <COND id="164" value="500"/>
 </OBJ>
 </CAT>
 
 <CAT id="788">
-<OBJ id="40314" text="Well done finding an improvement at [%ownergoal position]. I know it wasn't that easy of a task, but [%personlink#1] looks like he'll be a great player for us. Let's hope his on-field performance can live up to his hype.">
+<OBJ id="40314" text="[%ownergoal position] 的補強做得好。我知道這任務不容易，但 [%personlink#1] 看起來會是我們的一大戰力。希望他場上的表現能對得起這份期待。">
 <COND id="173" value="90"/>
 <COND id="177" value="0"/>
 </OBJ>
 <OBJ id="40318">
-<TXT>Not only did you fail to find an upgrade at [%ownergoal position], I look through our roster and can't even figure out who you plan to play there going forward. I can't very well give you credit for improving a position when you can't commit to a player there.</TXT>
+<TXT>你不但沒替 [%ownergoal position] 找到升級，我翻遍我們的名單，甚至看不出你接下來打算讓誰守那個位置。你連要用誰都定不下來，我實在沒辦法說你改善了那個位置。</TXT>
 <COND id="178" value="0"/>
 </OBJ>
-<OBJ id="40327" text="I didn't expect that [%personlink#1] would already be a [%league topgroup] [%ownergoal fullposition] by this point. If he can keep it up, I have no doubt I'll mark this goal complete at season's end.">
+<OBJ id="40327" text="我沒想到 [%personlink#1] 這麼快就已經是 [%league topgroup] 等級的 [%ownergoal fullposition] 了。只要他能維持下去，我毫不懷疑球季結束時我會把這個目標標成達成。">
 <COND id="173" value="90"/>
 <COND id="177" value="1"/>
 </OBJ>
-<OBJ id="40328" text="[%personlink#1] has definitely improved to solidify our [%ownergoal position]. While he's not quite a [%league topgroup] guy yet, he's definitely ranked higher than we were here last year.">
+<OBJ id="40328" text="[%personlink#1] 確實進步了，把我們的 [%ownergoal position] 穩了下來。雖然他還不到 [%league topgroup] 的等級，但排名絕對比我們去年在這個位置上要高。">
 <COND id="177" value="1"/>
 <COND id="173" value="20"/>
 <COND id="174" value="99"/>
 </OBJ>
 <OBJ id="40329">
-<TXT>Thanks for bringing in [%personlink#1]. I can already see some improvement from where we were before. I'm still looking for a little bit more improvement from him to get us up to a [%league topgroup] [%ownergoal position], but I can see the upgrade from [%ownergoal issueyear].</TXT>
+<TXT>謝謝你把 [%personlink#1] 帶進來。我已經看得出比先前有些改善。要讓我們的 [%ownergoal position] 達到 [%league topgroup]，我還想再看到他多進步一點，不過比起 [%ownergoal issueyear]，升級是看得見的。</TXT>
 <COND id="177" value="0"/>
 <COND id="173" value="20"/>
 <COND id="174" value="99"/>
 </OBJ>
-<OBJ id="40330" text="I don't see an improvement from where we were last year at [%ownergoal position]. Please keep an eye out for an upgrade there if you want to keep me happy.">
+<OBJ id="40330" text="我看不出我們的 [%ownergoal position] 比去年有什麼改善。如果你想讓我開心，請多留意那個位置有沒有更好的人選。">
 <COND id="174" value="20"/>
 </OBJ>
 </CAT>
 
 <CAT id="789">
-<OBJ id="40312" text="Congratulations on having faith in [%personlink#1]. I asked you to improve our [%ownergoal position] and your trust in [%personname L] has truly paid off for us.">
+<OBJ id="40312" text="恭喜你對 [%personlink#1] 有信心。我要求你改善我們的 [%ownergoal position]，而你對 [%personname L] 的信任確實替我們帶來了回報。">
 <COND id="177" value="1"/>
 <COND id="173" value="100"/>
 <COND id="13" value="2"/>
 </OBJ>
-<OBJ id="40313" text="Well done finding an improvement at [%ownergoal position]. I know it wasn't that easy of a task, but [%personlink#1] looks like he'll be a great player for us.">
+<OBJ id="40313" text="[%ownergoal position] 的補強做得好。我知道這任務不容易，但 [%personlink#1] 看起來會是我們的一大戰力。">
 <COND id="173" value="100"/>
 <COND id="177" value="0"/>
 </OBJ><!--
@@ -111588,63 +111588,63 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <COND id="173" value="100"/>
 <COND id="177" value="0"/>
 </OBJ>-->
-<OBJ id="40316" text="I know [%personlink#1] hasn't been all that productive for us, but I can't really fault you for his bad luck. He's ranked highly by BNN and I know he'll rebound to the player you expected him to be.">
+<OBJ id="40316" text="我知道 [%personlink#1] 對我們的貢獻還不算多，但他運氣不好，這我沒辦法怪你。BNN 給他的評價很高，我相信他會反彈回你所期待的那個樣子。">
 <COND id="173" value="70"/>
 <COND id="14" value="-1"/>
 </OBJ>
 <OBJ id="40317">
-<TXT>Not only did you fail to find an upgrade at [%ownergoal position], I look through our roster and can't even figure out who you plan to play there going forward. I can't very well give you credit for improving a position when you can't commit to a player there.</TXT>
+<TXT>你不但沒替 [%ownergoal position] 找到升級，我翻遍我們的名單，甚至看不出你接下來打算讓誰守那個位置。你連要用誰都定不下來，我實在沒辦法說你改善了那個位置。</TXT>
 <COND id="178" value="0"/>
 </OBJ>
-<OBJ id="40319" text="[%personlink#1] has certainly developed into a good [%ownergoal fullposition]. While he's not quite [%league topgroup] like I hoped we'd be by this point, [%personname L] isn't someone who I have too much trouble with manning the position.">
+<OBJ id="40319" text="[%personlink#1] 確實已經成長為一位不錯的 [%ownergoal fullposition]。雖然還沒到我原本期待的 [%league topgroup] 等級，但由 [%personname L] 來守這個位置，我沒什麼好挑剔的。">
 <COND id="177" value="1"/>
 <COND id="173" value="50"/>
 <COND id="174" value="99"/>
 </OBJ>
-<OBJ id="40320" text="[%personlink#1] looks to be an improvement from where we were in [%ownergoal issueyear], but I'm not sure if he's really enough of an improvement for me to be happy. I was hoping that we'd have a [%league topgroup] ranked [%ownergoal position] by now.">
+<OBJ id="40320" text="比起 [%ownergoal issueyear]，[%personlink#1] 看起來是有進步，但我不確定這樣的進步幅度夠不夠讓我滿意。我原本希望到現在我們的 [%ownergoal position] 已經排進 [%league topgroup] 了。">
 <COND id="174" value="50"/>
 <COND id="173" value="10"/>
 </OBJ>
-<OBJ id="40321" text="Bringing in [%personlink#1] has definitely solidified our [%ownergoal position], even if he's not quite a [%league topgroup] player like I had hoped for.">
+<OBJ id="40321" text="把 [%personlink#1] 帶進來，確實讓我們的 [%ownergoal position] 穩了下來，即使他還不是我原本期待的 [%league topgroup] 等級球員。">
 <COND id="173" value="50"/>
 <COND id="174" value="99"/>
 <COND id="177" value="0"/>
 </OBJ>
-<OBJ id="40322" text="I'm glad you made an effort to improve our [%ownergoal position], but I don't think that [%personlink#1] is quite the caliber of player I hoped for.">
+<OBJ id="40322" text="我很高興你努力改善了我們的 [%ownergoal position]，但我認為 [%personlink#1] 還沒到我期待的水準。">
 <COND id="174" value="50"/>
 <COND id="177" value="0"/>
 </OBJ>
-<OBJ id="40323" text="I'm sorry, I don't see the upgrade I asked of you at [%ownergoal position]. Granted, [%personlink#1] may be a little bit better than who we had before, but I have to look hard to see that.">
+<OBJ id="40323" text="抱歉，我沒看到我要求的 [%ownergoal position] 升級。是啦，[%personlink#1] 或許比我們原本的人好一點點，但我得很努力才看得出來。">
 <COND id="173" value="10"/>
 <COND id="174" value="50"/>
 <COND id="177" value="0"/>
 </OBJ>
-<OBJ id="40324" text="From my vantage point, I don't see the upgrade I asked of you at [%ownergoal position]. Our team isn't ranked any higher there than we were in [%ownergoal issueyear].">
+<OBJ id="40324" text="從我的角度看，我沒看到我要求的 [%ownergoal position] 升級。我們在那個位置上的排名，跟 [%ownergoal issueyear] 相比一點也沒有進步。">
 <COND id="174" value="20"/>
 </OBJ>
-<OBJ id="40325" text="I thought I told you to find an upgrade for [%personlink#1]? I know he's been on our team for [%player yearsonteam], but sometimes you have to move on to upgrade.">
+<OBJ id="40325" text="我不是叫你去找個比 [%personlink#1] 更好的人嗎？我知道他在隊上待了 [%player yearsonteam]，但有時候為了升級就是得往前走。">
 <COND id="177" value="1"/>
 <COND id="174" value="10"/>
 </OBJ>
-<OBJ id="40326" text="[%personlink#1] might look like an upgrade over what we had before at [%ownergoal position], but I don't see it. I know there were guys out there who could have helped.  All I asked was for you to bring in one of them.">
+<OBJ id="40326" text="[%personlink#1] 或許看起來比我們原本 [%ownergoal position] 的人選好，但我看不出來。我知道外面有幾個幫得上忙的人選，我要求的不過就是把其中一個帶進來。">
 <COND id="174" value="10"/>
 <COND id="177" value="0"/>
 </OBJ>
-<OBJ id="40806" text="Good work on upgrading our team's [%ownergoal position]. I hate seeing sub-par guys in the lineup so I'm glad you found an upgrade.">
+<OBJ id="40806" text="把球隊的 [%ownergoal position] 升級，做得好。我最討厭看到水準不足的球員待在打線裡，很高興你找到了更好的人。">
 <COND id="173" value="90"/>
 </OBJ>
-<OBJ id="40807" text="We've improved at [%ownergoal position]. Maybe not as much as I would have hoped for, but any improvement is still good.">
+<OBJ id="40807" text="我們在 [%ownergoal position] 上進步了。或許沒有我期待的那麼多，但有進步總是好事。">
 <COND id="173" value="50"/>
 <COND id="174" value="90"/>
 </OBJ>
-<OBJ id="40808" text="I guess I'll take our improvement at [%ownergoal position]. I really did hope for better, that we would actually manage to be a [%league topgroup] team at the position, though.">
+<OBJ id="40808" text="我想我就接受我們在 [%ownergoal position] 上的進步吧。不過我真的希望能更好，希望我們在那個位置上真的能擠進 [%league topgroup]。">
 <COND id="173" value="25"/>
 <COND id="174" value="60"/>
 </OBJ>
-<OBJ id="40809" text="I'm sorry, but I really don't see the upgrade I asked you for at [%ownergoal position]. I'd appreciate a better effort next time I ask things of you.">
+<OBJ id="40809" text="抱歉，我實在沒看到我要求的 [%ownergoal position] 升級。下次我交代事情時，希望能看到你更用心一些。">
 <COND id="174" value="30"/>
 </OBJ>
-<OBJ id="62825" text="You had faith in [%personlink#1] to become a top [%ownergoal fullposition], and your trust in [%personname L] will hopefully lead to many years of success.">
+<OBJ id="62825" text="你相信 [%personlink#1] 能成為頂尖的 [%ownergoal fullposition]，希望你對 [%personname L] 的信任，能換來往後許多年的成功。">
 <COND id="177" value="1"/>
 <COND id="173" value="100"/>
 </OBJ>
@@ -111670,61 +111670,61 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 </CAT>
 
 <CAT id="791">
-<OBJ id="40916" text="I told you that [%string#1] was important to shore up, and I'm thrilled that you accomplished that. Glad to see we ended up [%string#3] this year. Well done!">
+<OBJ id="40916" text="我跟你說過 [%string#1] 是必須補強的重點，而你辦到了，我非常高興。很高興看到我們今年以 [%string#3] 作收。做得好！">
 <COND id="173" value="100"/>
 </OBJ>
-<OBJ id="40917" text="I can see a marked improvement from last year in our [%string#1]. While not quite [%league topgroup] like I hoped for, I'm still happy that you have improved from your previous showing of [%string#2].">
+<OBJ id="40917" text="我看得出我們的 [%string#1] 比去年有明顯進步。雖然還沒到我期待的 [%league topgroup]，但比起你先前 [%string#2] 的表現已經改善，我還是很滿意。">
 <COND id="173" value="50"/>
 <COND id="174" value="99"/>
 </OBJ>
-<OBJ id="40918" text="There is improvement in our [%string#1], but I definitely hoped for more from you. Can you find a way to crack the [%league topgroup] next year?">
+<OBJ id="40918" text="我們的 [%string#1] 是有進步，但我對你的期待絕對更高。明年你有辦法擠進 [%league topgroup] 嗎？">
 <COND id="173" value="30"/>
 <COND id="174" value="70"/>
 <COND id="179" value="1"/>
 </OBJ>
-<OBJ id="40919" text="I told you to improve our [%string#1], but I meant for you to make a real effort to improve, ideally to a [%league topgroup] team. While, true, you did improve, I expect more from you.">
+<OBJ id="40919" text="我叫你改善我們的 [%string#1]，我的意思是要你真的下工夫去改善，最好能進到 [%league topgroup]。你確實有進步沒錯，但我對你的期待更高。">
 <COND id="173" value="10"/>
 <COND id="174" value="40"/>
 </OBJ>
-<OBJ id="40920" text="Maybe you missed my email about improving our pathetic [%string#1]? Or did you not understand what I was asking of you? At least, I hope this lack of effort was a mistake, and not you ignoring what I asked of you.">
+<OBJ id="40920" text="你是不是漏看了我那封要你改善我們慘不忍睹的 [%string#1] 的信？還是你根本沒聽懂我的要求？至少我希望這種不用心是個失誤，而不是你刻意無視我的交代。">
 <COND id="174" value="20"/>
 </OBJ>
-<OBJ id="40952" text="I can see we've improved our team [%string#1] a little, but I had still hoped for more. Finishing [%string#3] isn't bad, but it's not great either.">
+<OBJ id="40952" text="我看得出我們球隊的 [%string#1] 有進步了一點，但我原本還是期待更多。以 [%string#3] 作收不算差，但也稱不上好。">
 <COND id="173" value="30"/>
 <COND id="174" value="70"/>
 </OBJ>
-<OBJ id="63974" text="I was really hoping you would make a better effort in improving our [%string#1]? I know it's not always easy, but I think that's something that will help the team in the long run.">
+<OBJ id="63974" text="我真的很希望你能更用心改善我們的 [%string#1]。我知道這不見得容易，但長遠來看，我認為這對球隊會有幫助。">
 <COND id="174" value="30"/>
 </OBJ><!--
 <OBJ id="63975" text="Great work in improving our [%string#1]. That was important to shore up, and I'm thrilled that you accomplished that. Good Job!">
 <COND id="173" value="100"/>
 </OBJ>-->
-<OBJ id="63976" text="I can see a solid improvement from last year in our [%string#1]. While not quite [%league topgroup] like I hoped for, we've made strides in improving the team rank.">
+<OBJ id="63976" text="我看得出我們的 [%string#1] 比去年有扎實的進步。雖然還沒到我期待的 [%league topgroup]，但球隊排名確實往前推進了。">
 <COND id="173" value="60"/>
 <COND id="174" value="99"/>
 </OBJ>
 </CAT>
 
 <CAT id="792">
-<OBJ id="40912" text="So far so good with improving the team [%string#1]. I want to see how the rest of the season plays out, but I'm happy for the moment.">
+<OBJ id="40912" text="球隊 [%string#1] 的改善目前為止一切順利。我想看看剩下的球季怎麼發展，但現階段我很滿意。">
 <COND id="173" value="90"/>
 </OBJ>
-<OBJ id="40913" text="While pleased that we've improved to [%string#3] in [%string#1] so far, I was hoping to end the season at least [%league topgroup]. Do you think that's still possible?">
+<OBJ id="40913" text="我很高興我們的 [%string#1] 目前已經進步到 [%string#3]，但我原本希望球季結束時至少能進 [%league topgroup]。你覺得這還有可能嗎？">
 <COND id="173" value="50"/>
 <COND id="174" value="90"/>
 </OBJ>
-<OBJ id="40914" text="Our team [%string#1] has not improved as much as I would have liked from our poor performance last season. I hope you have a trick up your sleeve to get us, if not into the [%league topgroup], at least close to that by the end of the season.">
+<OBJ id="40914" text="比起上季糟糕的表現，我們球隊的 [%string#1] 進步得沒有我期待的多。希望你手上還有什麼法寶，就算進不了 [%league topgroup]，至少也要在球季結束時接近那個水準。">
 <COND id="173" value="20"/>
 <COND id="174" value="50"/>
 </OBJ>
-<OBJ id="40915" text="When I told you that I wanted to see you work on the team [%string#1], I meant, you know, to improve from last year. There's still time to improve, but I don't like your chances here.">
+<OBJ id="40915" text="我跟你說我想看到你在球隊的 [%string#1] 上下工夫時，意思是要比去年進步。現在還有時間改善，但我不太看好。">
 <COND id="174" value="20"/>
 </OBJ><!--
 <OBJ id="40921" text="I can't be upset with a team that's [%string#3] in [%string#1]. I hope that the team can keep up this pace the rest of the season.">
 <COND id="173" value="90"/>
 </OBJ>-->
 <OBJ id="40922">
-<TXT>Your current position of [%string#3] is certainly an improvement from our mark of [%string#2] when I first tasked you with improving our team's [%string#1], I'd like to see us improve even more in the second half of this season. Make that push and I'll be thrilled at the end of the season.</TXT>
+<TXT>我當初交代你改善球隊的 [%string#1] 時，我們是 [%string#2]，現在的 [%string#3] 確實是進步了。我希望下半季能再更進一步。只要你能推這一把，球季結束時我會非常高興。</TXT>
 <COND id="173" value="40"/>
 <COND id="174" value="80"/>
 </OBJ><!--
@@ -111740,38 +111740,38 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 </CAT>
 
 <CAT id="793">
-<OBJ id="40923" text="I know it's hard to talk extension early with some guys, but I was hoping that [%personlink f l] would have been an exception. Keep the dialog open with him and try to get him signed as soon as you can.">
+<OBJ id="40923" text="我知道有些球員很難提早談延長合約，但我原本希望 [%personlink f l] 會是個例外。跟他保持聯繫，盡快把他簽下來。">
 <COND id="179" value="1"/>
 <COND id="174" value="-1"/>
 </OBJ>
-<OBJ id="40924" text="Do you remember me telling you to get [%personlink f l] signed to an extension? It's not too late to get going on that. The earlier we lock him up the better it will be.">
+<OBJ id="40924" text="還記得我叫你把 [%personlink f l] 簽下延長合約嗎？現在著手還不算太晚。愈早把他綁住愈好。">
 <COND id="174" value="50"/>
 <COND id="179" value="0"/>
 <COND id="147" value="1"/>
 </OBJ>
-<OBJ id="40925" text="I thought I told you to lock up [%personlink f l] to an extension? He was a very popular player, resulting in a lot of jersey sales. I'm very upset that you let him leave.">
+<OBJ id="40925" text="我不是叫你把 [%personlink f l] 用延長合約綁住嗎？他人氣很高，球衣賣得很好。你就這樣讓他走，我非常不滿。">
 <COND id="147" value="0"/>
 <COND id="162" value="5"/>
 </OBJ>
-<OBJ id="40926" text="I thought I had made it clear that I wanted [%personlink f l] signed to an extension. He is a very talented player and I am very disappointed with your decision to part with him.">
+<OBJ id="40926" text="我以為我已經講得很清楚，我要 [%personlink f l] 簽下延長合約。他是位很有天分的球員，你決定放他走，讓我非常失望。">
 <COND id="147" value="0"/>
 <COND id="16" value="5"/>
 </OBJ>
-<OBJ id="40927" text="I told you to sign [%personlink f l] to an extension.  For some reason, you decided not to. I do give you the final say on player moves, but when I tell you a player is important to us, I expect you to listen.">
+<OBJ id="40927" text="我叫你跟 [%personlink f l] 簽延長合約，你不知為何決定不簽。球員異動的最終決定權我是給你了，但當我告訴你某個球員對我們很重要時，我希望你聽進去。">
 <COND id="147" value="0"/>
 </OBJ>
-<OBJ id="40928" text="Thank you for getting [%personlink f l] to ink an extension! The fans love him. If we were to let him go, we'd have to find something else to do with 'The [%personname F L] Zone' at [%ballpark].">
+<OBJ id="40928" text="謝謝你讓 [%personlink f l] 簽下延長合約！球迷很愛他。要是我們放他走，[%ballpark] 那個「[%personname F L] 專區」就得另外想用途了。">
 <COND id="173" value="90"/>
 <COND id="162" value="5"/>
 </OBJ>
-<OBJ id="40929" text="I appreciate your work in convincing [%personlink f l] to sign an extension. It's important to keep our top players, and I'm glad that you agree with me. He's really grown on me as a player.">
+<OBJ id="40929" text="感謝你努力說服 [%personlink f l] 簽下延長合約。留住我們的頂級球員很重要，很高興你和我看法一致。我對這名球員是愈看愈喜歡。">
 <COND id="173" value="90"/>
 </OBJ><!--
 <OBJ id="40936" text="Good work on getting the extension for [%personlink f l] so quickly. No point in delaying what we all knew was the right move.">
 <COND id="173" value="90"/>
 </OBJ>-->
 <OBJ id="40961">
-<TXT>I would appreciate it if you would actually listen to me when I tell you to re-sign a player. I feel like sometimes we don't show the proper loyalty to our players.  If we kept our veterans like [%personlink f l] around, I think we would have more respect around the rest of the league.</TXT>
+<TXT>當我告訴你要把某位球員留下來時，希望你真的能聽進去。我覺得我們有時候對自家球員不夠有情義。如果我們能把 [%personlink f l] 這樣的老將留住，我想我們在聯盟裡會更受尊敬。</TXT>
 <COND id="173" value="1"/>
 <COND id="174" value="1"/>
 </OBJ><!--
@@ -111782,37 +111782,37 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 </CAT>
 
 <CAT id="794">
-<OBJ id="40930" text="I expect a lot from you, but I'm not asking for miracles. I gave you some time to get [%personlink f l] signed to an extension, so give the talks another shot soon.">
+<OBJ id="40930" text="我對你的期待很高，但我沒有要你創造奇蹟。我給了你一段時間去把 [%personlink f l] 簽下延長合約，找個時間再談一次吧。">
 <COND id="179" value="1"/>
 <COND id="174" value="-1"/>
 </OBJ>
 <OBJ id="40931">
-<TXT>I know there's still a little time before players file for free agency, but I'm very disappointed that you didn't get [%personlink f l] signed to an extension. We've already begun developing next year's marketing plans, but with the status of [%personname l] still up in the air, we've had to put those plans on hold.</TXT>
+<TXT>我知道離球員投入自由市場還有一點時間，但你沒能把 [%personlink f l] 簽下延長合約，我非常失望。我們明年的行銷計畫都已經開始規劃了，但 [%personname l] 的狀況還懸而未決，那些計畫只好先擱著。</TXT>
 <COND id="147" value="1"/>
 <COND id="174" value="1"/>
 <COND id="173" value="1"/>
 </OBJ>
-<OBJ id="40932" text="I'm disappointed that you decided against signing [%personlink f l] to an extension. Did I not make it clear that this was more than a simple suggestion?">
+<OBJ id="40932" text="你決定不跟 [%personlink f l] 簽延長合約，讓我很失望。我不是已經講清楚了嗎，這可不只是單純的建議。">
 <COND id="147" value="0"/>
 <COND id="174" value="1"/>
 <COND id="173" value="1"/>
 </OBJ>
-<OBJ id="40933" text="I'm grateful that you've committed to [%personlink f l] for the near future. Jerseys with his name sell great. I'm happy that we both agreed on his importance to our team.">
+<OBJ id="40933" text="很感謝你在短期內把 [%personlink f l] 綁住了。印他名字的球衣賣得非常好。很高興我們都認同他對球隊的重要性。">
 <COND id="173" value="90"/>
 <COND id="162" value="5"/>
 </OBJ>
-<OBJ id="40934" text="Getting [%personlink f l] locked up long-term was important for me. I'm glad that you agreed with me on that point.">
+<OBJ id="40934" text="把 [%personlink f l] 長期綁住對我來說很重要。很高興你在這一點上和我看法一致。">
 <COND id="173" value="90"/>
 </OBJ>
-<OBJ id="40935" text="Thank you for locking up [%personlink f l]. Quality players are hard to find, so we have to do everything we can to keep the ones we have.">
+<OBJ id="40935" text="謝謝你把 [%personlink f l] 綁住。好球員難尋，所以我們得竭盡所能留住手上的人。">
 <COND id="173" value="90"/>
 <COND id="16" value="5"/>
 </OBJ>
-<OBJ id="40937" text="I'm disappointed that you decided against committing long-term to [%personlink f l]. I don't expect us to see eye to eye on every point with this team, but I definitely thought we did on his value to our team.">
+<OBJ id="40937" text="你決定不對 [%personlink f l] 做長期承諾，讓我很失望。我不指望我們在球隊的每件事上都看法一致，但關於他對球隊的價值，我原本以為我們是有共識的。">
 <COND id="173" value="1"/>
 <COND id="174" value="1"/>
 </OBJ>
-<OBJ id="40953" text="It's not easy to lock up a guy who doesn't want to talk. Keep the discussions open with [%personlink f l].">
+<OBJ id="40953" text="要綁住一個不願意談的人並不容易。跟 [%personlink f l] 保持溝通。">
 <COND id="174" value="-1"/>
 </OBJ><!--
 <OBJ id="45378" text="[%personlink f l] is a huge part of this team: his skill on the field is immense and our team really benefits because of him. I'm pleased that you were able to sign him and maintain our high standards.">
@@ -111836,37 +111836,37 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 </CAT>
 
 <CAT id="795">
-<OBJ id="40954" text="I love having people who rush out when I ask something of them. I'm thrilled that you brought in a [%string#1], and I think [%personlink f l] will be a great player for us for the near future.">
+<OBJ id="40954" text="我最喜歡我一開口就立刻去辦的人了。你把 [%string#1] 帶進來，讓我非常高興，我認為 [%personlink f l] 在短期內會是我們的一大戰力。">
 <COND id="173" value="90"/>
 </OBJ><!--
 <OBJ id="40955" text="Thanks for your quick work in acquiring [%personlink f l]. Now that I think about it, when I asked you for a [%string#1], I think I had his face in my mind the whole time.">
 <COND id="173" value="90"/>
 </OBJ>-->
 <OBJ id="40956">
-<TXT>I see you did listen when I asked you to bring in a [%string#1]. While [%personlink f l] may not be exactly who I had in mind, he's close enough. Still, I know there are guys out there who look more like what I asked for, so I'd suggest you still keep your eyes open. That said, I'm not upset with [%personname L].</TXT>
+<TXT>看來我要你帶一位 [%string#1] 進來時，你確實有聽進去。[%personlink f l] 或許不完全是我心裡想的那個人，但已經夠接近了。不過我知道外面還有更符合我要求的人選，所以建議你繼續留意。話說回來，我對 [%personname L] 沒有不滿。</TXT>
 <COND id="173" value="60"/>
 <COND id="174" value="90"/>
 </OBJ>
-<OBJ id="40957" text="I asked you to bring in a [%string#1]. I can understand how you might think that [%personlink f l] fits the bill, but I have to respectfully disagree. Keep the search going.">
+<OBJ id="40957" text="我要你帶一位 [%string#1] 進來。我可以理解你為什麼認為 [%personlink f l] 符合條件，但恕我不能同意。請繼續找。">
 <COND id="173" value="30"/>
 <COND id="174" value="70"/>
 </OBJ>
-<OBJ id="40958" text="Did you think that sneaking in [%personlink f l] would appease me in my request to bring in a [%string#1]? I guess he's better than nobody, but I strongly suggest you keep working the phones.">
+<OBJ id="40958" text="你以為偷偷塞個 [%personlink f l] 進來，就能打發我要一位 [%string#1] 的要求嗎？我想他是比沒有好啦，但我強烈建議你繼續打電話去談。">
 <COND id="174" value="40"/>
 <COND id="173" value="10"/>
 </OBJ>
-<OBJ id="40959" text="Let me say this again: Bring in a [%string#1]. I look at the roster now, and I can only assume that you didn't hear me when I told you this the first time. I do not like to be ignored!">
+<OBJ id="40959" text="我再說一次：帶一位 [%string#1] 進來。我現在看著名單，只能假設我第一次講的時候你沒聽見。我很不喜歡被無視！">
 <COND id="174" value="10"/>
 </OBJ><!--
 <OBJ id="40960">
 <TXT>I love it when you put in effort to satisfy the goals I set out for you. That's why it's so disappointing to see you completely ignoring my request to acquire a [%string#1]. Make an effort to reach this goal, or the next thing you may need to do is update your CV.</TXT>
 <COND id="174" value="10"/>
 </OBJ>-->
-<OBJ id="45406" text="I asked you at the beginning of the season to improve the team at [%string#1]. So far, you haven't made any progress. I hope you'll keep looking. I think a new [%string#1] is just what this team needs to turn the corner.">
+<OBJ id="45406" text="我在球季一開始就要你補強球隊的 [%string#1]。到目前為止，你毫無進展。希望你繼續找。我認為一位新的 [%string#1] 正是這支球隊突破瓶頸所需要的。">
 <COND id="173" value="1"/>
 <COND id="174" value="20"/>
 </OBJ>
-<OBJ id="45408" text="I'll give you credit. When I asked you to upgrade the team at [%string#1], you listened. [%personlink f l] was a nice addition to our club. But I still think you can do better. Keep working those phones to see what other moves you can make.">
+<OBJ id="45408" text="這點我得肯定你。我要你補強球隊的 [%string#1] 時，你有聽進去。[%personlink f l] 是支很好的生力軍。但我還是認為你可以做得更好。繼續打電話去談，看看還能做出什麼操作。">
 <COND id="173" value="40"/>
 <COND id="174" value="65"/>
 </OBJ><!--
@@ -111879,26 +111879,26 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 </CAT>
 
 <CAT id="796">
-<OBJ id="40945" text="Thank you for bringing in [%personlink f l]. When I told you I wanted a [%string#1], I knew you were not going to let me down.">
+<OBJ id="40945" text="謝謝你把 [%personlink f l] 帶進來。當我說我要一位 [%string#1] 時，我就知道你不會讓我失望。">
 <COND id="173" value="100"/>
 </OBJ><!--
 <OBJ id="40946" text="Great work in acquiring [%personlink f l]! When I told you I wanted a [%string#1], I wasn't sure you were going to find someone to fit the bill, but I'm glad you did.">
 <COND id="173" value="100"/>
 </OBJ>-->
-<OBJ id="40947" text="I know you worked hard to find a [%string#1], and I definitely appreciate the effort. [%personlink f l] may not be the perfect player that fits the bill, but he's darned close to it and I can't be too upset about bringing him in.">
+<OBJ id="40947" text="我知道你為了找到 [%string#1] 費了很大的工夫，這份努力我絕對感謝。[%personlink f l] 或許不是完全符合條件的完美人選，但已經非常接近，把他帶進來我實在沒什麼好不滿的。">
 <COND id="173" value="60"/>
 <COND id="174" value="99"/>
 </OBJ>
 <OBJ id="40948">
-<TXT>I appreciate that you tried to find a [%string#1] to satisfy my demands, but I really don't think [%personlink f l] fits the bill. I know my requests may seem random at times, but I would still like for you to try harder. I'd have to squint really hard to even consider [%personname L] a pass for this request.</TXT>
+<TXT>我很感謝你試著找一位 [%string#1] 來滿足我的要求，但我真的不覺得 [%personlink f l] 符合條件。我知道我的要求有時候看起來很隨興，但我還是希望你能更努力一點。要把 [%personname L] 算成過關，我得瞇著眼睛硬看才行。</TXT>
 <COND id="174" value="60"/>
 <COND id="173" value="10"/>
 </OBJ>
-<OBJ id="40949" text="I was really hoping that a [%string#1] would help us out, both on the field and on the balance sheets, going forward. [%personlink f l] may not be exactly who I had in mind, but you could have done worse, I guess.">
+<OBJ id="40949" text="我原本真的希望一位 [%string#1] 能在場上和帳面上都幫上我們。[%personlink f l] 或許不完全是我心裡想的那個人，但我想結果也可能更糟。">
 <COND id="174" value="70"/>
 <COND id="173" value="30"/>
 </OBJ>
-<OBJ id="40950" text="I know it was a challenge to find a [%string#1], but could not find one player who fit the criteria? I mean, I look through the roster and I can't even find someone close to what I asked for. Did you not understand what I asked of you?">
+<OBJ id="40950" text="我知道要找到一位 [%string#1] 是個挑戰，但難道連一個符合條件的球員都找不到嗎？我是說，我翻遍名單，連一個接近我要求的人都找不到。你是沒聽懂我的要求嗎？">
 <COND id="174" value="10"/>
 </OBJ><!--
 <OBJ id="40951" text="I know I don't always give easy goals, but I expect some effort for the ones I give. I can't find anyone who comes close to what I asked for in a [%string#1]. You can't ignore my requests to you and expect to avoid consequences.">
@@ -111933,7 +111933,7 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <OBJ id="45366" text="You hit it right on the head with [%personlink f l]! He's just about the best [%string#1] I could have hoped for. I'm looking forward to seeing him take the field for us.">
 <COND id="173" value="100"/>
 </OBJ>-->
-<OBJ id="45404" text="When I asked you to find a better [%string#1], I didn't have  [%personlink f l] in mind. He's not bad, but I was hoping for a slightly better upgrade. Don't be afraid to keep looking.">
+<OBJ id="45404" text="我要你找一位更好的 [%string#1] 時，心裡想的可不是 [%personlink f l]。他不差，但我希望的升級幅度再大一點。別怕，繼續找下去。">
 <COND id="173" value="50"/>
 <COND id="174" value="99"/>
 </OBJ><!--
@@ -111950,7 +111950,7 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <OBJ id="45533" text="When I asked for your to [%string#1], you made it happen by bringing in [%personlink f l].  That's the type of cause and effect I love to see from my staff.">
 <COND id="173" value="100"/>
 </OBJ>-->
-<OBJ id="45534" text="Looks like you forgot all about searching for a [%string#1].  Good thing I'm not the owner of the ball club -- and your boss -- or I'd be incredibly angry...">
+<OBJ id="45534" text="看來你把找一位 [%string#1] 這件事忘得一乾二淨了。還好我不是這支球隊的老闆——也不是你的上司——不然我大概會氣炸……">
 <COND id="174" value="20"/>
 <COND id="173" value="1"/>
 </OBJ><!--
@@ -111958,7 +111958,7 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <COND id="174" value="20"/>
 <COND id="173" value="1"/>
 </OBJ>-->
-<OBJ id="45536" text="Well, you have figured out a great way to disappoint your boss and the owner of a popular baseball team.  I wish you really would have worked harder when I asked you to bring in a [%string#1].">
+<OBJ id="45536" text="好啊，你成功找到了一個讓上司兼人氣球隊老闆失望的好方法。我真希望我要你帶一位 [%string#1] 進來時，你能更努力一點。">
 <COND id="174" value="25"/>
 <COND id="173" value="1"/>
 </OBJ><!--
@@ -111975,71 +111975,71 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 
 <CAT id="798">
 <OBJ id="40965">
-<TXT>I'm very disappointed in your progress, or lack thereof, in increasing the number of fans in the seats at our games. I know while the season is going on there's not much you can do to change things, but start thinking about how to increase the numbers for next year.</TXT>
+<TXT>你在增加進場球迷人數上的進展——或者說毫無進展——讓我非常失望。我知道球季進行中你能改變的不多，但開始想想明年要怎麼把數字拉上來。</TXT>
 <COND id="174" value="10"/>
 <COND id="179" value="1"/>
 </OBJ>
 <OBJ id="40966">
-<TXT>It's quite disappointing to not see any increase in our fans since I tasked you to improve that, back in [%ownergoal issueyear]. Unless if you have some magic trick to fix things the second half of the year, I'll have no choice but to mark this as an unconditional fail.</TXT>
+<TXT>自從我在 [%ownergoal issueyear] 交代你改善之後，球迷人數完全沒有增加，這相當令人失望。除非你在下半季有什麼魔法能扭轉局面，否則我只能把這一項標為徹底失敗。</TXT>
 <COND id="174" value="20"/>
 <COND id="179" value="0"/>
 </OBJ>
-<OBJ id="40967" text="I know you can get distracted with the team on-field, but don't forget about &quot;The 10th man&quot;. I don't expect wonders from you the second half of this year, but make an effort for next season to get more fans to the [%ballpark].">
+<OBJ id="40967" text="我知道你可能被場上的事情分心，但別忘了「第十人」。我不指望你在今年下半季創造奇蹟，但請為明年多花點心思，把更多球迷帶進 [%ballpark]。">
 <COND id="174" value="30"/>
 <COND id="179" value="0"/>
 </OBJ>
 <OBJ id="40968">
-<TXT>I know attendance can pick up later in the season, but I wouldn't expect any late season surge to be enough to make up for the lackluster showing seen so far this year. I'll hold out some hope that you have an ace up your sleeve, but I don't like your chances.</TXT>
+<TXT>我知道進場人數在球季後段可能會回升，但我不認為後段的成長足以彌補今年到目前為止的慘澹表現。我還是抱著一點希望，期待你手上有什麼王牌，但我不太看好。</TXT>
 <COND id="174" value="40"/>
 <COND id="179" value="0"/>
 </OBJ>
-<OBJ id="40969" text="I'm not asking for sold out crowds every game, but we need to see more fans than we have been. I know we're up slightly from [%ownergoal issueyear], but we still have a way to go to reach the target I set for you.">
+<OBJ id="40969" text="我不是要求每場都座無虛席，但我們需要看到比現在更多的球迷。我知道比起 [%ownergoal issueyear] 是略有成長，但離我替你設下的目標還有一段距離。">
 <COND id="173" value="10"/>
 <COND id="174" value="60"/>
 </OBJ>
 <OBJ id="40970">
-<TXT>I'd love to see [%ballpark] full every day, but I am a realist as well. I don't think I set out too tough of a goal for you to increase the attendance. Start thinking now of things that you can change to help out the numbers for the rest of this year and the years to come.</TXT>
+<TXT>我很希望 [%ballpark] 每天都客滿，但我也是務實的人。我不認為我設的進場人數成長目標有多困難。現在就開始想想，有什麼可以改變的地方，能幫今年剩下的球季以及往後幾年把數字拉上來。</TXT>
 <COND id="179" value="0"/>
 <COND id="173" value="10"/>
 <COND id="174" value="70"/>
 </OBJ>
 <OBJ id="40971">
-<TXT>I can't say I'm too disappointed with the increase of attendance so far. I know things can pick up in the second half as well. You may not complete this goal this year, but if we can get a few more families out I have faith that you'll get to my target on time.</TXT>
+<TXT>對目前進場人數的成長，我不能說有多失望。我知道下半季情況也可能好轉。你今年或許完成不了這個目標，但只要我們能多請幾個家庭出門看球，我相信你會準時達成我的目標。</TXT>
 <COND id="173" value="30"/>
 <COND id="174" value="80"/>
 <COND id="179" value="1"/>
 </OBJ>
-<OBJ id="40972" text="I'm certainly glad to see more fans coming out to [%ballpark]. Whether it will be enough to mark this goal as a full pass at the end of the season remains to be seen, but I'm not disappointed right now.">
+<OBJ id="40972" text="看到更多球迷走進 [%ballpark]，我當然很高興。這樣夠不夠讓我在球季結束時把這個目標標為完全達成還很難說，但我現在並不失望。">
 <COND id="173" value="40"/>
 <COND id="174" value="80"/>
 <COND id="179" value="0"/>
 </OBJ>
 <OBJ id="40973">
-<TXT>I love the increase in attendance we've seen. The number of families making their way out to [%ballpark] that have never come to a game previous years is truly exciting. Make sure the team can pick up a good number of wins down the stretch, and I have little doubt that you'll complete this goal.</TXT>
+<TXT>我非常喜歡看到進場人數成長。那些過去幾年從沒來看過球、如今走進 [%ballpark] 的家庭，數量真的令人振奮。只要球隊在球季尾聲能多拿下一些勝場，我幾乎不懷疑你會完成這個目標。</TXT>
 <COND id="173" value="80"/>
 </OBJ>
-<OBJ id="40974" text="I love seeing happy families at games, and we're certainly seeing a lot more of them this year than we have in the past. Keep them coming out and I'll keep being happy with your work.">
+<OBJ id="40974" text="我喜歡在球場看到開心的家庭，而今年這樣的畫面確實比過去多了很多。繼續請他們進場，我就會繼續對你的工作感到滿意。">
 <COND id="173" value="70"/>
 </OBJ>
-<OBJ id="40975" text="All I can say is, &quot;Wow&quot;. You're well on track to completing this goal. Try to make sure the fans keep having a reason to come out to the park, and you'll keep getting praise from me.">
+<OBJ id="40975" text="我只能說「哇」。你正穩穩朝著完成這個目標前進。設法讓球迷持續有理由走進球場，我對你的讚美就不會停。">
 <COND id="173" value="100"/>
 </OBJ>
-<OBJ id="41056" text="Attendance is increasing. That's always a good sign. Keep looking at more ways to get fans to the ballpark and I still have faith that you'll complete this goal on time.">
+<OBJ id="41056" text="進場人數正在增加，這永遠是個好兆頭。繼續尋找把球迷帶進球場的方法，我仍然相信你會準時完成這個目標。">
 <COND id="173" value="30"/>
 <COND id="174" value="70"/>
 <COND id="179" value="1"/>
 </OBJ>
-<OBJ id="41057" text="I know I gave you some time to complete this goal, but I was hoping to see [%ballpark] fuller than it is now. Continue working to increasing attendance.">
+<OBJ id="41057" text="我知道我給了你一些時間來完成這個目標，但我原本希望 [%ballpark] 能比現在更滿一些。請繼續努力提升進場人數。">
 <COND id="173" value="10"/>
 <COND id="174" value="30"/>
 <COND id="179" value="1"/>
 </OBJ>
-<OBJ id="41058" text="There's a noticeably better atmosphere at [%ballpark] than there was previously. I can see you've worked at this goal, but you're not there yet. Keep looking for new ways to draw fans in to the games.">
+<OBJ id="41058" text="[%ballpark] 的氣氛明顯比以前好多了。我看得出你在這個目標上下了工夫，但還沒到位。繼續尋找吸引球迷進場的新方法。">
 <COND id="173" value="40"/>
 <COND id="174" value="80"/>
 <COND id="179" value="1"/>
 </OBJ>
-<OBJ id="41059" text="Fans are showing up to games, and that's a good thing. Never stop looking for ways to drive more people to the games, as everyone I've talked to has had good things to say about the crowds we've seen this season.">
+<OBJ id="41059" text="球迷正在走進球場，這是好事。永遠別停止尋找把更多人帶進球場的方法，因為我談過的每個人，對今年球場的觀眾席都讚不絕口。">
 <COND id="173" value="30"/>
 <COND id="174" value="80"/>
 </OBJ>
@@ -112047,19 +112047,19 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 
 <CAT id="799">
 <OBJ id="40976">
-<TXT>When I asked you to find ways to increase attendance, and gave you a few years, I did say I didn't expect increases over-night. However, that doesn't mean you can ignore my request until the last minute. Better see some increase in attendance next year or there might be one more seat at the stadium to fill, yours.</TXT>
+<TXT>我請你想辦法提升進場人數，也給了你幾年時間，我確實說過我不指望一夜之間就有成長。但這不代表你可以拖到最後一刻才理會我的要求。明年最好看到進場人數有所成長，否則球場可能會多出一個要填的位子——你的位子。</TXT>
 <COND id="174" value="1"/>
 <COND id="179" value="1"/>
 </OBJ>
-<OBJ id="40977" text="I gave a goal to increase attendance over what we had in [%ownergoal issueyear], and you have failed at that. That's really all that I can say about this. I truly expected better from you.">
+<OBJ id="40977" text="我設下的目標是進場人數要超過 [%ownergoal issueyear]，而你失敗了。關於這件事我也只能這麼說。我對你的期待真的更高。">
 <COND id="174" value="30"/>
 <COND id="179" value="0"/>
 </OBJ>
-<OBJ id="40978" text="I had to go back over my records to make sure the numbers weren't reversed, but we're drawn less this year than in [%ownergoal issueyear]. That's completely unacceptable, especially when I explicitly tell you to find a way to get more fans into the seats.">
+<OBJ id="40978" text="我還特地回頭翻了紀錄，確認數字沒有寫反，結果我們今年的進場人數比 [%ownergoal issueyear] 還少。這完全不能接受，尤其我明明白白交代過你要想辦法把更多球迷請進座位。">
 <COND id="174" value="1"/>
 <COND id="179" value="0"/>
 </OBJ>
-<OBJ id="40979" text="I understand that you have a lot to handle, but I told you to increase attendance. Take a few minutes to figure out why we're not seeing the increases I expect of us.">
+<OBJ id="40979" text="我理解你要處理的事情很多，但我交代過你要提升進場人數。花幾分鐘想一想，為什麼我們沒有看到我期待的成長。">
 <COND id="174" value="30"/>
 <COND id="179" value="1"/>
 </OBJ><!--
@@ -112068,53 +112068,53 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <COND id="179" value="1"/>
 </OBJ>-->
 <OBJ id="40981">
-<TXT>When I compare our attendance with [%ownergoal issueyear], it's certainly up. And I know I told you I didn't need a full stadium to be happy with your performance, but I have to say I'm disappointed with the results seen. I don't think my task was that hard.</TXT>
+<TXT>拿我們的進場人數跟 [%ownergoal issueyear] 相比，確實是成長了。我也知道我說過不需要滿場才能對你的表現滿意，但我必須說，我對這樣的結果很失望。我不認為我交代的任務有那麼難。</TXT>
 <COND id="173" value="10"/>
 <COND id="174" value="50"/>
 <COND id="179" value="0"/>
 </OBJ>
-<OBJ id="40982" text="My pride in the [%team#1nickname] is hurt when I see attendance numbers like we had this year. Attendance isn't everything, but having more fans in to enjoy games at [%ballpark] is important for me, and you let me down.">
+<OBJ id="40982" text="看到今年這樣的進場人數，我對 [%team#1nickname] 的驕傲受了傷。進場人數不是一切，但讓更多球迷進 [%ballpark] 享受比賽對我很重要，而你讓我失望了。">
 <COND id="174" value="1"/>
 </OBJ>
 <OBJ id="40983">
-<TXT>I appreciate your work so far getting more fans into the seats. But there's still some work to do to complete my goal. Have you thought about trying to bring a popular player on to the roster? Fans love a star, and I know that's good for a least a few more families each game.</TXT>
+<TXT>感謝你到目前為止在把更多球迷請進座位上的努力。但要完成我的目標還有些工作要做。你有沒有想過把一位人氣球員帶進名單？球迷愛明星，我知道那至少每場能多帶來幾個家庭。</TXT>
 <COND id="173" value="30"/>
 <COND id="174" value="70"/>
 <COND id="179" value="1"/>
 </OBJ>
-<OBJ id="40984" text="The numbers are definitely up from [%ownergoal issueyear]. But still not quite to my targets. Really, the best way to get fans to game is to win games. Have you tried that?">
+<OBJ id="40984" text="數字比起 [%ownergoal issueyear] 確實成長了，但還沒完全達到我的目標。說真的，把球迷帶進球場最好的方法就是贏球。你試過嗎？">
 <COND id="173" value="30"/>
 <COND id="174" value="70"/>
 <COND id="179" value="1"/>
 <COND id="164" value="525"/>
 </OBJ>
 <OBJ id="40985">
-<TXT>I'm seeing progress, but you're not out of the woods yet. I encourage you to review our ticket price in the off-season. High ticket prices can drive more fans away from games than you think. Don't go slashing prices, but a small price cut could help bring more families to games.</TXT>
+<TXT>我看到進展了，但你還沒脫離險境。我建議你在休賽季重新檢視我們的票價。票價太高把球迷趕跑的程度，比你想的還嚴重。不用大砍價格，但小幅調降或許能把更多家庭帶進球場。</TXT>
 <COND id="173" value="30"/>
 <COND id="174" value="70"/>
 </OBJ>
-<OBJ id="40986" text="Attendance numbers look fantastic. I guess I obviously gave you too much time to complete this task. Well done!">
+<OBJ id="40986" text="進場人數的數字非常漂亮。看來我給你完成這個任務的時間顯然太多了。做得好！">
 <COND id="173" value="100"/>
 <COND id="179" value="1"/>
 </OBJ>
-<OBJ id="40987" text="Attendance is looking great. I'm seeing a lot of smiling families at the park this year. Keep up the good work!">
+<OBJ id="40987" text="進場人數看起來很棒。今年我在球場看到很多面帶笑容的家庭。繼續保持！">
 <COND id="173" value="70"/>
 <COND id="179" value="1"/>
 </OBJ>
-<OBJ id="40988" text="Excellent work! You know, I wasn't sold on your work up to now, but seeing you put in all the extra work to get our attendance numbers up, like I asked you to, just re-affirms that you're the right person for this organization.">
+<OBJ id="40988" text="做得太好了！你知道嗎，我到目前為止對你的工作還沒完全買帳，但看到你照我的要求，額外下了這麼多工夫把進場人數拉上來，這又再次確認了你就是這個球團要的人。">
 <COND id="173" value="100"/>
 </OBJ>
-<OBJ id="40989" text="I had to go back through my messages to see what goal I had set for attendance. I see that we're almost there. Keep up the good work and I have little doubt that you'll complete this goal next year.">
+<OBJ id="40989" text="我還得回頭翻我的訊息，才想起我替進場人數設了什麼目標。我看到我們已經很接近了。繼續保持，我幾乎不懷疑你明年會完成這個目標。">
 <COND id="173" value="70"/>
 <COND id="174" value="99"/>
 <COND id="179" value="1"/>
 </OBJ>
-<OBJ id="40990" text="I know I gave you a tough task to increase attendance, and you did come close to it. Well done.">
+<OBJ id="40990" text="我知道我交給你提升進場人數這個艱難的任務，而你確實很接近了。做得好。">
 <COND id="173" value="70"/>
 <COND id="174" value="99"/>
 <COND id="179" value="0"/>
 </OBJ>
-<OBJ id="40991" text="I would have liked to see just a couple more fans in the seats to be able to mark your progress as a full pass, but I'm still happy with your performance in getting more families out to [%ballpark].">
+<OBJ id="40991" text="要把你的進度標成完全達成，我希望座位上能再多幾位球迷；不過對於你把更多家庭帶進 [%ballpark] 的表現，我還是很滿意。">
 <COND id="173" value="70"/>
 <COND id="174" value="99"/>
 </OBJ><!--
@@ -112125,31 +112125,31 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 </CAT>
 
 <CAT id="800">
-<OBJ id="41001" text="The team payroll is looking good. Keep it down the rest of the way and I'll be very happy.">
+<OBJ id="41001" text="球隊的薪資總額看起來不錯。剩下的時間繼續壓住，我會非常滿意。">
 <COND id="173" value="100"/>
 </OBJ>
-<OBJ id="41002" text="I know it was a challenge to trim payroll, but I'm thrilled that you've followed through. The fact that you did it while keeping the team winning games is even more impressive.">
+<OBJ id="41002" text="我知道要削減薪資總額是個挑戰，很高興你貫徹到底了。而且你還一邊維持球隊的勝場，這更令人佩服。">
 <COND id="173" value="100"/>
 <COND id="163" value="535"/>
 </OBJ>
-<OBJ id="41003" text="I can see the payroll is down from last year. If you can even cut a tiny bit more, I'll be happy at the end of the year.">
+<OBJ id="41003" text="我看得出薪資總額比去年降低了。只要你能再多砍一點點，年底我就會很滿意。">
 <COND id="173" value="60"/>
 <COND id="174" value="99"/>
 </OBJ>
-<OBJ id="41004" text="You've made an effort to trim payroll. Is there anywhere you can trim a little bit more to get to my target?">
+<OBJ id="41004" text="你已經努力削減了薪資總額。還有哪裡可以再省一點，好達到我的目標？">
 <COND id="173" value="30"/>
 <COND id="174" value="70"/>
 </OBJ>
-<OBJ id="41005" text="Payroll is down, which is good. You still have over a year to trim more, so keep looking for ways to save money.">
+<OBJ id="41005" text="薪資總額下降了，這是好事。你還有一年多的時間可以再砍，繼續找找有什麼省錢的方法。">
 <COND id="173" value="30"/>
 <COND id="174" value="80"/>
 <COND id="179" value="1"/>
 </OBJ>
-<OBJ id="41007" text="I can see that payroll is down a little bit, but not by very much. I'm trying to figure out if this is because you actually tried to follow my instructions and didn't do a very good job, or if you ignored me and just got lucky.">
+<OBJ id="41007" text="我看得出薪資總額是降了一點，但幅度不大。我還在想，這究竟是你真的照我的指示去做卻做得不太好，還是你根本沒理我，只是運氣好。">
 <COND id="173" value="10"/>
 <COND id="174" value="40"/>
 </OBJ>
-<OBJ id="41009" text="Payroll is up, apparently. I would sure love an explanation for why you are completely ignoring my instructions. If you can't manage the team finances, do I need to look for someone who can?">
+<OBJ id="41009" text="看來薪資總額還上升了。我真希望你解釋一下，為什麼完全無視我的指示。如果你管不好球隊的財務，我是不是該去找個管得好的人？">
 <COND id="174" value="10"/>
 </OBJ><!--
 <OBJ id="45375" text="When I said I wanted you to cut the payroll, I meant in the foreseeable future. The current state of our finances just isn't cutting it. For your sake, I hope you can rein in our spending.">
@@ -112159,44 +112159,44 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 </CAT>
 
 <CAT id="801">
-<OBJ id="41010" text="Thanks for trimming payroll. I know it must not have been easy to shave [%string#1], but I hope you'll agree it's for the best. You did the right thing in listening to my demands.">
+<OBJ id="41010" text="謝謝你削減薪資總額。我知道要砍掉 [%string#1] 一定不容易，但我希望你同意這樣做最好。你聽進我的要求，做了正確的決定。">
 <COND id="173" value="100"/>
 </OBJ>
-<OBJ id="41011" text="Not only did you trim payroll, but you did it while still making the playoffs. Well done!">
+<OBJ id="41011" text="你不但削減了薪資總額，還同時打進了季後賽。做得好！">
 <COND id="173" value="100"/>
 <COND id="176" value="1"/>
 </OBJ>
-<OBJ id="41012" text="Payroll down? Check. [%leaguefinals] win? Check. Need I say more?">
+<OBJ id="41012" text="薪資總額下降？有。[%leaguefinals] 奪冠？有。我還需要說什麼嗎？">
 <COND id="173" value="100"/>
 <COND id="176" value="2"/>
 </OBJ>
-<OBJ id="41013" text="I can see the payroll was down this year compared to last year. Maybe not quite as much as I had expected, but still some substantial savings, nonetheless. I'm happy with your effort here.">
+<OBJ id="41013" text="我看得出今年的薪資總額比去年低。或許沒有我預期的那麼多，但仍然省下了可觀的金額。你在這方面的努力我很滿意。">
 <COND id="173" value="70"/>
 <COND id="174" value="99"/>
 </OBJ>
-<OBJ id="41014" text="Payroll is down compared to last season. Not quite to the level that I gave you in the goal, but that's why I gave you a couple seasons to accomplish the task, right?">
+<OBJ id="41014" text="薪資總額比上季低了。還沒達到我在目標裡設下的水準，不過我就是因為這樣才給你好幾季的時間去完成，對吧？">
 <COND id="173" value="40"/>
 <COND id="174" value="80"/>
 <COND id="179" value="1"/>
 </OBJ>
-<OBJ id="41015" text="I think I was expecting a larger cut in payroll than what you gave this year. Don't get me wrong, [%string#1] is still a solid reduction that I appreciate, but not quite to the level I had hoped for.">
+<OBJ id="41015" text="我原本預期的削減幅度比你今年做到的更大。別誤會，[%string#1] 仍是很扎實的縮減，我很感謝，只是還沒到我期待的程度。">
 <COND id="173" value="40"/>
 <COND id="174" value="70"/>
 <COND id="179" value="0"/>
 </OBJ>
-<OBJ id="41016" text="Payroll is down a little, but not much. Make a better effort this off-season and hope that I'll be happier with your performance next year.">
+<OBJ id="41016" text="薪資總額是降了一點，但不多。這個休賽季請更用心一些，希望明年我能對你的表現更滿意。">
 <COND id="173" value="10"/>
 <COND id="174" value="40"/>
 <COND id="179" value="1"/>
 </OBJ>
-<OBJ id="41017" text="Payroll is down a little from last year, but I did expect better from you. I know it's very hard to both cut payroll and win games, but I thought that you were capable of doing that. I guess I was wrong.">
+<OBJ id="41017" text="薪資總額比去年降了一點，但我對你的期待更高。我知道一邊砍薪資一邊贏球非常困難，但我原以為你辦得到。看來我錯了。">
 <COND id="173" value="10"/>
 <COND id="174" value="40"/>
 </OBJ>
-<OBJ id="41018" text="I asked you to cut payroll, but when I run the numbers, we ended up spending more this year than last year! If you can't follow instructions, do I need to find someone else who can?">
+<OBJ id="41018" text="我要你削減薪資總額，結果我一算，我們今年花的還比去年多！如果你沒辦法照指示做，我是不是該去找個做得到的人？">
 <COND id="174" value="10"/>
 </OBJ>
-<OBJ id="41019" text="Wins are good, yes, but paying attention to what I ask of you is important as well. You can't expect to ignore my instructions and expect to avoid any consequences.">
+<OBJ id="41019" text="贏球是好事沒錯，但注意聽我交代的事情也很重要。你不能無視我的指示，還指望不必承擔任何後果。">
 <COND id="174" value="1"/>
 <COND id="171" value="4"/>
 </OBJ>
@@ -112204,62 +112204,62 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 
 <CAT id="802">
 <OBJ id="41025">
-<TXT>I am not pleased with your payroll management. I told you I would like to bank some money, and by my current estimates, you're projected to end up worse this year than when I gave you the goal! If you can't manage money, I don't know why I keep you around.</TXT>
+<TXT>我對你的薪資管理很不滿意。我跟你說過我想存下一些錢，而照我目前的估算，你今年的結果會比我交付目標時還糟！如果你不會理財，我實在不知道為什麼還要留你。</TXT>
 <COND id="174" value="1"/>
 </OBJ>
-<OBJ id="41026" text="By my estimates, our fiscal balance is not in good shape. I asked you to get more money in the bank, and I don't see right now where that extra money will come from.">
+<OBJ id="41026" text="照我的估算，我們的財務狀況並不健康。我要你多存一點錢進銀行，而我現在看不出那筆多出來的錢要從哪裡來。">
 <COND id="174" value="10"/>
 </OBJ>
-<OBJ id="41027" text="I know you can't completely turn around the fiscal performance of the club overnight, but I expect some progress. I don't see any improvement in cash flow from the past.">
+<OBJ id="41027" text="我知道你沒辦法一夜之間就把球團的財務表現完全扭轉，但我期待看到一些進展。我沒看到現金流比過去有任何改善。">
 <COND id="174" value="20"/>
 </OBJ>
-<OBJ id="41028" text="Well, we don't seem to be quite in bad of a shape as when I gave you this goal. There's still more that you can cut, but I do see some progress here.">
+<OBJ id="41028" text="嗯，我們的狀況看起來沒有我交付這個目標時那麼糟了。你還有更多可以省的地方，但我確實看到了一些進展。">
 <COND id="173" value="10"/>
 <COND id="174" value="60"/>
 </OBJ>
-<OBJ id="41029" text="Projecting the rest of the season, I can see some progress towards this goal. You still have a bit more to go, but keep doing your best to improve this team's financial outlook.">
+<OBJ id="41029" text="以剩下的球季推算，我看得出這個目標有些進展。你還差一段路，但請繼續盡力改善球隊的財務前景。">
 <COND id="173" value="30"/>
 <COND id="174" value="70"/>
 </OBJ>
-<OBJ id="41030" text="While I know the final numbers aren't in for the season yet, but I don't like your odds of passing this goal. You've still done an admirable job of improving the team finances, but I don't see us quite making the level I had hoped for.">
+<OBJ id="41030" text="我知道這季的最終數字還沒出來，但我不太看好你能通過這個目標。你在改善球隊財務上仍然做得可圈可點，只是我看不出我們能達到我期待的水準。">
 <COND id="173" value="30"/>
 <COND id="174" value="80"/>
 <COND id="179" value="0"/>
 </OBJ>
-<OBJ id="41031" text="So far so good at improving the team finances. I like the effort you've put into this aspect of the game. Keep it up and I have no doubts that you will will complete this goal very soon.">
+<OBJ id="41031" text="改善球隊財務到目前為止一切順利。你在這方面投入的努力我很欣賞。繼續保持，我毫不懷疑你很快就會完成這個目標。">
 <COND id="173" value="70"/>
 </OBJ><!--
 <OBJ id="41032" text="We seem to be right on track to completing this goal. Keep watching the financials, and make sure the team doesn't slip on the field, and I'll be a very happy camper.">
 <COND id="173" value="70"/>
 </OBJ>-->
-<OBJ id="41033" text="As long as the projections keep up how they look so far, I have no doubt that you'll complete this goal after this year. Very well done!">
+<OBJ id="41033" text="只要推算的數字維持目前的樣子，我毫不懷疑你會在今年之後完成這個目標。做得非常好！">
 <COND id="173" value="100"/>
 </OBJ>
 </CAT>
 
 <CAT id="803">
-<OBJ id="41034" text="I gave you a task to increase our profits over what we had in [%ownergoal issueyear]. I had to look at the numbers a couple times before believing that we're in worse shape right now! I don't expect miracles, but I do expect effort.">
+<OBJ id="41034" text="我交給你的任務，是讓我們的獲利超過 [%ownergoal issueyear] 的水準。我盯著數字看了好幾次才敢相信，我們現在的狀況居然更糟！我不指望奇蹟，但我期待看到努力。">
 <COND id="174" value="1"/>
 </OBJ>
-<OBJ id="41035" text="Winning is only half of your job. I don't want you to give up on this team, but we run a business here, and I ask that you spend some effort at shoring up the team finances.">
+<OBJ id="41035" text="贏球只是你工作的一半。我不希望你放棄這支球隊，但我們在這裡經營的是一門生意，我要求你花點心思把球隊的財務撐起來。">
 <COND id="174" value="30"/>
 <COND id="163" value="525"/>
 </OBJ>
-<OBJ id="41036" text="I'm not happy. I think this team is in a place right now where we should be banking more money in the off-season, but you seem to have ignored my requests. Please pay attention to team finances.">
+<OBJ id="41036" text="我不高興。我認為這支球隊目前的處境，休賽季本來應該能多存一些錢，但你似乎無視了我的要求。請重視球隊的財務。">
 <COND id="174" value="30"/>
 </OBJ>
-<OBJ id="41037" text="I'm upset that you have not paid attention to my request. I was looking to increase the money this team has in the bank, and you seem to have spent more than you brought in. Proper financial management is essential to your role as general manager.">
+<OBJ id="41037" text="你沒有理會我的要求，讓我很不高興。我希望增加球隊在銀行裡的資金，而你花掉的似乎比賺進來的還多。妥善的財務管理是你身為總經理不可或缺的一環。">
 <COND id="174" value="2"/>
 </OBJ>
-<OBJ id="41038" text="I might give you some leeway with a winning team, but if the team is both losing on the field, and losing money in the books, that doesn't make for a happy front office. I hope you're as disappointed in your performance as I am.">
+<OBJ id="41038" text="如果球隊在贏球，我或許還能給你一些空間；但如果球隊場上輸球、帳面上又賠錢，球團高層可高興不起來。希望你對自己的表現和我一樣失望。">
 <COND id="174" value="30"/>
 <COND id="164" value="500"/>
 </OBJ>
-<OBJ id="41039" text="I gave you some time to complete this goal, but at this point, I'm not liking your progress towards it. You better find some new avenues to generate money or you won't have a chance to pass this goal.">
+<OBJ id="41039" text="我給了你一些時間完成這個目標，但到目前為止，我不喜歡你的進度。你最好找出一些新的生財管道，否則你不會有機會通過這個目標。">
 <COND id="174" value="30"/>
 <COND id="179" value="1"/>
 </OBJ>
-<OBJ id="41040" text="We haven't reached the profits that I had hoped for yet, but we're on our way. Continue your work in this and you may actually complete this goal in time.">
+<OBJ id="41040" text="我們還沒達到我期待的獲利，但正在路上。繼續這方面的努力，你或許真的能及時完成這個目標。">
 <COND id="173" value="30"/>
 <COND id="174" value="70"/>
 <COND id="179" value="1"/>
@@ -112269,41 +112269,41 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <COND id="174" value="70"/>
 <COND id="179" value="1"/>
 </OBJ>-->
-<OBJ id="41042" text="I'm a little disappointed you didn't find a way to increase profits as much as I would have hoped for. I see an effort there, but not quite as much as I thought you could manage.">
+<OBJ id="41042" text="你沒能把獲利提升到我期待的幅度，我有點失望。我看得到你的努力，只是沒有我認為你能做到的那麼多。">
 <COND id="173" value="40"/>
 <COND id="174" value="80"/>
 <COND id="179" value="0"/>
 </OBJ>
-<OBJ id="41043" text="I like the fiscal management that you've shown. Just a little more to go, though, to reach my target. Try that for next year!">
+<OBJ id="41043" text="我很欣賞你展現出來的財務管理。不過離我的目標還差一點點。明年試著補上吧！">
 <COND id="173" value="70"/>
 <COND id="174" value="99"/>
 <COND id="179" value="1"/>
 </OBJ>
-<OBJ id="41044" text="You almost made my target. I'm pleased with the effort that you put into completing this task. It may drop off your list of goals, but keep up the solid fiscal management.">
+<OBJ id="41044" text="你差一點就達到我的目標了。你為完成這項任務投入的努力我很滿意。這一項或許會從你的目標清單上拿掉，但請繼續維持穩健的財務管理。">
 <COND id="173" value="70"/>
 <COND id="174" value="99"/>
 <COND id="179" value="0"/>
 </OBJ>
-<OBJ id="41045" text="Great job! I knew that you would be someone who could accomplish whatever goals I set out for you. Keep up the good work!">
+<OBJ id="41045" text="做得太好了！我就知道，不管我設什麼目標，你都會是那個能完成的人。繼續保持！">
 <COND id="173" value="100"/>
 </OBJ><!--
 <OBJ id="41046" text="Fiscal management is important in a General Manager, and you seem to have a very good acumen for it. Well done at getting the team's books in order, and ending with the profits I asked of you.">
 <COND id="173" value="100"/>
 </OBJ>-->
-<OBJ id="41047" text="Now that you seem to have been a wiz at solving this team's fiscal problems, care to take a stab at improving the on-field performance? If you do half as well at that as you did in this goal, we'll be winning a [%leaguefinals] Ring very very soon.">
+<OBJ id="41047" text="既然你解決球隊財務問題的本事這麼高明，要不要也來試試改善場上的成績？只要你在那邊做到這個目標的一半好，我們很快就能拿下 [%leaguefinals] 冠軍戒指。">
 <COND id="173" value="100"/>
 <COND id="164" value="515"/>
 </OBJ>
-<OBJ id="41048" text="To win both a [%leaguefinals] Ring and complete a tough goal of getting the team's finances in order, all in the same year, is incredible. I'm speechless.">
+<OBJ id="41048" text="同一年裡既拿下 [%leaguefinals] 冠軍戒指，又完成把球隊財務整頓好這種艱難目標，實在太不可思議。我無話可說。">
 <COND id="173" value="100"/>
 <COND id="176" value="2"/>
 </OBJ>
-<OBJ id="41054" text="I guess a little cut is better than none. You didn't come close to ending up with the amount of money in the bank that I wanted from you, but we are in slightly better shape than we were in [%ownergoal issueyear]. I'm not upset, but I'm not happy.">
+<OBJ id="41054" text="我想省一點總比完全沒省好。你離我要求的存款金額還差得遠，但我們的狀況確實比 [%ownergoal issueyear] 好了一點。我不生氣，但也高興不起來。">
 <COND id="173" value="20"/>
 <COND id="174" value="60"/>
 <COND id="179" value="0"/>
 </OBJ>
-<OBJ id="41055" text="I had hoped that you would be able to do a better job at increasing the team profits. I can definitely see some improvements over [%ownergoal issueyear], but I expected you would be able to squeeze a little more money out.">
+<OBJ id="41055" text="我原本希望你在提升球隊獲利上能做得更好。比起 [%ownergoal issueyear]，我確實看得到一些改善，但我以為你能再多擠出一點錢。">
 <COND id="173" value="20"/>
 <COND id="174" value="40"/>
 </OBJ><!--
@@ -112313,39 +112313,39 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <OBJ id="45538" text="They lied when they said money doesn't buy happiness.  It sure the heck buys mine.  You've done a great job hitting the financial target I gave you.">
 <COND id="173" value="100"/>
 </OBJ>-->
-<OBJ id="45539" text="Either you didn't think I was serious when I set a target for profit margin -- or you didn't work hard enough to reach it. I'll be honest. I'm not happy.">
+<OBJ id="45539" text="不是你以為我設下獲利目標時不是認真的——就是你不夠努力去達成。老實說，我不高興。">
 <COND id="174" value="5"/>
 </OBJ>
 </CAT>
 
 <CAT id="804">
-<OBJ id="41071" text="I'm glad to see that you listened to me and got rid of [%personlink f l]. It's never easy, but I do appreciate you listening to my requests.">
+<OBJ id="41071" text="很高興你聽進我的話，把 [%personlink f l] 處理掉了。這種事從來都不容易，但我很感謝你願意聽我的要求。">
 <COND id="173" value="100"/>
 </OBJ>
-<OBJ id="41072" text="From what I had heard, [%personlink f l] was a big distraction in the clubhouse. I'm glad to see you've taken care of that problem.">
+<OBJ id="41072" text="就我聽到的說法，[%personlink f l] 在休息室裡是個很大的干擾。很高興看到你把這個問題解決了。">
 <COND id="173" value="100"/>
 <COND id="162" value="2"/>
 </OBJ>
-<OBJ id="41073" text="I'm not a fan of having overpriced players on the roster, and I'm glad that you agreed with me about [%personlink f l]. The team will be better without him.">
+<OBJ id="41073" text="我不喜歡名單上有身價過高的球員，很高興你在 [%personlink f l] 這件事上和我看法一致。沒有他，球隊會更好。">
 <COND id="173" value="100"/>
 <COND id="180" value="1"/>
 </OBJ>
-<OBJ id="41074" text="I know it's never easy to get rid of veteran players, but I think the team will play better without [%personlink f l]. The results may not be apparent right now, but they will in time.">
+<OBJ id="41074" text="我知道要處理掉老將從來都不容易，但我認為少了 [%personlink f l]，球隊會打得更好。成效現在或許看不出來，但時間會證明。">
 <COND id="173" value="100"/>
 <COND id="164" value="500"/>
 </OBJ>
-<OBJ id="41075" text="When I mentioned to you to get rid of [%personlink f l] from the roster, I was hoping you would move quicker to get it done. There's still time.">
+<OBJ id="41075" text="我跟你提過要把 [%personlink f l] 從名單上處理掉時，希望你能更快把它辦好。現在還來得及。">
 <COND id="174" value="1"/>
 </OBJ>
-<OBJ id="41076" text="I like to have a clubhouse free from distractions, but from what I hear [%personlink f l] is causing trouble. I think the team would do better without him here.">
+<OBJ id="41076" text="我喜歡沒有干擾的休息室，但我聽說 [%personlink f l] 正在製造麻煩。我認為他不在，球隊會更好。">
 <COND id="174" value="1"/>
 <COND id="162" value="2"/>
 </OBJ>
-<OBJ id="41077" text="I appreciate the loyalty you have to your players, but sometimes you need to cut ties to move ahead. There's still time to part ways with [%personlink f l], so please think about that for the rest of the season.">
+<OBJ id="41077" text="你對自家球員的情義我很感謝，但有時候得斬斷關係才能往前走。要和 [%personlink f l] 分道揚鑣還來得及，剩下的球季請好好想想。">
 <COND id="174" value="1"/>
 <COND id="9" value="10"/>
 </OBJ>
-<OBJ id="41078" text="It's not easy to get rid of overpaid players, but I hope you will make a better effort to get rid of [%personlink f l]. I would prefer to have a team void of overpaid players.">
+<OBJ id="41078" text="要處理掉薪水過高的球員並不容易，但我希望你能更用心把 [%personlink f l] 送走。我比較希望隊上沒有領過高薪水的球員。">
 <COND id="174" value="1"/>
 <COND id="180" value="1"/>
 </OBJ><!--
@@ -112355,32 +112355,32 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 </CAT>
 
 <CAT id="805">
-<OBJ id="41060" text="Thank you for getting rid of [%personlink f l]. I know it's never easy to part with members of the team, but I'm glad you agreed with me in this case as to the best way moving forward with our roster.">
+<OBJ id="41060" text="謝謝你把 [%personlink f l] 處理掉。我知道要和隊上的一員分開從來都不容易，但很高興這次你認同我對名單該怎麼往前走的看法。">
 <COND id="173" value="100"/>
 </OBJ>
-<OBJ id="41061" text="I do not like negative influences on the roster, and I'm glad that you agreed with my assessment of [%personlink f l]. I heard he was a terrible influence in the clubhouse and think the team will be better served without him here.">
+<OBJ id="41061" text="我不喜歡名單上有負面影響，很高興你認同我對 [%personlink f l] 的評估。我聽說他在休息室裡的影響很糟，我想他不在，球隊會更好。">
 <COND id="173" value="100"/>
 <COND id="162" value="2"/>
 </OBJ>
-<OBJ id="41062" text="I know you're as concerned about money as I am, and I am glad that you agreed that [%personlink f l] was making way too much money for our team. Ensuring that everyone on the team makes a fair wage is a good thing.">
+<OBJ id="41062" text="我知道你和我一樣在意錢，很高興你同意 [%personlink f l] 對我們球隊來說領得太多了。確保隊上每個人都領到合理的薪水是件好事。">
 <COND id="173" value="100"/>
 <COND id="180" value="1"/>
 </OBJ><!--
 <OBJ id="41063" text="I did not see [%personlink f l] as a good fit on our roster, and I am very happy that you agreed. The team will be better served to go in a different direction.">
 <COND id="173" value="100"/>
 </OBJ>-->
-<OBJ id="41064" text="I know it's hard to see the player who I told you to get rid of, [%personlink f l] have a good season, but trust me, getting rid of him is for the best. I think you made the right move.">
+<OBJ id="41064" text="我知道看著我叫你處理掉的 [%personlink f l] 打出一個好球季並不好受，但相信我，把他處理掉是最好的選擇。我認為你做了正確的決定。">
 <COND id="13" value="10"/>
 <COND id="173" value="100"/>
 </OBJ>
-<OBJ id="41065" text="I told you we would be well served by getting rid of [%personlink f l]. The team still had a great season without him. Sometimes I do have good suggestions.">
+<OBJ id="41065" text="我跟你說過把 [%personlink f l] 處理掉對我們有好處。沒有他，球隊照樣打出了很棒的一季。有時候我的建議還是不錯的。">
 <COND id="173" value="100"/>
 <COND id="163" value="550"/>
 </OBJ>
-<OBJ id="41066" text="Why is [%personlink f l] still on the roster? I thought I told you I wanted him gone. It's fine to have loyalty, but sometimes you need to cut ties to improve.">
+<OBJ id="41066" text="為什麼 [%personlink f l] 還在名單上？我不是說過我要他走嗎？講情義是好事，但有時候得斬斷關係才能進步。">
 <COND id="174" value="1"/>
 </OBJ>
-<OBJ id="41067" text="Why is [%personlink f l] still a member of this club? I like to hold the [%teamlink nickonly] to a very high standard, and I simply do not feel that [%personname L] fits our roster. ">
+<OBJ id="41067" text="為什麼 [%personlink f l] 還是這支球隊的一員？我對 [%teamlink nickonly] 的標準向來很高，而我實在不覺得 [%personname L] 適合我們的名單。">
 <COND id="174" value="1"/>
 <COND id="162" value="2"/>
 </OBJ><!--
@@ -112388,11 +112388,11 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <COND id="174" value="1"/>
 <COND id="162" value="2"/>
 </OBJ>-->
-<OBJ id="41069" text="I do not appreciate having players who are grossly overpaid on the roster. I believe that it forms a distraction and will hurt us in trying to acquire new players. The fact that [%personlink f l] is still here does not make me happy.">
+<OBJ id="41069" text="我很不喜歡名單上有薪水嚴重超額的球員。我認為那會造成干擾，也會妨礙我們去補進新球員。[%personlink f l] 還在這裡，讓我很不高興。">
 <COND id="174" value="1"/>
 <COND id="180" value="1"/>
 </OBJ>
-<OBJ id="41070" text="He may be a veteran of the league, and I appreciate you showing loyalty, but when I ask you to get rid of a player like [%personlink f l], I hope that you listen to me.">
+<OBJ id="41070" text="他或許是聯盟的老將，你講情義我也很感謝，但當我要求你處理掉 [%personlink f l] 這樣的球員時，我希望你能聽進去。">
 <COND id="174" value="1"/>
 <COND id="9" value="10"/>
 </OBJ><!--
@@ -112402,39 +112402,39 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 </CAT>
 
 <CAT id="806">
-<OBJ id="41079" text="I asked you to find a manager who is better respected than [%personlink#1]. He might eventually get that level of respect I would like, but I still feel the team would be better served getting that upgrade sooner rather than later.">
+<OBJ id="41079" text="我要你找一位比 [%personlink#1] 更受敬重的總教練。他最終或許能達到我期待的敬重程度，但我還是覺得，這支球隊愈早升級愈好。">
 <COND id="174" value="20"/>
 </OBJ>
-<OBJ id="41080" text="I see that you haven't made a change of manager like I had asked of you. [%personlink#1] may not be a bad manager, but I think the team would do better with a more respected manager.">
+<OBJ id="41080" text="我看到你並沒有照我的要求換掉總教練。[%personlink#1] 或許不是個差的總教練，但我認為換一位更受敬重的總教練，球隊會更好。">
 <COND id="174" value="30"/>
 </OBJ>
-<OBJ id="41081" text="[%personlink#1] has a growing reputation. That's a good sign, but I'm not sure I think this team can wait around forever for him to reach his potential. Keep your eyes open to see if there's someone out there who is more well-known.">
+<OBJ id="41081" text="[%personlink#1] 的名聲正在成長，這是個好跡象，但我不確定這支球隊能永遠等他發揮潛力。請多留意外面有沒有名氣更大的人選。">
 <COND id="173" value="20"/>
 <COND id="174" value="50"/>
 </OBJ>
-<OBJ id="41082" text="I told you to find me a more respected manager, but you decided to stick with [%personlink#1]. I will give you credit, though: his reputation is rising. Still, time is running out, if you're banking on [%personname] being the upgrade.">
+<OBJ id="41082" text="我要你替我找一位更受敬重的總教練，你卻決定繼續用 [%personlink#1]。不過這點我得肯定你：他的名聲確實在上升。只是如果你打算賭 [%personname] 就是那個升級，時間可不多了。">
 <COND id="173" value="30"/>
 <COND id="174" value="70"/>
 </OBJ>
-<OBJ id="41083" text="Your faith in [%personlink#1] is admirable. I was looking for a [%string#1] manager and [%personname#1 L] is close to making the grade.">
+<OBJ id="41083" text="你對 [%personlink#1] 的信任令人佩服。我要的是一位 [%string#1] 等級的總教練，而 [%personname#1 L] 已經接近門檻了。">
 <COND id="173" value="60"/>
 <COND id="174" value="90"/>
 </OBJ>
-<OBJ id="41084" text="I asked you to find a manager more respected than [%personlink#1]. You decided to stick with him. And you know what? I think you might've made the right decision. I applaud your resolve on this matter.">
+<OBJ id="41084" text="我要你找一位比 [%personlink#1] 更受敬重的總教練，你卻決定繼續用他。你知道嗎？我認為你的決定可能是對的。你在這件事上的堅持，我給你掌聲。">
 <COND id="173" value="90"/>
 </OBJ>
-<OBJ id="41085" text="I see you decided to see if [%personlink#1] would develop into a [%string#1] manager. I don't know if I would have made that same decision, and to this point, I have my doubts that he'll reward you for your faith in him.">
+<OBJ id="41085" text="我看到你決定賭 [%personlink#1] 能成長為 [%string#1] 等級的總教練。換成是我不知道會不會做同樣的決定，而到目前為止，我懷疑他回報不了你對他的信任。">
 <COND id="174" value="40"/>
 </OBJ>
-<OBJ id="41086" text="Other executives around the league are saying good things about [%personlink#1]. I was hoping you'd bring in a [%string#1] manager, but, based on what I'm hearing, [%personname#1 L] has a chance to be the one.">
+<OBJ id="41086" text="聯盟裡其他球團主管都在稱讚 [%personlink#1]。我原本希望你帶一位 [%string#1] 等級的總教練進來，但照我聽到的說法，[%personname#1 L] 有機會就是那個人。">
 <COND id="173" value="40"/>
 <COND id="174" value="80"/>
 </OBJ>
-<OBJ id="41087" text="I just saw an article on [%team nationalweb] talking about the progress [%personlink#1] has made as a manager. I admit, I didn't have that much faith in him, but he has certainly proven me wrong. I applaud your patience with him.">
+<OBJ id="41087" text="我剛在 [%team nationalweb] 上看到一篇文章，談 [%personlink#1] 身為總教練的成長。我承認，我本來對他沒那麼有信心，但他確實證明我錯了。你對他的耐心，我給你掌聲。">
 <COND id="173" value="100"/>
 </OBJ>
 <OBJ id="41088">
-<TXT>Did you read the article about [%personlink#1] in last week's [%team nationalmag]? I know I was skeptical about his managerial abilities, but he's turning me into a believer. I have high expectations for this team; I hope he can improve his reputation another notch or two.</TXT>
+<TXT>你看了上週 [%team nationalmag] 那篇關於 [%personlink#1] 的報導嗎？我知道我本來對他的執教能力存疑，但他正在把我變成信徒。我對這支球隊期待很高，希望他的名聲能再往上跳一兩級。</TXT>
 <COND id="173" value="60"/>
 <COND id="174" value="90"/>
 <COND id="179" value="1"/>
@@ -112442,32 +112442,32 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 </CAT>
 
 <CAT id="807">
-<OBJ id="41089" text="I gave you a task to find me a manager with a higher reputation, and you decided to bring in [%personlink#2]. To be honest with you, I don't like your decision. From what I can see, he's not regarded any higher than [%personlink#1].">
+<OBJ id="41089" text="我交給你的任務是替我找一位名聲更好的總教練，你卻決定帶 [%personlink#2] 進來。老實說，我不喜歡你的決定。就我看來，他受敬重的程度並沒有比 [%personlink#1] 高。">
 <COND id="174" value="20"/>
 </OBJ><!--
 <OBJ id="41090" text="Now, I know that [%personlink#1] had his share of issues, but that doesn't mean just hiring anyone off the street is an improvement. I was hoping for someone with a better reputation than [%personlink#2].">
 <COND id="174" value="20"/>
 </OBJ>-->
 <OBJ id="41091">
-<TXT>When I tasked you with find an upgrade in the dugout, I hoped that you would take the task with the utmost of respect. I like to think we run a high-class organization, but when I look at the reputation that [%personlink#2] has around the league, I honestly don't think he's any better than [%personlink#1].</TXT>
+<TXT>我交付你去找一位板凳席上的升級時，希望你能極其慎重地看待這項任務。我認為我們經營的是一個高水準的球團，但當我看 [%personlink#2] 在聯盟裡的名聲，我老實說不覺得他比 [%personlink#1] 好到哪裡去。</TXT>
 <COND id="174" value="40"/>
 </OBJ>
-<OBJ id="41092" text="While I agree that [%personlink#2] has a better reputation than [%personlink#1], I was looking for a more substantial upgrade in the dugout. I'm disappointed that you couldn't find anyone with at least a [%string#1] reputation.">
+<OBJ id="41092" text="我同意 [%personlink#2] 的名聲比 [%personlink#1] 好，但我要的是板凳席上更實質的升級。你找不到至少具備 [%string#1] 名聲的人選，讓我很失望。">
 <COND id="173" value="20"/>
 <COND id="174" value="60"/>
 </OBJ>
-<OBJ id="41093" text="There's still time to complete my task, but I'm not too hopeful that your replacement for [%personlink#1] was [%personlink#2]. When I say I want an upgrade, I want someone with at least a [%string#1] reputation around the league.">
+<OBJ id="41093" text="完成我交付的任務還有時間，但你用 [%personlink#2] 來接替 [%personlink#1]，我不太抱期望。我說要升級的時候，指的是至少在聯盟裡有 [%string#1] 名聲的人。">
 <COND id="174" value="60"/>
 <COND id="179" value="1"/>
 </OBJ>
-<OBJ id="41094" text="Well, I can certainly see that [%personlink#2] has a better reputation than [%personlink#1] had when I told you to upgrade. I'm still hoping for someone with a [%string#1] reputation, but I'm still pleased with your progress.">
+<OBJ id="41094" text="好，我確實看得出比起我叫你升級時的 [%personlink#1]，[%personlink#2] 的名聲更好。我還是希望找到具備 [%string#1] 名聲的人，但我對你的進展仍然滿意。">
 <COND id="173" value="60"/>
 <COND id="174" value="80"/>
 </OBJ>
-<OBJ id="41095" text="I can see that [%personlink#2] is highly respected around the league. Did you see the article about him earlier this year about him in the [%team nationalpaper]? I'm very happy that you took my suggestion to heart.">
+<OBJ id="41095" text="我看得出 [%personlink#2] 在聯盟裡備受敬重。你看過今年稍早 [%team nationalpaper] 上關於他的那篇報導嗎？你把我的建議放在心上，我非常高興。">
 <COND id="173" value="80"/>
 </OBJ>
-<OBJ id="41096" text="[%personlink#2] is exactly who I had in mind when I asked you for an upgrade in the dugout. Great work bringing in someone with such a great reputation!">
+<OBJ id="41096" text="我要你在板凳席上做出升級時，心裡想的正是 [%personlink#2]。能把名聲這麼好的人帶進來，做得太好了！">
 <COND id="173" value="100"/>
 </OBJ><!--
 <OBJ id="45368" text="When I asked you to replace [%personlink#1], I was expecting a better choice than [%personlink#2]. I'm disappointed that you couldn't find a new manager with a better reputation.">
@@ -112476,43 +112476,43 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 </CAT>
 
 <CAT id="808">
-<OBJ id="41100" text="I'm excited to finally see a real quality prospect like [%personlink] in our organization. I've felt that we've lack a future potential superstar, but I think we may have finally found our guy in [%personname L].">
+<OBJ id="41100" text="終於在我們球團裡看到 [%personlink] 這種真正夠水準的新秀，我很興奮。我一直覺得我們缺少一位未來的超級巨星，而我想我們終於在 [%personname L] 身上找到了那個人。">
 <COND id="173" value="100"/>
 </OBJ><!--
 <OBJ id="41101" text="Our team needs to build through the draft, and getting someone with as much potential as [%personlink f l] will go a long way to rebuilding our team.">
 <COND id="173" value="100"/>
 </OBJ>-->
-<OBJ id="41102" text="Keep the search for that top prospect that I asked of you. I still believe that you can find a top-[%ownergoal extra] prospect.">
+<OBJ id="41102" text="請繼續尋找我交代的那位頂級新秀。我仍然相信你找得到前 [%ownergoal extra] 名等級的新秀。">
 <COND id="170" value="99"/>
 <COND id="173" value="40"/>
 <COND id="179" value="1"/>
 </OBJ>
 <OBJ id="41103">
-<TXT>While [%personlink f l] certainly looks like a good prospect, I was hoping to get someone who was a top-[%ownergoal extra] caliber player. Do you think you can find a way to get one of those top [%ownergoal extra] prospects on the team by the end of the year?</TXT>
+<TXT>[%personlink f l] 看起來確實是位不錯的新秀，但我希望的是前 [%ownergoal extra] 名等級的球員。你覺得年底之前，有辦法把一位前 [%ownergoal extra] 名的新秀弄進隊上嗎？</TXT>
 <COND id="179" value="0"/>
 <COND id="173" value="40"/>
 <COND id="174" value="99"/>
 </OBJ>
-<OBJ id="41104" text="I was really hoping to have one of the top [%ownergoal extra] prospects in our organization by the end of this goal, and I still believe that you can do that. Nothing against [%personlink f l], but keep the search on for a truly elite prospect.">
+<OBJ id="41104" text="我真的很希望在這個目標結束前，球團裡能有一位前 [%ownergoal extra] 名的新秀，我也仍然相信你辦得到。這不是針對 [%personlink f l]，但請繼續尋找真正頂級的新秀。">
 <COND id="173" value="40"/>
 <COND id="174" value="99"/>
 </OBJ>
-<OBJ id="41105" text="While [%personlink f l] has certainly improved his prospect ranking since I issued this goal, he's not quite the elite prospect I had asked for when I gave you this task. Keep the search going to improve this team.">
+<OBJ id="41105" text="自從我提出這個目標以來，[%personlink f l] 的新秀排名確實有所提升，但他還不是我交付任務時要求的那種頂級新秀。請繼續尋找，把這支球隊變得更好。">
 <COND id="173" value="20"/>
 <COND id="174" value="70"/>
 <COND id="177" value="1"/>
 </OBJ>
-<OBJ id="41106" text="I asked you to find us a top-[%ownergoal extra] prospect, and you still have time to complete that task. [%personlink f l] isn't nearly the prospect that we can use to market the future of this franchise.">
+<OBJ id="41106" text="我要你替我們找一位前 [%ownergoal extra] 名的新秀，你還有時間完成這項任務。[%personlink f l] 遠遠稱不上是能拿來行銷球團未來的那種新秀。">
 <COND id="174" value="40"/>
 </OBJ><!--
 <OBJ id="41107" text="I asked you to find us a prospect to market as the future face of the franchise, and [%personlink f l] just doesn't cut it. Best of luck in finding that stud.">
 <COND id="174" value="40"/>
 </OBJ>-->
-<OBJ id="41131" text="While [%personlink f l] may be the best prospect we've had in years, I'm still not sold on his future ability to lead the team. Can you continue to search for a better prospect?">
+<OBJ id="41131" text="[%personlink f l] 或許是我們這幾年最好的新秀，但我對他未來能否帶領球隊仍然沒有信心。你能繼續尋找更好的新秀嗎？">
 <COND id="173" value="30"/>
 <COND id="174" value="80"/>
 </OBJ>
-<OBJ id="41132" text="[%personlink f l] is the best prospect we've had on our team in years. Whether he can be a future face of the franchise remains to be seen, but he's certainly got potential.">
+<OBJ id="41132" text="[%personlink f l] 是我們隊上這幾年最好的新秀。他能不能成為未來的看板人物還有待觀察，但他確實有潛力。">
 <COND id="173" value="70"/>
 </OBJ><!--
 <OBJ id="41133" text="I'm not convinced [%personlink f l] has a future with our club. He's certainly not a bad prospect, but I think you can do a better job at finding a top prospect.">
@@ -112529,54 +112529,54 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 </CAT>
 
 <CAT id="809">
-<OBJ id="41108" text="I asked you to find me a top prospect, who we can use as the face of the franchise, and I'm glad to see [%personlink f l] has truly rocketed up the list. If he keeps progressing at this rate, I think we'll have a true superstar to build around.">
+<OBJ id="41108" text="我要你替我找一位能當看板人物的頂級新秀，很高興看到 [%personlink f l] 的排名真的一飛沖天。如果他能維持這個成長速度，我想我們會有一位真正能圍繞著他建隊的超級巨星。">
 <COND id="173" value="100"/>
 <COND id="177" value="1"/>
 </OBJ>
-<OBJ id="41109" text="We always need to look to the future, and with [%personlink f l] looking more and more like the future face of the team, I can tell you now that things are looking up. Well done.">
+<OBJ id="41109" text="我們永遠都得看向未來，而 [%personlink f l] 愈來愈像球隊未來的看板人物，我現在可以說，情況正在好轉。做得好。">
 <COND id="173" value="100"/>
 </OBJ><!--
 <OBJ id="41110" text="I think the [%teamname nickname] have a very bright future, and that will be in large part to having a prospect as talented as [%personlink f l] to build around. I applaud your work in finding and developing him.">
 <COND id="173" value="100"/>
 </OBJ>-->
 <OBJ id="41111">
-<TXT>While I did hope that you would be able to find a top-[%ownergoal extra] prospect in the game to build around, [%personlink f l] still looks like he has some serious talent. Hopefully he will continue to develop and be the future face of the franchise that I wanted you to find.</TXT>
+<TXT>雖然我原本希望你能找到一位聯盟前 [%ownergoal extra] 名、可以拿來建隊的新秀，[%personlink f l] 看起來還是很有實力。希望他能持續成長，成為我要你找的那位球團未來看板人物。</TXT>
 <COND id="173" value="60"/>
 <COND id="174" value="99"/>
 <COND id="179" value="0"/>
 </OBJ>
-<OBJ id="41113" text="I can see that [%personlink f l] has grown into a great prospect. Not quite top-[%ownergoal extra] yet, but still very promising. Hopefully he can continue his progress.">
+<OBJ id="41113" text="我看得出 [%personlink f l] 已經成長為一位優秀的新秀。雖然還不到前 [%ownergoal extra] 名，但仍然非常有前途。希望他能繼續進步。">
 <COND id="173" value="60"/>
 <COND id="174" value="99"/>
 <COND id="177" value="1"/>
 </OBJ>
 <OBJ id="41114">
-<TXT>Our top prospect, [%personlink f l] is certainly an improvement from what the team had as top prospect in [%ownergoal issueyear], but still not the talent that I truly hoped that you would be able to find. He may turn into a great player someday, but I wouldn't bet on that outcome.</TXT>
+<TXT>我們的頭號新秀 [%personlink f l]，比起球隊在 [%ownergoal issueyear] 的頭號新秀確實是進步了，但仍然不是我真正希望你能找到的那種天賦。他總有一天或許會變成一位好球員，但我不會賭那個結果。</TXT>
 <COND id="173" value="40"/>
 <COND id="174" value="70"/>
 <COND id="179" value="0"/>
 </OBJ>
-<OBJ id="41115" text="We are at least in a better spot than we were in [%ownergoal issueyear], but not by too much. I hope that you will still be able to find a true top prospect to build this team around.">
+<OBJ id="41115" text="我們的處境至少比 [%ownergoal issueyear] 好一些，但也沒好太多。我希望你仍然能找到一位真正的頂級新秀，讓這支球隊圍繞著他建隊。">
 <COND id="173" value="10"/>
 <COND id="174" value="50"/>
 <COND id="179" value="1"/>
 </OBJ>
 <OBJ id="41116">
-<TXT>I'm disappointed that you haven't managed to find a top-[%ownergoal extra] prospect yet. Who do you expect to be the face of the next generation of this franchise? [%personlink f l]? If you think he is who we should build around, then I'm not sure I want you to lead that charge.</TXT>
+<TXT>你到現在還沒能找到一位前 [%ownergoal extra] 名的新秀，讓我很失望。你打算讓誰當這個球團下一世代的看板人物？[%personlink f l] 嗎？如果你認為他就是我們該圍繞著建隊的人，那我不確定我還想不想讓你來領軍。</TXT>
 <COND id="174" value="30"/>
 </OBJ><!--
 <OBJ id="41117">
 <TXT>While I understand it's always a challenge to bring in the top prospect, I was expecting someone better than [%personlink f l] would be our top prospect by this point. I expect some effort at finding a top prospect, and I don't see that from you right now.</TXT>
 <COND id="174" value="30"/>
 </OBJ>-->
-<OBJ id="41118" text="When I tell you to find a top prospect, I want someone to build this team around going forward. As much as you may love him, I don't see [%personlink f l] as that player. I'm truly disappointed in your performance at this task.">
+<OBJ id="41118" text="當我要你去找一位頂級新秀時，我要的是一個能讓球隊往後圍繞著他建隊的人。不管你有多喜歡他，我不認為 [%personlink f l] 是那個人。我對你在這項任務上的表現真的很失望。">
 <COND id="174" value="1"/>
 </OBJ>
-<OBJ id="41134" text="[%personlink f l] is far and away the best prospect we've had recently, but I think that speaks more for our recent prospect crop than his abilities. He's not bad, but I was hoping our top prospect would be better than him by now.">
+<OBJ id="41134" text="[%personlink f l] 遠遠是我們近期最好的新秀，但我認為這比較能說明我們近期的新秀水準有多差，而不是他的能力有多好。他不差，但我原本希望到現在我們的頭號新秀能比他更好。">
 <COND id="173" value="30"/>
 <COND id="174" value="80"/>
 </OBJ>
-<OBJ id="41159" text="[%personlink f l] sure looks like a good prospect. I'm not sold on him ever really being a top-[%ownergoal extra] prospect in the game, so don't stop looking to find a better guy to headline our farm system.">
+<OBJ id="41159" text="[%personlink f l] 看起來確實是位不錯的新秀。我不太相信他真能成為聯盟前 [%ownergoal extra] 名的新秀，所以別停下腳步，繼續找一位能撐起我們農場系統門面的人。">
 <COND id="173" value="60"/>
 <COND id="174" value="90"/>
 </OBJ>
@@ -112584,10 +112584,10 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 
 <CAT id="810">
 <OBJ id="41138">
-<TXT>I am very impressed with the prospect pool you have built up here. I was only looking to become a [%league topgroup] team, and you've gone above and beyond. As we continue to improve the team, keeping a fully stocked farm team will make your task easy going forward.</TXT>
+<TXT>你建立起來的新秀庫讓我印象非常深刻。我原本只是想成為 [%league topgroup] 的球隊，你卻遠遠超越了要求。在我們繼續強化球隊的同時，維持一個滿載的農場，會讓你往後的任務輕鬆許多。</TXT>
 <COND id="173" value="100"/>
 </OBJ>
-<OBJ id="41139" text="Our farm system is very impressive, thanks to your hard work. As we work through our rebuild, keeping the farm stocked is the best way to ensure that we will eventually have a team that can again compete in the league. Well done.">
+<OBJ id="41139" text="多虧你的努力，我們的農場系統非常出色。在重建的過程中，讓農場保持充實，是確保我們終究能再度在聯盟裡競爭的最好方法。做得好。">
 <COND id="173" value="100"/>
 <COND id="182" value="2"/>
 </OBJ><!--
@@ -112599,11 +112599,11 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <COND id="182" value="2"/>
 </OBJ>-->
 <OBJ id="41142">
-<TXT>We may not be in a rebuild, but that doesn't mean you can ignore our prospects. Having a great minor league system will go a long way to keeping our team at the top of the standings. And from the looks of it, you definitely have not ignored them. Well done.</TXT>
+<TXT>我們或許不在重建期，但這不代表你可以無視我們的新秀。擁有出色的小聯盟系統，對於讓球隊留在戰績榜前段大有幫助。而從目前的情況看，你顯然沒有忽略他們。做得好。</TXT>
 <COND id="173" value="100"/>
 <COND id="182" value="3"/>
 </OBJ>
-<OBJ id="41143" text="I was hoping to get this team to a [%league topgroup] minor league system, and I can see that you're not quite there yet. You've built up a great pool of players, but we're one or two guys away from being truly dominant.">
+<OBJ id="41143" text="我原本希望把這支球隊帶到 [%league topgroup] 的小聯盟系統，我看得出你還差一點。你已經累積了一批很好的球員，但離真正的統治級還差一兩個人。">
 <COND id="173" value="70"/>
 <COND id="174" value="99"/>
 </OBJ><!--
@@ -112617,78 +112617,78 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <COND id="174" value="99"/>
 </OBJ>-->
 <OBJ id="41146">
-<TXT>Looking at our farm system, I can see that you're around halfway done the task I had set out for you. You definitely still have time left to complete this goal, so keep working at building the prospect depth, and we'll have a [%league topgroup] system in no time.</TXT>
+<TXT>看我們的農場系統，我看得出你已經完成了我交付任務的一半左右。你還有時間完成這個目標，所以請繼續累積新秀深度，我們很快就會有 [%league topgroup] 的系統。</TXT>
 <COND id="173" value="40"/>
 <COND id="174" value="70"/>
 <COND id="179" value="1"/>
 </OBJ>
-<OBJ id="41147" text="We're a big step up from the prospect system we had in [%ownergoal issueyear]. But we're still a way away from having a [%league topgroup] system like we really need to have to compete going forward. Keep improving and you can still make it.">
+<OBJ id="41147" text="比起 [%ownergoal issueyear] 的新秀系統，我們前進了一大步。但要有一個 [%league topgroup] 的系統，也就是我們往後競爭真正需要的那種，我們還差一段距離。繼續改善，你還來得及。">
 <COND id="173" value="40"/>
 <COND id="174" value="70"/>
 <COND id="182" value="2"/>
 <COND id="179" value="1"/>
 </OBJ>
 <OBJ id="41148">
-<TXT>I'm sad to say that it doesn't look like you'll complete this task on time. Our farm system is much improved from where it was in [%ownergoal issueyear], but it never quite made it to the point that I had hoped for. I can't expect perfection on every goal I give you, I guess.</TXT>
+<TXT>我很遺憾地說，看來你沒辦法準時完成這項任務。我們的農場系統比 [%ownergoal issueyear] 改善了很多，但始終沒能到達我期待的程度。我想我也不能指望我交給你的每個目標都完美達成。</TXT>
 <COND id="179" value="0"/>
 <COND id="173" value="40"/>
 <COND id="174" value="80"/>
 </OBJ>
-<OBJ id="41149" text="I know it was an uphill task to build this team's minor league system up from the low we had in [%ownergoal issueyear], but we're definitely in a much better place than back then. It could still be better, so don't stop building it up.">
+<OBJ id="41149" text="我知道要把這支球隊的小聯盟系統從 [%ownergoal issueyear] 的谷底拉起來是件苦差事，但我們現在的處境絕對比當時好太多了。還可以更好，所以別停下來，繼續把它建起來。">
 <COND id="173" value="40"/>
 <COND id="174" value="70"/>
 </OBJ>
-<OBJ id="41150" text="We've upgraded the prospect pool on the team from [%ownergoal issueyear]. But there's still a lot of work to do before I read a news story in the [%team nationalpaper] about &quot;[%teamname]'s [%league topgroup] minor league system&quot;.">
+<OBJ id="41150" text="比起 [%ownergoal issueyear]，我們把隊上的新秀庫升級了。但要讓我在 [%team nationalpaper] 上讀到一篇「[%teamname] 的 [%league topgroup] 小聯盟系統」的報導，還有很多工作要做。">
 <COND id="173" value="30"/>
 <COND id="174" value="70"/>
 <COND id="179" value="1"/>
 </OBJ>
-<OBJ id="41151" text="I have to say, I'm not too thrilled about our current prospect pool. I know I gave you some time to complete this task, but it definitely looks like you need to put in a little bit more effort to improve our pool.">
+<OBJ id="41151" text="我必須說，我對我們目前的新秀庫不太滿意。我知道我給了你一些時間完成這項任務，但看起來你顯然得再多用點心，把我們的新秀庫改善起來。">
 <COND id="174" value="30"/>
 <COND id="179" value="1"/>
 </OBJ>
-<OBJ id="41152" text="We're no longer near the bottom in the league in minor league systems, but we're still a long way from having [%team nationalmag] praise our system. Spend a little time and see what you can do to help build our farm system.">
+<OBJ id="41152" text="我們的小聯盟系統已經不在聯盟墊底了，但離 [%team nationalmag] 稱讚我們的系統還差得遠。花點時間，看看你能做些什麼來把我們的農場建起來。">
 <COND id="173" value="10"/>
 <COND id="174" value="50"/>
 <COND id="179" value="1"/>
 </OBJ>
-<OBJ id="41153" text="Do you think you've done a good job at rebuilding our farm system? To me, I think we're still a long way away from completing this task. It would be nice to be complimented for our minor league system at least once in the [%team nationalpaper].">
+<OBJ id="41153" text="你覺得自己在重建農場系統上做得很好嗎？在我看來，我們離完成這項任務還差得遠。要是能在 [%team nationalpaper] 上被稱讚一次我們的小聯盟系統，那就太好了。">
 <COND id="173" value="10"/>
 <COND id="174" value="40"/>
 </OBJ>
-<OBJ id="41154" text="For a team in the midst of a rebuild, I expected a lot more from our farm system. I do understand that you can't just wave a magic wand and conjure up a top prospect, but it would be nice to see some progress.">
+<OBJ id="41154" text="以一支正在重建的球隊來說，我對我們的農場系統期待高得多。我理解你沒辦法揮一揮魔杖就變出一位頂級新秀，但能看到一些進展就好了。">
 <COND id="173" value="10"/>
 <COND id="174" value="40"/>
 <COND id="182" value="2"/>
 </OBJ>
-<OBJ id="41155" text="I don't know what to say. I asked you to improve the farm system, and you've done nothing.">
+<OBJ id="41155" text="我不知道該說什麼。我要你改善農場系統，而你什麼都沒做。">
 <COND id="174" value="1"/>
 </OBJ>
-<OBJ id="41156" text="For a team in a rebuild, this is one of the worst farm systems in the league. How do you expect to get back to a winning record with a prospect pool like we have now?">
+<OBJ id="41156" text="以一支重建中的球隊來說，這是全聯盟最差的農場系統之一。就憑我們現在這樣的新秀庫，你要怎麼回到勝率過半的戰績？">
 <COND id="174" value="1"/>
 <COND id="182" value="2"/>
 </OBJ>
-<OBJ id="41157" text="I would like to build a team that can win multiple championships, and with a prospect pool like we have, I think our time at the top might be coming to an end. I hope you have a way to build the farm because it's not looking good.">
+<OBJ id="41157" text="我想打造一支能拿下多座冠軍的球隊，而以我們現在這樣的新秀庫，我想我們待在頂端的日子大概快到頭了。希望你有辦法把農場建起來，因為現在情況看起來不妙。">
 <COND id="174" value="1"/>
 <COND id="182" value="3"/>
 </OBJ>
-<OBJ id="41158" text="I would definitely like to see us with a better farm system. I told you that, and I would appreciate some progress towards that. I'm disappointed right now with your effort towards this goal.">
+<OBJ id="41158" text="我絕對希望看到我們有更好的農場系統。這我跟你說過，也希望能看到一些進展。我現在對你在這個目標上的努力很失望。">
 <COND id="174" value="30"/>
 </OBJ>
 </CAT>
 
 <CAT id="811">
-<OBJ id="41163" text="I like how you've built this team.  I always say it's important to have lots of home-grown players, and I can see with all the guys we drafted playing big roles for the team, you've listened to what I told you.  Well done!">
+<OBJ id="41163" text="我很喜歡你打造這支球隊的方式。我一直說，擁有大量自家培養的球員很重要，而看到我們選進來的球員在隊上扛起重任，我知道你把我的話聽進去了。做得好！">
 <COND id="173" value="100"/>
 </OBJ><!--
 <OBJ id="41164" text="It's not only about the quantity, but the quantity.  When I told you to improve our drafting record, I never expected to see progress so fast. The performance by our home-grown players has been incredible this year!">
 <COND id="173" value="100"/>
 </OBJ>-->
-<OBJ id="41165" text="The biggest aspect of making sure the team can successfully get back to competing after a rebuild is to draft well, and promote players at the right time. I can see from the team we field that you certainly have a knack for that.">
+<OBJ id="41165" text="要讓球隊在重建之後順利回到競爭行列，最重要的一環就是選秀選得好，並在對的時機把球員拉上來。從我們現在派出的陣容看得出來，你在這方面確實很有一套。">
 <COND id="173" value="100"/>
 <COND id="182" value="2"/>
 </OBJ>
-<OBJ id="41166" text="Keep up the good drafting and developing. The more guys that we drafted and developed that make it to the big show, the better we'll be for it. Need to build the team through cost-controlled talent, and you've done a good job so far of that.">
+<OBJ id="41166" text="請繼續維持這樣的選秀與培養。我們自己選進、自己養大並打上大聯盟的球員愈多，對我們愈有利。球隊必須靠薪資可控的人才來打造，而你到目前為止做得很好。">
 <COND id="173" value="50"/>
 <COND id="174" value="99"/>
 </OBJ><!--
@@ -112702,11 +112702,11 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <COND id="174" value="99"/>
 </OBJ>-->
 <OBJ id="41169">
-<TXT>I know it can take some time to get guys from the draft to the lineup, but keep working at it. I know we have some talent in the farm itching for a trip to the big show - make sure they're ready, and then give them a chance. You might be impressed with what they can do.</TXT>
+<TXT>我知道要把選秀球員送上先發打線需要一些時間，但請繼續努力。我知道我們農場裡有些人才正渴望上大聯盟——確認他們準備好了，然後給他們機會。他們的表現說不定會讓你驚豔。</TXT>
 <COND id="173" value="10"/>
 <COND id="174" value="55"/>
 </OBJ>
-<OBJ id="41170" text="You can't rebuild a group overnight, but keep looking for opportunities to bring the guys we drafted to the team. The years they spent through the organization should serve them well.">
+<OBJ id="41170" text="一個團隊沒辦法一夜之間重建完成，但請繼續尋找機會，把我們選進來的球員拉上一軍。他們在球團裡待的那些年，應該會讓他們受用無窮。">
 <COND id="173" value="10"/>
 <COND id="174" value="50"/>
 </OBJ><!--
@@ -112718,13 +112718,13 @@ For the series, [%personlink#1 L] had a [%pitching era] ERA over [%pitching ip] 
 <COND id="173" value="10"/>
 <COND id="174" value="50"/>
 </OBJ>-->
-<OBJ id="41173" text="I notice a lack of home-grown talent on the roster. How do you expect to compete without anyone we've developed on the team?">
+<OBJ id="41173" text="我注意到名單上缺乏自家培養的人才。隊上沒有半個我們自己養出來的球員，你要怎麼競爭？">
 <COND id="174" value="30"/>
 </OBJ><!--
 <OBJ id="41174" text="I always say that the best way to win is with players you've drafted and developed. I don't see very many of those guys on the roster now. Hopefully next year's draft will prove more fruitful.">
 <COND id="174" value="30"/>
 </OBJ>-->
-<OBJ id="41175" text="Don't be afraid to promote players to the big leagues. We need more home-grown talent on the big club, or else we'll never be able to truly compete in this league.">
+<OBJ id="41175" text="別害怕把球員拉上大聯盟。一軍需要更多自家培養的人才，否則我們永遠沒辦法在這個聯盟裡真正競爭。">
 <COND id="174" value="30"/>
 <COND id="182" value="2"/>
 </OBJ>

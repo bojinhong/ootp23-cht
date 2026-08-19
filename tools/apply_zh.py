@@ -22,6 +22,9 @@ PLACEHOLDER_RE = re.compile(r"\[%[^\]]*\]")
 BRACE_RE = re.compile(r"\{[^}]*\}")
 ASCII_WORD_RE = re.compile(r"[A-Za-z]{2,}")
 
+# gui_translations.xml 裡照原樣留著的專有名詞，殘留英文檢查要放行
+KEEP_EN = {"BNN"}
+
 
 def strip_markup(s):
     """去掉佔位符、{a|b} 選項與 (nl)，剩下的才是真正要看的譯文。"""
@@ -46,7 +49,8 @@ def check(oid, en, zh):
     zh_arity = {b.count("|") for b in BRACE_RE.findall(zh)}
     if zh_arity - en_arity:
         bad.append(f"{{a|b}} 分支數不符 {sorted(en_arity)} -> {sorted(zh_arity)}")
-    left = ASCII_WORD_RE.findall(strip_markup(zh))
+    left = [w for w in ASCII_WORD_RE.findall(strip_markup(zh))
+            if w not in KEEP_EN]
     if left:
         bad.append(f"殘留英文單字 {left}")
     return [f"{oid}: {m}" for m in bad]
