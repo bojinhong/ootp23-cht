@@ -102075,77 +102075,77 @@ According to financial insiders with knowledge of the new owner, he is [%string#
 </CAT>
 
 <CAT id="723">
-<OBJ id="30866" text="I am sorry, but we seem to be quite far apart. How about the following terms:">
+<OBJ id="30866" text="很抱歉，我們的差距似乎相當大。以下這些條件如何：">
 <COND id="39" value="-3"/>
 </OBJ>
-<OBJ id="30867" text="This is not what I had in mind, to be honest. However, how do you like these terms:">
+<OBJ id="30867" text="老實說，這跟我想的不一樣。不過，你覺得這些條件如何：">
 <COND id="39" value="-2"/>
 </OBJ>
-<OBJ id="30868" text="The salary is close to what I think could be a fair deal. How about this counter-offer:">
+<OBJ id="30868" text="這個薪資已經接近我認為合理的水準了。這個還價如何：">
 <COND id="39" value="-1"/>
 </OBJ>
-<OBJ id="30869" text="Okay, I would agree on the salary, but please give me two more years. Here's what I think would work:">
+<OBJ id="30869" text="好，薪資我可以接受，但請再多給我兩年。我認為這樣可行：">
 <COND id="40" value="-2"/>
 <COND id="39" value="0"/>
 </OBJ>
-<OBJ id="30870" text="We agree on the money, however I'd suggest rethinking the length of the contract. I want a long-term deal with at least 3 more years. How about this:">
+<OBJ id="30870" text="錢的部分我們有共識，不過合約年限我建議重新考慮。我想要一份至少再多三年的長約。這樣如何：">
 <COND id="40" value="-3"/>
 <COND id="39" value="0"/>
 </OBJ>
-<OBJ id="30871" text="We almost agree, the salary is fair. But please include another year, then I'd be willing to sign the contract.">
+<OBJ id="30871" text="我們幾乎談成了，薪資很合理。但請再加一年，這樣我就願意簽下這份合約。">
 <COND id="40" value="-1"/>
 <COND id="39" value="0"/>
 </OBJ>
-<OBJ id="30872" text="Thank you for considering me for a long-term deal, but I would rather have a shorter contract. How about this:">
+<OBJ id="30872" text="謝謝你考慮給我一份長約，不過我比較希望簽短一點。這樣如何：">
 <COND id="40" value="2"/>
 </OBJ>
-<OBJ id="30873" text="Thank you, this offer suits my needs. I am certain I won't change my mind and will sign the contract extension in a few days.">
+<OBJ id="30873" text="謝謝，這份報價符合我的需求。我確定不會改變心意，過幾天就會簽下這份延長合約。">
 <COND id="24" value="1"/>
 <COND id="39" value="0"/>
 <COND id="40" value="0"/>
 </OBJ>
-<OBJ id="30874" text="Thank you for the offer, it certainly fits my needs. If no other team tops your offer, I'll gladly sign. Expect to hear from me soon.">
+<OBJ id="30874" text="謝謝你的報價，這確實符合我的需求。只要沒有其他球隊開出更好的條件，我很樂意簽下。很快就會給你消息。">
 <COND id="39" value="0"/>
 <COND id="40" value="0"/>
 <COND id="24" value="0"/>
 </OBJ>
-<OBJ id="30875" text="Thank you for the generous offer, it certainly fits my needs. You can expect to hear from me soon.">
+<OBJ id="30875" text="謝謝你這麼慷慨的報價，這確實符合我的需求。很快就會給你消息。">
 <COND id="39" value="1"/>
 <COND id="40" value="0"/>
 </OBJ>
-<OBJ id="30876" text="This is a reasonable offer. You can expect to hear from me soon!">
+<OBJ id="30876" text="這是個合理的報價。很快就會給你消息！">
 <COND id="39" value="0"/>
 <COND id="40" value="1"/>
 </OBJ>
-<OBJ id="30877" text="This is a very fair offer, thank you. I will be in touch with you very soon.">
+<OBJ id="30877" text="這是個非常公道的報價，謝謝。我很快就會跟你聯絡。">
 <COND id="39" value="1"/>
 <COND id="40" value="1"/>
 </OBJ>
-<OBJ id="31827" text="We are close on the money, and I'd suggest rethinking the length of the contract. I want a long-term deal with at least 3 more years. How about this:">
+<OBJ id="31827" text="錢的部分我們很接近了，不過合約年限我建議重新考慮。我想要一份至少再多三年的長約。這樣如何：">
 <COND id="39" value="-1"/>
 <COND id="40" value="-3"/>
 </OBJ>
-<OBJ id="31828" text="We are close on the money, and I'd suggest rethinking the length of the contract. I am thinking at least a few more years. How about this:">
+<OBJ id="31828" text="錢的部分我們很接近了，不過合約年限我建議重新考慮。我想的是至少再多幾年。這樣如何：">
 <COND id="39" value="-1"/>
 <COND id="40" value="-2"/>
 </OBJ>
-<OBJ id="31829" text="Not even close on the money, and I'd also suggest rethinking the length of the contract. I am thinking at least a few more years. How about this:">
+<OBJ id="31829" text="錢的部分差得遠，而且合約年限我也建議重新考慮。我想的是至少再多幾年。這樣如何：">
 <COND id="39" value="-3"/>
 <COND id="40" value="-2"/>
 </OBJ>
-<OBJ id="31830" text="I am happy with the dollar value of the deal but don't want to be tied up that long. Here is something I think will work:">
+<OBJ id="31830" text="這筆交易的金額我很滿意，但我不想被綁這麼久。我認為這樣可行：">
 <COND id="40" value="2"/>
 <COND id="39" value="0"/>
 </OBJ>
-<OBJ id="31831" text="The contract length is perfect, but you will have to up the salary to get me signed. How about:">
+<OBJ id="31831" text="合約年限剛剛好，但你得把薪資提高才簽得下我。這樣如何：">
 <COND id="40" value="1"/>
 <COND id="39" value="-2"/>
 </OBJ>
-<OBJ id="31832" text="The contract length is perfect, but you will have to open the wallet if you want me to even consider signing. Here's what I am thinking:">
+<OBJ id="31832" text="合約年限剛剛好，但你要我連考慮都願意考慮，就得把荷包打開。我的想法是這樣：">
 <COND id="40" value="0"/>
 <COND id="39" value="-3"/>
 </OBJ>
-<OBJ id="31833" text="I'm itchin' to sign, but your offer's still a bit low. I think we can hammer something out, if you'll consider these terms:">
+<OBJ id="31833" text="我很想簽，但你的報價還是低了一點。我想我們談得攏，如果你願意考慮這些條件的話：">
 <COND id="39" value="-1"/>
 <COND id="24" value="1"/>
 </OBJ><!--
@@ -102167,7 +102167,7 @@ According to financial insiders with knowledge of the new owner, he is [%string#
 <OBJ id="31839" text="I think we're on the cusp of making a deal. Let's get there. Here's what'll do it:">
 <COND id="39" value="-1"/>
 </OBJ>-->
-<OBJ id="31840" text="I'm thrilled with your latest offer. Let's get this deal done!">
+<OBJ id="31840" text="我對你最新的報價非常滿意。我們把這筆約談成吧！">
 <COND id="39" value="1"/>
 <COND id="24" value="1"/>
 </OBJ><!--
@@ -102179,7 +102179,7 @@ According to financial insiders with knowledge of the new owner, he is [%string#
 <COND id="39" value="1"/>
 <COND id="24" value="1"/>
 </OBJ>-->
-<OBJ id="31843" text="I'd be pleased to sign with your team according to the terms of your latest offer. Let's do it!">
+<OBJ id="31843" text="我很樂意照你最新的報價條件跟貴隊簽約。就這麼辦！">
 <COND id="39" value="1"/>
 <COND id="24" value="0"/>
 </OBJ><!--
@@ -102187,7 +102187,7 @@ According to financial insiders with knowledge of the new owner, he is [%string#
 <COND id="39" value="1"/>
 <COND id="24" value="0"/>
 </OBJ>-->
-<OBJ id="31845" text="I want to let you know that I'm pleased with the terms of your latest offer. As soon as I can, I'll sign off on the contract.">
+<OBJ id="31845" text="我想讓你知道，我對你最新的報價條件很滿意。我會盡快把合約簽好。">
 <COND id="39" value="1"/>
 </OBJ><!--
 <OBJ id="31846" text="I'd be pleased to sign with your team according to the terms of your latest offer. Let's do it!">
@@ -102204,7 +102204,7 @@ According to financial insiders with knowledge of the new owner, he is [%string#
 <OBJ id="31849" text="That is a disappointing offer. I would need significantly more money to consider signing. Something along the following terms:">
 <COND id="39" value="-3"/>
 </OBJ>-->
-<OBJ id="31850" text="I believe I can command much more money from other teams. Sorry, but you'll have to make a much better offer to have a chance to sign me. Here's what will get it done:">
+<OBJ id="31850" text="我相信自己在別的球隊能拿到多得多的錢。抱歉，你得開出好得多的條件才有機會簽下我。這樣才成：">
 <COND id="39" value="-3"/>
 <COND id="24" value="0"/>
 </OBJ><!--
@@ -102258,11 +102258,11 @@ According to financial insiders with knowledge of the new owner, he is [%string#
 <COND id="39" value="0"/>
 <COND id="24" value="0"/>
 </OBJ>-->
-<OBJ id="31963" text="You want me to re-sign for that! It's a little insulting. Here is what I feel I am worth:">
+<OBJ id="31963" text="你要我用這種條件續約！這有點侮辱人。這才是我認為自己的價值：">
 <COND id="24" value="1"/>
 <COND id="39" value="-3"/>
 </OBJ>
-<OBJ id="31964" text="You will have to up the ante if you want me to stay. Here is what I am seeking:">
+<OBJ id="31964" text="你想留我，就得再加碼。這是我要的：">
 <COND id="24" value="1"/>
 <COND id="39" value="-2"/>
 </OBJ><!--
@@ -102278,7 +102278,7 @@ According to financial insiders with knowledge of the new owner, he is [%string#
 <COND id="24" value="0"/>
 <COND id="39" value="-3"/>
 </OBJ>-->
-<OBJ id="31968" text="You can do better than that. I am willing to negotiate with you but don't wait too long as other teams have been calling. Here is what I think is reasonable:">
+<OBJ id="31968" text="你可以開得更好。我願意跟你談，但別拖太久，其他球隊一直在打電話來。我認為這樣才合理：">
 <COND id="24" value="0"/>
 <COND id="39" value="-2"/>
 </OBJ><!--
@@ -102290,11 +102290,11 @@ According to financial insiders with knowledge of the new owner, he is [%string#
 <COND id="24" value="0"/>
 <COND id="39" value="-2"/>
 </OBJ>-->
-<OBJ id="31971" text="I think we are getting close, but you are going to have to better your offer or else I will have to sign elsewhere. Here are my demands:">
+<OBJ id="31971" text="我想我們快談成了，但你得把條件開得更好，否則我只能簽去別的地方。這是我的要求：">
 <COND id="24" value="0"/>
 <COND id="39" value="-1"/>
 </OBJ>
-<OBJ id="31972" text="Yes, that is an acceptable offer. I'll get back to you soon.">
+<OBJ id="31972" text="好，這是個可以接受的報價。我很快會回覆你。">
 <COND id="39" value="0"/>
 <COND id="40" value="0"/>
 </OBJ><!--
@@ -102309,10 +102309,10 @@ According to financial insiders with knowledge of the new owner, he is [%string#
 </CAT>
 
 <CAT id="724">
-<OBJ id="30878" text="Thank you for taking the time to kick off contract extension talks. Here is my initial offer:">
+<OBJ id="30878" text="謝謝你撥空展開延長合約的洽談。這是我的初步報價：">
 <COND id="24" value="1"/>
 </OBJ>
-<OBJ id="30879" text="I am glad you are interested in my services! These are the terms I envision for a contract:">
+<OBJ id="30879" text="很高興你對我的效力有興趣！這是我心目中的合約條件：">
 <COND id="24" value="0"/>
 </OBJ><!--
 <OBJ id="31802" text="I'm hoping to get a contract extension signed as soon as possible. This is what I'm thinking at the moment:">
@@ -106391,11 +106391,11 @@ I've seen bad locker rooms before, and we've worked our way through them in the 
 
 <CAT id="762">
 <OBJ id="37355">
-<TXT>It's important to lock up our key pieces. That's the reason I went ahead and made sure that [%personlink f l] will stay a member of our team for a long time.  It was important to bring him back, and [%contract years] years for [%contract salary total] total seemed like a good offer to me.</TXT>
+<TXT>把我們的關鍵戰力綁住很重要。所以我直接出手，確保 [%personlink f l] 會長期留在我們隊上。把他留下來很重要，而 [%contract years] 年總額 [%contract salary total] 在我看來是個不錯的條件。</TXT>
 <COND id="25" value="2"/>
 </OBJ>
 <OBJ id="37356">
-<TXT>I know you thought you might have to wait longer to get him under contract, but I decided to save you some time and make sure that [%personlink f l] signed on the dotted line. It's only for [%contract years] year, but [%contract salary total] definitely looked like a good price to me.</TXT>
+<TXT>我知道你以為得再等一陣子才簽得下他，但我決定替你省點時間，直接讓 [%personlink f l] 簽了字。雖然只有 [%contract years] 年，但 [%contract salary total] 在我看來絕對是個好價錢。</TXT>
 <COND id="137" value="1"/>
 </OBJ><!--
 <OBJ id="63961">
@@ -107772,11 +107772,11 @@ The club's [%team record num] record has allowed it to officially seal up the di
 
 <CAT id="774">
 <OBJ id="38278">
-<TXT>The [%teamlink nick] have officially clinched a spot in the postseason after today's games. The club of course will still be looking to capture the top spot in the [%team division], but their [%team record num] record to this point guarantees a playoff berth.</TXT>
+<TXT>[%teamlink nick] 在今天的賽事結束後，正式確定取得季後賽門票。球隊當然仍會力拚 [%team division] 龍頭，但目前 [%team record num] 的戰績已經保證了季後賽席次。</TXT>
 <COND id="154" value="0"/>
 </OBJ>
 <OBJ id="38340">
-<TXT>The [%teamlink nick] will be going to the postseason.(nl)(nl)While it remains to be seen if they will officially capture the [%team division] crown, the club will have a spot in the playoffs.(nl)(nl)&quot;It's a weight off our shoulders for sure,&quot; said manager [%team managerlink].</TXT>
+<TXT>[%teamlink nick] 將前進季後賽。(nl)(nl)雖然他們能否正式拿下 [%team division] 冠軍還有待觀察，但球隊已經確定會有一個季後賽席次。(nl)(nl)「這絕對是卸下了肩上的重擔。」總教練 [%team managerlink] 說。</TXT>
 <COND id="154" value="0"/>
 <COND id="159" value="1"/>
 </OBJ><!--
@@ -107799,18 +107799,18 @@ The club's [%team record num] record has allowed it to officially seal up the di
 <COND id="154" value="0"/>
 </OBJ>-->
 <OBJ id="38345">
-<TXT>The manager of the [%teamlink nick] said it doesn't matter how you get to the postseason, it only matters how you do once you're there.(nl)(nl)That's the axiom the club will no doubt be abiding by as today they have secured a wild card spot.(nl)(nl)&quot;We've got just as much chance to win a [%leaguefinals] as anyone else now,&quot; manager [%team managerlink].(nl)(nl)The club's [%team record num] record led them to the postseason berth and they will be seeking their [%team number champions] championship.</TXT>
+<TXT>[%teamlink nick] 的總教練說，怎麼進季後賽不重要，重要的是進去之後打得如何。(nl)(nl)這無疑就是球隊今天鎖定外卡席次後會奉行的信條。(nl)(nl)「現在我們拿下 [%leaguefinals] 的機會跟任何人都一樣大。」總教練 [%team managerlink] 說。(nl)(nl)球隊 [%team record num] 的戰績帶他們拿下季後賽門票，他們將力拚隊史第 [%team number champions] 座冠軍。</TXT>
 <COND id="154" value="1"/>
 <COND id="159" value="1"/>
 <COND id="157" value="4"/>
 </OBJ>
 <OBJ id="38346">
-<TXT>The [%teamlink nick] fell short of a [%team division] crown, but they have still clinched a spot in the playoffs.(nl)(nl)Manager [%team managerlink] said regardless of how {his|her|their} team gets into the postseason they have a good shot at bringing home the [%leaguefinals] championship.(nl)(nl)&quot;We just have to concentrate on playing good baseball at the right time,&quot; {he|she|they} said.</TXT>
+<TXT>[%teamlink nick] 沒能拿下 [%team division] 冠軍，但仍舊確定了季後賽席次。(nl)(nl)總教練 [%team managerlink] 表示，不論球隊用什麼方式打進季後賽，他們都很有機會把 [%leaguefinals] 冠軍帶回家。(nl)(nl)「我們只要專心在對的時候打出好棒球就行了。」{他|她|他們}說。</TXT>
 <COND id="154" value="1"/>
 <COND id="159" value="1"/>
 </OBJ>
 <OBJ id="38347">
-<TXT>The [%teamlink nick] have secured a berth in the [%leaguename] playoffs.(nl)(nl)The club officially claimed a wild card position today, on the strength of their [%team record num] record.(nl)(nl)&quot;Obviously we would have liked to have won the [%team division], but we're still proud of our accomplishment,&quot; said [%playerposition] [%playerlink].(nl)(nl)The club will be vying for their franchise's [%team number champions] championship when the playoffs get underway.</TXT>
+<TXT>[%teamlink nick] 已確定取得 [%leaguename] 季後賽席次。(nl)(nl)球隊今天憑著 [%team record num] 的戰績，正式拿下一張外卡。(nl)(nl)「當然我們會希望拿下 [%team division]，但我們還是對自己的成就感到驕傲。」[%playerposition] [%playerlink] 說。(nl)(nl)季後賽開打後，球隊將力拚隊史第 [%team number champions] 座冠軍。</TXT>
 <COND id="154" value="1"/>
 <COND id="157" value="3"/>
 </OBJ><!--
@@ -107825,7 +107825,7 @@ The club's [%team record num] record has allowed it to officially seal up the di
 <COND id="159" value="1"/>
 </OBJ>-->
 <OBJ id="38442">
-<TXT>The [%teamlink nick] will be going to the postseason.(nl)(nl)While it remains to be seen if they will officially capture the [%team division] crown, the club will have a spot in the playoffs.(nl)(nl)&quot;It's a weight off our shoulders for sure,&quot; said the team manager.</TXT>
+<TXT>[%teamlink nick] 將前進季後賽。(nl)(nl)雖然他們能否正式拿下 [%team division] 冠軍還有待觀察，但球隊已經確定會有一個季後賽席次。(nl)(nl)「這絕對是卸下了肩上的重擔。」球隊總教練說。</TXT>
 <COND id="154" value="0"/>
 <COND id="159" value="0"/>
 </OBJ><!--
@@ -107835,7 +107835,7 @@ The club's [%team record num] record has allowed it to officially seal up the di
 <COND id="159" value="0"/>
 </OBJ>-->
 <OBJ id="38444">
-<TXT>The manager of the [%teamlink nick] said it doesn't matter how you get to the postseason, it only matters how you do once you're there.(nl)(nl)That's the axiom the club will no doubt be abiding by as today they have secured a wild card spot.(nl)(nl)&quot;We've got just as much chance to win a [%leaguefinals] as anyone else now,&quot; manager [%team managerlink].(nl)(nl)The club's [%team record num] record led them to the postseason berth and they will be seeking their [%team number champions] championship.</TXT>
+<TXT>[%teamlink nick] 的總教練說，怎麼進季後賽不重要，重要的是進去之後打得如何。(nl)(nl)這無疑就是球隊今天鎖定外卡席次後會奉行的信條。(nl)(nl)「現在我們拿下 [%leaguefinals] 的機會跟任何人都一樣大。」總教練 [%team managerlink] 說。(nl)(nl)球隊 [%team record num] 的戰績帶他們拿下季後賽門票，他們將力拚隊史第 [%team number champions] 座冠軍。</TXT>
 <COND id="154" value="1"/>
 <COND id="159" value="0"/>
 </OBJ><!--
@@ -107893,7 +107893,7 @@ The club's [%team record num] record has allowed it to officially seal up the di
 <COND id="154" value="0"/>
 </OBJ>-->
 <OBJ id="38660">
-<TXT>The [%teamlink nick] have won a wild card position and are off to the postseason.(nl)(nl)&quot;Of course we set out to win the division, but in the end it doesn't matter how you get into the playoffs, as long as you get there,&quot; said [%playerposition] [%playerlink].(nl)(nl)The team's record is currently [%team record num] and they will be looking to win the [%team number champions] [%leaguename] championship in team history.</TXT>
+<TXT>[%teamlink nick] 拿下外卡席次，確定前進季後賽。(nl)(nl)「我們當然是以分區冠軍為目標，但說到底，怎麼進季後賽並不重要，重要的是進得去。」[%playerposition] [%playerlink] 說。(nl)(nl)球隊目前戰績為 [%team record num]，他們將力拚隊史第 [%team number champions] 座 [%leaguename] 冠軍。</TXT>
 <COND id="154" value="1"/>
 </OBJ><!--
 <OBJ id="38661">
@@ -107938,7 +107938,7 @@ The club's [%team record num] record has allowed it to officially seal up the di
 <COND id="154" value="1"/>
 </OBJ>-->
 <OBJ id="38670">
-<TXT>For a team that has never won a [%leaguefinals], how you get to the postseason isn't the important part. The important part is simply that you get there and thus, the [%teamlink nick] excitedly celebrated their [%subleaguename] wild card berth tonight.(nl)(nl)&quot;There's only one thing that everyone on this team wants and that's to be champions. We want to bring a title home to [%teamname] and this is the first step,&quot; said [%playerposition] [%playerlink]. &quot;Of course we would have loved to win the division, but we look forward to the challenge ahead.&quot;(nl)(nl)It will be the [%team number champions] [%leaguename] championship in franchise history for the team if they can pull it off.(nl)(nl)&quot;That's the ultimate goal,&quot; added the [%playerposition].</TXT>
+<TXT>對一支從未拿過 [%leaguefinals] 的球隊來說，怎麼進季後賽並不是重點，重點是進得去。因此今晚 [%teamlink nick] 興奮地慶祝他們拿下的 [%subleaguename] 外卡席次。(nl)(nl)「這支球隊每個人只想要一件事，就是奪冠。我們想把冠軍帶回 [%teamname]，而這是第一步。」[%playerposition] [%playerlink] 說。「當然我們也很想拿下分區冠軍，但我們很期待接下來的挑戰。」(nl)(nl)如果真能辦到，那將是隊史第 [%team number champions] 座 [%leaguename] 冠軍。(nl)(nl)「那才是最終目標。」這位 [%playerposition] 補充道。</TXT>
 <COND id="153" value="1"/>
 <COND id="154" value="1"/>
 </OBJ><!--
@@ -108054,8 +108054,7 @@ The club's [%team record num] record has allowed it to officially seal up the di
 <COND id="154" value="1"/>
 </OBJ>-->
 <OBJ id="38911">
-<TXT>It wasn't quick or easy for the [%teamlink nick], but they have clinched a berth in the postseason.(nl)(nl)While they couldn't capture the [%team division] crown, the club has cinched up a wild card berth late in the season.(nl)(nl)&quot;You come close to not getting a chance in the postseason and it starts to worry you,&quot; said [%playerposition] [%playerlink]. &quot;This is a huge relief for our guys and we're going to celebrate it.&quot;(nl)(nl)The team will be looking for its [%team number champions] [%leaguename] championship.
-</TXT>
+<TXT>對 [%teamlink nick] 來說，這條路既不快也不輕鬆，但他們終究確定了季後賽席次。(nl)(nl)雖然沒能拿下 [%team division] 冠軍，球隊還是在球季尾聲搶下了一張外卡。(nl)(nl)「差一點就要跟季後賽無緣，那時候真的會開始擔心。」[%playerposition] [%playerlink] 說。「這對我們全隊是莫大的解脫，我們要好好慶祝一下。」(nl)(nl)球隊將力拚隊史第 [%team number champions] 座 [%leaguename] 冠軍。</TXT>
 <COND id="154" value="1"/>
 <COND id="158" value="4"/>
 </OBJ><!--
@@ -108083,14 +108082,13 @@ The club's [%team record num] record has allowed it to officially seal up the di
 <COND id="159" value="1"/>
 </OBJ>-->
 <OBJ id="38920">
-<TXT>The [%teamlink nick] have won a wild card spot with plenty of time to spare in the [%leaguename] season, which the team's manager said will play to their advantage.(nl)(nl)&quot;We've got a good chance to set up our lineups and our rotation the way we want to now, so we're ready to hit the ground running come the playoffs,&quot; said [%team managerlink].(nl)(nl)It was perhaps a bit of a foregone conclusion, but today the postseason berth became official as the team has a [%team record num] record and no longer have a challenger in striking range to catch them.(nl)(nl)&quot;We were a bit surprised to know we had already clinched it,&quot; said [%playerposition] [%personlink]. &quot;I think we'll do some celebrating tonight and then back to business.&quot;</TXT>
+<TXT>[%teamlink nick] 在 [%leaguename] 球季還剩不少時間時就拿下外卡席次，球隊總教練表示這對他們有利。(nl)(nl)「我們現在有充裕的機會把打線和輪值調整成想要的樣子，等季後賽一開打就能全速前進。」[%team managerlink] 說。(nl)(nl)這或許早在意料之中，但今天季後賽席次正式底定，球隊戰績來到 [%team record num]，追趕範圍內已經沒有任何對手。(nl)(nl)「知道我們已經確定晉級時還有點意外。」[%playerposition] [%personlink] 說。「我想我們今晚會慶祝一下，然後就回到正事上。」</TXT>
 <COND id="154" value="1"/>
 <COND id="159" value="1"/>
 <COND id="157" value="10"/>
 </OBJ>
 <OBJ id="38924">
-<TXT>They couldn't win the [%team division], but the [%teamlink nick] have cruised to a wild card berth.(nl)(nl)&quot;The [%team division] was strong this year and I think we've shown that,&quot; said [%playerposition] [%playerlink]. &quot;I wouldn't be surprised if the [%leaguefinals] champion comes from our division and of course, we think that's going to be us.&quot;(nl)(nl)The team has a [%team record num] and they are looking for the [%team number champions] [%leaguename] championship in club history.
-</TXT>
+<TXT>他們沒能拿下 [%team division]，但 [%teamlink nick] 輕鬆地取得了外卡席次。(nl)(nl)「[%team division] 今年很強，我想我們已經證明了這一點。」[%playerposition] [%playerlink] 說。「如果 [%leaguefinals] 冠軍出自我們這一區，我一點也不意外，而我們當然認為那會是我們。」(nl)(nl)球隊戰績為 [%team record num]，他們正力拚隊史第 [%team number champions] 座 [%leaguename] 冠軍。</TXT>
 <COND id="154" value="1"/>
 <COND id="157" value="10"/>
 </OBJ><!--
@@ -108111,7 +108109,7 @@ The club's [%team record num] record has allowed it to officially seal up the di
 <COND id="159" value="0"/>
 </OBJ>-->
 <OBJ id="38928">
-<TXT>The [%teamlink nick] have won a wild card spot with plenty of time to spare in the [%leaguename] season, which the team's manager said will play to their advantage.(nl)(nl)&quot;We've got a good chance to set up our lineups and our rotation the way we want to now, so we're ready to hit the ground running come the playoffs,&quot; the skipper said.(nl)(nl)It was perhaps a bit of a foregone conclusion, but today the postseason berth became official as the team has a [%team record num] record and no longer have a challenger in striking range to catch them.(nl)(nl)&quot;We were a bit surprised to know we had already clinched it,&quot; said [%playerposition] [%personlink]. &quot;I think we'll do some celebrating tonight and then back to business.&quot;</TXT>
+<TXT>[%teamlink nick] 在 [%leaguename] 球季還剩不少時間時就拿下外卡席次，球隊總教練表示這對他們有利。(nl)(nl)「我們現在有充裕的機會把打線和輪值調整成想要的樣子，等季後賽一開打就能全速前進。」這位教頭說。(nl)(nl)這或許早在意料之中，但今天季後賽席次正式底定，球隊戰績來到 [%team record num]，追趕範圍內已經沒有任何對手。(nl)(nl)「知道我們已經確定晉級時還有點意外。」[%playerposition] [%personlink] 說。「我想我們今晚會慶祝一下，然後就回到正事上。」</TXT>
 <COND id="154" value="1"/>
 <COND id="157" value="10"/>
 <COND id="159" value="0"/>
@@ -108159,7 +108157,7 @@ The club's [%team record num] record has allowed it to officially seal up the di
 <COND id="154" value="0"/>
 </OBJ>-->
 <OBJ id="39059">
-<TXT>They haven't yet won the [%teamlink nick], but a trip to the playoffs is now assured for the [%team division].(nl)(nl)&quot;We did exactly what we said we were going to do - playoffs,&quot; [%playerposition] [%playerlink] said matter-of-factly.(nl)(nl)The team's record sits at [%team record num] and they will be attempting to win the [%team number champions] [%leaguename] championship in franchise history.</TXT>
+<TXT>[%teamlink nick] 還沒拿下 [%team division]，但季後賽門票已經到手。(nl)(nl)「我們說到做到——季後賽。」[%playerposition] [%playerlink] 直截了當地說。(nl)(nl)球隊戰績為 [%team record num]，他們將力拚隊史第 [%team number champions] 座 [%leaguename] 冠軍。</TXT>
 <COND id="154" value="0"/>
 <COND id="157" value="15"/>
 </OBJ><!--
@@ -108225,7 +108223,7 @@ The club's [%team record num] record has allowed it to officially seal up the di
 <COND id="157" value="10"/>
 </OBJ>-->
 <OBJ id="39074">
-<TXT>The [%teamlink nick] certainly made things interesting.(nl)(nl)The [%team division] club have battled to the bitter end and have come up with a wild card berth.(nl)(nl)&quot;It's satisfying to clinch the playoffs so late in the season,&quot; said [%playerposition] [%playerlink]. &quot;You start to doubt yourself and wonder if you can even make it.&quot;(nl)(nl)But the [%teamnickname] have in fact made it, with their [%team record num] record holding up to now give them a chance at the franchise's [%team number champions] [%leaguename] championship.</TXT>
+<TXT>[%teamlink nick] 確實讓事情變得很有看頭。(nl)(nl)這支 [%team division] 的球隊一路奮戰到最後，終於搶下一張外卡。(nl)(nl)「這麼晚才確定季後賽席次，感覺很滿足。」[%playerposition] [%playerlink] 說。「你會開始懷疑自己，甚至懷疑到底進不進得去。」(nl)(nl)但 [%teamnickname] 確實辦到了，[%team record num] 的戰績撐到了最後，讓他們有機會爭取隊史第 [%team number champions] 座 [%leaguename] 冠軍。</TXT>
 <COND id="154" value="1"/>
 <COND id="158" value="2"/>
 </OBJ><!--
@@ -108255,7 +108253,7 @@ The club's [%team record num] record has allowed it to officially seal up the di
 <COND id="158" value="2"/>
 </OBJ>-->
 <OBJ id="39080">
-<TXT>It's not the [%team division] championship that many in the organization had hoped for, but the [%teamlink nick] are off to the playoffs nonetheless.(nl)(nl)The team today won a wild card berth and will seek to prove themselves as one of [%leaguename]'s elite once playoffs begin.(nl)(nl)&quot;You've got to silence some doubters when you go in as a wild card team, but we think we can do it,&quot; said [%playerposition] [%playerlink].</TXT>
+<TXT>這不是球團上下許多人期待的 [%team division] 冠軍，但 [%teamlink nick] 仍然前進季後賽。(nl)(nl)球隊今天拿下外卡席次，季後賽開打後將設法證明自己是 [%leaguename] 的頂尖球隊之一。(nl)(nl)「以外卡身分打進去，你就得讓那些質疑的人閉嘴，但我們認為我們做得到。」[%playerposition] [%playerlink] 說。</TXT>
 <COND id="154" value="1"/>
 <COND id="157" value="5"/>
 </OBJ><!--
@@ -108402,7 +108400,7 @@ The club's [%team record num] record has allowed it to officially seal up the di
 </CAT>
 
 <CAT id="776">
-<OBJ id="38276" text="Despite their best efforts, the [%teamlink nick] were officially eliminated from playoff contention today.">
+<OBJ id="38276" text="儘管已經盡了全力，[%teamlink nick] 今天仍正式失去季後賽資格。">
 <COND id="158" value="19"/>
 <COND id="157" value="10"/>
 </OBJ><!--
@@ -108410,16 +108408,16 @@ The club's [%team record num] record has allowed it to officially seal up the di
 <COND id="158" value="19"/>
 <COND id="157" value="10"/>
 </OBJ>-->
-<OBJ id="38351" text="It has been a historically bad season for the [%teamlink nick], so the news came as no surprise that the team has been officially eliminated from playoff contention.">
+<OBJ id="38351" text="這對 [%teamlink nick] 來說是歷史級糟糕的一季，因此球隊正式失去季後賽資格的消息並不令人意外。">
 <COND id="157" value="50"/>
 </OBJ>
-<OBJ id="38352" text="It is incredibly rare for a team to be mathematically eliminated from playoff contention this early in the season, but for a team as remarkably bad as the [%teamlink nick], that's exactly what has happened.">
+<OBJ id="38352" text="一支球隊在球季這麼早的階段就在數學上被淘汰極為罕見，但對於糟糕到如此地步的 [%teamlink nick] 來說，這正是發生的事。">
 <COND id="157" value="40"/>
 </OBJ><!--
 <OBJ id="38353" text="There hasn't been much to celebrate within the [%teamlink nick] organization this season. The latest milestone likely won't be cause for rejoice either - - the [%teamnickname] have officially been mathematically eliminated from the postseason.">
 <COND id="157" value="40"/>
 </OBJ>-->
-<OBJ id="38354" text="They were never really in the race anyway, but the [%teamlink nick] have now been officially eliminated from playoff contention.">
+<OBJ id="38354" text="反正他們本來就沒真的參與過競爭，而 [%teamlink nick] 現在已正式失去季後賽資格。">
 <COND id="157" value="30"/>
 </OBJ><!--
 <OBJ id="38355" text="The baseball world has known for a long time that the [%teamlink nick] were not destined for the playoffs this year. But now it is official, as the team was mathematically eliminated from postseason contention today.">
@@ -108434,7 +108432,7 @@ The club's [%team record num] record has allowed it to officially seal up the di
 <OBJ id="38358" text="A bad season for the [%teamlink nick] isn't going to end with a miracle turnaround. The club was officially eliminated from postseason contention today.">
 <COND id="157" value="30"/>
 </OBJ>-->
-<OBJ id="38359" text="It's been a year to forget for the [%teamlink nick] and the club has now been mathematically eliminated from postseason contention.">
+<OBJ id="38359" text="這是 [%teamlink nick] 想要忘掉的一年，球隊如今已在數學上失去季後賽資格。">
 <COND id="158" value="29"/>
 <COND id="157" value="20"/>
 </OBJ><!--
@@ -108494,7 +108492,7 @@ The club's [%team record num] record has allowed it to officially seal up the di
 <COND id="158" value="19"/>
 <COND id="157" value="10"/>
 </OBJ>-->
-<OBJ id="38374" text="Maybe next year for the [%teamlink nick]. The club stayed in the playoff picture for some time, but they were officially eliminated from contention today.">
+<OBJ id="38374" text="[%teamlink nick] 只能等明年了。球隊一度還在季後賽的討論之中，但今天正式失去了競爭資格。">
 <COND id="158" value="9"/>
 <COND id="157" value="5"/>
 </OBJ><!--
@@ -108535,20 +108533,20 @@ The club's [%team record num] record has allowed it to officially seal up the di
 <COND id="158" value="9"/>
 <COND id="157" value="5"/>
 </OBJ>-->
-<OBJ id="38384" text="The [%teamlink nick] will play out the rest of the schedule, but they will do so without any chance of making the playoffs. The club was mathematically eliminated from playoff contention today.">
+<OBJ id="38384" text="[%teamlink nick] 仍會把剩下的賽程打完，只是打的時候已經沒有任何進入季後賽的機會。球隊今天在數學上正式失去季後賽資格。">
 <COND id="158" value="4"/>
 </OBJ>
-<OBJ id="38385" text="The season showed promise, but it is now a mathematical certainty that the [%teamlink nick] will finish the [%leagueyear] season empty-handed.(nl)(nl)&quot;Our guys are disappointed,&quot; said [%teamname] manager [%team managerlink].">
+<OBJ id="38385" text="這一季本來很有希望，但如今在數學上已經確定，[%teamlink nick] 將空手結束 [%leagueyear] 球季。(nl)(nl)「我們的球員都很失望。」[%teamname] 總教練 [%team managerlink] 說。">
 <COND id="158" value="4"/>
 <COND id="159" value="1"/>
 <COND id="157" value="2"/>
 </OBJ>
-<OBJ id="38386" text="The dreams of a playoff berth are over for the [%teamlink nick]. The club today was officially eliminated from postseason contention.">
+<OBJ id="38386" text="[%teamlink nick] 的季後賽夢碎。球隊今天正式失去季後賽資格。">
 <COND id="158" value="4"/>
 <COND id="157" value="3"/>
 </OBJ>
 <OBJ id="38387">
-<TXT>The [%teamlink nick] were mathematically eliminated from contention for the [%leagueyear] playoffs today.(nl)(nl)&quot;You just wonder if you could have done more to get in a better position at this time of year,&quot; said a dejected [%teamnickname] manager [%team managerlink].</TXT>
+<TXT>[%teamlink nick] 今天在數學上失去了 [%leagueyear] 季後賽的競爭資格。(nl)(nl)「你就是會忍不住想，在一年的這個時候，自己是不是還能多做點什麼把位置站得更好。」神情沮喪的 [%teamnickname] 總教練 [%team managerlink] 說。</TXT>
 <COND id="158" value="4"/>
 <COND id="159" value="1"/>
 <COND id="157" value="3"/>
@@ -108584,7 +108582,7 @@ The club's [%team record num] record has allowed it to officially seal up the di
 <COND id="158" value="4"/>
 <COND id="157" value="3"/>
 </OBJ>-->
-<OBJ id="38395" text="They remained in the thick of things for most of the [%leagueyear] season, but the hopes of a playoff berth are now over for the [%teamlink nick]. Today, the team was mathematically eliminated from qualifying for the playoff.">
+<OBJ id="38395" text="他們在 [%leagueyear] 球季大部分時間都身處戰局之中，但 [%teamlink nick] 的季後賽希望如今已經破滅。今天，球隊在數學上失去了取得季後賽資格的可能。">
 <COND id="158" value="4"/>
 <COND id="157" value="2"/>
 </OBJ><!--
@@ -108601,7 +108599,7 @@ The club's [%team record num] record has allowed it to officially seal up the di
 <COND id="158" value="4"/>
 <COND id="157" value="3"/>
 </OBJ>-->
-<OBJ id="38399" text="Heartbreaking. Agonizing. Devastating.(nl)(nl)They were all words being used by the [%teamlink nick] after today being mathematically eliminated from the playoffs.(nl)(nl)&quot;It stings to come this close but come up short,&quot; said manager [%team managerlink].">
+<OBJ id="38399" text="心碎。煎熬。毀滅性的打擊。(nl)(nl)這些都是 [%teamlink nick] 今天在數學上被季後賽淘汰後所用的字眼。(nl)(nl)「這麼接近卻功虧一簣，真的很痛。」總教練 [%team managerlink] 說。">
 <COND id="158" value="2"/>
 <COND id="159" value="1"/>
 </OBJ><!--
@@ -108730,7 +108728,7 @@ The club's [%team record num] record has allowed it to officially seal up the di
 <OBJ id="38601" text="It is an &quot;empty&quot; feeling for members of the [%teamlink nick], according to club manager [%team manager]. That's because the team was mathematically eliminated today from playoff contention.">
 <COND id="158" value="4"/>
 </OBJ>-->
-<OBJ id="38602" text="It came down to the wire, but in the end, a playoff bid escaped the [%teamlink nick]. The club was mathematically eliminated from postseason contention today.">
+<OBJ id="38602" text="一路纏鬥到最後，但 [%teamlink nick] 終究與季後賽無緣。球隊今天在數學上失去季後賽資格。">
 <COND id="158" value="2"/>
 </OBJ><!--
 <OBJ id="38603" text="The [%teamlink nick] clubhouse was dead quiet today with the realization that the club is now officially eliminated from playoff contention.">
@@ -108745,7 +108743,7 @@ The club's [%team record num] record has allowed it to officially seal up the di
 <OBJ id="38606" text="There will be no [%leaguefinals] parade in [%teamname]. The [%teamlink nick] today were officially eliminated from postseason contention.">
 <COND id="158" value="2"/>
 </OBJ>-->
-<OBJ id="38607" text="It's back to the drawing board for the [%teamlink nick]. The club's efforts at building a championship contender fell short this year, as the team was officially eliminated from playoff contention today.">
+<OBJ id="38607" text="[%teamlink nick] 只能回到原點重新規劃。球隊今年打造冠軍競爭者的努力功虧一簣，今天正式失去季後賽資格。">
 <COND id="157" value="6"/>
 </OBJ><!--
 <OBJ id="38608">
@@ -108755,7 +108753,7 @@ The club's [%team record num] record has allowed it to officially seal up the di
 <OBJ id="38609" text="While the [%teamlink nick] clubhouse is normally a jovial and upbeat place, things were extremely solemn today. That's because the club is now officially eliminated from playoff contention.">
 <COND id="158" value="2"/>
 </OBJ>-->
-<OBJ id="38610" text="The [%teamlink nick] will soon be packing their bags and heading home for the year. The [%leagueyear] season won't involve a playoff run for the club, as [%teamname] was mathematically eliminated from playoff contention today.">
+<OBJ id="38610" text="[%teamlink nick] 很快就要收拾行李回家過冬了。[%leagueyear] 球季對球隊來說不會有季後賽之旅，[%teamname] 今天在數學上失去了季後賽資格。">
 <COND id="149" value="2"/>
 </OBJ><!--
 <OBJ id="38611">
@@ -108946,7 +108944,7 @@ The club's [%team record num] record has allowed it to officially seal up the di
 <COND id="158" value="4"/>
 </OBJ>-->
 <OBJ id="38794">
-<TXT>[%teamlink nick] manager [%team managerlink] called today a &quot;dark day&quot; for {his|her|their} club. The [%teamnickname] were officially eliminated from playoff contention and will shift their focus to next season.(nl)(nl)&quot;There are probably worse days in the history of the [%teamname nickname], but right now this feels bad,&quot; [%team manager l] said.</TXT>
+<TXT>[%teamlink nick] 總教練 [%team managerlink] 稱今天是{他的|她的|他們的}球隊的「黑暗一日」。[%teamnickname] 正式失去季後賽資格，接下來將把重心轉向下個球季。(nl)(nl)「[%teamname nickname] 的歷史上大概還有更慘的日子，但此刻的感覺真的很糟。」[%team manager l] 說。</TXT>
 <COND id="158" value="4"/>
 <COND id="159" value="0"/>
 </OBJ><!--
@@ -108969,7 +108967,7 @@ The club's [%team record num] record has allowed it to officially seal up the di
 <COND id="158" value="4"/>
 </OBJ>-->
 <OBJ id="38800">
-<TXT>A close finish won't make it any easier for the [%teamlink nick] to end their season early. The club has now been mathematically eliminated from playoff contention for the [%leagueyear] season.(nl)(nl)&quot;There were some things broken and some things said that are not repeatable,&quot; [%teamnickname] manager [%team managerlink].</TXT>
+<TXT>結局咬得很緊，但這並不會讓 [%teamlink nick] 提早結束球季變得比較好受。球隊如今已在數學上失去 [%leagueyear] 球季的季後賽資格。(nl)(nl)「有些東西被砸壞了，也有些話是不能重複的。」[%teamnickname] 總教練 [%team managerlink] 說。</TXT>
 <COND id="159" value="1"/>
 <COND id="158" value="4"/>
 </OBJ><!--
