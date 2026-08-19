@@ -103183,37 +103183,37 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 </CAT>
 
 <CAT id="750">
-<OBJ id="37242" text="[%personname F L] has the reputation of being a forward thinker. {He|She|They} likes to play the matchups and is not a fan of small ball. {He|She|They} has plenty of experience.">
+<OBJ id="37242" text="[%personname F L] 素有前瞻思維的名聲。{他|她|他們}偏好操作對戰組合，不愛小球戰術，資歷也相當豐富。">
 <COND id="125" value="8"/>
 <COND id="126" value="9"/>
 <COND id="118" value="10"/>
 <COND id="114" value="2"/>
 </OBJ>
-<OBJ id="37243" text="[%personage]-year-old [%personname F L] has a decent reputation as a manager.  {He|She|They} seems to prefer a conventional approach to gameplay strategy.">
+<OBJ id="37243" text="[%personage] 歲的 [%personname F L] 在總教練圈有不錯的風評。{他|她|他們}在比賽策略上似乎偏好傳統路線。">
 <COND id="125" value="5"/>
 <COND id="126" value="6"/>
 <COND id="114" value="1"/>
 </OBJ>
-<OBJ id="37249" text="[%personname F L] has not yet established a reputation as a manager.  {His|Her|Their} managerial style, likewise, is unknown.">
+<OBJ id="37249" text="[%personname F L] 還沒建立起總教練的名聲，帶兵風格同樣讓人摸不透。">
 <COND id="114" value="0"/>
 <COND id="126" value="1"/>
 </OBJ>
-<OBJ id="37250" text="[%personname F L] is still developing his reputation as a manager.  {He|She|They} seems to have a balanced, conventional management style.">
+<OBJ id="37250" text="[%personname F L] 的總教練名聲還在累積中。{他|她|他們}的帶兵風格四平八穩，屬於傳統派。">
 <COND id="126" value="1"/>
 <COND id="114" value="1"/>
 </OBJ>
-<OBJ id="37251" text="It is too soon to classify the managerial style of [%personname F L].">
+<OBJ id="37251" text="現在要替 [%personname F L] 的帶兵風格下定論還太早。">
 <COND id="114" value="0"/>
 </OBJ>
-<OBJ id="37252" text="[%personname F L] has not yet established a reputation as a manager.  {He|She|They} does seem to prefer a modern style based on sabermetrics.">
+<OBJ id="37252" text="[%personname F L] 還沒建立起總教練的名聲，不過{他|她|他們}確實偏好以賽伯計量學為底的現代打法。">
 <COND id="126" value="1"/>
 <COND id="114" value="2"/>
 </OBJ>
-<OBJ id="37253" text="[%personname F L] seems to be fond of smallball strategies, though it is too soon to tell for sure.">
+<OBJ id="37253" text="[%personname F L] 看來偏愛小球戰術，不過現在要斷定還太早。">
 <COND id="126" value="1"/>
 <COND id="114" value="4"/>
 </OBJ>
-<OBJ id="37254" text="[%personname F L] seems to prefer matchups and make extensive use of his bench and bullpen, although it is still too early to tell.">
+<OBJ id="37254" text="[%personname F L] 似乎偏好操作對戰組合，板凳與牛棚都用得很兇，不過現在要下結論還太早。">
 <COND id="472" value="1"/>
 <COND id="114" value="5"/>
 </OBJ><!--
@@ -103221,247 +103221,247 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="126" value="1"/>
 <COND id="114" value="4"/>
 </OBJ>-->
-<OBJ id="37256" text="The inexperienced [%personname F L] is a conventional manager with a balanced approach.">
+<OBJ id="37256" text="資歷尚淺的 [%personname F L] 是個路線傳統、風格均衡的總教練。">
 <COND id="125" value="2"/>
 <COND id="126" value="2"/>
 <COND id="114" value="1"/>
 </OBJ>
-<OBJ id="37257" text="Inexperienced [%personname F L] makes managerial moves based on sabermetrics.">
+<OBJ id="37257" text="資歷尚淺的 [%personname F L] 依賽伯計量學的數據來調度。">
 <COND id="126" value="2"/>
 <COND id="125" value="2"/>
 <COND id="114" value="2"/>
 </OBJ>
-<OBJ id="37258" text="Although [%personage]-year-old [%personname F L] is still somewhat inexperienced, {his|her|their} managerial style seems to be old-school smallball.">
+<OBJ id="37258" text="[%personage] 歲的 [%personname F L] 雖然資歷還淺，帶兵風格看來卻是老派的小球戰術。">
 <COND id="126" value="2"/>
 <COND id="125" value="2"/>
 <COND id="114" value="3"/>
 </OBJ>
-<OBJ id="37259" text="[%personage]-year-old [%personname F L] does not have much experience.  Nevertheless, {his|her|their} managerial style seems to be a bit unorthodox.">
+<OBJ id="37259" text="[%personage] 歲的 [%personname F L] 經驗不算多，不過{他的|她的|他們的}帶兵風格似乎有點不按牌理出牌。">
 <COND id="126" value="2"/>
 <COND id="125" value="2"/>
 <COND id="114" value="4"/>
 </OBJ>
-<OBJ id="37260" text="[%personname F L] may be inexperienced, but {his|her|their} management style is clearly that of a tactician.">
+<OBJ id="37260" text="[%personname F L] 或許資歷尚淺，但{他的|她的|他們的}帶兵風格明顯是個戰術家。">
 <COND id="126" value="2"/>
 <COND id="125" value="2"/>
 <COND id="114" value="5"/>
 </OBJ>
-<OBJ id="37261" text="[%personname F L] has not had much success and, as a result, has a poor reputation. {He|She|They} is a conventional manager without extreme tendencies.">
+<OBJ id="37261" text="[%personname F L] 戰績不佳，風評因此不太好。{他|她|他們}是個沒什麼極端傾向的傳統派總教練。">
 <COND id="126" value="3"/>
 <COND id="125" value="3"/>
 <COND id="114" value="1"/>
 </OBJ>
-<OBJ id="37262" text="[%personname F L] has been less than successful as a manager. {His|Her|Their} managerial approach is inspired by sabermetrics.">
+<OBJ id="37262" text="[%personname F L] 執教得並不成功。{他的|她的|他們的}帶兵思路取材自賽伯計量學。">
 <COND id="126" value="3"/>
 <COND id="125" value="3"/>
 <COND id="114" value="2"/>
 </OBJ>
-<OBJ id="37263" text="[%personname F L], the [%personhometown] native, likes to play smallball. To date, {he|she|they} has not had much success.">
+<OBJ id="37263" text="來自 [%personhometown] 的 [%personname F L] 愛打小球戰術。到目前為止，{他|她|他們}的戰績還談不上成功。">
 <COND id="126" value="3"/>
 <COND id="125" value="3"/>
 <COND id="114" value="3"/>
 </OBJ>
-<OBJ id="37264" text="[%personname F L] has an unorthodox style, which has not worked to {his|her|their} favor so far.">
+<OBJ id="37264" text="[%personname F L] 走的是不按牌理出牌的路線，至今卻沒替{他|她|他們}帶來什麼好處。">
 <COND id="126" value="3"/>
 <COND id="125" value="3"/>
 <COND id="114" value="4"/>
 </OBJ>
-<OBJ id="37265" text="[%personname F L] is a tactician at heart; {his|her|their} lack of success, however, has contributed to {his|her|their} poor reputation.">
+<OBJ id="37265" text="[%personname F L] 骨子裡是個戰術家；只是{他|她|他們}始終打不出成績，{他的|她的|他們的}風評也跟著低落。">
 <COND id="126" value="3"/>
 <COND id="125" value="3"/>
 <COND id="114" value="5"/>
 </OBJ>
-<OBJ id="37266" text="[%personname F L] has a spotty track record. {He|She|They} is widely regarded as a conventional type of manager.">
+<OBJ id="37266" text="[%personname F L] 的執教紀錄好壞參半。外界普遍認為{他|她|他們}是傳統派的總教練。">
 <COND id="126" value="4"/>
 <COND id="125" value="4"/>
 <COND id="114" value="1"/>
 </OBJ>
-<OBJ id="37267" text="As a manager, [%personage]-year-old [%personname F L] is influenced by sabermetrics.  {He|She|They} is still working to improve {his|her|their} reputation.">
+<OBJ id="37267" text="[%personage] 歲的 [%personname F L] 執教時深受賽伯計量學影響。{他|她|他們}仍在努力累積自己的風評。">
 <COND id="126" value="4"/>
 <COND id="125" value="4"/>
 <COND id="114" value="2"/>
 </OBJ>
-<OBJ id="37268" text="As a manager, [%personage]-year-old [%personname F L] has smallball tendencies. His reputation will improve if he has more success.">
+<OBJ id="37268" text="[%personage] 歲的 [%personname F L] 執教時偏向小球戰術。只要戰績再好一些，風評自然會跟著上來。">
 <COND id="126" value="4"/>
 <COND id="125" value="4"/>
 <COND id="114" value="3"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37269" text="[%personname F L] has [%coach experience] of experience as a manager.  {His|Her|Their} style?  Unusual.  {His|Her|Their} record?  It could be better; it could be worse.">
+<OBJ id="37269" text="[%personname F L] 有 [%coach experience] 的執教資歷。{他的|她的|他們的}風格？很另類。{他的|她的|他們的}戰績？說好不夠好，說差也沒那麼差。">
 <COND id="126" value="4"/>
 <COND id="125" value="4"/>
 <COND id="114" value="4"/>
 </OBJ>
-<OBJ id="37270" text="The [%personage]-year-old [%personname F L] has a decent reputation. {He|She|They} takes a tactical approach to managing, making frequent substitutions and playing the matchups.">
+<OBJ id="37270" text="[%personage] 歲的 [%personname F L] 風評不錯。{他|她|他們}執教時走戰術路線，換人頻繁，很吃對戰組合。">
 <COND id="126" value="4"/>
 <COND id="125" value="4"/>
 <COND id="114" value="5"/>
 </OBJ>
-<OBJ id="37271" text="[%personname F L] has [%coach experience] of coaching experience.  He has done okay.  His balanced style of managing is best described as conventional.">
+<OBJ id="37271" text="[%personname F L] 有 [%coach experience] 的教練資歷，成績還過得去。他四平八穩的帶兵風格，用傳統派來形容最貼切。">
 <COND id="126" value="6"/>
 <COND id="125" value="5"/>
 <COND id="114" value="1"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37272" text="[%personname F L] has a decent reputation as a sabermetrics-minded skipper. {He|She|They} does not like to play smallball.">
+<OBJ id="37272" text="[%personname F L] 以數據導向的總教練身分累積了不錯的風評。{他|她|他們}不愛打小球戰術。">
 <COND id="126" value="6"/>
 <COND id="125" value="5"/>
 <COND id="114" value="2"/>
 </OBJ>
-<OBJ id="37273" text="[%personname F L] has a good reputation as a smallball manager.   {He|She|They} likes to bunt and hit and run.  On occasion, {he|she|they} will give the squeeze sign.">
+<OBJ id="37273" text="[%personname F L] 在小球戰術上風評很好。{他|她|他們}愛下觸擊和打帶跑，偶爾還會比出強迫取分的暗號。">
 <COND id="126" value="6"/>
 <COND id="125" value="5"/>
 <COND id="114" value="3"/>
 </OBJ>
-<OBJ id="37274" text="The unorthodox [%personname F L] has the reputation of being better than some managers, worse than others. ">
+<OBJ id="37274" text="作風另類的 [%personname F L]，風評比上不足、比下有餘。">
 <COND id="126" value="6"/>
 <COND id="125" value="5"/>
 <COND id="114" value="4"/>
 </OBJ>
-<OBJ id="37275" text="[%personname F L] favors matchups and makes frequent substitutions. {He|She|They} is a tactician.">
+<OBJ id="37275" text="[%personname F L] 偏好對戰組合，換人相當頻繁，是個十足的戰術家。">
 <COND id="126" value="6"/>
 <COND id="125" value="5"/>
 <COND id="114" value="5"/>
 </OBJ>
-<OBJ id="37283" text="[%personname F L] has a very good reputation as a manager.  {He|She|They} prefers a balanced, conventional style.">
+<OBJ id="37283" text="[%personname F L] 的總教練風評非常好。{他|她|他們}偏好均衡的傳統路線。">
 <COND id="126" value="8"/>
 <COND id="125" value="7"/>
 <COND id="114" value="1"/>
 </OBJ>
-<OBJ id="37284" text="[%personname F L] has carved out a good reputation. {He|She|They} believes in sabermetrics.">
+<OBJ id="37284" text="[%personname F L] 已經打出不錯的風評。{他|她|他們}信奉賽伯計量學。">
 <COND id="126" value="8"/>
 <COND id="125" value="7"/>
 <COND id="114" value="2"/>
 </OBJ>
-<OBJ id="37285" text="[%personname F L], who was born in [%personhometown], has the reputation of being a very good manager. {He|She|They} prefers smallball, often calling for bunts, stolen bases, and the hit and run.">
+<OBJ id="37285" text="出生於 [%personhometown] 的 [%personname F L]，外界公認是位相當出色的總教練。{他|她|他們}偏好小球戰術，經常下達觸擊、盜壘和打帶跑的指令。">
 <COND id="114" value="3"/>
 <COND id="126" value="8"/>
 <COND id="125" value="7"/>
 </OBJ>
-<OBJ id="37286" text="[%personname F L] has a good reputation.  Despite {his|her|their} unorthodox managerial style, {he|she|they} has had plenty of success. ">
+<OBJ id="37286" text="[%personname F L] 風評很好。{他的|她的|他們的}帶兵風格雖然不按牌理出牌，{他|她|他們}卻繳出了不少成績。">
 <COND id="126" value="8"/>
 <COND id="125" value="7"/>
 <COND id="114" value="4"/>
 </OBJ>
-<OBJ id="37287" text="Widely regarded as a tactician, [%personname F L] enjoys a good track record and a fine reputation.">
+<OBJ id="37287" text="[%personname F L] 公認是個戰術家，戰績亮眼，風評也很好。">
 <COND id="126" value="8"/>
 <COND id="125" value="7"/>
 <COND id="114" value="5"/>
 </OBJ>
-<OBJ id="37288" text="[%personname F L] has an impressive track record. His managerial style, which is rather conventional and balanced, has served him well.">
+<OBJ id="37288" text="[%personname F L] 的執教紀錄相當亮眼。他偏向傳統、四平八穩的帶兵風格，替他帶來了很好的回報。">
 <COND id="125" value="9"/>
 <COND id="114" value="1"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37289" text="With [%coach experience] of experience, [%personname F L] has a great record and an even better reputation. {He|She|They} rejects smallball tactics.">
+<OBJ id="37289" text="擁有 [%coach experience] 資歷的 [%personname F L]，戰績很好，風評更好。{他|她|他們}排斥小球戰術。">
 <COND id="125" value="9"/>
 <COND id="114" value="2"/>
 </OBJ>
-<OBJ id="37290" text="[%personage]-year-old [%personname F L] possesses an excellent reputation. {His|Her|Their} smallball management style has proved to be successful.">
+<OBJ id="37290" text="[%personage] 歲的 [%personname F L] 風評極佳。{他的|她的|他們的}小球戰術已經證明行得通。">
 <COND id="125" value="9"/>
 <COND id="114" value="3"/>
 </OBJ>
-<OBJ id="37291" text="Say what you will about {his|her|their} unorthodox managerial style, but [%personname F L] has certainly been successful.">
+<OBJ id="37291" text="不管你怎麼看{他的|她的|他們的}另類帶兵風格，[%personname F L] 的成功都是實打實的。">
 <COND id="125" value="9"/>
 <COND id="114" value="4"/>
 </OBJ>
-<OBJ id="37292" text="[%personname F L] has a great reputation in the baseball world. As a manager, {he|she|they} likes to pull strings.">
+<OBJ id="37292" text="[%personname F L] 在棒球圈風評極佳。執教時，{他|她|他們}喜歡在場邊操盤調度。">
 <COND id="125" value="9"/>
 <COND id="114" value="5"/>
 </OBJ>
-<OBJ id="37294" text="[%personname F L] is a legend! {He|She|They} has a great track record and has made the right decision most of the time, sticking to {his|her|their} smallball philosophy. Truly an outstanding manager, one of the best.">
+<OBJ id="37294" text="[%personname F L] 是個傳奇！{他|她|他們}戰績輝煌，絕大多數時候都做出了正確的判斷，並且始終堅守{他的|她的|他們的}小球哲學。真正出色的總教練，名列最頂尖的那一群。">
 <COND id="114" value="3"/>
 <COND id="125" value="10"/>
 </OBJ>
-<OBJ id="37295" text="[%personname F L] is a legend, no doubt. He has a sterling reputation and track record. One of the all-time great managers.">
+<OBJ id="37295" text="[%personname F L] 毫無疑問是個傳奇。他的風評和戰績都無可挑剔，是史上最偉大的總教練之一。">
 <COND id="114" value="1"/>
 <COND id="125" value="10"/>
 </OBJ>
-<OBJ id="37392" text="[%personname F L], who has no managerial experience, has expressed the willingness to embrace new strategies like sabermetrics.">
+<OBJ id="37392" text="毫無執教經驗的 [%personname F L] 表示，願意擁抱賽伯計量學這類新思維。">
 <COND id="117" value="0"/>
 <COND id="114" value="2"/>
 </OBJ>
-<OBJ id="37393" text="We have yet to see [%personname F L] manage a game; but {he|she|they} is said to be a baseball purist who prefers conventional strategies.">
+<OBJ id="37393" text="我們還沒看過 [%personname F L] 實際帶過一場比賽；但據說{他|她|他們}是個偏好傳統戰術的棒球純粹主義者。">
 <COND id="117" value="0"/>
 <COND id="114" value="1"/>
 </OBJ>
-<OBJ id="37394" text="Let's be clear: [%personname F L] is a legend because of his results, not because his approach to managing a game follows any identifiable logic.">
+<OBJ id="37394" text="話說清楚：[%personname F L] 之所以是傳奇，靠的是成績，而不是因為他的臨場調度有什麼看得出來的邏輯。">
 <COND id="118" value="5"/>
 <COND id="125" value="9"/>
 <COND id="114" value="4"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37395" text="Hard to know for sure until {he|she|they} gets a chance to manage, but [%personname F L] talks a lot about taking a smallball-type approach to the game.">
+<OBJ id="37395" text="在{他|她|他們}真正上場帶兵之前很難確定，不過 [%personname F L] 常把小球路線掛在嘴上。">
 <COND id="117" value="0"/>
 <COND id="114" value="3"/>
 </OBJ>
-<OBJ id="37396" text="It's all hypothetical at the moment, but [%personname F L] has shown indications of being a tactician as a manager.">
+<OBJ id="37396" text="目前都還只是紙上談兵，但 [%personname F L] 已經顯露出戰術家型總教練的跡象。">
 <COND id="117" value="0"/>
 <COND id="114" value="5"/>
 </OBJ>
-<OBJ id="37397" text="[%personname F L] has plenty of opinions about managing but we haven't seen {him|her|them} put them into practice yet.">
+<OBJ id="37397" text="[%personname F L] 對執教有一堆看法，只是我們還沒看過{他|她|他們}真的付諸實行。">
 <COND id="117" value="0"/>
 <COND id="114" value="4"/>
 </OBJ>
-<OBJ id="37436" text="[%personname F L] hasn't divulged much about {his|her|their} coaching style.">
+<OBJ id="37436" text="[%personname F L] 對{他的|她的|他們的}執教風格談得不多。">
 <COND id="126" value="1"/>
 <COND id="125" value="1"/>
 <COND id="114" value="0"/>
 </OBJ>
-<OBJ id="37437" text="[%personname F L] is a textbook manager. {He|She|They} takes a very balanced approach.">
+<OBJ id="37437" text="[%personname F L] 是個教科書型的總教練。{他|她|他們}的作風非常均衡。">
 <COND id="126" value="3"/>
 <COND id="125" value="1"/>
 <COND id="114" value="1"/>
 </OBJ>
-<OBJ id="37438" text="Part of the new breed of baseball managers, [%personname F L] is out to prove that an analytic and stats-based approach is the best way to run a baseball team.">
+<OBJ id="37438" text="身為新世代總教練的一員，[%personname F L] 要證明用分析和數據來經營一支球隊才是最好的方式。">
 <COND id="126" value="2"/>
 <COND id="125" value="1"/>
 <COND id="114" value="2"/>
 <COND id="117" value="2"/>
 </OBJ>
-<OBJ id="37439" text="If you can't lay down a bunt, [%personname F L] probably will not pencil you in the lineup. {He|She|They} wants {his|her|their} team to execute the fundamentals.">
+<OBJ id="37439" text="如果你連觸擊都放不好，[%personname F L] 大概不會把你排進先發名單。{他|她|他們}要求球隊把基本功做確實。">
 <COND id="126" value="2"/>
 <COND id="125" value="1"/>
 <COND id="114" value="3"/>
 </OBJ>
-<OBJ id="37440" text="The managing style of [%personname F L] is hard to characterize. It can change from game to game.">
+<OBJ id="37440" text="[%personname F L] 的帶兵風格很難歸類，每場比賽都可能不一樣。">
 <COND id="114" value="4"/>
 <COND id="117" value="2"/>
 <COND id="118" value="1"/>
 </OBJ>
-<OBJ id="37441" text="[%personname F L] has yet to establish himself as a manager, but he will make a variety of moves to get the right matchup.">
+<OBJ id="37441" text="[%personname F L] 還沒在總教練這個位子上站穩腳步，不過他會用各種調度去搶到理想的對戰組合。">
 <COND id="126" value="2"/>
 <COND id="125" value="1"/>
 <COND id="114" value="5"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37442" text="Not much is known about [%personname F L] -- {his|her|their} managerial style or basic competence.  ">
+<OBJ id="37442" text="關於 [%personname F L] 大家所知不多——不論是{他的|她的|他們的}帶兵風格還是基本能耐。">
 <COND id="126" value="4"/>
 <COND id="125" value="3"/>
 <COND id="114" value="0"/>
 </OBJ>
-<OBJ id="37443" text="[%personname F L] doesn't step too far from traditional baseball convention. You won't see any unorthodox strategies.">
+<OBJ id="37443" text="[%personname F L] 不太偏離傳統棒球的常規，你不會看到什麼另類戰術。">
 <COND id="117" value="4"/>
 <COND id="118" value="3"/>
 <COND id="114" value="1"/>
 </OBJ>
-<OBJ id="37444" text="[%personname F L] is a firm believer in sabermetrics.  {He|She|They} uses many advanced statistics to inform {his|her|their} baseball decisions. To this point, though, {he|she|they} hasn't been very successful.">
+<OBJ id="37444" text="[%personname F L] 是賽伯計量學的死忠信徒。{他|她|他們}會用大量進階數據來輔助棒球決策，只是到目前為止還沒繳出什麼成績。">
 <COND id="126" value="4"/>
 <COND id="125" value="3"/>
 <COND id="114" value="2"/>
 <COND id="118" value="2"/>
 </OBJ>
-<OBJ id="37445" text="{He|She|They} may not be one of the premier managers, but [%personname F L] knows how to manufacture runs.">
+<OBJ id="37445" text="{他|她|他們}或許算不上頂尖總教練，但 [%personname F L] 很懂得怎麼把分數擠出來。">
 <COND id="126" value="4"/>
 <COND id="125" value="3"/>
 <COND id="114" value="3"/>
 </OBJ>
-<OBJ id="37446" text="{His|Her|Their} managing style, though erratic, has paid off handsomely for [%personname F L]. ">
+<OBJ id="37446" text="{他的|她的|他們的}帶兵風格雖然飄忽，卻替 [%personname F L] 帶來了豐厚的回報。">
 <COND id="126" value="4"/>
 <COND id="125" value="3"/>
 <COND id="114" value="4"/>
 </OBJ>
-<OBJ id="37447" text="Successful or not, [%personname F L] always goes into a game knowing all the stats and the important matchups.">
+<OBJ id="37447" text="不論成績好壞，[%personname F L] 上場前一定把所有數據和關鍵對戰組合摸得一清二楚。">
 <COND id="114" value="5"/>
 <COND id="118" value="2"/>
 <COND id="126" value="4"/>
@@ -103472,7 +103472,7 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="125" value="5"/>
 <COND id="126" value="6"/>
 </OBJ>-->
-<OBJ id="37449" text="[%personname F L] believes in the importance of sabermetrics. {He|She|They} just hasn't yet become as an upper-echelon talent.">
+<OBJ id="37449" text="[%personname F L] 深信賽伯計量學的重要性，只是{他|她|他們}還沒能躋身頂尖之列。">
 <COND id="114" value="2"/>
 <COND id="126" value="6"/>
 <COND id="125" value="5"/>
@@ -103488,7 +103488,7 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="125" value="5"/>
 <COND id="114" value="4"/>
 </OBJ>-->
-<OBJ id="37452" text="[%personname F L] is quick to make a substitution if he thinks he can get a better matchup. Thus far in his [%coach experience] as a manager, he's only had modest success.">
+<OBJ id="37452" text="只要覺得能搶到更好的對戰組合，[%personname F L] 換人毫不猶豫。不過在他 [%coach experience] 的執教生涯裡，成績也只能算普通。">
 <COND id="118" value="2"/>
 <COND id="126" value="6"/>
 <COND id="125" value="5"/>
@@ -103510,104 +103510,104 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="125" value="7"/>
 <COND id="114" value="3"/>
 </OBJ>-->
-<OBJ id="37456" text="[%personname F L] has made a great name for himself as a manager by always adapting to the situation and constantly incorporating new ideas.">
+<OBJ id="37456" text="[%personname F L] 靠著隨情勢調整、不斷吸收新觀念，替自己打響了總教練的名號。">
 <COND id="126" value="8"/>
 <COND id="125" value="7"/>
 <COND id="118" value="5"/>
 <COND id="114" value="4"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37457" text="[%personname F L] is well-known for his tactical preparation as a manager.  He's had great success in his [%coach experience] in baseball.">
+<OBJ id="37457" text="[%personname F L] 以戰術準備充分聞名。他在棒球圈的 [%coach experience] 裡繳出了很好的成績。">
 <COND id="126" value="8"/>
 <COND id="125" value="7"/>
 <COND id="114" value="5"/>
 <COND id="118" value="5"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37458" text="Throughout {his|her|their} career, [%personname F L] has used a conventional style to become one of the best managers.  The results speak for themselves.">
+<OBJ id="37458" text="[%personname F L] 整個生涯都以傳統路線帶兵，最終成為最優秀的總教練之一。成績就是最好的證明。">
 <COND id="118" value="5"/>
 <COND id="114" value="1"/>
 <COND id="126" value="10"/>
 <COND id="125" value="9"/>
 </OBJ>
-<OBJ id="37459" text="[%personname F L] is known as one of the brightest minds in the game, with an encyclopedia-like knowledge of baseball statistics and their application. ">
+<OBJ id="37459" text="[%personname F L] 公認是這項運動裡最聰明的頭腦之一，對棒球數據及其應用瞭若指掌，簡直像一部百科全書。">
 <COND id="126" value="10"/>
 <COND id="125" value="9"/>
 <COND id="114" value="2"/>
 </OBJ>
-<OBJ id="37460" text="[%personname F L] is considered a smallball guru, one of the best dugout leaders in the game during {his|her|their} [%coach experience noyear]-year career.">
+<OBJ id="37460" text="[%personname F L] 在 [%coach experience noyear] 年的執教生涯裡被視為小球戰術的宗師，也是場邊最出色的指揮官之一。">
 <COND id="126" value="10"/>
 <COND id="125" value="9"/>
 <COND id="114" value="3"/>
 <COND id="118" value="5"/>
 </OBJ>
-<OBJ id="37461" text="{He|She|They} has an unusual managing style, but no one can argue with {his|her|their} success. [%personname F L] is regarded as one of the game's elite managers.">
+<OBJ id="37461" text="{他|她|他們}的帶兵風格很不尋常，但成績擺在那裡沒人能反駁。[%personname F L] 公認是聯盟頂級的總教練之一。">
 <COND id="126" value="10"/>
 <COND id="125" value="9"/>
 <COND id="118" value="5"/>
 <COND id="114" value="4"/>
 </OBJ>
-<OBJ id="37462" text="[%personname F L] is always in the conversation about baseball's best tacticians. {His|Her|Their} [%coach experience] of experience have shown {him|her|them} to be an extremely talented manager. ">
+<OBJ id="37462" text="談到棒球界最出色的戰術家，[%personname F L] 永遠榜上有名。{他的|她的|他們的} [%coach experience] 資歷證明了{他|她|他們}是位天賦異稟的總教練。">
 <COND id="126" value="10"/>
 <COND id="125" value="9"/>
 <COND id="118" value="5"/>
 <COND id="114" value="5"/>
 </OBJ>
-<OBJ id="37463" text="Perhaps a little more seasoning will turn [%personname F L] into a big-league caliber coach. {He|She|They} can't get much worse. {He|She|They} tends to keep to the conventional strategies. ">
+<OBJ id="37463" text="或許再多磨練一陣子，[%personname F L] 才能成為夠格帶大聯盟的教練。反正{他|她|他們}也很難再差了。{他|她|他們}傾向採用傳統戰術。">
 <COND id="126" value="2"/>
 <COND id="114" value="1"/>
 <COND id="117" value="10"/>
 <COND id="118" value="1"/>
 </OBJ>
-<OBJ id="37464" text="[%personname F L] figures the conventional strategies, which have worked so well for others, ought to work for {him|her|them}, too. So far, they have not.">
+<OBJ id="37464" text="[%personname F L] 認為那些在別人身上管用的傳統戰術，用在{他|她|他們}身上也該管用。到目前為止並沒有。">
 <COND id="126" value="3"/>
 <COND id="114" value="1"/>
 </OBJ>
-<OBJ id="37465" text="[%personname F L] is the kind of manager who will probably win when he is given a good roster and probably lose when he is given a weak one. He tends to employ a conventional approach as a manager.">
+<OBJ id="37465" text="[%personname F L] 是那種給他好陣容大概就會贏、給他弱陣容大概就會輸的總教練。他執教時傾向採用傳統路線。">
 <COND id="125" value="5"/>
 <COND id="126" value="7"/>
 <COND id="114" value="1"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37466" text="[%personname F L] is a conventional manager with a good reputation, but {he|she|they} has a special skill for developing hitters.">
+<OBJ id="37466" text="[%personname F L] 是位風評不錯的傳統派總教練，不過{他|她|他們}特別擅長培養打者。">
 <COND id="125" value="5"/>
 <COND id="126" value="7"/>
 <COND id="114" value="1"/>
 <COND id="121" value="8"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37467" text="[%personname F L] is a conventional manager with a good reputation, but {he|she|they} is a whiz when it comes to developing a pitching staff.">
+<OBJ id="37467" text="[%personname F L] 是位風評不錯的傳統派總教練，不過講到把投手群帶起來，{他|她|他們}是一把好手。">
 <COND id="125" value="5"/>
 <COND id="126" value="7"/>
 <COND id="119" value="8"/>
 <COND id="114" value="1"/>
 </OBJ>
-<OBJ id="37468" text="[%personname F L] is a conventional manager with a good reputation, but {he|she|they} really loves working with {his|her|their} fielders.">
+<OBJ id="37468" text="[%personname F L] 是位風評不錯的傳統派總教練，不過{他|她|他們}最愛的還是和野手一起磨守備。">
 <COND id="125" value="5"/>
 <COND id="126" value="7"/>
 <COND id="123" value="8"/>
 <COND id="114" value="1"/>
 </OBJ>
-<OBJ id="37469" text="[%personname F L] does not have many detractors around the league. {He|She|They} is a solid leader who follows baseball conventions and is great at developing hitters.">
+<OBJ id="37469" text="[%personname F L] 在聯盟裡幾乎沒有什麼反對的聲音。{他|她|他們}是位遵循棒球常規的穩健領導者，也很擅長培養打者。">
 <COND id="125" value="7"/>
 <COND id="126" value="9"/>
 <COND id="121" value="9"/>
 <COND id="114" value="1"/>
 </OBJ>
-<OBJ id="37470" text="[%personname F L] doesn't have many detractors around the league. {He|She|They} is a solid leader who follows baseball conventions and knows how to work with pitchers.">
+<OBJ id="37470" text="[%personname F L] 在聯盟裡幾乎沒有什麼反對的聲音。{他|她|他們}是位遵循棒球常規的穩健領導者，很懂得怎麼和投手合作。">
 <COND id="125" value="7"/>
 <COND id="126" value="9"/>
 <COND id="119" value="9"/>
 <COND id="114" value="1"/>
 </OBJ>
-<OBJ id="37471" text="[%personname F L] has a great reputation as a manager.  He isn't the type to rock the boat strategy-wise. It's worth noting, however, that he hasn't had much success working with hitters. ">
+<OBJ id="37471" text="[%personname F L] 的總教練風評很好。他不是那種在戰術上興風作浪的人。不過值得一提的是，他帶打者的成效並不理想。">
 <COND id="125" value="8"/>
 <COND id="126" value="10"/>
 <COND id="122" value="5"/>
 <COND id="114" value="1"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37472" text="[%personname F L] has a great reputation as a manager.  {He|She|They} isn't the type to rock the boat when it comes to strategy. For whatever reason, {he|she|they} has a poor track record when it comes to pitching staffs. ">
+<OBJ id="37472" text="[%personname F L] 的總教練風評很好。講到戰術，{他|她|他們}不是那種興風作浪的人。只是不知為何，{他|她|他們}帶投手群的紀錄相當難看。">
 <COND id="125" value="8"/>
 <COND id="120" value="5"/>
 <COND id="114" value="1"/>
@@ -103617,44 +103617,44 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="114" value="1"/>
 <COND id="368" value="0"/>
 </OBJ>-->
-<OBJ id="37474" text="There is nobody in the game you would rather have calling the shots in a tough situation than [%personname F L]. {He|She|They} has been in the game for [%coach experience].  {He|She|They} takes a conventional approach to managing.">
+<OBJ id="37474" text="碰上棘手局面時，全聯盟沒有人比 [%personname F L] 更值得託付。{他|她|他們}已經在這行待了 [%coach experience]，執教上採取的是傳統路線。">
 <COND id="125" value="10"/>
 <COND id="114" value="1"/>
 <COND id="118" value="1"/>
 </OBJ>
-<OBJ id="37475" text="[%personname F L] has Bill James' name tattooed on his chest, a fact Bill James is rather embarrassed about.">
+<OBJ id="37475" text="[%personname F L] 把比爾．詹姆士的名字刺在胸口，而比爾．詹姆士本人對此相當尷尬。">
 <COND id="126" value="2"/>
 <COND id="114" value="2"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37476" text="Some sabermetricians have shown themselves to be true students of the game. [%personname F L] is not one of them.">
+<OBJ id="37476" text="有些賽伯計量學信徒確實是把這項運動研究透徹的人，[%personname F L] 並不在其中。">
 <COND id="126" value="3"/>
 <COND id="114" value="2"/>
 </OBJ>
-<OBJ id="37477" text="Sabermetrics is the way to win, [%personname F L] will assure you. After [%coach experience], it doesn't appear to be working for [%personname L], however.">
+<OBJ id="37477" text="[%personname F L] 會跟你保證，賽伯計量學才是致勝之道。只是過了 [%coach experience]，這套顯然還沒在 [%personname L] 身上奏效。">
 <COND id="126" value="5"/>
 <COND id="125" value="3"/>
 <COND id="114" value="2"/>
 <COND id="118" value="1"/>
 </OBJ>
-<OBJ id="37478" text="[%personname F L] would probably be a great manager at a lower level; at this level, {he|she|they} is decent at best.">
+<OBJ id="37478" text="[%personname F L] 到低階層級大概能當個很好的總教練；在這個層級，{他|她|他們}頂多算堪用。">
 <COND id="125" value="4"/>
 <COND id="126" value="6"/>
 <COND id="114" value="2"/>
 </OBJ>
-<OBJ id="37479" text="A known devotee of sabermetrics, [%personname F L] is considered a better-than-average manager who takes special pleasure in getting the most out of {his|her|their} hitters.">
+<OBJ id="37479" text="[%personname F L] 是出了名的賽伯計量學信徒，公認是水準之上的總教練，尤其樂於把{他的|她的|他們的}打者練到極致。">
 <COND id="125" value="6"/>
 <COND id="126" value="8"/>
 <COND id="121" value="9"/>
 <COND id="114" value="2"/>
 </OBJ>
-<OBJ id="37480" text="Known for {his|her|their} devotion to sabermetrics, [%personname F L] is a solid manager who has a gift for working with {his|her|their} hurlers.">
+<OBJ id="37480" text="[%personname F L] 以篤信賽伯計量學聞名，是位穩健的總教練，帶{他的|她的|他們的}投手更是很有一套。">
 <COND id="125" value="6"/>
 <COND id="126" value="8"/>
 <COND id="119" value="9"/>
 <COND id="114" value="2"/>
 </OBJ>
-<OBJ id="37481" text="[%personname F L] obsesses about defensive shifts. Overall, {he|she|they} has a so-so reputation as a manager.">
+<OBJ id="37481" text="[%personname F L] 對防守佈陣有近乎偏執的堅持。整體而言，{他|她|他們}的總教練風評只能算普通。">
 <COND id="125" value="5"/>
 <COND id="126" value="7"/>
 <COND id="123" value="9"/>
@@ -103664,7 +103664,7 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="125" value="9"/>
 <COND id="114" value="2"/>
 </OBJ>-->
-<OBJ id="37609" text="If you are desperate to hire a smallball guy, [%personname F L] fits the bill. {He|She|They} has yet to translate these strategies into any kind of sustained success as a manager, though.">
+<OBJ id="37609" text="如果你急著找個打小球的人選，[%personname F L] 完全符合。只是{他|她|他們}至今還沒把這套戰術轉化成任何持續性的成績。">
 <COND id="126" value="2"/>
 <COND id="114" value="3"/>
 </OBJ><!--
@@ -103673,13 +103673,13 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="126" value="3"/>
 <COND id="114" value="3"/>
 </OBJ>-->
-<OBJ id="37611" text="[%personname F L] could be a late bloomer as a manager; but at the moment it isn't certain {he|she|they} will stick around long enough to find out. {He|She|They} prefers managing a team of good baserunners.">
+<OBJ id="37611" text="[%personname F L] 有可能是大器晚成型的總教練；只是目前還不確定{他|她|他們}撐不撐得到那一天。{他|她|他們}偏好帶一支跑壘能力好的球隊。">
 <COND id="125" value="3"/>
 <COND id="126" value="4"/>
 <COND id="117" value="5"/>
 <COND id="114" value="3"/>
 </OBJ>
-<OBJ id="37612" text="[%personname F L] has probably ordered more squeeze plays than any other manager while he's been in the league. Unfortunately, his strategies backfire more often than not.">
+<OBJ id="37612" text="在聯盟這段期間，[%personname F L] 下的強迫取分大概比任何一位總教練都多。可惜他的戰術失敗的次數多過成功。">
 <COND id="118" value="2"/>
 <COND id="125" value="4"/>
 <COND id="126" value="5"/>
@@ -103691,48 +103691,48 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="126" value="6"/>
 <COND id="114" value="3"/>
 </OBJ>-->
-<OBJ id="37614" text="[%personname F L] is not the best manager in the game; but he is certainly not the worst. He likes fast guys who know how to swipe a base, and his teams are usually very active on the basepaths.">
+<OBJ id="37614" text="[%personname F L] 稱不上聯盟最好的總教練，但絕對不是最差的。他喜歡跑得快、會偷壘的球員，他帶的球隊在壘包上通常都很活躍。">
 <COND id="125" value="6"/>
 <COND id="126" value="6"/>
 <COND id="118" value="5"/>
 <COND id="114" value="3"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37615" text="As a manager, [%personname F L] teaches {his|her|their} players to use the basepaths to churn out runs.  {He|She|They} has a particularly good reputation for developing hitters.">
+<OBJ id="37615" text="執教時，[%personname F L] 教{他的|她的|他們的}球員靠跑壘把分數擠出來。{他|她|他們}在培養打者上的風評特別好。">
 <COND id="125" value="7"/>
 <COND id="126" value="8"/>
 <COND id="114" value="3"/>
 <COND id="121" value="10"/>
 </OBJ>
-<OBJ id="37616" text="[%personname F L] has a good reputation around baseball. {He|She|They} is known for spending extra time in developing the bullpen. {He|She|They} also relies on good baserunning in order to manufacture runs.">
+<OBJ id="37616" text="[%personname F L] 在棒球圈風評很好。{他|她|他們}以願意多花時間經營牛棚著稱，也很仰賴好的跑壘來製造分數。">
 <COND id="125" value="7"/>
 <COND id="126" value="8"/>
 <COND id="119" value="10"/>
 <COND id="114" value="3"/>
 </OBJ>
-<OBJ id="37617" text="[%personname F L] seldom relies on big plays to provide offense; instead, {he|she|they} focuses on station to station base running.">
+<OBJ id="37617" text="[%personname F L] 很少指望靠大棒子得分；相反地，{他|她|他們}專注於一個壘包一個壘包地推進。">
 <COND id="125" value="8"/>
 <COND id="118" value="1"/>
 <COND id="114" value="3"/>
 </OBJ>
-<OBJ id="37618" text="[%personname F L] has built a sterling reputation during {his|her|their} [%coach experience] in the league. {He|She|They} focuses on manufacturing runs instead of relying on the long ball.">
+<OBJ id="37618" text="[%personname F L] 在聯盟的 [%coach experience] 裡建立了無可挑剔的風評。{他|她|他們}專注於製造分數，而不是等待長打。">
 <COND id="125" value="9"/>
 <COND id="118" value="5"/>
 <COND id="114" value="3"/>
 </OBJ>
-<OBJ id="37619" text="[%personname F L] is a perfect counter argument to anyone who believes playing smallball is a bad thing. {He|She|They} is a legend in the game.">
+<OBJ id="37619" text="要反駁「打小球不是好事」這種說法，[%personname F L] 就是最好的例證。{他|她|他們}是這項運動的傳奇。">
 <COND id="118" value="5"/>
 <COND id="114" value="3"/>
 <COND id="125" value="10"/>
 </OBJ>
-<OBJ id="37620" text="[%personname F L] prefers to manufacture runs rather than wait for big hits. He has built a sterling reputation his [%coach experience] in the league, although he has a few critics who say he doesn't work with his pitching staff enough.">
+<OBJ id="37620" text="[%personname F L] 偏好製造分數，而不是等待大棒子。他在聯盟的 [%coach experience] 裡建立了無可挑剔的風評，不過也有少數批評者認為，他在投手群身上下的工夫不夠。">
 <COND id="118" value="5"/>
 <COND id="125" value="9"/>
 <COND id="114" value="3"/>
 <COND id="120" value="6"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37621" text="[%personname F L] believes in manufacturing runs.  The approach has worked for him, building up his reputation these [%coach experience] in the league. He does have a few critics who believe he doesn't develop his hitters properly.">
+<OBJ id="37621" text="[%personname F L] 信奉製造分數。這套做法很管用，替他在聯盟的 [%coach experience] 裡累積了名聲。不過也有少數批評者認為，他沒有把打者好好帶起來。">
 <COND id="118" value="5"/>
 <COND id="122" value="6"/>
 <COND id="125" value="9"/>
@@ -103740,18 +103740,18 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="368" value="0"/>
 </OBJ>
 <OBJ id="37622">
-<TXT>[%personname F L] likes seeing a home run as much as the next guy, but he tells his players to focus on manufacturing runs. He has built a sterling reputation after [%coach experience] in the league, although some say he overlooks the importance of a good gloveman.</TXT>
+<TXT>[%personname F L] 跟大家一樣愛看全壘打，但他要求球員把重心放在製造分數。在聯盟 [%coach experience] 之後，他建立了無可挑剔的風評，只是有人說他忽略了好手套的重要性。</TXT>
 <COND id="118" value="5"/>
 <COND id="125" value="9"/>
 <COND id="124" value="5"/>
 <COND id="114" value="3"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37623" text="[%personname F L] is a go-it-alone type when it comes to strategy. That works for some people, but at this stage it is not clear if {he|she|they} is one of them.">
+<OBJ id="37623" text="講到戰術，[%personname F L] 是個獨來獨往的人。這一套對某些人管用，但現階段還看不出{他|她|他們}算不算其中之一。">
 <COND id="126" value="2"/>
 <COND id="114" value="4"/>
 </OBJ>
-<OBJ id="37624" text="It is hard to predict what [%personname F L] will do from one game to the next. This does occasionally fool opposing managers, but more often results in {his|her|their} own squad being a confused mess.">
+<OBJ id="37624" text="很難預測 [%personname F L] 下一場比賽會做什麼。這偶爾能騙到對方總教練，但更多時候是把{他|她|他們}自己的球隊搞得一團亂。">
 <COND id="125" value="3"/>
 <COND id="126" value="3"/>
 <COND id="118" value="1"/>
@@ -103762,17 +103762,17 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="126" value="4"/>
 <COND id="114" value="4"/>
 </OBJ>-->
-<OBJ id="37626" text="If you're in a pinch, [%personname F L] is probably good enough to keep a squad afloat for a while. {His|Her|Their} unorthodox tendencies should be adaptable to different rosters.">
+<OBJ id="37626" text="真的臨時缺人的話，[%personname F L] 大概還能撐住一支球隊一陣子。{他的|她的|他們的}另類傾向應該能配合各種不同的陣容。">
 <COND id="125" value="4"/>
 <COND id="126" value="6"/>
 <COND id="114" value="4"/>
 </OBJ>
-<OBJ id="37627" text="[%personname F L] picks and chooses strategies from different schools of thought. There's a little uncertainty that comes with managing like that, but it seems to work for {him|her|them}.">
+<OBJ id="37627" text="[%personname F L] 會從不同流派裡各挑一些戰術來用。這樣帶兵難免有些不確定性，但看起來對{他|她|他們}是管用的。">
 <COND id="125" value="8"/>
 <COND id="126" value="10"/>
 <COND id="114" value="4"/>
 </OBJ>
-<OBJ id="37628" text="For better or worse, nobody can predict what [%personname F L] is going to do in a given situation until he does it. One sometimes wonders if [%personname F] even knows.">
+<OBJ id="37628" text="不管是好是壞，在 [%personname F L] 真的出手之前，沒人猜得到他在特定局面會做什麼。有時候真讓人懷疑，[%personname F] 自己是不是也不知道。">
 <COND id="118" value="1"/>
 <COND id="125" value="6"/>
 <COND id="126" value="6"/>
@@ -103783,20 +103783,20 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="126" value="8"/>
 <COND id="114" value="4"/>
 </OBJ>-->
-<OBJ id="37630" text="If [%personname F L] has a guiding philosophy for managing, he's not sharing it. Even so, he is generally regarded as a very good manager. He has been most effective at developing pitchers.">
+<OBJ id="37630" text="如果 [%personname F L] 有什麼執教哲學，他也沒打算分享。即便如此，外界普遍認為他是位很好的總教練，尤其在培養投手上成效最好。">
 <COND id="125" value="7"/>
 <COND id="126" value="8"/>
 <COND id="119" value="10"/>
 <COND id="114" value="4"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37631" text="[%personname F L] has never indicated a preference for one guiding philosophy. Even so, {he|she|they} is generally regarded as a very good manager who is particularly effective at developing hitters.">
+<OBJ id="37631" text="[%personname F L] 從未表明過自己偏好哪一套哲學。即便如此，外界普遍認為{他|她|他們}是位很好的總教練，培養打者尤其有一套。">
 <COND id="125" value="7"/>
 <COND id="126" value="8"/>
 <COND id="121" value="10"/>
 <COND id="114" value="4"/>
 </OBJ>
-<OBJ id="37632" text="Nobody really understands the managerial approach of [%personname F L]. He's certainly unorthodox, but he's also a really good manager.">
+<OBJ id="37632" text="沒人真的搞得懂 [%personname F L] 的執教思路。他確實不按牌理出牌，但他也真的是位很好的總教練。">
 <COND id="125" value="8"/>
 <COND id="126" value="9"/>
 <COND id="118" value="1"/>
@@ -103807,64 +103807,64 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="125" value="9"/>
 <COND id="114" value="4"/>
 </OBJ>-->
-<OBJ id="37634" text="[%personname F L] makes decisions based on gut instinct rather than specific strategies. If {he|she|they} has a weakness as a manager, it is that some pitchers haven't lived up to their full potential under {his|her|their} tutelage. ">
+<OBJ id="37634" text="[%personname F L] 憑直覺而不是既定戰術做決定。如果說{他|她|他們}身為總教練有什麼弱點，那就是有些投手在{他的|她的|他們的}調教下沒能發揮出全部潛力。">
 <COND id="118" value="5"/>
 <COND id="120" value="6"/>
 <COND id="125" value="9"/>
 <COND id="114" value="4"/>
 </OBJ>
-<OBJ id="37635" text="[%personname F L] makes decisions based on gut instinct rather than specific strategies. {He|She|They} does seem to have a bit of a blind spot when it comes to instructing hitters on the finer points of the game.">
+<OBJ id="37635" text="[%personname F L] 憑直覺而不是既定戰術做決定。{他|她|他們}在指導打者掌握細節這方面，似乎有點盲點。">
 <COND id="118" value="5"/>
 <COND id="125" value="9"/>
 <COND id="122" value="6"/>
 <COND id="114" value="4"/>
 </OBJ>
-<OBJ id="37636" text="{His|Her|Their} opponents find [%personname F L] maddeningly unpredictable, and {his|her|their} decisions often seem brilliantly obvious in hindsight. [%personname L] is one of the great strategists in baseball.">
+<OBJ id="37636" text="對手覺得 [%personname F L] 難以捉摸到令人抓狂，而{他的|她的|他們的}決定事後回頭看往往又顯得高明得理所當然。[%personname L] 是棒球界最出色的戰略家之一。">
 <COND id="125" value="10"/>
 <COND id="114" value="4"/>
 <COND id="118" value="1"/>
 </OBJ>
-<OBJ id="37637" text="[%personname F L] has clearly read up on all the tactics, but there is a big gap between knowing them and putting them into practice successfully.">
+<OBJ id="37637" text="[%personname F L] 顯然把所有戰術都讀通了，但知道歸知道，能不能成功用出來又是另一回事。">
 <COND id="126" value="2"/>
 <COND id="114" value="5"/>
 </OBJ>
-<OBJ id="37638" text="One cannot help but wonder, when [%personname F L] manages a game, if all {his|her|their} tactical moves do more harm than good.">
+<OBJ id="37638" text="每當 [%personname F L] 執教一場比賽，總不免讓人懷疑{他|她|他們}那些戰術調度是不是弊多於利。">
 <COND id="125" value="3"/>
 <COND id="126" value="3"/>
 <COND id="118" value="1"/>
 <COND id="114" value="5"/>
 </OBJ>
-<OBJ id="37639" text="Other managers look forward to going head-to-head against [%personname F L], which is not a good sign. {His|Her|Their} in-game adjustments tend to backfire more often than not.">
+<OBJ id="37639" text="別的總教練都很期待跟 [%personname F L] 正面交手，這可不是什麼好兆頭。{他的|她的|他們的}臨場調整往往適得其反。">
 <COND id="125" value="3"/>
 <COND id="126" value="5"/>
 <COND id="114" value="5"/>
 <COND id="118" value="1"/>
 </OBJ>
-<OBJ id="37640" text="Were {he|she|they} more successful, [%personname F L] would be called a 'tactician.' As it is, 'micromanager' might be a better term. {He|She|They} has the reputation of being a poor manager.">
+<OBJ id="37640" text="要是{他|她|他們}成績再好一些，[%personname F L] 大概會被稱為「戰術家」；照現在的情況，「事必躬親」或許更貼切。{他|她|他們}的總教練風評並不好。">
 <COND id="125" value="3"/>
 <COND id="126" value="4"/>
 <COND id="114" value="5"/>
 </OBJ>
-<OBJ id="37641" text="[%personname F L] is obsessive about anticipating different situations and matchups. Is it worth the effort?  Who knows?  [%personname L] has the reputation of being no better or worse than most managers.">
+<OBJ id="37641" text="[%personname F L] 對於預判各種局面和對戰組合近乎偏執。這些工夫值得嗎？誰知道呢。[%personname L] 的風評就是不比一般總教練好，也不比一般總教練差。">
 <COND id="125" value="5"/>
 <COND id="126" value="6"/>
 <COND id="114" value="5"/>
 <COND id="118" value="1"/>
 </OBJ>
-<OBJ id="37642" text="[%personname F L] has been around long enough to grasp all the tactical nuances. {He|She|They} rarely crosses paths with someone {he|she|they} can't outmaneuver.">
+<OBJ id="37642" text="[%personname F L] 在這行待得夠久，戰術上的細微之處全都吃得透。{他|她|他們}很少碰上鬥不過的對手。">
 <COND id="125" value="9"/>
 <COND id="126" value="9"/>
 <COND id="118" value="20"/>
 <COND id="114" value="5"/>
 </OBJ>
-<OBJ id="37643" text="[%personname F L] is an active manager. He usually has a quick hook and loves to fuss over individual matchups. His moves don't always work out; nevertheless, he has a very good reputation around the league.">
+<OBJ id="37643" text="[%personname F L] 是個調度積極的總教練。他換投果斷，而且很愛在個別對戰組合上琢磨。他的調度不見得每次都奏效，但他在聯盟裡的風評相當好。">
 <COND id="118" value="1"/>
 <COND id="125" value="7"/>
 <COND id="126" value="8"/>
 <COND id="114" value="5"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37644" text="[%personname F L] is an extremely active manager. He has a quick hook and loves to fuss over individual matchups. Hitters especially enjoy working with him. He has developed a very good reputation around the league.">
+<OBJ id="37644" text="[%personname F L] 是個調度極為積極的總教練。他換投果斷，很愛在個別對戰組合上琢磨。打者尤其喜歡跟他配合。他在聯盟裡已經累積了相當好的風評。">
 <COND id="118" value="1"/>
 <COND id="125" value="7"/>
 <COND id="126" value="8"/>
@@ -103872,57 +103872,57 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="114" value="5"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37645" text="[%personname F L] has built a good reputation as someone who fusses over individual matchups. {He|She|They} has a quick hook with {his|her|their} pitchers, who tend to flourish under {him|her|them}.">
+<OBJ id="37645" text="[%personname F L] 以在個別對戰組合上琢磨著稱，風評很好。{他|她|他們}換投果斷，而{他的|她的|他們的}投手在{他|她|他們}手下也往往表現得更好。">
 <COND id="118" value="5"/>
 <COND id="126" value="8"/>
 <COND id="125" value="7"/>
 <COND id="119" value="10"/>
 <COND id="114" value="5"/>
 </OBJ>
-<OBJ id="37646" text="Maybe it's a gift; or maybe {he|she|they} just understands his pitchers; but [%personname F L] always seems to know when to call on {his|her|their} bullpen or walk a batter.">
+<OBJ id="37646" text="也許是天賦，也許只是{他|她|他們}真的懂自己的投手；總之 [%personname F L] 永遠知道該在什麼時候叫牛棚熱身、什麼時候保送打者。">
 <COND id="118" value="1"/>
 <COND id="126" value="9"/>
 <COND id="125" value="8"/>
 <COND id="114" value="5"/>
 </OBJ>
-<OBJ id="37647" text="[%personname F L] seems to view baseball much like a chess match; if so, {he|she|they} is a grandmaster. {He|She|They} knows how different situations will play out and is usually several moves ahead of everyone else.">
+<OBJ id="37647" text="[%personname F L] 似乎把棒球看成一盤棋；若真如此，{他|她|他們}就是位大師。{他|她|他們}清楚不同局面會怎麼發展，通常都比所有人多算好幾步。">
 <COND id="118" value="1"/>
 <COND id="125" value="9"/>
 <COND id="114" value="5"/>
 </OBJ>
-<OBJ id="37648" text="[%personname F L] seems to have a sixth sense when it comes to lineup substitutions and pitching changes. {He|She|They} is an expert tactician.">
+<OBJ id="37648" text="[%personname F L] 在換人和換投上似乎有第六感。{他|她|他們}是不折不扣的戰術大師。">
 <COND id="125" value="10"/>
 <COND id="114" value="5"/>
 </OBJ>
 </CAT>
 
 <CAT id="751">
-<OBJ id="37241" text="[%personname F] has a laid back attitude. {He gets|She gets|They get} along with almost everyone.">
+<OBJ id="37241" text="[%personname F] 的態度很隨和，幾乎和誰都處得來。">
 <COND id="116" value="1"/>
 </OBJ>
-<OBJ id="37244" text="In the clubhouse he is dictator-like.  He has a low tolerance for playful behavior. That some personalities will clash with his is a given.">
+<OBJ id="37244" text="在休息室裡他像個獨裁者，對打鬧幾乎零容忍。有些人的個性和他合不來，是必然的事。">
 <COND id="116" value="4"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37245" text="[%personname F] is approachable to a fault. He is friends with most players. Sometimes, he is too concerned about hurt feelings.">
+<OBJ id="37245" text="[%personname F] 平易近人到有點過頭，和大多數球員都是朋友。有時候他太怕傷了別人的感情。">
 <COND id="116" value="0"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37246" text="There is nothing special about {his|her|their} personality; basically, {he|she|they} just wants to concentrate on managing to the best of {his|her|their} ability.">
+<OBJ id="37246" text="{他的|她的|他們的}個性沒什麼特別之處；基本上，{他|她|他們}只想專心把總教練這份工作做到最好。">
 <COND id="116" value="2"/>
 </OBJ>
-<OBJ id="37247" text="[%personname F] is regarded as temperamental. {He|She|They} probably has anger management issues.">
+<OBJ id="37247" text="[%personname F] 被認為情緒起伏很大。{他|她|他們}大概有情緒管理上的問題。">
 <COND id="116" value="3"/>
 </OBJ>
-<OBJ id="37248" text="[%personname F] has a long list of rules for the clubhouse. The controlled environment may be suitable to some players; others may find it too restrictive.">
+<OBJ id="37248" text="[%personname F] 替休息室訂了一長串規矩。這種被管得死死的環境，有些球員適合，有些球員會覺得綁手綁腳。">
 <COND id="116" value="4"/>
 </OBJ>
-<OBJ id="37389" text="[%personname L] is very particular about how {he|she|they} wants {his|her|their} clubhouse run.  The concern is that what worked decades ago may not sit well with today's players.">
+<OBJ id="37389" text="[%personname L] 對{他的|她的|他們的}休息室該怎麼運作非常講究。問題是，幾十年前管用的那一套，未必合現在的球員胃口。">
 <COND id="118" value="20"/>
 <COND id="116" value="4"/>
 <COND id="126" value="8"/>
 </OBJ>
-<OBJ id="37390" text="[%personname L] tries to create a friendly and non-confrontational environment for {his|her|their} players.">
+<OBJ id="37390" text="[%personname L] 努力替{他的|她的|他們的}球員營造一個友善、不對立的環境。">
 <COND id="116" value="0"/>
 </OBJ><!--
 <OBJ id="37417" text="[%personname F] keeps things low-key in the dugout and clubhouse.">
@@ -103940,7 +103940,7 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <OBJ id="37421" text="A micro-manager in every sense of the word, [%personname F] likes to control every single detail on and off the field.">
 <COND id="116" value="4"/>
 </OBJ>-->
-<OBJ id="37422" text="[%personname F] likes to consider himself just one of the guys.  He isn't much for clubhouse drama.">
+<OBJ id="37422" text="[%personname F] 喜歡把自己當成球員裡的一份子，對休息室裡的紛爭沒什麼興趣。">
 <COND id="116" value="1"/>
 <COND id="368" value="0"/>
 </OBJ><!--
@@ -103953,14 +103953,14 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <OBJ id="37425" text="Often inconsolable after tough losses, [%personname F] manages with emotion.">
 <COND id="116" value="3"/>
 </OBJ>-->
-<OBJ id="37426" text="[%personname F] wears his heart on his sleeve.  He isn't afraid to show his emotions. ">
+<OBJ id="37426" text="[%personname F] 的情緒全寫在臉上，他不怕讓人看見自己的喜怒哀樂。">
 <COND id="116" value="3"/>
 <COND id="368" value="0"/>
 </OBJ><!--
 <OBJ id="37427" text="[%personname F] keeps close tabs on {his|her|their} players at all times.  It's {his|her|their} way or the highway.">
 <COND id="116" value="4"/>
 </OBJ>-->
-<OBJ id="37428" text="[%personname F] has a strong personality. {He|She|They} has been known to butt heads with players. ">
+<OBJ id="37428" text="[%personname F] 個性很強，和球員起衝突的事時有所聞。">
 <COND id="116" value="3"/>
 <COND id="118" value="1"/>
 </OBJ><!--
@@ -103971,11 +103971,11 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <OBJ id="37430" text="{He|She|They} will seek strategic advice from {his|her|their} players during a game. ">
 <COND id="116" value="0"/>
 </OBJ>-->
-<OBJ id="37431" text="[%personname F] has always been a player's manager.  {He|She|They} has no plans to change {his|her|their} style. ">
+<OBJ id="37431" text="[%personname F] 一向是球員取向的總教練，{他|她|他們}也沒打算改變{他的|她的|他們的}作風。">
 <COND id="116" value="0"/>
 <COND id="118" value="15"/>
 </OBJ>
-<OBJ id="37432" text="He used to be more uptight as a manager; but as he has aged, [%personname F] has been much more relaxed around his players.">
+<OBJ id="37432" text="他以前帶兵時比較繃，不過隨著年紀漸長，[%personname F] 和球員相處起來放鬆了許多。">
 <COND id="116" value="1"/>
 <COND id="118" value="15"/>
 <COND id="368" value="0"/>
@@ -103987,67 +103987,67 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <OBJ id="37434" text="Some might call {him|her|them} a tyrant; {he|she|they} certainly has a controlling managerial style.">
 <COND id="116" value="4"/>
 </OBJ>-->
-<OBJ id="37435" text="{He|She|They} has enjoyed a lot of success; perhaps more managers should emulate {his|her|their} laid-back approach. ">
+<OBJ id="37435" text="{他|她|他們}戰績斐然；或許有更多總教練該學學{他的|她的|他們的}這種隨和作風。">
 <COND id="116" value="1"/>
 <COND id="118" value="6"/>
 <COND id="125" value="8"/>
 </OBJ>
-<OBJ id="37540" text="This veteran manager has always been approachable.">
+<OBJ id="37540" text="這位資深總教練一向平易近人。">
 <COND id="116" value="0"/>
 <COND id="118" value="10"/>
 </OBJ>
-<OBJ id="37542" text="{His|Her|Their} measured approach to managing has helped [%personname F] to a long career. ">
+<OBJ id="37542" text="{他的|她的|他們的}沉穩作風，讓 [%personname F] 得以在這行走得長久。">
 <COND id="116" value="2"/>
 <COND id="118" value="8"/>
 </OBJ>
-<OBJ id="37543" text="Most players have learned to tolerate {his|her|their} outbursts.">
+<OBJ id="37543" text="多數球員都已經學會容忍{他的|她的|他們的}情緒爆發。">
 <COND id="116" value="3"/>
 <COND id="118" value="8"/>
 </OBJ>
-<OBJ id="37544" text="{He|She|They} is a control freak.">
+<OBJ id="37544" text="{他|她|他們}是個控制狂。">
 <COND id="116" value="4"/>
 <COND id="118" value="8"/>
 </OBJ>
-<OBJ id="37545" text="[%personname F] has mastered the art of interpersonal communication with {his|her|their} players.">
+<OBJ id="37545" text="[%personname F] 已經把和{他的|她的|他們的}球員溝通這門功夫練得爐火純青。">
 <COND id="116" value="0"/>
 <COND id="117" value="4"/>
 <COND id="118" value="1"/>
 </OBJ>
-<OBJ id="37546" text="{He|She|They} may be new to the managing gig, but [%personname F] has  created a comfortable atmosphere in the clubhouse and dugout.">
+<OBJ id="37546" text="{他|她|他們}或許剛接下總教練的工作，但 [%personname F] 已經在休息室和球員席營造出讓人自在的氣氛。">
 <COND id="116" value="1"/>
 <COND id="117" value="3"/>
 <COND id="118" value="1"/>
 </OBJ>
-<OBJ id="37547" text="He's still working to establish his manager persona.  Nondescript might best describe it. ">
+<OBJ id="37547" text="他還在摸索自己身為總教練的樣子，目前大概只能用「說不上特色」來形容。">
 <COND id="117" value="3"/>
 <COND id="118" value="1"/>
 <COND id="116" value="2"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37548" text="[%personname F] is already known for {his|her|their} mood swings.">
+<OBJ id="37548" text="[%personname F] 已經以情緒起伏大出名了。">
 <COND id="117" value="4"/>
 <COND id="118" value="1"/>
 <COND id="116" value="3"/>
 </OBJ>
-<OBJ id="37549" text="[%personname F] is only [%coach experience] into {his|her|their} managing career, but one thing is clear:  {he|she|they} likes to be in control of all aspects of {his|her|their} team.">
+<OBJ id="37549" text="[%personname F] 的總教練生涯才 [%coach experience]，但有一件事很清楚：{他|她|他們}喜歡把球隊的每個環節都握在手上。">
 <COND id="117" value="4"/>
 <COND id="118" value="1"/>
 <COND id="116" value="4"/>
 </OBJ>
-<OBJ id="37570" text="So far, [%personname F] seems amiable; it remains to be seen how {he|she|they} handles confrontation.">
+<OBJ id="37570" text="目前看來 [%personname F] 相當和氣；至於{他|她|他們}怎麼處理衝突，還有待觀察。">
 <COND id="117" value="0"/>
 <COND id="116" value="0"/>
 </OBJ>
-<OBJ id="37571" text="[%personname F] is definitely a nice guy; but where do nice guys usually finish?">
+<OBJ id="37571" text="[%personname F] 絕對是個好人；只是大家都說好人沒好報，不是嗎？">
 <COND id="126" value="4"/>
 <COND id="116" value="0"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37572" text="The stories that could be told about [%personname F] and {his|her|their} gregarious personality could fill a book.">
+<OBJ id="37572" text="關於 [%personname F] 和{他|她|他們}那外向健談的個性，能講的故事多到可以寫成一本書。">
 <COND id="118" value="20"/>
 <COND id="116" value="0"/>
 </OBJ>
-<OBJ id="37573" text="[%personname F] has the same cheerful demeanor after all these years; he'll be the first to admit, though, that he sometimes needs to be tougher on the guys.">
+<OBJ id="37573" text="這麼多年過去，[%personname F] 還是一樣笑臉迎人；不過他自己也第一個承認，有時候他該對球員再兇一點。">
 <COND id="118" value="20"/>
 <COND id="126" value="8"/>
 <COND id="116" value="0"/>
@@ -104056,63 +104056,63 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <OBJ id="37574" text="[%personname F] rarely gets worked up unnecessarily.">
 <COND id="116" value="1"/>
 </OBJ>-->
-<OBJ id="37575" text="[%personname F] is eager to please, but some players want more direction from their manager.">
+<OBJ id="37575" text="[%personname F] 一心想討人喜歡，但有些球員希望總教練能多給一點方向。">
 <COND id="126" value="4"/>
 <COND id="116" value="1"/>
 </OBJ>
-<OBJ id="37576" text="[%personname F] is the carefree type. It could get some managers in trouble; but after [%coach experience], {he|she|they} knows how to make it work.">
+<OBJ id="37576" text="[%personname F] 是那種無憂無慮的類型。這種個性放在某些總教練身上會出事；但在 [%coach experience] 之後，{他|她|他們}很清楚怎麼把它變成優點。">
 <COND id="118" value="10"/>
 <COND id="125" value="9"/>
 <COND id="116" value="1"/>
 </OBJ>
-<OBJ id="37577" text="[%personname F] is nothing if not easygoing; still, there has been more than one incident where players took advantage of the lax discipline.">
+<OBJ id="37577" text="要說 [%personname F] 有什麼特點，那就是好相處；只是球員利用他管理鬆散佔便宜的事，也不只發生過一次。">
 <COND id="118" value="20"/>
 <COND id="126" value="7"/>
 <COND id="116" value="1"/>
 <COND id="125" value="4"/>
 </OBJ>
-<OBJ id="37578" text="The quintessential even-tempered manager, [%personname F] has seen it all before.">
+<OBJ id="37578" text="[%personname F] 是脾氣平穩的典範，什麼場面他都見過了。">
 <COND id="118" value="20"/>
 <COND id="116" value="1"/>
 </OBJ><!--
 <OBJ id="37579" text="[%personname F] will never make the tabloids. {He|She|They} is a hard worker who prefers to stay under the radar. ">
 <COND id="116" value="2"/>
 </OBJ>-->
-<OBJ id="37580" text="There is nothing remarkable about {his|her|their} personality.  The unassuming [%personname L] can get along with anyone.">
+<OBJ id="37580" text="{他的|她的|他們的}個性沒什麼特別之處。不擺架子的 [%personname L] 和誰都合得來。">
 <COND id="117" value="0"/>
 <COND id="116" value="2"/>
 </OBJ>
-<OBJ id="37581" text="It is still early in his career, but [%personname F] seems to be just a normal guy.">
+<OBJ id="37581" text="他的生涯才剛起步，不過 [%personname F] 看起來就是個普通人。">
 <COND id="118" value="1"/>
 <COND id="117" value="5"/>
 <COND id="116" value="2"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37582" text="[%personname F] has a generic personality.  {He|She|They} tends to fit in anywhere.">
+<OBJ id="37582" text="[%personname F] 的個性很大眾化。{他|她|他們}到哪裡都能融入。">
 <COND id="118" value="1"/>
 <COND id="117" value="5"/>
 <COND id="116" value="2"/>
 </OBJ>
-<OBJ id="37583" text="There are a few clubhouse environments he might not be perfect for, but few he would be totally wrong for.">
+<OBJ id="37583" text="有少數幾種休息室氣氛他未必最合適，但幾乎沒有哪一種是他完全格格不入的。">
 <COND id="116" value="2"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37584" text="[%personname F] has all the personality of a ham sandwich.  ">
+<OBJ id="37584" text="[%personname F] 的個性，大概就跟一份火腿三明治一樣精彩。">
 <COND id="118" value="1"/>
 <COND id="116" value="2"/>
 <COND id="126" value="4"/>
 </OBJ>
-<OBJ id="37585" text="[%personname F] is just a stable presence in the clubhouse.">
+<OBJ id="37585" text="[%personname F] 在休息室裡就是個穩定的存在。">
 <COND id="118" value="1"/>
 <COND id="125" value="7"/>
 <COND id="116" value="2"/>
 </OBJ>
-<OBJ id="37586" text="If the word &quot;bland&quot; can be used as a compliment, it would apply to [%personname L]. ">
+<OBJ id="37586" text="如果「平淡」可以當成一種稱讚，那這個詞用在 [%personname L] 身上剛剛好。">
 <COND id="118" value="1"/>
 <COND id="116" value="2"/>
 <COND id="125" value="9"/>
 </OBJ>
-<OBJ id="37587" text="[%personname F] does not tend toward either extreme.  {His|Her|Their} personality is somewhere in the middle between unassuming and flamboyant.">
+<OBJ id="37587" text="[%personname F] 不會往任何一個極端傾斜。{他的|她的|他們的}個性介於低調和張揚之間。">
 <COND id="118" value="20"/>
 <COND id="116" value="2"/>
 </OBJ><!--
@@ -104123,11 +104123,11 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <OBJ id="37589" text="The bench coach is always alert when [%personname F] is managing a game.  An ejection could happen any time.">
 <COND id="116" value="3"/>
 </OBJ>-->
-<OBJ id="37590" text="[%personname F] insists that {his|her|their} temper has never caused a problem in the clubhouse.">
+<OBJ id="37590" text="[%personname F] 堅稱{他的|她的|他們的}脾氣從來沒在休息室裡惹出過麻煩。">
 <COND id="117" value="0"/>
 <COND id="116" value="3"/>
 </OBJ>
-<OBJ id="37591" text="[%personname F] is a high-strung type.">
+<OBJ id="37591" text="[%personname F] 是那種神經緊繃的類型。">
 <COND id="118" value="1"/>
 <COND id="117" value="5"/>
 <COND id="116" value="3"/>
@@ -104137,22 +104137,22 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="117" value="5"/>
 <COND id="116" value="3"/>
 </OBJ>-->
-<OBJ id="37593" text="[%personname F] is a loose cannon in the clubhouse. One day he's screaming at his guys; the next day he's their best friend. ">
+<OBJ id="37593" text="[%personname F] 在休息室裡像顆不定時炸彈。今天對著球員大吼，隔天又跟他們稱兄道弟。">
 <COND id="118" value="1"/>
 <COND id="116" value="3"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37594" text="[%personname F] tends to fly off the handle at the very worst time.">
+<OBJ id="37594" text="[%personname F] 總是在最糟的時機爆發。">
 <COND id="118" value="1"/>
 <COND id="126" value="4"/>
 <COND id="116" value="3"/>
 </OBJ>
-<OBJ id="37595" text="[%personname F] has a problem controlling {his|her|their} temper.  No one complains about it, as long as the team keeps winning.">
+<OBJ id="37595" text="[%personname F] 在控制脾氣上有點問題。不過只要球隊繼續贏球，就沒有人會抱怨。">
 <COND id="125" value="9"/>
 <COND id="118" value="1"/>
 <COND id="116" value="3"/>
 </OBJ>
-<OBJ id="37596" text="An ex-player once called [%personname F] &quot;a stick of dynamite in a baseball uniform.&quot;">
+<OBJ id="37596" text="一位退役球員曾經形容 [%personname F] 是「一根穿著棒球服的炸藥」。">
 <COND id="118" value="20"/>
 <COND id="116" value="3"/>
 </OBJ><!--
@@ -104163,36 +104163,36 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <OBJ id="37598" text="[%personname F] is quick to reprimand {his|her|their} players.  Some of them appreciate it more than others.">
 <COND id="116" value="3"/>
 </OBJ>-->
-<OBJ id="37599" text="His friends call him firm but fair; his critics call him domineering. Either way, [%personname F] is a strong personality in the clubhouse.">
+<OBJ id="37599" text="他的朋友說他嚴格但公正，批評他的人說他霸道。無論如何，[%personname F] 在休息室裡都是個性格強烈的人。">
 <COND id="118" value="1"/>
 <COND id="116" value="4"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37600" text="[%personname F] runs a tight ship.">
+<OBJ id="37600" text="[%personname F] 治軍嚴謹。">
 <COND id="117" value="0"/>
 <COND id="116" value="4"/>
 </OBJ>
-<OBJ id="37601" text="[%personname F] has a humorless personality. {He|She|They} has a hard time connecting with younger players.">
+<OBJ id="37601" text="[%personname F] 個性一板一眼，很難跟年輕球員打成一片。">
 <COND id="118" value="1"/>
 <COND id="117" value="5"/>
 <COND id="116" value="4"/>
 <COND id="7" value="55"/>
 </OBJ>
-<OBJ id="37602" text="[%personname F] is a strict manager. The [%personage]-year-old tolerates no distractions or troublemakers in the clubhouse.">
+<OBJ id="37602" text="[%personname F] 是位嚴格的總教練。這位 [%personage] 歲的教頭不容許休息室裡有任何雜音或麻煩人物。">
 <COND id="117" value="5"/>
 <COND id="118" value="1"/>
 <COND id="116" value="4"/>
 </OBJ>
-<OBJ id="37603" text="[%personname F] is authoritarian. {He|She|They} will discipline players who do not meet {his|her|their} expectations.">
+<OBJ id="37603" text="[%personname F] 作風威權。{他|她|他們}會處分達不到{他的|她的|他們的}要求的球員。">
 <COND id="118" value="1"/>
 <COND id="116" value="4"/>
 </OBJ>
-<OBJ id="37604" text="[%personname F] wants to create a professional atmosphere around the clubhouse.  {He|She|They} expects {his|her|their} players to toe the line.">
+<OBJ id="37604" text="[%personname F] 想在休息室營造專業的氛圍。{他|她|他們}要求{他的|她的|他們的}球員規規矩矩。">
 <COND id="126" value="4"/>
 <COND id="118" value="1"/>
 <COND id="116" value="4"/>
 </OBJ>
-<OBJ id="37605" text="[%personname F] wants {his|her|their} team focused on baseball and nothing else. The approach, though it has produced winners, has not gone unchallenged.">
+<OBJ id="37605" text="[%personname F] 要求球隊只專注在棒球上，其他一概不管。這套做法雖然帶出過冠軍隊，卻也不是沒有人質疑。">
 <COND id="118" value="2"/>
 <COND id="125" value="7"/>
 <COND id="126" value="9"/>
@@ -104202,64 +104202,64 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="118" value="20"/>
 <COND id="116" value="3"/>
 </OBJ>-->
-<OBJ id="37607" text="[%personname F] insists {he|she|they} never intended to manage with an iron thumb.  But the [%personage]-year-old is now one of the league's most well-known disciplinarians.">
+<OBJ id="37607" text="[%personname F] 堅稱{他|她|他們}從來沒想過要用鐵腕帶兵。但這位 [%personage] 歲的教頭如今已是全聯盟最出名的嚴師之一。">
 <COND id="118" value="20"/>
 <COND id="116" value="4"/>
 </OBJ><!--
 <OBJ id="37608" text="[%personname F] is a controlling manager. {He|She|They} doesn't have to scream to show {he|she|they} will not tolerate nonsense.">
 <COND id="116" value="4"/>
 </OBJ>-->
-<OBJ id="37699" text="[%personname F] is a likeable manager. Being offensive-minded, he has always maintained a close relationship with his hitting coach.">
+<OBJ id="37699" text="[%personname F] 是位討喜的總教練。由於重視進攻，他和打擊教練一向關係緊密。">
 <COND id="116" value="0"/>
 <COND id="121" value="7"/>
 <COND id="118" value="2"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37700" text="[%personname F] creates a relaxed clubhouse.  It is not uncommon for {him|her|them} to shoot the breeze with {his|her|their} hitters in the clubhouse for hours after a game.">
+<OBJ id="37700" text="[%personname F] 帶出來的休息室氣氛很輕鬆。賽後{他|她|他們}和打者們在休息室裡閒聊好幾個小時，是常有的事。">
 <COND id="116" value="1"/>
 <COND id="121" value="7"/>
 <COND id="118" value="2"/>
 </OBJ>
-<OBJ id="37701" text="[%personname F] sometimes acts more like a hitting coach than a manager. {He|She|They} has always paid more attention to the offensive side of the game.">
+<OBJ id="37701" text="[%personname F] 有時候更像個打擊教練而不是總教練。{他|她|他們}一直以來都比較關注比賽的進攻面。">
 <COND id="118" value="1"/>
 <COND id="121" value="7"/>
 <COND id="116" value="2"/>
 </OBJ>
-<OBJ id="37702" text="[%personname F] is a good hitting instructor.  Despite sitting in the manager's chair, he's prone to angry outbursts at his hitters when he feels they aren't performing up to par.">
+<OBJ id="37702" text="[%personname F] 是位優秀的打擊指導。雖然坐的是總教練的位子，只要他覺得打者表現不到位，還是很容易對他們發火。">
 <COND id="118" value="2"/>
 <COND id="121" value="7"/>
 <COND id="116" value="3"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37703" text="[%personname F] is knowledgeable about the offensive side of the game. However, that doesn't excuse his obsession with the day-to-day business of his position players. He can be overbearing.">
+<OBJ id="37703" text="[%personname F] 對比賽的進攻面很有一套。不過這也不能替他過度插手野手的日常事務找藉口，他有時候會讓人喘不過氣。">
 <COND id="118" value="2"/>
 <COND id="121" value="7"/>
 <COND id="116" value="4"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37704" text="[%personname F] will chat with the media at length, especially when discussing the pitching aspect of the game.">
+<OBJ id="37704" text="[%personname F] 很願意跟媒體長談，尤其是聊到投球的環節時。">
 <COND id="118" value="2"/>
 <COND id="119" value="7"/>
 <COND id="116" value="0"/>
 </OBJ>
-<OBJ id="37705" text="If [%personname F] wasn't the manager, he'd probably be a pitching coach. He connects with his players, especially the pitchers.">
+<OBJ id="37705" text="如果 [%personname F] 不是總教練，他大概會是個投手教練。他和球員很合得來，投手尤其如此。">
 <COND id="119" value="7"/>
 <COND id="118" value="2"/>
 <COND id="116" value="1"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37706" text="[%personname F] often calls his pitching coach the most important member of his staff.  In fact, he considers himself something of a pitching connoisseur, engaging in long discussions with his pitchers.">
+<OBJ id="37706" text="[%personname F] 常說投手教練是他教練團裡最重要的一位。事實上，他自認也算半個投球行家，經常和自家投手長談。">
 <COND id="118" value="2"/>
 <COND id="119" value="7"/>
 <COND id="116" value="2"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37707" text="[%personname F] has a temper.  {He|She|They} usually erupts when a pitcher blows a close game. The [%personage]-year-old manager seems more aggravated toward them than toward position players.">
+<OBJ id="37707" text="[%personname F] 脾氣不好。每當投手把接近的比賽搞砸，{他|她|他們}通常都會爆發。這位 [%personage] 歲的總教練對投手的火氣，似乎比對野手還大。">
 <COND id="119" value="7"/>
 <COND id="118" value="2"/>
 <COND id="116" value="3"/>
 </OBJ>
-<OBJ id="37708" text="For someone who is a manager, [%personname F] spends an awful lot of time trying to act like a pitching coach. Instead of delegating responsibility, {he|she|they} wants to exercise control over every aspect of {his|her|their} pitching staff.">
+<OBJ id="37708" text="身為總教練，[%personname F] 卻花了非常多時間在扮演投手教練。{他|她|他們}不願意把責任下放，而是想把投手群的每個環節都掌握在手上。">
 <COND id="118" value="2"/>
 <COND id="119" value="7"/>
 <COND id="116" value="4"/>
@@ -104267,114 +104267,114 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 </CAT>
 
 <CAT id="752">
-<OBJ id="37193" text="[%personname F L], out of [%personhometown], is a terrific pitching coach with a great reputation. {He|She|They} has a good track record of working with pitchers to induce more ground balls.">
+<OBJ id="37193" text="來自 [%personhometown] 的 [%personname F L] 是位風評極佳的優秀投手教練。{他|她|他們}在引導投手多製造滾地球上，成效有目共睹。">
 <COND id="136" value="2"/>
 <COND id="125" value="9"/>
 </OBJ>
-<OBJ id="37240" text="[%personage]-year-old [%personname F L] is a fine pitching coach who likes to work with power pitchers. ">
+<OBJ id="37240" text="[%personage] 歲的 [%personname F L] 是位優秀的投手教練，喜歡帶強力型投手。">
 <COND id="119" value="6"/>
 <COND id="120" value="8"/>
 <COND id="136" value="0"/>
 </OBJ>
-<OBJ id="37326" text="[%personname F L] has not established much of a reputation. {He|She|They} prefers working with power pitchers.">
+<OBJ id="37326" text="[%personname F L] 還沒累積出什麼名聲。{他|她|他們}偏好帶強力型投手。">
 <COND id="126" value="2"/>
 <COND id="136" value="0"/>
 </OBJ>
-<OBJ id="37327" text="[%personage]-year-old [%personname F L] out of [%personhometown] is an inexperienced pitching coach.  {He|She|They} prefers working with groundball pitchers.">
+<OBJ id="37327" text="來自 [%personhometown]、[%personage] 歲的 [%personname F L] 是位資歷尚淺的投手教練。{他|她|他們}偏好帶滾地球型投手。">
 <COND id="126" value="3"/>
 <COND id="136" value="2"/>
 </OBJ>
-<OBJ id="37328" text="[%personage]-year-old [%personname F L] is still inexperienced.  {He|She|They} prefers working with finesse pitchers, improving their control.">
+<OBJ id="37328" text="[%personage] 歲的 [%personname F L] 資歷還淺。{他|她|他們}偏好帶技巧型投手，替他們把控球練上來。">
 <COND id="136" value="1"/>
 <COND id="126" value="3"/>
 </OBJ>
-<OBJ id="37329" text="[%personage]-year-old [%personname F L] is still inexperienced. {He|She|They} has no preference for pitching style.">
+<OBJ id="37329" text="[%personage] 歲的 [%personname F L] 資歷還淺。{他|她|他們}對投球型態沒有特別偏好。">
 <COND id="136" value="3"/>
 <COND id="126" value="3"/>
 </OBJ>
-<OBJ id="37330" text="[%personage]-year-old [%personname F L] has [%coach experience] of experience, albeit with poor results. {He|She|They} likes to work with power pitchers.">
+<OBJ id="37330" text="[%personage] 歲的 [%personname F L] 有 [%coach experience] 的資歷，成效卻不理想。{他|她|他們}喜歡帶強力型投手。">
 <COND id="136" value="0"/>
 <COND id="126" value="3"/>
 <COND id="125" value="3"/>
 </OBJ>
-<OBJ id="37331" text="[%personage]-year old [%personname F L] has been a pitching coach for [%coach experience], though {his|her|their} reputation is less than stellar. {He|She|They} has mentioned a preference for finesse pitchers.">
+<OBJ id="37331" text="[%personage] 歲的 [%personname F L] 已經當了 [%coach experience] 的投手教練，只是{他的|她的|他們的}風評稱不上出色。{他|她|他們}提過自己偏好技巧型投手。">
 <COND id="136" value="1"/>
 <COND id="126" value="3"/>
 <COND id="125" value="3"/>
 </OBJ>
-<OBJ id="37332" text="[%personname F L], [%personage], has [%coach experience] of coaching experience. His reputation is still subpar, however. Groundball pitchers seem to benefit most from his instruction.">
+<OBJ id="37332" text="[%personage] 歲的 [%personname F L] 有 [%coach experience] 的教練資歷，風評卻仍在水準以下。滾地球型投手似乎最能從他的指導中受益。">
 <COND id="136" value="2"/>
 <COND id="126" value="3"/>
 <COND id="125" value="3"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37333" text="[%coach experience] of coaching experience have not produced good results for [%personage]-year-old [%personname F L]. {He|She|They} has no preference for pitcher type.">
+<OBJ id="37333" text="[%coach experience] 的教練資歷，並沒有替 [%personage] 歲的 [%personname F L] 帶來好成績。{他|她|他們}對投手類型沒有特別偏好。">
 <COND id="136" value="3"/>
 <COND id="126" value="3"/>
 <COND id="125" value="3"/>
 </OBJ>
-<OBJ id="37334" text="[%personname F L] has the reputation of being a below-average pitching coach who prefers power pitchers. {He|She|They} has been in the coaching ranks for [%coach experience].">
+<OBJ id="37334" text="[%personname F L] 被認為是位水準以下的投手教練，偏好強力型投手。{他|她|他們}已經在教練圈待了 [%coach experience]。">
 <COND id="136" value="0"/>
 <COND id="126" value="4"/>
 <COND id="125" value="4"/>
 </OBJ>
-<OBJ id="37335" text="[%personage]-year-old [%personname F L] has not yet developed a distinct reputation as a pitching coach, though {he|she|they} does have [%coach experience] of experience. {He|She|They} specializes in working with groundball pitchers.">
+<OBJ id="37335" text="[%personage] 歲的 [%personname F L] 雖然有 [%coach experience] 的資歷，卻還沒建立起鮮明的投手教練形象。{他|她|他們}專精於帶滾地球型投手。">
 <COND id="136" value="2"/>
 <COND id="126" value="4"/>
 <COND id="125" value="4"/>
 </OBJ>
-<OBJ id="37336" text="[%personname F L], who has [%coach experience] of coaching experience, is regarded as below-average at best. {He|She|They} enjoys working with finesse pitchers.">
+<OBJ id="37336" text="擁有 [%coach experience] 教練資歷的 [%personname F L]，外界評價頂多只能算水準以下。{他|她|他們}喜歡帶技巧型投手。">
 <COND id="136" value="1"/>
 <COND id="126" value="4"/>
 <COND id="125" value="4"/>
 </OBJ>
-<OBJ id="37337" text="[%personname F L] is your average pitching coach.  The [%personage]-year-old has [%coach experience] of coaching experience. {He|She|They} works with all types of pitchers equally well.">
+<OBJ id="37337" text="[%personname F L] 就是位普通的投手教練。這位 [%personage] 歲的教練有 [%coach experience] 的資歷，帶各種類型的投手成效都差不多。">
 <COND id="136" value="3"/>
 <COND id="126" value="4"/>
 <COND id="125" value="4"/>
 </OBJ>
-<OBJ id="37338" text="[%personage]-year-old [%personname F L] is known as a decent pitching coach. {He|She|They} works best with power pitchers.">
+<OBJ id="37338" text="[%personage] 歲的 [%personname F L] 是位還不錯的投手教練。{他|她|他們}最擅長帶強力型投手。">
 <COND id="136" value="0"/>
 <COND id="126" value="6"/>
 <COND id="125" value="5"/>
 </OBJ>
-<OBJ id="37339" text="[%personname F L], a [%personage]-year-old pitching coach, has [%coach experience] of experience. In general, {he|she|they} has done satisfactory work.  {He|She|They} prefers working with finesse pitchers.">
+<OBJ id="37339" text="[%personage] 歲的投手教練 [%personname F L] 有 [%coach experience] 的資歷。整體而言，{他|她|他們}的工作成果令人滿意。{他|她|他們}偏好帶技巧型投手。">
 <COND id="136" value="1"/>
 <COND id="126" value="6"/>
 <COND id="125" value="5"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37340" text="[%personname F L], who calls [%personhometown] {his|her|their} hometown, has [%coach experience] of experience as a pitching coach. {He|She|They} has built a decent reputation, especially with groundball pitchers.">
+<OBJ id="37340" text="以 [%personhometown] 為故鄉的 [%personname F L]，有 [%coach experience] 的投手教練資歷。{他|她|他們}已經累積出不錯的風評，帶滾地球型投手尤其有一套。">
 <COND id="136" value="2"/>
 <COND id="126" value="6"/>
 <COND id="125" value="5"/>
 </OBJ>
-<OBJ id="37341" text="With [%coach experience] of coaching experience, [%personname F L] has built a decent reputation as a pitching coach. {He|She|They} works well with all types of pitchers.   ">
+<OBJ id="37341" text="憑著 [%coach experience] 的教練資歷，[%personname F L] 已經在投手教練這行累積出不錯的風評。{他|她|他們}和各種類型的投手都合得來。">
 <COND id="136" value="3"/>
 <COND id="126" value="6"/>
 <COND id="125" value="5"/>
 </OBJ>
-<OBJ id="37342" text="[%personname F L], an [%personhometown] native, is a [%coach experience noyear]-year veteran with a very good reputation as pitching coach. Power pitchers have benefited the most from {his|her|their} instruction.">
+<OBJ id="37342" text="來自 [%personhometown] 的 [%personname F L] 是位 [%coach experience noyear] 年資歷的老將，投手教練風評非常好。強力型投手從{他的|她的|他們的}指導中獲益最多。">
 <COND id="136" value="0"/>
 <COND id="126" value="8"/>
 <COND id="125" value="7"/>
 </OBJ>
-<OBJ id="37343" text="[%personname F L] has gained [%coach experience] of coaching experience.  {He|She|They} has the reputation of being a very good pitching coach. {He|She|They} works especially well with finesse pitchers.">
+<OBJ id="37343" text="[%personname F L] 已經累積了 [%coach experience] 的教練資歷。{他|她|他們}被認為是位非常優秀的投手教練，帶技巧型投手尤其出色。">
 <COND id="136" value="1"/>
 <COND id="126" value="8"/>
 <COND id="125" value="7"/>
 </OBJ>
-<OBJ id="37344" text="Over the years, [%personname F L], [%personage], has become a respectable pitching coach. {He|She|They} has had success working with groundball pitchers.">
+<OBJ id="37344" text="這些年下來，[%personage] 歲的 [%personname F L] 已經成為一位受人敬重的投手教練。{他|她|他們}在帶滾地球型投手上很有成績。">
 <COND id="136" value="2"/>
 <COND id="126" value="8"/>
 <COND id="125" value="7"/>
 </OBJ>
-<OBJ id="37345" text="[%personname F L], a fine pitching coach, has worked in pro ball for [%coach experience]. {He|She|They} works well with all types of pitchers.">
+<OBJ id="37345" text="優秀的投手教練 [%personname F L] 已經在職業棒壇待了 [%coach experience]。{他|她|他們}和各種類型的投手都合得來。">
 <COND id="136" value="3"/>
 <COND id="126" value="8"/>
 <COND id="125" value="7"/>
 </OBJ>
-<OBJ id="37346" text="Though he is only [%personage] years old, [%personname F L] has [%coach experience] of experience under his belt. He has an amazing reputation based on his past success and his skills working with power pitchers. He might be the best of the best.">
+<OBJ id="37346" text="雖然只有 [%personage] 歲，[%personname F L] 已經累積了 [%coach experience] 的資歷。憑著過往的成績和帶強力型投手的本事，他的風評好得驚人，說不定是頂尖中的頂尖。">
 <COND id="136" value="0"/>
 <COND id="125" value="9"/>
 <COND id="368" value="0"/>
@@ -104383,38 +104383,38 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="136" value="2"/>
 <COND id="125" value="9"/>
 </OBJ>-->
-<OBJ id="37348" text="[%personage]-year-old [%personname F L] is an experienced pitching coach with an excellent reputation. One of the best in the business, {he|she|they} works well with all types of pitchers.">
+<OBJ id="37348" text="[%personage] 歲的 [%personname F L] 是位經驗豐富、風評極佳的投手教練。{他|她|他們}是這行最好的幾位之一，帶各種類型的投手都游刃有餘。">
 <COND id="136" value="3"/>
 <COND id="125" value="9"/>
 </OBJ>
-<OBJ id="37349" text="[%personname F L], the [%personhometown] native, is a living legend. He's almost a magician when it comes to getting the most out of power pitchers. One of the best pitching coaches of all time.">
+<OBJ id="37349" text="來自 [%personhometown] 的 [%personname F L] 是位活傳奇。講到把強力型投手的實力榨到極致，他簡直是個魔術師，堪稱史上最出色的投手教練之一。">
 <COND id="136" value="0"/>
 <COND id="125" value="10"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37350" text="[%personage]-year-old [%personname F L] is widely regarded as a legend. {His|Her|Their} success with finesse pitchers is especially noteworthy. An all-time great.">
+<OBJ id="37350" text="[%personage] 歲的 [%personname F L] 被公認為傳奇人物。{他的|她的|他們的}技巧型投手調教成績尤其值得一提，是史上最偉大的教練之一。">
 <COND id="136" value="1"/>
 <COND id="125" value="10"/>
 </OBJ>
-<OBJ id="37351" text="[%personname F L], the veteran pitching coach, is one of the best. {His|Her|Their} success with groundball pitchers is impressive. ">
+<OBJ id="37351" text="資深投手教練 [%personname F L] 是最頂尖的幾位之一。{他的|她的|他們的}滾地球型投手調教成績令人印象深刻。">
 <COND id="136" value="2"/>
 <COND id="125" value="10"/>
 </OBJ>
-<OBJ id="37352" text="[%personname F L] is a legend. {He|She|They} might be the best pitching coach on the planet. [%personname L] takes a balanced approach, getting the best out of every type of pitcher. The [%personage]-year-old is something special.">
+<OBJ id="37352" text="[%personname F L] 是個傳奇。{他|她|他們}說不定是地表最強的投手教練。[%personname L] 走的是均衡路線，能把每一種類型的投手都帶到最好。這位 [%personage] 歲的教練確實有兩把刷子。">
 <COND id="136" value="3"/>
 <COND id="125" value="10"/>
 </OBJ>
-<OBJ id="37501" text="[%personname F L] is a relatively unknown commodity as a pitching coach.  {He|She|They} has expressed an interest in developing power pitchers.">
+<OBJ id="37501" text="[%personname F L] 在投手教練這行還算是個未知數。{他|她|他們}表示有興趣培養強力型投手。">
 <COND id="126" value="1"/>
 <COND id="125" value="1"/>
 <COND id="136" value="0"/>
 </OBJ>
-<OBJ id="37502" text="Not much is known about [%personname F L], but {he|she|they} reportedly specializes in working with finesse pitchers.">
+<OBJ id="37502" text="關於 [%personname F L] 大家所知不多，不過據說{他|她|他們}專精於帶技巧型投手。">
 <COND id="126" value="1"/>
 <COND id="125" value="1"/>
 <COND id="136" value="1"/>
 </OBJ>
-<OBJ id="37503" text="[%personname F L] is unproven as a pitching coach. {He|She|They} stresses the importance of getting pitchers to pound down in the zone.">
+<OBJ id="37503" text="[%personname F L] 身為投手教練還沒經過驗證。{他|她|他們}強調要讓投手把球壓在低位的重要性。">
 <COND id="126" value="1"/>
 <COND id="125" value="1"/>
 <COND id="136" value="3"/>
@@ -104424,127 +104424,127 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="126" value="1"/>
 <COND id="136" value="3"/>
 </OBJ>-->
-<OBJ id="37505" text="Still not established as a coach, [%personname F L] has had the most success working with power pitchers.">
+<OBJ id="37505" text="[%personname F L] 還沒站穩教練的位子，目前帶強力型投手的成效最好。">
 <COND id="126" value="3"/>
 <COND id="125" value="2"/>
 <COND id="136" value="0"/>
 </OBJ>
-<OBJ id="37506" text="[%personname F L] has not yet made {his|her|their} mark as a pitching coach.  {He|She|They} stresses the importance of pitch command and control.">
+<OBJ id="37506" text="[%personname F L] 還沒在投手教練這行留下{他的|她的|他們的}印記。{他|她|他們}強調球路掌握度和控球的重要性。">
 <COND id="136" value="1"/>
 <COND id="126" value="3"/>
 <COND id="125" value="2"/>
 </OBJ>
-<OBJ id="37507" text="{He|She|They} stresses the importance of inducing ground balls; but, judging from past performance, [%personname F L] hasn't been too successful.">
+<OBJ id="37507" text="{他|她|他們}強調製造滾地球的重要性；但就過往表現來看，[%personname F L] 的成效並不怎麼樣。">
 <COND id="136" value="2"/>
 <COND id="126" value="3"/>
 <COND id="125" value="2"/>
 </OBJ>
-<OBJ id="37508" text="[%personname F L] has a balanced approach to pitching.  He still has a ways to go to prove himself as an upper-level coach.">
+<OBJ id="37508" text="[%personname F L] 對投球採取均衡的路線。要證明自己是高階層級的教練，他還有一段路要走。">
 <COND id="136" value="3"/>
 <COND id="126" value="3"/>
 <COND id="125" value="2"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37509" text="[%personname F L], who loves to work with fireballers, has not had consistent success after [%coach experience] in the professional ranks.">
+<OBJ id="37509" text="熱愛帶火球男的 [%personname F L]，在職業層級待了 [%coach experience] 之後，成績依舊時好時壞。">
 <COND id="126" value="5"/>
 <COND id="125" value="4"/>
 <COND id="136" value="0"/>
 <COND id="118" value="2"/>
 </OBJ>
-<OBJ id="37510" text="[%personname F L], the [%personhometown] native, emphasizes control pitching.  {He|She|They} is still at this point considered just an OK coach.">
+<OBJ id="37510" text="來自 [%personhometown] 的 [%personname F L] 強調控球型投球。目前為止，{他|她|他們}仍只被視為一位還可以的教練。">
 <COND id="136" value="1"/>
 <COND id="126" value="5"/>
 <COND id="125" value="4"/>
 <COND id="118" value="2"/>
 </OBJ>
-<OBJ id="37511" text="Keeping the ball down is the mantra of [%personname F L]. {He|She|They} has met with mixed success, however.  The [%personage]-year-old has the reputation of being just a middling coach.">
+<OBJ id="37511" text="把球壓低是 [%personname F L] 掛在嘴邊的信條，只是成效好壞參半。這位 [%personage] 歲的教練，風評也就是中間水準而已。">
 <COND id="126" value="5"/>
 <COND id="125" value="4"/>
 <COND id="136" value="2"/>
 <COND id="118" value="2"/>
 </OBJ>
-<OBJ id="37512" text="[%personname F L] has not specialized in any one area as a pitching coach after [%coach experience]. {His|Her|Their} reputation is that of an average coach, who seldom gets a pitching staff to reach their full potential.">
+<OBJ id="37512" text="經過 [%coach experience]，[%personname F L] 在投手教練這行並沒有特別專精的領域。{他的|她的|他們的}風評就是位普通教練，很少能讓投手群把潛力完全發揮出來。">
 <COND id="126" value="5"/>
 <COND id="125" value="4"/>
 <COND id="136" value="3"/>
 <COND id="118" value="2"/>
 </OBJ>
-<OBJ id="37513" text="There may be better options out there, but [%personname F L] does a good job with a pitching staff.  {He|She|They} tends to spend more time with those who light up the radar gun.">
+<OBJ id="37513" text="外面或許有更好的人選，但 [%personname F L] 帶投手群確實稱職。{他|她|他們}比較願意把時間花在那些能把測速槍點亮的球員身上。">
 <COND id="126" value="7"/>
 <COND id="125" value="6"/>
 <COND id="136" value="0"/>
 </OBJ>
-<OBJ id="37514" text="Finesse pitchers tend to do very well under the guidance of [%personname F L].  Still, the [%personage]-year-old falls just a shade below the more talented pitching coaches.">
+<OBJ id="37514" text="技巧型投手在 [%personname F L] 的指導下通常表現很好。不過這位 [%personage] 歲的教練，比起那些更有本事的投手教練還是差了那麼一點。">
 <COND id="126" value="7"/>
 <COND id="125" value="6"/>
 <COND id="136" value="1"/>
 </OBJ>
-<OBJ id="37515" text="[%personname F L] has had success getting pitchers to produce more ground ball outs. Overall, {he|she|they} is a solid pitching coach but needs to develop better tools to work with all pitcher types.">
+<OBJ id="37515" text="[%personname F L] 很懂得讓投手多製造滾地球出局。整體而言，{他|她|他們}是位稱職的投手教練，但還需要磨出更多能應付各種投手類型的工具。">
 <COND id="126" value="7"/>
 <COND id="125" value="6"/>
 <COND id="136" value="2"/>
 </OBJ>
-<OBJ id="37516" text="[%personname F L] is a solid, albeit unspectacular, pitching coach. He can be effective with all different types of pitchers, after his [%coach experience] in pro ball.">
+<OBJ id="37516" text="[%personname F L] 是位稱職但不搶眼的投手教練。在職業棒壇的 [%coach experience] 之後，他帶各種不同類型的投手都能見效。">
 <COND id="126" value="7"/>
 <COND id="125" value="6"/>
 <COND id="118" value="3"/>
 <COND id="136" value="3"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37517" text="[%personname F L] is a highly-regarded pitching coach. {He|She|They} is usually able to help flamethrowers add some extra zip to their fastballs. ">
+<OBJ id="37517" text="[%personname F L] 是位備受推崇的投手教練。{他|她|他們}通常有辦法幫火球男的速球再多加一點勁。">
 <COND id="136" value="0"/>
 <COND id="126" value="9"/>
 <COND id="125" value="8"/>
 <COND id="118" value="3"/>
 </OBJ>
-<OBJ id="37518" text="[%personname F L] has the reputation of being able to help pitchers find more command.">
+<OBJ id="37518" text="[%personname F L] 素有能幫投手提升球路掌握度的名聲。">
 <COND id="126" value="9"/>
 <COND id="125" value="8"/>
 <COND id="118" value="5"/>
 <COND id="136" value="1"/>
 </OBJ>
-<OBJ id="37519" text="'Pound down' is a mantra you will hear over and over from [%personname F L]. The native of [%personhometown] is regarded as being a fantastic pitching coach.">
+<OBJ id="37519" text="「把球壓低」是你會不斷從 [%personname F L] 口中聽到的信條。這位來自 [%personhometown] 的教練，公認是位極出色的投手教練。">
 <COND id="118" value="4"/>
 <COND id="136" value="2"/>
 <COND id="126" value="9"/>
 <COND id="125" value="8"/>
 </OBJ>
-<OBJ id="37520" text="[%personname F L] can work effectively with all pitcher types.">
+<OBJ id="37520" text="[%personname F L] 帶各種類型的投手都能見效。">
 <COND id="136" value="3"/>
 <COND id="118" value="5"/>
 <COND id="126" value="9"/>
 <COND id="125" value="8"/>
 </OBJ>
-<OBJ id="37521" text="[%personname F L] is a legend in the coaching ranks. The [%personhometown] native is particularly adept at getting pitchers to use their legs to generate more velocity.">
+<OBJ id="37521" text="[%personname F L] 是教練圈裡的傳奇。這位來自 [%personhometown] 的教練特別擅長引導投手用下半身帶出更多球速。">
 <COND id="118" value="5"/>
 <COND id="136" value="0"/>
 <COND id="126" value="10"/>
 <COND id="125" value="10"/>
 </OBJ>
-<OBJ id="37522" text="[%personname F L] is an expert at finding and fixing mechanical flaws that result in a loss of control. The native of [%personhometown] has [%coach experience] of experience and is considered one of the best at {his|her|their} craft.">
+<OBJ id="37522" text="[%personname F L] 是找出並修正那些導致控球流失的動作瑕疵的專家。這位來自 [%personhometown] 的教練有 [%coach experience] 的資歷，公認是這門手藝裡最頂尖的幾位之一。">
 <COND id="118" value="5"/>
 <COND id="136" value="1"/>
 <COND id="126" value="10"/>
 <COND id="125" value="10"/>
 </OBJ>
-<OBJ id="37523" text="One of the hallmarks of the pitching staffs that [%personname F L] has coached is the low number of home runs allowed. The veteran coach is good at getting {his|her|their} pitchers to work down in the strike zone.">
+<OBJ id="37523" text="[%personname F L] 帶過的投手群，最明顯的特徵之一就是被全壘打的次數很少。這位資深教練很懂得讓{他的|她的|他們的}投手把球投在好球帶的低位。">
 <COND id="118" value="5"/>
 <COND id="136" value="2"/>
 <COND id="126" value="10"/>
 <COND id="125" value="10"/>
 </OBJ>
-<OBJ id="37524" text="[%personname F L] is quite simply one of the best pitching coaches in the game, now or all-time. {He|She|They} has proven over {his|her|their} [%coach experience] in pro ball that {he|she|they} can lead a pitching staff to success.">
+<OBJ id="37524" text="[%personname F L] 根本就是這項運動裡數一數二的投手教練，不論現役還是歷來皆然。在職業棒壇的 [%coach experience] 裡，{他|她|他們}已經證明自己能把一支投手群帶向成功。">
 <COND id="118" value="5"/>
 <COND id="136" value="3"/>
 <COND id="126" value="10"/>
 <COND id="125" value="10"/>
 </OBJ>
-<OBJ id="37649" text="[%personname F L] is still lightly-regarded around the league. He has not yet shown that he belongs in charge of a pro staff. He prefers working with power pitchers.">
+<OBJ id="37649" text="[%personname F L] 在聯盟裡仍不太受重視。他還沒證明自己有資格掌管一支職業投手群。他偏好帶強力型投手。">
 <COND id="136" value="0"/>
 <COND id="126" value="2"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37650" text="[%personhometown]-born [%personname F L] has not lived up to expectations. Could {he|she|they} turn that around? Anything's possible. If there's a bright spot, it is that power pitchers have done better than average on {his|her|their} watch.">
+<OBJ id="37650" text="出生於 [%personhometown] 的 [%personname F L] 並沒有達到外界的期待。{他|她|他們}扭轉得了嗎？凡事都有可能。若真要說有什麼亮點，那就是強力型投手在{他的|她的|他們的}手下表現得比平均水準好。">
 <COND id="136" value="0"/>
 <COND id="126" value="3"/>
 <COND id="118" value="1"/>
@@ -104554,57 +104554,57 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="125" value="4"/>
 <COND id="136" value="0"/>
 </OBJ>-->
-<OBJ id="37652" text="[%personname F L] would not be included on a list of top pitching coaches in the league. {He|She|They} is an average choice at best, who tends to work well with power pitchers. ">
+<OBJ id="37652" text="談到聯盟頂尖的投手教練，[%personname F L] 不會在名單上。{他|她|他們}頂多是個普通的選擇，帶強力型投手還算合得來。">
 <COND id="118" value="1"/>
 <COND id="136" value="0"/>
 <COND id="126" value="5"/>
 <COND id="125" value="5"/>
 </OBJ>
-<OBJ id="37653" text="[%personname F L] has developed a decent reputation, thanks in large part to his success with power pitchers. ">
+<OBJ id="37653" text="[%personname F L] 已經累積出不錯的風評，很大一部分要歸功於他在強力型投手上的成績。">
 <COND id="136" value="0"/>
 <COND id="125" value="6"/>
 <COND id="126" value="6"/>
 <COND id="118" value="2"/>
 </OBJ>
-<OBJ id="37654" text="[%personname F L] has a very good reputation as a pitching coach.  {He|She|They} would be a strong choice to guide a pitching staff built around a few hard-throwers. ">
+<OBJ id="37654" text="[%personname F L] 的投手教練風評非常好。要帶一支以幾名強投為核心的投手群，{他|她|他們}會是很好的人選。">
 <COND id="136" value="0"/>
 <COND id="118" value="1"/>
 <COND id="125" value="7"/>
 <COND id="126" value="7"/>
 </OBJ>
-<OBJ id="37655" text="[%personname F L] would probably do just fine handling a staff of junkball pitchers -- {he|she|they} has a great reputation and a strong track record. But pairing {him|her|them} with power pitchers would be the ideal arrangement.">
+<OBJ id="37655" text="要 [%personname F L] 帶一群慢速變化球型投手大概也沒問題——{他|她|他們}風評極佳，紀錄也扎實。但把{他|她|他們}和強力型投手湊在一起才是最理想的組合。">
 <COND id="118" value="2"/>
 <COND id="125" value="8"/>
 <COND id="126" value="8"/>
 <COND id="136" value="0"/>
 </OBJ>
 <OBJ id="37656">
-<TXT>[%personname F L] is a strong leader of a pitching staff with an outstanding reputation. The [%personage]-year-old thinks every pitch would be improved if it could only be thrown a little faster.  {He|She|They} knows how to get more production from everyone, from {his|her|their} middle relievers to {his|her|their} ace.</TXT>
+<TXT>[%personname F L] 是位風評出眾、能帶好投手群的領導者。這位 [%personage] 歲的教練認為，每一種球路只要能再投快一點都會更好。從{他的|她的|他們的}中繼投手到{他的|她的|他們的}王牌，{他|她|他們}都知道怎麼榨出更多產能。</TXT>
 <COND id="136" value="0"/>
 <COND id="125" value="9"/>
 <COND id="126" value="9"/>
 </OBJ>
 <OBJ id="37657">
-<TXT>Though {he|she|they} has been in the business for just [%coach experience], [%personname F L] is already regarded as among the best. {He|She|They} should have a long, successful career and is the kind of coach who can make a young flamethrower into an ace. </TXT>
+<TXT>雖然{他|她|他們}入行才 [%coach experience]，[%personname F L] 已經被視為最頂尖的一群。{他|她|他們}應該會有一段漫長而成功的生涯，而且是那種能把年輕火球男帶成王牌的教練。</TXT>
 <COND id="118" value="1"/>
 <COND id="117" value="10"/>
 <COND id="136" value="0"/>
 <COND id="125" value="9"/>
 </OBJ>
-<OBJ id="37658" text="The great power pitchers in the game have learned something from [%personname F L], either directly or secondhand. The [%personhometown] native has been around for [%coach experience] and at this point {his|her|their} legacy is secure.">
+<OBJ id="37658" text="棒球界那些偉大的強力型投手，或直接或間接都從 [%personname F L] 身上學過東西。這位來自 [%personhometown] 的教練已經待了 [%coach experience]，到這個階段{他的|她的|他們的}歷史地位已經穩固。">
 <COND id="118" value="20"/>
 <COND id="136" value="0"/>
 <COND id="125" value="9"/>
 </OBJ>
-<OBJ id="37659" text="Absolutely one of the best. {He|She|They} can spot a mechanical flaw from halfway across the field; and {he|she|they} knows how to take a hard-throwing talent and turn him into a dominator. ">
+<OBJ id="37659" text="絕對是最頂尖的一位。{他|她|他們}隔著半個球場就能看出動作上的瑕疵；而且{他|她|他們}很懂得怎麼把一名球速驚人的好手，變成一位統治級的投手。">
 <COND id="125" value="10"/>
 <COND id="136" value="0"/>
 </OBJ>
-<OBJ id="37660" text="[%personname F L] has shown some affinity for working with groundball pitchers.  Still, it is hard to see the [%personage]-year-old finding a spot on a coaching staff at this stage in {his|her|their} career.">
+<OBJ id="37660" text="[%personname F L] 展現出帶滾地球型投手的一些天分。不過這位 [%personage] 歲的教練在生涯的這個階段，恐怕還是很難在教練團裡找到位子。">
 <COND id="126" value="2"/>
 <COND id="136" value="2"/>
 </OBJ>
-<OBJ id="37661" text="[%personname F L] might find a home working specifically with groundballers; but his overall reputation as a pitching coach is so poor, he may not get the chance.">
+<OBJ id="37661" text="[%personname F L] 或許能靠專門帶滾地球型投手找到容身之處；但他身為投手教練的整體風評太差，這個機會未必輪得到他。">
 <COND id="136" value="2"/>
 <COND id="126" value="3"/>
 <COND id="368" value="0"/>
@@ -104614,61 +104614,61 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="126" value="4"/>
 <COND id="125" value="4"/>
 </OBJ>-->
-<OBJ id="37663" text="The [%personage]-year-old [%personname F L] is an average pitching coach.  However, {his|her|their} track record is impressive when it comes to working with groundball pitchers.">
+<OBJ id="37663" text="[%personage] 歲的 [%personname F L] 是位普通的投手教練。不過講到帶滾地球型投手，{他的|她的|他們的}紀錄相當亮眼。">
 <COND id="136" value="2"/>
 <COND id="126" value="5"/>
 <COND id="125" value="5"/>
 </OBJ>
-<OBJ id="37664" text="[%personname F L] has excelled in teaching the mechanics of throwing the sinker and the splitter. Few people would put {him|her|them} in the upper echelon of pitching coaches, but {he|she|they} could find a home with the right staff.">
+<OBJ id="37664" text="[%personname F L] 在傳授伸卡球和指叉球的投球機制上特別出色。很少有人會把{他|她|他們}列進投手教練的頂尖行列，但只要投手群合適，{他|她|他們}還是能找到容身之處。">
 <COND id="136" value="2"/>
 <COND id="125" value="6"/>
 <COND id="126" value="6"/>
 <COND id="118" value="2"/>
 </OBJ>
-<OBJ id="37665" text="After [%coach experience] in the league, [%personname F L] has a lot of admirers. Much of this is due to {his|her|their} knack for teaching pitchers to keep the ball down.">
+<OBJ id="37665" text="在聯盟待了 [%coach experience] 之後，[%personname F L] 有不少支持者。這多半要歸功於{他|她|他們}教投手把球壓低的本事。">
 <COND id="136" value="2"/>
 <COND id="125" value="7"/>
 <COND id="126" value="7"/>
 <COND id="118" value="2"/>
 </OBJ>
-<OBJ id="37666" text="[%personname F L] won't say no to a swing-and-a-miss, but sometimes getting weak contact is just as good. The [%personage]-year-old is very well-regarded around baseball.">
+<OBJ id="37666" text="[%personname F L] 當然不會拒絕三振，但有時候製造軟弱的擊球也一樣有價值。這位 [%personage] 歲的教練在棒球圈風評非常好。">
 <COND id="136" value="2"/>
 <COND id="125" value="8"/>
 <COND id="126" value="8"/>
 </OBJ>
-<OBJ id="37667" text="The [%personhometown]-born [%personname F L] is at {his|her|their} best when helping guys figure out how to get the bottom to drop out of their sinker.">
+<OBJ id="37667" text="出生於 [%personhometown] 的 [%personname F L]，最拿手的就是幫投手找出讓伸卡球尾段急墜的訣竅。">
 <COND id="136" value="2"/>
 <COND id="125" value="9"/>
 <COND id="126" value="9"/>
 </OBJ>
-<OBJ id="37668" text="The [%personhometown]-born [%personname F L] could probably be a halfway-decent hitting coach if he felt like it. But he is at his best when he's helping guys figure out how to get the bottom to drop out of their sinker.">
+<OBJ id="37668" text="出生於 [%personhometown] 的 [%personname F L]，只要他願意，大概也能當個還過得去的打擊教練。但他最拿手的，還是幫投手找出讓伸卡球尾段急墜的訣竅。">
 <COND id="125" value="9"/>
 <COND id="126" value="9"/>
 <COND id="136" value="2"/>
 <COND id="121" value="6"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37669" text="A pitching staff led by [%personname F L] will need some good infielders. He teaches pitchers to induce ground balls, which has helped him build a fantastic reputation as a pitching coach.">
+<OBJ id="37669" text="由 [%personname F L] 帶領的投手群，需要幾位好的內野手。他教投手製造滾地球，這也替他建立了極佳的投手教練風評。">
 <COND id="117" value="10"/>
 <COND id="136" value="2"/>
 <COND id="125" value="9"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37670" text="[%personname F L] has spent decades teaching that a good sinker goes for a double play and a bad one goes for a double. The message must be getting through, because {he|she|they} has built a great reputation over that time.">
+<OBJ id="37670" text="[%personname F L] 花了數十年在教一件事：好的伸卡球會換來雙殺，壞的伸卡球會換來二壘安打。這番話顯然有傳進去，因為這段時間{他|她|他們}累積了很好的風評。">
 <COND id="118" value="20"/>
 <COND id="125" value="9"/>
 <COND id="136" value="2"/>
 </OBJ>
-<OBJ id="37671" text="[%personname F L] built his reputation on the strength of his work with young groundball pitchers, but at this point he has mastered it all. He knows as much about pitching as anyone.">
+<OBJ id="37671" text="[%personname F L] 靠著調教年輕滾地球型投手打響名號，但到了現在，他已經樣樣精通。論對投球的了解，沒有人比他更多。">
 <COND id="125" value="10"/>
 <COND id="136" value="2"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37672" text="[%personname F L] has not had enough success as a pitching coach.">
+<OBJ id="37672" text="[%personname F L] 在投手教練這行的成績還不夠好。">
 <COND id="126" value="2"/>
 <COND id="136" value="3"/>
 </OBJ>
-<OBJ id="37673" text="The team that hires [%personname F L] is taking a gamble.  In terms of performance, {he|she|they} has not shown much so far.">
+<OBJ id="37673" text="聘用 [%personname F L] 的球隊等於在賭一把。就成效而言，{他|她|他們}到目前為止並沒有拿出什麼東西。">
 <COND id="118" value="1"/>
 <COND id="136" value="3"/>
 <COND id="126" value="3"/>
@@ -104678,72 +104678,72 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="125" value="4"/>
 <COND id="136" value="3"/>
 </OBJ>-->
-<OBJ id="37675" text="[%personname F L] is an unremarkable pitching coach. {He|She|They} can work with power pitchers and control guys alike, but there are probably better candidates out there.">
+<OBJ id="37675" text="[%personname F L] 是位平淡無奇的投手教練。強力型和控球型投手{他|她|他們}都帶得來，但外面大概還有更好的人選。">
 <COND id="136" value="3"/>
 <COND id="126" value="5"/>
 <COND id="125" value="5"/>
 </OBJ>
-<OBJ id="37676" text="[%personname F L] is good enough that {he|she|they} should put together a decent career.  But there may also be times when {his|her|their} team will go looking for an upgrade.">
+<OBJ id="37676" text="[%personname F L] 的水準足以撐起一段還不錯的生涯。但也會有些時候，{他的|她的|他們的}球隊會想去找個更好的人。">
 <COND id="126" value="6"/>
 <COND id="136" value="3"/>
 <COND id="125" value="6"/>
 </OBJ>
-<OBJ id="37677" text="[%personname F L] should not have trouble finding work. [%personname L], [%personage], is a very good coach who is thought highly of in most corners of the league.">
+<OBJ id="37677" text="[%personname F L] 要找工作應該不難。[%personage] 歲的 [%personname L] 是位非常優秀的教練，在聯盟大多數角落都備受推崇。">
 <COND id="118" value="1"/>
 <COND id="126" value="7"/>
 <COND id="125" value="7"/>
 <COND id="136" value="3"/>
 </OBJ>
-<OBJ id="37678" text="[%personname F L] is an outstanding pitching coach who can turn a No. 2 starter into a No. 1 and help a prospect develop into an All-Star. {He|She|They} understands every facet of pitching.">
+<OBJ id="37678" text="[%personname F L] 是位出色的投手教練，能把二號先發帶成王牌，也能把新秀帶成明星球員。{他|她|他們}對投球的每個面向都瞭若指掌。">
 <COND id="136" value="3"/>
 <COND id="126" value="8"/>
 <COND id="125" value="8"/>
 </OBJ>
-<OBJ id="37679" text="[%personname F L], [%personage], has never shown a predilection for a specific type of pitcher.  It doesn't really matter, though, because {he|she|they} is great with all of them. Certainly one of the best in the sport.">
+<OBJ id="37679" text="[%personage] 歲的 [%personname F L] 從來沒有偏好過哪一種特定類型的投手。不過這其實無所謂，因為{他|她|他們}帶哪一種都很行，絕對是這項運動裡最頂尖的幾位之一。">
 <COND id="125" value="9"/>
 <COND id="136" value="3"/>
 <COND id="118" value="1"/>
 </OBJ>
-<OBJ id="37680" text="It is rare to see such insight from someone so early in {his|her|their} career. [%personname F L] is only [%personage] years old, yet {he|she|they} is already being talked up as a pitching savant. ">
+<OBJ id="37680" text="生涯這麼早期就有這種見識實屬罕見。[%personname F L] 才 [%personage] 歲，卻已經被談論為投球方面的奇才。">
 <COND id="117" value="5"/>
 <COND id="125" value="9"/>
 <COND id="136" value="3"/>
 </OBJ>
 <OBJ id="37681">
-<TXT>Flamethrowing closer? Sure. Precision changeup guy? No problem. [%personname F L] has worked with every type of pitcher over the last [%coach experience]. You could probably field an All-Star team with the talent {he|she|they} has developed during his career.</TXT>
+<TXT>火球型終結者？沒問題。變速球精準的類型？也沒問題。在過去 [%coach experience] 裡，[%personname F L] 每一種類型的投手都帶過。用{他|她|他們}生涯調教出來的好手，大概可以組出一支明星隊。</TXT>
 <COND id="125" value="9"/>
 <COND id="118" value="20"/>
 <COND id="136" value="3"/>
 </OBJ>
-<OBJ id="37682" text="[%personname F L] may be the best in the business. Other pitching coaches speak of him with a mix of reverence and envy. If you are lucky enough to secure his services, hang on to him.">
+<OBJ id="37682" text="[%personname F L] 可能是這行最強的一位。其他投手教練提起他時，語氣裡總混著敬畏和羨慕。如果你有幸請到他，千萬要留住他。">
 <COND id="136" value="3"/>
 <COND id="125" value="10"/>
 <COND id="119" value="10"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37683" text="[%personname F L] has not had the opportunity to prove himself yet; but based on his background, he seems to be especially suited to working with power pitchers.">
+<OBJ id="37683" text="[%personname F L] 還沒有機會證明自己；但從他的背景來看，他似乎特別適合帶強力型投手。">
 <COND id="117" value="0"/>
 <COND id="136" value="0"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37684" text="[%personname F L] is eagerly awaiting {his|her|their} first professional job. The [%personage]-year-old prospective pitching coach has expressed a preference for finesse pitchers.">
+<OBJ id="37684" text="[%personname F L] 正迫不及待想接下{他|她|他們}的第一份職業工作。這位 [%personage] 歲的準投手教練表示偏好技巧型投手。">
 <COND id="117" value="0"/>
 <COND id="136" value="1"/>
 </OBJ>
-<OBJ id="37685" text="[%personname F L], [%personage], is still waiting for his first chance to run a pitching staff. Based on his skillset, expect him to focus on getting groundball rates up.">
+<OBJ id="37685" text="[%personage] 歲的 [%personname F L] 還在等第一次掌管投手群的機會。從他的能力來看，可以預期他會把重心放在把滾地球比例拉高上。">
 <COND id="117" value="0"/>
 <COND id="136" value="2"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37686" text="It is hard to predict what kind of success [%personname F L] will have, if and when {he|she|they} gets hired as a pitching coach. {He|She|They} has expressed no preference, either for power or groundball pitchers.">
+<OBJ id="37686" text="如果 [%personname F L] 真的當上投手教練，很難預測{他|她|他們}會有什麼成績。{他|她|他們}對強力型或滾地球型投手都沒有表示偏好。">
 <COND id="117" value="0"/>
 <COND id="136" value="3"/>
 </OBJ>
-<OBJ id="37687" text="[%Personname F L] has worked with finesse pitchers, hoping to refine their deliveries.  But {he|she|they} has not yet met with much success.">
+<OBJ id="37687" text="[%Personname F L] 帶過技巧型投手，希望能修飾他們的投球動作，只是{他|她|他們}目前還沒繳出什麼成果。">
 <COND id="126" value="2"/>
 <COND id="136" value="1"/>
 </OBJ>
-<OBJ id="37688" text="[%personname F L], [%personage], has not yet made much of an impression around the league. {He|She|They} is still young, though, so there's a chance that could change.">
+<OBJ id="37688" text="[%personage] 歲的 [%personname F L] 還沒在聯盟裡留下什麼印象。不過{他|她|他們}還年輕，這一點還是有機會改變。">
 <COND id="8" value="40"/>
 <COND id="136" value="1"/>
 <COND id="126" value="3"/>
@@ -104757,7 +104757,7 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="136" value="1"/>
 <COND id="125" value="4"/>
 </OBJ>-->
-<OBJ id="37691" text="[%personname F L] has not inserted himself into the conversation about the best pitching coaches in the league -- he is still thought of as average. But observers have noticed that the guys under him have tended to improve in their control metrics.">
+<OBJ id="37691" text="[%personname F L] 還沒能擠進聯盟最佳投手教練的討論——他仍被視為普通水準。但觀察家注意到，他手下的投手在控球數據上大多有所進步。">
 <COND id="125" value="5"/>
 <COND id="136" value="1"/>
 <COND id="126" value="5"/>
@@ -104765,7 +104765,7 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="368" value="0"/>
 </OBJ>
 <OBJ id="37692">
-<TXT>[%personname F L], [%personage], is slowly establishing a decent reputation around the league. The [%personhometown] native hates seeing his pitchers give out free passes; as a result, he puts in a ton of extra time helping his guys get their walk rates down.</TXT>
+<TXT>[%personage] 歲的 [%personname F L] 正在聯盟裡慢慢累積不錯的風評。這位來自 [%personhometown] 的教練最痛恨看到自家投手送出四壞保送，因此他花了非常多額外的時間，幫手下的投手把保送率壓下來。</TXT>
 <COND id="126" value="6"/>
 <COND id="125" value="6"/>
 <COND id="136" value="1"/>
@@ -104773,160 +104773,160 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="368" value="0"/>
 </OBJ>
 <OBJ id="37693">
-<TXT>At this point, it is clearly a trend: Pitchers under [%personname F L] have shown steady improvement in their strikeout-to-walk ratios and are better at getting ahead in the count. [%personname L] is considered a very good coach and could probably get a gig with most teams.</TXT>
+<TXT>到這個地步已經很明顯是個趨勢：[%personname F L] 手下的投手，三振保送比穩定進步，也更能搶到好球數領先。[%personname L] 被認為是位非常優秀的教練，大概在多數球隊都找得到工作。</TXT>
 <COND id="136" value="1"/>
 <COND id="125" value="7"/>
 <COND id="126" value="7"/>
 <COND id="118" value="1"/>
 </OBJ>
-<OBJ id="37694" text="[%personhometown]-born [%personname F L] is considered one of the better coaches in the league. {He|She|They} has an eye for fine-tuning a pitcher's mechanics, especially finesse guys.">
+<OBJ id="37694" text="出生於 [%personhometown] 的 [%personname F L] 被視為聯盟裡比較好的幾位教練之一。{他|她|他們}對微調投手的投球動作很有眼光，帶技巧型投手尤其如此。">
 <COND id="136" value="1"/>
 <COND id="126" value="8"/>
 <COND id="125" value="8"/>
 </OBJ>
-<OBJ id="37695" text="[%personname F L] is a manager's dream come true. {He|She|They} takes on any and all challenges.  {He|She|They} is particularly well-known for working with pitchers who are having control issues.">
+<OBJ id="37695" text="[%personname F L] 是總教練夢寐以求的人選。{他|她|他們}什麼挑戰都接。{他|她|他們}最為人所知的，就是專門處理控球出問題的投手。">
 <COND id="136" value="1"/>
 <COND id="125" value="9"/>
 <COND id="126" value="9"/>
 </OBJ>
-<OBJ id="37696" text="Nobody knows how [%personname F L] got so good so fast. [%personname L], [%personage], has a comprehensive understanding of each pitcher and their arsenal. The sky is the limit for {him|her|them}.">
+<OBJ id="37696" text="沒人知道 [%personname F L] 是怎麼在這麼短時間內變得這麼強的。[%personage] 歲的 [%personname L] 對每位投手和他們的球種都有全盤的理解。{他|她|他們}的未來不可限量。">
 <COND id="117" value="10"/>
 <COND id="125" value="9"/>
 <COND id="136" value="1"/>
 </OBJ>
-<OBJ id="37697" text="[%personname F L] learned from some of the best.  Plus, {he|she|they} has spent {his|her|their} career training the best of the next generation. Numerous pitchers owe their success to {him|her|them}.">
+<OBJ id="37697" text="[%personname F L] 師承幾位最頂尖的前輩。此外，{他|她|他們}整個生涯都在培養下一代最出色的好手，不少投手能有今天都得歸功於{他|她|他們}。">
 <COND id="125" value="9"/>
 <COND id="118" value="20"/>
 <COND id="136" value="1"/>
 </OBJ>
-<OBJ id="37698" text="[%personname F L] is in rarefied air. His reputation is so good around baseball that pitchers will often go out of their way to spend extra time working with him. He loves finesse guys but can work with anyone.">
+<OBJ id="37698" text="[%personname F L] 已經到了另一個境界。他在棒球圈的風評好到投手常常會特地繞路，只為了多跟他練一會兒。他偏愛技巧型投手，但誰都帶得來。">
 <COND id="125" value="10"/>
 <COND id="136" value="1"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37729" text="Truth be told, [%personname F L] has built an unimpressive body of work as a pitching coach.  He emphasizes power pitching.  Despite his lack of success, he's hung around the game for [%coach experience].">
+<OBJ id="37729" text="說實話，[%personname F L] 在投手教練這行累積的成績並不亮眼。他強調強力型投球。儘管成效有限，他還是在這一行待了 [%coach experience]。">
 <COND id="118" value="10"/>
 <COND id="136" value="0"/>
 <COND id="126" value="3"/>
 <COND id="125" value="2"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37730" text="[%personname F L] looks the part and has fashioned a nice, [%coach experience noyear]-year career.  Despite some middling success, {his|her|their} track record in developing pitchers leaves a lot to be desired.">
+<OBJ id="37730" text="[%personname F L] 外表看起來很像那麼一回事，也經營出一段 [%coach experience noyear] 年的不錯生涯。不過即使偶有小成，{他的|她的|他們的}投手培養紀錄還是有很大的進步空間。">
 <COND id="118" value="10"/>
 <COND id="136" value="1"/>
 <COND id="126" value="3"/>
 <COND id="125" value="2"/>
 </OBJ>
 <OBJ id="37731">
-<TXT>[%personname F L] stresses the importance of keeping the ball down; all too often, though, {his|her|their} pitchers have served up more not fewer home runs. The [%personage]-year-old has [%coach experience] of coaching experience, despite a less than stellar track record.</TXT>
+<TXT>[%personname F L] 強調把球壓低的重要性；只是{他的|她的|他們的}投手往往反而被打出更多而不是更少的全壘打。這位 [%personage] 歲的教練儘管紀錄稱不上出色，仍有 [%coach experience] 的教練資歷。</TXT>
 <COND id="118" value="10"/>
 <COND id="136" value="2"/>
 <COND id="126" value="3"/>
 <COND id="125" value="2"/>
 </OBJ>
-<OBJ id="37732" text="[%personname F L], [%personage], has stayed employed for [%coach experience], despite not being a competent pitching coach.">
+<OBJ id="37732" text="[%personage] 歲的 [%personname F L] 儘管稱不上是稱職的投手教練，還是在這行待了 [%coach experience] 沒被淘汰。">
 <COND id="118" value="10"/>
 <COND id="136" value="3"/>
 <COND id="126" value="3"/>
 <COND id="125" value="2"/>
 </OBJ>
-<OBJ id="37733" text="[%personname F L] has developed some hard throwers during {his|her|their} [%coach experience] in the league; one has to wonder, though, if these arms would have benefited from a more talented pitching coach.">
+<OBJ id="37733" text="在聯盟的 [%coach experience] 裡，[%personname F L] 確實培養出幾位球速驚人的好手；只是不免讓人懷疑，這些手臂若是跟到更有本事的投手教練，會不會更好。">
 <COND id="118" value="10"/>
 <COND id="136" value="0"/>
 <COND id="126" value="5"/>
 <COND id="125" value="4"/>
 </OBJ>
-<OBJ id="37734" text="[%personname F L] has heralded the importance of control and finesse.  But the [%personage]-year-old has not been able to develop pitchers with these qualities.">
+<OBJ id="37734" text="[%personname F L] 大力宣揚控球與技巧的重要性。但這位 [%personage] 歲的教練，始終沒能培養出具備這些特質的投手。">
 <COND id="118" value="10"/>
 <COND id="136" value="1"/>
 <COND id="125" value="4"/>
 <COND id="126" value="5"/>
 </OBJ>
-<OBJ id="37737" text="[%personname F L] audibly groans every time one of his pitchers gives up a solid line drive. The groans have multiplied during his tenure as a pitching coach.  He's had longevity in the profession, but he hasn't had any great deal of success.">
+<OBJ id="37737" text="每當自家投手被打出扎實的平飛球，[%personname F L] 都會發出聽得見的哀號。而在他擔任投手教練的期間，這種哀號愈來愈多。他在這行待得夠久，卻始終談不上成功。">
 <COND id="118" value="10"/>
 <COND id="136" value="2"/>
 <COND id="126" value="5"/>
 <COND id="125" value="4"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37742" text="[%personname F L] certainly isn't the first name that comes to mind when you think about top pitching coaches. Despite a middling reputation, though, the [%personage]-year-old has put together a decent, [%coach experience noyear]-year coaching career.">
+<OBJ id="37742" text="想到頂尖的投手教練，[%personname F L] 絕對不是第一個浮現腦海的名字。不過即使風評普通，這位 [%personage] 歲的教練還是經營出一段 [%coach experience noyear] 年的不錯生涯。">
 <COND id="118" value="10"/>
 <COND id="136" value="3"/>
 <COND id="126" value="5"/>
 <COND id="125" value="4"/>
 </OBJ>
-<OBJ id="37744" text="[%personname F L] encourages {his|her|their} pitchers to make generous use of the fastball; it's served {him|her|them} well.  The [%personhometown] native has put together a respectable [%coach experience noyear]-year career. ">
+<OBJ id="37744" text="[%personname F L] 鼓勵{他的|她的|他們的}投手大方地使用速球；這一套對{他|她|他們}很受用。這位來自 [%personhometown] 的教練，已經累積出一段值得尊敬的 [%coach experience noyear] 年生涯。">
 <COND id="118" value="10"/>
 <COND id="136" value="0"/>
 <COND id="126" value="7"/>
 <COND id="125" value="6"/>
 </OBJ>
 <OBJ id="37748">
-<TXT>[%personname F L] makes his pitchers throw five consecutive breaking balls for strikes before he lets them end a side session. It's an odd quirk, but his reliance on command of secondary pitches has resulted in good success throughout his [%coach experience noyear]-year career.</TXT>
+<TXT>[%personname F L] 會要求投手連續把五顆變化球投進好球帶，才准他們結束牛棚練投。這個癖好是有點怪，但他對副球種掌握度的重視，替他 [%coach experience noyear] 年的教練生涯帶來了很好的成績。</TXT>
 <COND id="136" value="1"/>
 <COND id="118" value="10"/>
 <COND id="126" value="7"/>
 <COND id="125" value="6"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37754" text="Pitchers under the direction of [%personname F L] tend to have slightly higher than normal ground ball rates. That has definitely helped the [%personage]-year-old craft a [%coach experience noyear]-year coaching career.">
+<OBJ id="37754" text="在 [%personname F L] 指導下的投手，滾地球比例通常會略高於一般水準。這一點確實幫助這位 [%personage] 歲的教練經營出 [%coach experience noyear] 年的教練生涯。">
 <COND id="118" value="10"/>
 <COND id="136" value="2"/>
 <COND id="126" value="7"/>
 <COND id="125" value="6"/>
 </OBJ>
-<OBJ id="37756" text="[%personname F L] works hard at his craft. {He|She|They} has continued to be a student of pitching throughout {his|her|their} [%coach experience noyear]-year career. ">
+<OBJ id="37756" text="[%personname F L] 在自己的專業上非常努力。在 [%coach experience noyear] 年的生涯裡，{他|她|他們}始終保持著鑽研投球的學生心態。">
 <COND id="118" value="10"/>
 <COND id="136" value="3"/>
 <COND id="126" value="7"/>
 <COND id="125" value="6"/>
 </OBJ>
-<OBJ id="37760" text="[%personname F L] carries a radar gun with him wherever he goes. He's done it throughout his career. The emphasis on velocity has worked well for him and led to a solid career.">
+<OBJ id="37760" text="[%personname F L] 走到哪裡都帶著測速槍，整個生涯都是如此。這種對球速的重視對他很受用，也造就了一段扎實的生涯。">
 <COND id="118" value="10"/>
 <COND id="136" value="0"/>
 <COND id="126" value="9"/>
 <COND id="125" value="8"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37764" text="[%personname F L] says {his|her|their} first objective with every pitcher is to decrease their walk rate. It doesn't always work; but by and large, the [%personhometown] native has had tremendous success in {his|her|their} [%coach experience] as a coach.">
+<OBJ id="37764" text="[%personname F L] 說{他|她|他們}帶每位投手的第一個目標，都是把保送率降下來。這招不見得每次都靈；但整體而言，這位來自 [%personhometown] 的教練在 [%coach experience] 的執教生涯裡成績斐然。">
 <COND id="118" value="10"/>
 <COND id="136" value="1"/>
 <COND id="126" value="9"/>
 <COND id="125" value="8"/>
 </OBJ>
 <OBJ id="37766">
-<TXT>[%personname F L] works hard getting his pitchers to keep the ball down. He also celebrates hard -- usually with a fist pump -- whenever one of his pitchers gets a ground ball double play. In his [%coach experience] as a coach, there have been countless fist pumps.</TXT>
+<TXT>[%personname F L] 很努力在要求投手把球壓低。而每當自家投手製造出滾地球雙殺，他慶祝起來也一樣賣力——通常是揮一記拳。在他 [%coach experience] 的執教生涯裡，這樣的揮拳已經數不清了。</TXT>
 <COND id="118" value="10"/>
 <COND id="136" value="2"/>
 <COND id="126" value="9"/>
 <COND id="125" value="8"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37767" text="[%personname F L] develops personal friendships with {his|her|their} pitchers. That could be a big reason for {his|her|their} success during {his|her|their} [%coach experience] as a coach.">
+<OBJ id="37767" text="[%personname F L] 會和{他的|她的|他們的}投手發展出私人交情。這可能是{他|她|他們}在 [%coach experience] 的執教生涯裡如此成功的一大原因。">
 <COND id="118" value="10"/>
 <COND id="136" value="3"/>
 <COND id="126" value="9"/>
 <COND id="125" value="8"/>
 </OBJ>
-<OBJ id="37768" text="[%personname F L] turns throwers into pitchers. The [%personage]-year-old native of [%personhometown] is still considered one of the upper-echelon coaches.">
+<OBJ id="37768" text="[%personname F L] 能把只會丟球的人變成真正的投手。這位 [%personage] 歲、來自 [%personhometown] 的教練，至今仍被視為頂尖層級的一員。">
 <COND id="118" value="10"/>
 <COND id="136" value="0"/>
 <COND id="126" value="10"/>
 <COND id="125" value="10"/>
 </OBJ>
-<OBJ id="37769" text="Often with just minor tweaks, [%personname F L] is able to improve someone's breaking ball. At [%personage] years old, {he|she|they} is considered a true pitching guru.">
+<OBJ id="37769" text="往往只需要一些小幅度的調整，[%personname F L] 就能讓一個人的變化球變好。在 [%personage] 歲這個年紀，{他|她|他們}已經被視為真正的投球宗師。">
 <COND id="118" value="10"/>
 <COND id="136" value="1"/>
 <COND id="126" value="10"/>
 <COND id="125" value="10"/>
 </OBJ>
-<OBJ id="37770" text="[%personname F L] takes it personally if one of {his|her|their} pitchers gives up a home run. The [%personage]-year-old is quite simply one of the best pitching coaches in baseball.">
+<OBJ id="37770" text="只要手下投手被打全壘打，[%personname F L] 就會覺得是自己的責任。這位 [%personage] 歲的教練根本就是棒球界數一數二的投手教練。">
 <COND id="118" value="10"/>
 <COND id="136" value="2"/>
 <COND id="126" value="10"/>
 <COND id="125" value="10"/>
 </OBJ>
-<OBJ id="37771" text="Often the last one to leave the park, [%personname F L] is a baseball rat; and even after [%coach experience] in baseball, {he|she|they} has not lost the drive to be the best. {He|She|They} is widely regarded as a coaching legend.">
+<OBJ id="37771" text="[%personname F L] 常常是最後一個離開球場的人，是個徹頭徹尾的棒球痴；即使在棒球圈待了 [%coach experience]，{他|她|他們}仍沒有失去追求極致的動力。{他|她|他們}公認是教練圈的傳奇。">
 <COND id="118" value="10"/>
 <COND id="136" value="3"/>
 <COND id="126" value="10"/>
@@ -104935,117 +104935,117 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 </CAT>
 
 <CAT id="753">
-<OBJ id="37293" text="[%personname F L] has an outstanding reputation. Power hitters have especially thrived during {his|her|their} tenures.">
+<OBJ id="37293" text="[%personname F L] 風評出眾。在{他|她|他們}任內，長打型打者尤其如魚得水。">
 <COND id="135" value="1"/>
 <COND id="125" value="9"/>
 </OBJ>
-<OBJ id="37296" text="[%personname F L], who was born in [%personhometown], is well known around the league.  {He|She|They} is an expert in helping players hit the long ball.">
+<OBJ id="37296" text="出生於 [%personhometown] 的 [%personname F L] 在聯盟裡名氣很大。{他|她|他們}是幫打者打出長打的專家。">
 <COND id="135" value="1"/>
 <COND id="125" value="7"/>
 <COND id="126" value="8"/>
 </OBJ>
-<OBJ id="37297" text="[%personname F L] has a decent reputation in baseball.  Many hitters have developed their power under {his|her|their} tutelage.">
+<OBJ id="37297" text="[%personname F L] 在棒球圈風評不錯。許多打者在{他的|她的|他們的}指導下練出了長打能力。">
 <COND id="135" value="1"/>
 <COND id="125" value="5"/>
 <COND id="126" value="6"/>
 </OBJ>
-<OBJ id="37298" text="[%personage]-year-old [%personname F L] has a less than stellar reputation, despite his coaching experience.  {He|She|They} specializes in helping players find their home run swing.">
+<OBJ id="37298" text="[%personage] 歲的 [%personname F L] 儘管有教練資歷，風評卻稱不上出色。{他|她|他們}專精於幫打者找到全壘打的揮擊。">
 <COND id="125" value="3"/>
 <COND id="126" value="4"/>
 <COND id="135" value="1"/>
 </OBJ>
-<OBJ id="37299" text="[%personname F L] is relatively unknown.  {He|She|They} has expressed interest in helping players develop their power stroke.">
+<OBJ id="37299" text="[%personname F L] 相對來說沒什麼名氣。{他|她|他們}表示有興趣培養打者的長打能力。">
 <COND id="126" value="2"/>
 <COND id="135" value="1"/>
 </OBJ>
-<OBJ id="37300" text="The [%coach experience noyear]-year vet is known around the league as a legend.  It seems that everyone does well with {him|her|them} as hitting coach.">
+<OBJ id="37300" text="這位 [%coach experience noyear] 年資歷的老將，在聯盟裡公認是個傳奇。似乎每個人在{他|她|他們}擔任打擊教練時都表現得很好。">
 <COND id="125" value="9"/>
 <COND id="135" value="3"/>
 </OBJ>
-<OBJ id="37301" text="[%personname L], out of [%personhometown], is very well regarded in the league.  {He|She|They} has helped numerous hitters of all types develop into stars.">
+<OBJ id="37301" text="來自 [%personhometown] 的 [%personname L] 在聯盟裡備受推崇。{他|她|他們}幫助過各種類型的打者成長為明星球員。">
 <COND id="125" value="7"/>
 <COND id="126" value="8"/>
 <COND id="135" value="3"/>
 </OBJ>
-<OBJ id="37302" text="The [%personage]-year-old hitting coach is known as an average hitting coach.  {He|She|They} does not tend to focus on any specific type of hitter.">
+<OBJ id="37302" text="這位 [%personage] 歲的打擊教練被認為只是普通水準。{他|她|他們}不特別偏重哪一種類型的打者。">
 <COND id="125" value="5"/>
 <COND id="126" value="6"/>
 <COND id="135" value="3"/>
 </OBJ>
-<OBJ id="37303" text="[%personage]-year-old [%personname F L] is a below-average hitting coach.  {He|She|They} does not specialize in any particular area.">
+<OBJ id="37303" text="[%personage] 歲的 [%personname F L] 是位水準以下的打擊教練。{他|她|他們}沒有特別專精的領域。">
 <COND id="135" value="3"/>
 <COND id="125" value="3"/>
 <COND id="126" value="4"/>
 </OBJ>
-<OBJ id="37304" text="[%personname F L] is an unknown.  {He|She|They} does not specialize in any particular area.">
+<OBJ id="37304" text="[%personname F L] 是個未知數。{他|她|他們}沒有特別專精的領域。">
 <COND id="126" value="2"/>
 <COND id="135" value="3"/>
 </OBJ>
-<OBJ id="37305" text="Other hitting coaches look up to this [%coach experience noyear]-year veteran.  Contact hitters have especially fared well under {his|her|their} tutelage.">
+<OBJ id="37305" text="其他打擊教練都很敬重這位 [%coach experience noyear] 年資歷的老將。接觸型打者在{他的|她的|他們的}指導下尤其吃得開。">
 <COND id="125" value="9"/>
 <COND id="135" value="0"/>
 </OBJ>
-<OBJ id="37306" text="[%personname F L] has a great reputation around the league. Some hitters have seen their batting averages rise under {his|her|their} instruction.">
+<OBJ id="37306" text="[%personname F L] 在聯盟裡風評極佳。有些打者在{他的|她的|他們的}指導下打擊率確實有所提升。">
 <COND id="125" value="7"/>
 <COND id="126" value="8"/>
 <COND id="135" value="0"/>
 </OBJ>
-<OBJ id="37307" text="[%personname F L] is known as an average hitting coach.  {He|She|They} spends most of his time teaching hitters to improve their contact skills.">
+<OBJ id="37307" text="[%personname F L] 被認為是位普通的打擊教練。{他|她|他們}多數時間都花在教打者提升擊球能力上。">
 <COND id="125" value="5"/>
 <COND id="126" value="6"/>
 <COND id="135" value="0"/>
 </OBJ>
-<OBJ id="37308" text="[%personname F L] is a below average hitting coach.  {He|She|They} focuses {his|her|their} time on teaching hitters to make better contact.">
+<OBJ id="37308" text="[%personname F L] 是位水準以下的打擊教練。{他|她|他們}把時間集中在教打者擊球擊得更扎實上。">
 <COND id="125" value="3"/>
 <COND id="126" value="4"/>
 <COND id="135" value="0"/>
 </OBJ>
-<OBJ id="37309" text="[%personage]-year-old [%personname F L] has yet to establish a reputation around the league.  {He|She|They} seems to focus on improving contact skills.">
+<OBJ id="37309" text="[%personage] 歲的 [%personname F L] 還沒在聯盟裡建立風評。{他|她|他們}似乎專注於提升打者的擊球能力。">
 <COND id="126" value="2"/>
 <COND id="135" value="0"/>
 </OBJ>
-<OBJ id="37310" text="[%personname F L] is practically a legend as a hitting coach.  &quot;Patience is a virtue&quot; is {his|her|their} mantra with hitters.">
+<OBJ id="37310" text="[%personname F L] 幾乎可以算是打擊教練界的傳奇。「耐心是一種美德」是{他|她|他們}對打者掛在嘴邊的信條。">
 <COND id="135" value="2"/>
 <COND id="125" value="9"/>
 </OBJ>
-<OBJ id="37311" text="[%personname F L], who was born in [%personhometown], is a great hitting coach.  {He|She|They} teaches hitters to be patient at the plate.">
+<OBJ id="37311" text="出生於 [%personhometown] 的 [%personname F L] 是位優秀的打擊教練。{他|她|他們}教打者在打擊區裡要有耐心。">
 <COND id="126" value="8"/>
 <COND id="125" value="7"/>
 <COND id="135" value="2"/>
 </OBJ>
-<OBJ id="37312" text="[%personname F L] is regarded as a run-of-the-mill hitting coach.  {He|She|They} is best at improving players' walk rates.">
+<OBJ id="37312" text="[%personname F L] 被視為一位平凡無奇的打擊教練。{他|她|他們}最擅長的是提升球員的保送率。">
 <COND id="126" value="6"/>
 <COND id="125" value="5"/>
 <COND id="135" value="2"/>
 </OBJ>
-<OBJ id="37313" text="Despite having [%coach experience noyear] years of experience, he is nothing special as a hitting coach.  He is best at improving plate discipline.">
+<OBJ id="37313" text="儘管有 [%coach experience noyear] 年的資歷，他身為打擊教練並沒有什麼特別之處。他最擅長的是提升打擊區紀律。">
 <COND id="125" value="3"/>
 <COND id="126" value="4"/>
 <COND id="135" value="2"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37314" text="[%personage]-year-old [%personname F L] is still considered new to the position.  {He|She|They} wants to help players improve their walk rates.">
+<OBJ id="37314" text="[%personage] 歲的 [%personname F L] 在這個位子上仍被視為新人。{他|她|他們}想幫球員提升保送率。">
 <COND id="126" value="2"/>
 <COND id="135" value="2"/>
 </OBJ>
-<OBJ id="37408" text="[%personname F L] hasn't made much of a name for himself as a coach. He stresses a contact-first approach at the plate. ">
+<OBJ id="37408" text="[%personname F L] 還沒在教練這行闖出名號。他強調打擊區上以擊中球為優先。">
 <COND id="126" value="2"/>
 <COND id="125" value="1"/>
 <COND id="135" value="0"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37409" text="[%personname F L] has yet to blossom as a hitting coach.  In {his|her|their} instruction, {he|she|they} stresses the importance of the long ball.">
+<OBJ id="37409" text="[%personname F L] 身為打擊教練還沒開花結果。在{他的|她的|他們的}教學中，{他|她|他們}強調長打的重要性。">
 <COND id="126" value="2"/>
 <COND id="125" value="1"/>
 <COND id="135" value="1"/>
 </OBJ>
-<OBJ id="37410" text="Patience, patience, patience.  This is what [%personname F L] preaches. He likes his hitters to work the count and draw walks whenever possible. He is still relatively inexperienced as a coach.">
+<OBJ id="37410" text="耐心，耐心，還是耐心。這就是 [%personname F L] 宣揚的東西。他喜歡打者纏鬥球數，能保送就保送。他的教練資歷還相對淺。">
 <COND id="135" value="2"/>
 <COND id="126" value="2"/>
 <COND id="125" value="1"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37411" text="[%personname F L] is still unproven as a hitting coach. The [%personhometown] native has focused on teaching an overall approach to hitting.">
+<OBJ id="37411" text="[%personname F L] 身為打擊教練還沒經過驗證。這位來自 [%personhometown] 的教練專注於傳授整體的打擊思路。">
 <COND id="135" value="3"/>
 <COND id="126" value="4"/>
 <COND id="125" value="1"/>
@@ -105055,18 +105055,18 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="126" value="4"/>
 <COND id="125" value="3"/>
 </OBJ>-->
-<OBJ id="37413" text="[%personname F L] has big talent as a hitting coach, but the [%personage]-year-old is still relatively unheralded, as {he|she|they} doesn't come with a big reputation.">
+<OBJ id="37413" text="[%personname F L] 身為打擊教練很有天分，但這位 [%personage] 歲的教練名氣還不大，畢竟{他|她|他們}身上沒有響亮的招牌。">
 <COND id="121" value="7"/>
 <COND id="125" value="1"/>
 <COND id="126" value="4"/>
 </OBJ>
-<OBJ id="37414" text="[%personname F L] is still trying to establish himself as a hitting coach. For him, putting the ball in play and making things happen is the key to success.">
+<OBJ id="37414" text="[%personname F L] 還在努力站穩打擊教練的位子。對他來說，把球擊進場內、製造機會就是成功的關鍵。">
 <COND id="135" value="0"/>
 <COND id="126" value="4"/>
 <COND id="125" value="3"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37415" text="[%personname F L] takes a balanced approach with hitters.">
+<OBJ id="37415" text="[%personname F L] 對打者採取均衡的路線。">
 <COND id="135" value="3"/>
 <COND id="126" value="4"/>
 <COND id="123" value="3"/>
@@ -105076,7 +105076,7 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="126" value="6"/>
 <COND id="125" value="5"/>
 </OBJ>-->
-<OBJ id="37525" text="[%personname F L] is able to excel when working with power hitters.  Overall, though, the [%personage]-year-old ranks as only an average hitting coach.">
+<OBJ id="37525" text="[%personname F L] 帶長打型打者時表現得很出色。不過整體而言，這位 [%personage] 歲的教練也就是位普通的打擊教練。">
 <COND id="118" value="3"/>
 <COND id="126" value="6"/>
 <COND id="125" value="5"/>
@@ -105092,7 +105092,7 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="126" value="6"/>
 <COND id="125" value="5"/>
 </OBJ>-->
-<OBJ id="37528" text="[%personname F L] gets good reviews from hitters who have worked with him.  During his [%coach experience] on the job, he has helped lineups produce higher batting averages.">
+<OBJ id="37528" text="和 [%personname F L] 共事過的打者對他評價都很好。在任的 [%coach experience] 裡，他幫打線把打擊率拉高了不少。">
 <COND id="118" value="4"/>
 <COND id="126" value="8"/>
 <COND id="125" value="7"/>
@@ -105100,198 +105100,198 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="368" value="0"/>
 </OBJ>
 <OBJ id="37529">
-<TXT>[%personname F L] is well regarded as a hitting coach.  The [%personhometown] native doesn't let {his|her|their} hitters leave a batting practice session until they've hit at least one ball over the fence. {He|She|They} likes all hitters to have home run power.</TXT>
+<TXT>[%personname F L] 的打擊教練風評很好。這位來自 [%personhometown] 的教練，不會讓{他的|她的|他們的}打者在至少打出一球飛越全壘打牆之前離開打擊練習。{他|她|他們}希望每個打者都有全壘打的力量。</TXT>
 <COND id="118" value="4"/>
 <COND id="135" value="1"/>
 <COND id="126" value="8"/>
 <COND id="125" value="7"/>
 </OBJ>
-<OBJ id="37530" text="[%personname F L] has developed a solid reputation.  {He|She|They} wants hitters to drive up pitch counts and get into the other team's bullpen. It's an approach that has worked well for the native of [%personhometown].">
+<OBJ id="37530" text="[%personname F L] 已經累積出扎實的風評。{他|她|他們}要求打者把對方的投球數逼上去，好早點打到對方的牛棚。這套做法對這位來自 [%personhometown] 的教練很受用。">
 <COND id="118" value="5"/>
 <COND id="135" value="2"/>
 <COND id="126" value="8"/>
 <COND id="125" value="7"/>
 </OBJ>
-<OBJ id="37531" text="[%personname F L] knows how to develop good rapport with hitters.  {He|She|They} quickly becomes a trusted voice.">
+<OBJ id="37531" text="[%personname F L] 很懂得和打者建立良好的默契。{他|她|他們}很快就會成為打者信賴的聲音。">
 <COND id="118" value="4"/>
 <COND id="135" value="3"/>
 <COND id="126" value="8"/>
 <COND id="125" value="7"/>
 </OBJ>
-<OBJ id="37532" text="[%personname F L] is considered one of the best at maximizing a hitter's potential. The veteran of [%coach experience] is especially adept at teaching hitters how to go with a pitch where it is thrown.">
+<OBJ id="37532" text="[%personname F L] 公認是最能把打者潛力榨到極致的幾位教練之一。這位有 [%coach experience] 資歷的老將，尤其擅長教打者順著球路的方向擊球。">
 <COND id="135" value="0"/>
 <COND id="118" value="5"/>
 <COND id="126" value="10"/>
 <COND id="125" value="9"/>
 </OBJ>
-<OBJ id="37533" text="[%personname F L] is regarded as one of the best at developing power hitters. {His|Her|Their} players usually improve their home run production. ">
+<OBJ id="37533" text="[%personname F L] 公認是最擅長培養長打型打者的幾位之一。{他的|她的|他們的}球員通常都能提升全壘打產量。">
 <COND id="126" value="10"/>
 <COND id="125" value="9"/>
 <COND id="118" value="5"/>
 <COND id="135" value="1"/>
 </OBJ>
-<OBJ id="37534" text="[%personname F L] knows how to teach hitters to recognize pitches. He's one of the best at developing patience at the plate.">
+<OBJ id="37534" text="[%personname F L] 很懂得教打者辨識球路。他是培養打擊區耐心最出色的幾位之一。">
 <COND id="135" value="2"/>
 <COND id="125" value="9"/>
 <COND id="118" value="5"/>
 <COND id="126" value="10"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37535" text="[%personname F L] is a remarkable hitting coach.  {He|She|They} is good with all types of hitters.">
+<OBJ id="37535" text="[%personname F L] 是位出色的打擊教練。{他|她|他們}和各種類型的打者都合得來。">
 <COND id="118" value="5"/>
 <COND id="126" value="10"/>
 <COND id="125" value="10"/>
 <COND id="135" value="3"/>
 </OBJ>
-<OBJ id="37536" text="[%personname F L], after [%coach experience] as hitting coach, is considered one of the best of all time.  Many players quickly see their batting averages jump under {his|her|their} tutelage.">
+<OBJ id="37536" text="在擔任打擊教練 [%coach experience] 之後，[%personname F L] 被視為史上最出色的幾位之一。許多球員在{他的|她的|他們的}指導下，打擊率很快就往上跳。">
 <COND id="135" value="0"/>
 <COND id="125" value="10"/>
 <COND id="126" value="10"/>
 <COND id="118" value="8"/>
 <COND id="121" value="9"/>
 </OBJ>
-<OBJ id="37537" text="[%personname F L] has turned slap hitters into guys who can pop them out of the park. {His|Her|Their} [%coach experience] as a hitting coach have made {him|her|them} one of the game's elite.">
+<OBJ id="37537" text="[%personname F L] 能把只會推打的球員變成能把球轟出場外的長打者。[%coach experience] 的打擊教練資歷，讓{他|她|他們}躋身這項運動的頂尖之列。">
 <COND id="135" value="1"/>
 <COND id="118" value="8"/>
 <COND id="126" value="10"/>
 <COND id="125" value="10"/>
 <COND id="121" value="9"/>
 </OBJ>
-<OBJ id="37538" text="[%personname F L] is a guru when it comes to teaching hitters to work the count. {His|Her|Their} hitters often see their on-base percentages spike significantly. {He|She|They} is considered one of the best coaches in the game.">
+<OBJ id="37538" text="講到教打者纏鬥球數，[%personname F L] 是個宗師。{他的|她的|他們的}打者上壘率往往大幅飆升。{他|她|他們}公認是這項運動裡最出色的教練之一。">
 <COND id="118" value="8"/>
 <COND id="126" value="10"/>
 <COND id="125" value="10"/>
 <COND id="135" value="2"/>
 <COND id="121" value="9"/>
 </OBJ>
-<OBJ id="37539" text="There isn't one hitter that [%personname F L] can't make better. Whether the focus is watching video or making swing adjustments, the [%personhometown] native is an elite hitting coach.">
+<OBJ id="37539" text="沒有哪個打者是 [%personname F L] 沒辦法讓他變更好的。不論是看影片還是調整揮棒，這位來自 [%personhometown] 的教練都是頂級的打擊教練。">
 <COND id="118" value="8"/>
 <COND id="126" value="10"/>
 <COND id="125" value="10"/>
 <COND id="121" value="9"/>
 <COND id="135" value="3"/>
 </OBJ>
-<OBJ id="37709" text="[%personname F L] has had a long career in baseball. But that doesn't mean he's had great results. He's done an OK job developing contact hitters, but by and large his body of work is unimpressive.">
+<OBJ id="37709" text="[%personname F L] 在棒球圈的生涯很長，但這不代表他成績有多好。他在培養接觸型打者上做得還可以，但整體來說他的成果並不亮眼。">
 <COND id="118" value="10"/>
 <COND id="125" value="2"/>
 <COND id="126" value="3"/>
 <COND id="135" value="0"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37710" text="[%personname F L] digs the long ball. Unfortunately, {his|her|their} [%coach experience] of experience as a hitting coach have produced poor results.  {His|Her|Their} hitters seldom turn into great power hitters.">
+<OBJ id="37710" text="[%personname F L] 熱愛長打。可惜的是，{他的|她的|他們的} [%coach experience] 打擊教練資歷成果不佳，{他的|她的|他們的}打者很少能變成優秀的長打者。">
 <COND id="118" value="10"/>
 <COND id="126" value="3"/>
 <COND id="125" value="2"/>
 <COND id="135" value="1"/>
 </OBJ>
-<OBJ id="37711" text="[%personname F L] teaches his hitters to be patient -- perhaps too patient. In his [%coach experience] as a hitting coach, he has heard a lot of complaints.  Hitters, following his mantra, too often fall behind in counts.">
+<OBJ id="37711" text="[%personname F L] 教打者要有耐心——或許耐心過了頭。在他 [%coach experience] 的打擊教練生涯裡，他聽過不少抱怨：打者照著他的信條，太常落入球數落後。">
 <COND id="135" value="2"/>
 <COND id="118" value="10"/>
 <COND id="126" value="3"/>
 <COND id="125" value="2"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37712" text="[%personname F L] just isn't very highly regarded as a hitting coach. But you've got to hand it to {him|her|them}.  The [%personage]-year-old from [%personhometown] has made a career out of it.">
+<OBJ id="37712" text="[%personname F L] 身為打擊教練評價就是不高。但也不得不佩服{他|她|他們}，這位來自 [%personhometown]、[%personage] 歲的教練，靠這行過了一輩子。">
 <COND id="118" value="10"/>
 <COND id="135" value="3"/>
 <COND id="126" value="3"/>
 <COND id="125" value="2"/>
 </OBJ>
-<OBJ id="37713" text="[%personname F L] doesn't try to reinvent the wheel when it comes to hitting.  {He|She|They} simply stresses a contact-oriented game. As a result, the [%personhometown] native has enjoyed a long career in baseball.">
+<OBJ id="37713" text="講到打擊，[%personname F L] 不會想去重新發明輪子。{他|她|他們}就是單純強調以擊中球為主的打法。也因為如此，這位來自 [%personhometown] 的教練在棒球圈待了很久。">
 <COND id="118" value="10"/>
 <COND id="126" value="5"/>
 <COND id="125" value="4"/>
 <COND id="135" value="0"/>
 </OBJ>
-<OBJ id="37714" text="Some hitters have complained that [%personname F L] puts too much focus on hitting home runs.  But this approach has worked well for the [%personage]-year-old coach, who has enjoyed a long career.">
+<OBJ id="37714" text="有些打者抱怨 [%personname F L] 太執著於打全壘打。但這套做法對這位 [%personage] 歲的教練很受用，讓他擁有一段長久的生涯。">
 <COND id="118" value="10"/>
 <COND id="126" value="5"/>
 <COND id="125" value="4"/>
 <COND id="135" value="1"/>
 </OBJ>
-<OBJ id="37715" text="Despite {his|her|their} [%coach experience] in the game, [%personname F L] has never really been considered much more than an average coach. {He|She|They} appreciates a well-worked walk more than the long ball. ">
+<OBJ id="37715" text="儘管在這項運動裡待了 [%coach experience]，[%personname F L] 從來沒被當成比普通水準更好的教練。比起長打，{他|她|他們}更欣賞一次纏出來的保送。">
 <COND id="118" value="10"/>
 <COND id="135" value="2"/>
 <COND id="126" value="5"/>
 <COND id="125" value="4"/>
 </OBJ>
-<OBJ id="37716" text="[%personname F L] can boast of few eye-popping success stories as a hitting coach; but to {his|her|their} credit, {he|she|they} has managed to stay in the game for [%coach experience].">
+<OBJ id="37716" text="[%personname F L] 身為打擊教練，拿得出手的驚人成功案例並不多；但值得肯定的是，{他|她|他們}在這行硬是待了 [%coach experience]。">
 <COND id="118" value="10"/>
 <COND id="135" value="3"/>
 <COND id="126" value="5"/>
 <COND id="125" value="4"/>
 </OBJ>
-<OBJ id="37717" text="[%personname F L], [%personage], has spent [%coach experience] in the game.  During that time, {he|she|they} has done a good job helping hitters improve their averages.">
+<OBJ id="37717" text="[%personage] 歲的 [%personname F L] 在這項運動裡待了 [%coach experience]。這段期間，{他|她|他們}在幫打者提升打擊率上做得不錯。">
 <COND id="118" value="10"/>
 <COND id="135" value="0"/>
 <COND id="126" value="7"/>
 <COND id="125" value="6"/>
 </OBJ>
-<OBJ id="37718" text="[%personname F L] is not considered one of the elite hitting coaches, but he has put together a respectable resume. Some hitters claim he helped them unleash power they never knew they possessed. ">
+<OBJ id="37718" text="[%personname F L] 稱不上頂級打擊教練，但他的資歷相當拿得出手。有些打者說，他讓他們釋放出自己從不知道擁有的長打力量。">
 <COND id="118" value="10"/>
 <COND id="135" value="1"/>
 <COND id="126" value="7"/>
 <COND id="125" value="6"/>
 </OBJ>
-<OBJ id="37719" text="[%personname F L] attributes his longevity as a coach to helping hitters stay patient. At [%personage] years of age, the [%personhometown] native has been in baseball for [%coach experience].">
+<OBJ id="37719" text="[%personname F L] 把自己教練生涯的長壽，歸功於幫打者維持耐心。這位來自 [%personhometown] 的教練現年 [%personage] 歲，已經在棒球圈待了 [%coach experience]。">
 <COND id="118" value="10"/>
 <COND id="135" value="2"/>
 <COND id="126" value="7"/>
 <COND id="125" value="6"/>
 </OBJ>
 <OBJ id="37720">
-<TXT>They say you can't teach an old dog new tricks; but in the case of [%personname F L], perhaps you don't have to. The [%personage]-year-old has amassed [%coach experience] in the game and has done a good job as a hitting coach, employing the same old tricks.</TXT>
+<TXT>人家說老狗學不了新把戲；但以 [%personname F L] 的情況來說，或許根本不需要。這位 [%personage] 歲的教練在這項運動裡累積了 [%coach experience]，靠著同樣那幾套老把戲，打擊教練當得有聲有色。</TXT>
 <COND id="118" value="10"/>
 <COND id="135" value="3"/>
 <COND id="126" value="7"/>
 <COND id="125" value="6"/>
 </OBJ>
-<OBJ id="37721" text="[%personname F L] is a symbol of longevity in baseball. The [%personage]-year-old is still a master at helping hitters put the bat on the ball.">
+<OBJ id="37721" text="[%personname F L] 是棒球界長壽的象徵。這位 [%personage] 歲的教練，至今仍是幫打者把球棒碰到球的大師。">
 <COND id="118" value="10"/>
 <COND id="135" value="0"/>
 <COND id="126" value="9"/>
 <COND id="125" value="8"/>
 </OBJ>
-<OBJ id="37722" text="[%personname F L] says one of his purest joys in life is watching one of his hitters go deep. Now [%personage], he has helped many hitters put the ball over the fence.">
+<OBJ id="37722" text="[%personname F L] 說，人生最純粹的樂趣之一，就是看著自己帶的打者把球轟出去。如今 [%personage] 歲的他，已經幫過許多打者把球送出全壘打牆。">
 <COND id="118" value="10"/>
 <COND id="135" value="1"/>
 <COND id="126" value="9"/>
 <COND id="125" value="8"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37723" text="No one really knows what his secret is; but [%personname F L] has crafted a [%coach experience noyear]-year coaching career that has often seen his hitters improve their on-base percentage.">
+<OBJ id="37723" text="沒有人真的知道他的祕訣是什麼；但 [%personname F L] 經營出一段 [%coach experience noyear] 年的教練生涯，期間他帶的打者上壘率常常都有進步。">
 <COND id="118" value="10"/>
 <COND id="135" value="2"/>
 <COND id="126" value="9"/>
 <COND id="125" value="8"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37724" text="Year after year, the name [%personname F L] seems to be associated with some talented hitters. It's up for debate how much of their success is {his|her|their} doing; but the [%personhometown] native has developed a reputation as a great hitting coach.">
+<OBJ id="37724" text="年復一年，[%personname F L] 這個名字總是和一些有天分的打者連在一起。他們的成功有多少是{他的|她的|他們的}功勞還有得爭論；但這位來自 [%personhometown] 的教練，確實累積出優秀打擊教練的名聲。">
 <COND id="118" value="10"/>
 <COND id="135" value="3"/>
 <COND id="126" value="9"/>
 <COND id="125" value="8"/>
 </OBJ>
-<OBJ id="37725" text="[%personname F L] has been in baseball for [%coach experience]; and if the [%personage]-year-old can stand up to the rigors of coaching, {he|she|they} hopes to go [%coach experience noyear] more.">
+<OBJ id="37725" text="[%personname F L] 已經在棒球圈待了 [%coach experience]；如果這位 [%personage] 歲的教練撐得住執教的辛勞，{他|她|他們}還想再做 [%coach experience noyear] 年。">
 <COND id="118" value="10"/>
 <COND id="135" value="0"/>
 <COND id="126" value="10"/>
 <COND id="125" value="10"/>
 </OBJ>
-<OBJ id="37726" text="[%personname F L] is just as sharp today as when {he|she|they} began {his|her|their} coaching career. At age [%personage], the [%personhometown] native has developed an impressive list of power hitters.">
+<OBJ id="37726" text="[%personname F L] 今天的敏銳度，和{他|她|他們}剛展開教練生涯時一模一樣。這位來自 [%personhometown] 的教練現年 [%personage] 歲，帶出的長打型打者名單相當可觀。">
 <COND id="118" value="10"/>
 <COND id="135" value="1"/>
 <COND id="126" value="10"/>
 <COND id="125" value="10"/>
 </OBJ>
 <OBJ id="37727">
-<TXT>The story goes that even when sitting in the dugout, [%personname F L] can tell a ball from a strike every time. The [%personage]-year-old has spent the past [%coach experience] building {his|her|their} reputation as one of the greatest hitting coaches in the game.</TXT>
+<TXT>傳說即使坐在球員席裡，[%personname F L] 也能每一球都分辨出好壞球。這位 [%personage] 歲的教練，過去 [%coach experience] 都在累積{他|她|他們}身為史上最偉大打擊教練之一的名聲。</TXT>
 <COND id="118" value="10"/>
 <COND id="135" value="2"/>
 <COND id="126" value="10"/>
 <COND id="125" value="10"/>
 </OBJ>
-<OBJ id="37728" text="[%personname F L] hasn't slowed down with age. The [%personage]-year-old still gets rave reviews as a hitting coach.  Most hitters regard {him|her|them} as one of the best coaches they've ever worked with.">
+<OBJ id="37728" text="[%personname F L] 並沒有隨著年紀慢下來。這位 [%personage] 歲的打擊教練依然佳評如潮，多數打者都認為{他|她|他們}是自己合作過最好的教練之一。">
 <COND id="118" value="10"/>
 <COND id="135" value="3"/>
 <COND id="126" value="10"/>
@@ -105301,161 +105301,161 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="135" value="0"/>
 <COND id="126" value="2"/>
 </OBJ>-->
-<OBJ id="37736" text="Frankly, most of {his|her|their} peers have a low opinion of [%personname F L]. Of those who say something positive, most point to {his|her|their} work with contact hitters.">
+<OBJ id="37736" text="坦白說，{他的|她的|他們的}同行大多不太看得起 [%personname F L]。少數說得出好話的人，多半會提到{他|她|他們}帶接觸型打者的成績。">
 <COND id="135" value="0"/>
 <COND id="126" value="3"/>
 </OBJ>
-<OBJ id="37738" text="[%personname F L] has not had much success as a hitting coach.  It remains to be seen if that will change in the future.  He does seem to be more effective when working with contact hitters, for whatever that is worth.">
+<OBJ id="37738" text="[%personname F L] 身為打擊教練並不成功。未來會不會有所改變還很難說。不論這一點值多少，他帶接觸型打者時似乎確實比較見效。">
 <COND id="135" value="0"/>
 <COND id="126" value="4"/>
 <COND id="125" value="4"/>
 </OBJ>
-<OBJ id="37739" text="There are better hitting coaches on the market and there are worse. [%personname F L] is a run-of-the-mill option. {He|She|They} enjoys trying to help guys raise their batting averages.">
+<OBJ id="37739" text="市場上有比他好的打擊教練，也有比他差的。[%personname F L] 就是個平凡無奇的選擇。{他|她|他們}樂於幫球員把打擊率拉高。">
 <COND id="125" value="5"/>
 <COND id="126" value="5"/>
 <COND id="135" value="0"/>
 </OBJ>
-<OBJ id="37740" text="If your roster is full of high-strikeout guys who need to make better contact, [%personhometown]-born [%personname F L] is not a bad option. {He|She|They} has a decent reputation around the league at this stage of {his|her|their} career.">
+<OBJ id="37740" text="如果你的陣容裡都是三振一堆、需要提升擊球能力的球員，出生於 [%personhometown] 的 [%personname F L] 會是個不錯的選擇。在{他的|她的|他們的}生涯這個階段，{他|她|他們}在聯盟裡的風評還算不錯。">
 <COND id="126" value="6"/>
 <COND id="125" value="6"/>
 <COND id="135" value="0"/>
 </OBJ>
-<OBJ id="37741" text="[%personname F L], [%personage], has earned a good reputation around the league after [%coach experience]. {He|She|They} works hard, maintains good rapport with his hitters, and seems to connect with guys who care about their batting average.">
+<OBJ id="37741" text="經過 [%coach experience]，[%personage] 歲的 [%personname F L] 在聯盟裡累積了不錯的風評。{他|她|他們}工作勤奮，和打者維持良好的默契，也很能跟在意打擊率的球員聊到一塊。">
 <COND id="118" value="2"/>
 <COND id="135" value="0"/>
 <COND id="126" value="7"/>
 <COND id="125" value="7"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37743" text="[%personname F L] may not be naturally gifted; but he is one of the hardest working coaches you will find. His colleagues hold him in high regard for his ability to help hitters make better contact.">
+<OBJ id="37743" text="[%personname F L] 或許沒有過人的天賦；但他絕對是你找得到最努力的教練之一。同行都很推崇他幫打者提升擊球扎實度的本事。">
 <COND id="118" value="2"/>
 <COND id="135" value="0"/>
 <COND id="126" value="8"/>
 <COND id="125" value="8"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37745" text="[%personhometown]-born [%personname F L] would absolutely love to inherit a roster full of skilled hitters in need of some fine-tuning. He will spend hours in the batting cage with a hitter.">
+<OBJ id="37745" text="出生於 [%personhometown] 的 [%personname F L] 最樂見的，就是接手一支滿是好打者、只差微調的陣容。他願意和打者在打擊籠裡耗上好幾個小時。">
 <COND id="135" value="0"/>
 <COND id="125" value="9"/>
 <COND id="126" value="9"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37746" text="[%personname F L] seems too young to know much about the game; but you will never hear his hitters complain. He knows the mechanics of everyone's swing; and when their contact numbers start dropping, they know where to turn.">
+<OBJ id="37746" text="[%personname F L] 年輕得看起來不像懂多少棒球；但你永遠不會聽到他帶的打者抱怨。每個人揮棒的機制他都清楚；一旦他們的擊球數據開始下滑，他們知道該去找誰。">
 <COND id="117" value="10"/>
 <COND id="125" value="9"/>
 <COND id="135" value="0"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37749" text="[%personname F L] is the best in the business at helping guys put the ball in play.  Before all is said and done, he will probably develop more than one batting champ.">
+<OBJ id="37749" text="講到幫球員把球擊進場內，[%personname F L] 是這行最強的。等到一切塵埃落定，他大概會培養出不只一位打擊王。">
 <COND id="125" value="10"/>
 <COND id="135" value="0"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37750" text="[%personname F L] has simply not distinguished himself as a hitting coach. He seems to be interested in working with power hitters; but it remains to be seen if he can be successful.">
+<OBJ id="37750" text="[%personname F L] 身為打擊教練實在稱不上出色。他似乎對帶長打型打者有興趣；但他做不做得起來，還有待觀察。">
 <COND id="126" value="2"/>
 <COND id="135" value="1"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37751" text="[%personname F L] has not demonstrated the skills to merit a coaching position at the next level. ">
+<OBJ id="37751" text="[%personname F L] 還沒展現出足以在更高層級擔任教練的本事。">
 <COND id="126" value="3"/>
 <COND id="135" value="1"/>
 </OBJ>
-<OBJ id="37752" text="[%personname F L], [%personage], is not the most exciting coaching candidate. But he does seem to have an affinity for working with power hitters.  He could catch on with a team with the right lineup. ">
+<OBJ id="37752" text="[%personage] 歲的 [%personname F L] 稱不上是最令人期待的教練人選。但他確實對帶長打型打者頗有一套，只要球隊的打線合適，他還是有機會落腳。">
 <COND id="135" value="1"/>
 <COND id="126" value="4"/>
 <COND id="125" value="4"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37753" text="[%personhometown]-born [%personname F L] talks about having a passion for developing home run power in all hitters, not just the traditional &quot;corner&quot; guys. There might be something to his zeal, although his results to date leave reason for doubt.">
+<OBJ id="37753" text="出生於 [%personhometown] 的 [%personname F L] 常說，他熱衷於培養每一位打者的全壘打能力，而不只是傳統的角落位置球員。他的熱情或許有幾分道理，只是至今的成果仍讓人存疑。">
 <COND id="126" value="5"/>
 <COND id="125" value="5"/>
 <COND id="135" value="1"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37755" text="[%personname F L], a coaching veteran, has built a decent reputation by working hard and by demonstrating the ability to refine a hitter's power stroke.">
+<OBJ id="37755" text="資深教練 [%personname F L] 靠著勤奮和打磨打者長打能力的本事，累積出不錯的風評。">
 <COND id="135" value="1"/>
 <COND id="125" value="6"/>
 <COND id="126" value="6"/>
 <COND id="118" value="3"/>
 </OBJ>
-<OBJ id="37757" text="Hitters under [%personname F L] tend to swing for the fences, a trait he seems to encourage. Some might say he takes it a bit too far; but overall, he has the reputation of being a very good coach.">
+<OBJ id="37757" text="[%personname F L] 手下的打者往往揮大棒，這似乎也是他鼓勵的。有人會說他做得有點過頭；但整體而言，他的風評是位非常優秀的教練。">
 <COND id="135" value="1"/>
 <COND id="126" value="7"/>
 <COND id="125" value="7"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37758" text="[%personname F L] is regarded around baseball as an excellent coach.  The sluggers he has worked with sing his praises. He is perhaps not among the absolute best, but he is a talented coach who would do well in most situations. ">
+<OBJ id="37758" text="[%personname F L] 在棒球圈公認是位出色的教練。和他共事過的強打者都對他讚不絕口。他或許還不到絕對頂尖，但他是位有本事的教練，在多數情況下都能勝任。">
 <COND id="135" value="1"/>
 <COND id="126" value="8"/>
 <COND id="125" value="8"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37759" text="[%personname F L] is a great coach. The quiet, unassuming [%personage]-year-old doesn't socialize much with his players, but he knows how to perfect their power stroke.  The results speak for themselves.">
+<OBJ id="37759" text="[%personname F L] 是位優秀的教練。這位 [%personage] 歲的教練安靜低調，不太跟球員交際，但他很懂得怎麼把他們的長打能力磨到完美，成績就是最好的證明。">
 <COND id="135" value="1"/>
 <COND id="126" value="9"/>
 <COND id="125" value="9"/>
 <COND id="118" value="2"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37761" text="[%personname F L], who hails from [%personhometown], has surprised people around the league with his success as a coach.  He is already building a reputation for developing power hitters.">
+<OBJ id="37761" text="來自 [%personhometown] 的 [%personname F L]，以身為教練的成績讓聯盟上下大感意外。他已經開始累積培養長打型打者的名聲。">
 <COND id="135" value="1"/>
 <COND id="125" value="9"/>
 <COND id="117" value="10"/>
 <COND id="118" value="1"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37762" text="[%personname F L] has had the kind of career other coaches would kill for. He has seen almost every stadium in the league and worked with some of the best power hitters. Heck, in many cases, they have credited him for their success.">
+<OBJ id="37762" text="[%personname F L] 的生涯是其他教練夢寐以求的。他幾乎走遍了聯盟每一座球場，也和幾位最頂尖的長打者共事過。而且在很多情況下，他們都把自己的成功歸功於他。">
 <COND id="118" value="20"/>
 <COND id="135" value="1"/>
 <COND id="125" value="9"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37763" text="Players enjoy being around the gregarious [%personname F L], even though the [%personage]-year-old coach will call them out on occasion.  {He|She|They} has established a reputation for developing power hitters.">
+<OBJ id="37763" text="球員很喜歡跟外向健談的 [%personname F L] 相處，即使這位 [%personage] 歲的教練偶爾會當面訓人。{他|她|他們}已經建立起培養長打型打者的名聲。">
 <COND id="135" value="1"/>
 <COND id="125" value="10"/>
 <COND id="118" value="2"/>
 </OBJ>
-<OBJ id="37765" text="It is incredible that [%personname F L] has stayed in the coaching ranks for [%coach experience] considering his less-than-stellar reputation.">
+<OBJ id="37765" text="以 [%personname F L] 那不怎麼樣的風評來說，他居然能在教練圈待上 [%coach experience]，實在不可思議。">
 <COND id="118" value="20"/>
 <COND id="125" value="3"/>
 <COND id="126" value="4"/>
 </OBJ>
-<OBJ id="37772" text="[%personname F L] is still looking for the opportunity to make a name for himself in the league. He might have a slight gift for helping hitters refine their strike zone.">
+<OBJ id="37772" text="[%personname F L] 還在等一個能在聯盟闖出名號的機會。他在幫打者修正好球帶認知上，或許有那麼一點天分。">
 <COND id="135" value="2"/>
 <COND id="126" value="2"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37773" text="[%personhometown]-born [%personname F L] has not received much praise for his coaching. For all of his emphasis on developing a hitter's plate discipline, the results have been mixed at best.">
+<OBJ id="37773" text="出生於 [%personhometown] 的 [%personname F L] 在執教上並沒有得到太多讚賞。儘管他一再強調培養打者的打擊區紀律，成果頂多只能說好壞參半。">
 <COND id="135" value="2"/>
 <COND id="126" value="3"/>
 <COND id="118" value="2"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37774" text="[%personname F L], [%personage], is regarded as an underachiever as a hitting coach. The best that can be said is that {he|she|they} seems good at teaching hitters to use the whole plate to their advantage.">
+<OBJ id="37774" text="[%personage] 歲的 [%personname F L] 被認為是位表現不如預期的打擊教練。頂多能說的是，{他|她|他們}似乎很擅長教打者把整個本壘板都用起來。">
 <COND id="125" value="4"/>
 <COND id="126" value="4"/>
 <COND id="135" value="2"/>
 </OBJ>
-<OBJ id="37775" text="With few exceptions, people around the league regard [%personname F L] as a lightweight as a coach. {His|Her|Their} strength, if there is one, is {his|her|their} ability to help hitters improve their walk rate.">
+<OBJ id="37775" text="除了少數例外，聯盟裡的人都認為 [%personname F L] 是個分量不足的教練。若真要說{他|她|他們}有什麼強項，那就是幫打者提升保送率的本事。">
 <COND id="135" value="2"/>
 <COND id="126" value="5"/>
 <COND id="125" value="5"/>
 </OBJ>
-<OBJ id="37776" text="Each week, [%personname F L] sets time aside for an extended one-on-one session with each of {his|her|their} hitters to work on their plate discipline. Is the effort worth it?  The jury is still out.">
+<OBJ id="37776" text="每個星期，[%personname F L] 都會排出時間，和{他的|她的|他們的}每一位打者進行加長的一對一課程，專門磨打擊區紀律。這番工夫值得嗎？目前還沒有定論。">
 <COND id="118" value="2"/>
 <COND id="135" value="2"/>
 <COND id="126" value="6"/>
 <COND id="125" value="6"/>
 </OBJ>
 <OBJ id="37777">
-<TXT>[%personname F L] can often be seen watching batting practice and filling a notepad with observations about hitter tendencies. People may regard him as something of a character; but he has a proven track record of improving the walk-to-strikeout ratio of his hitters.</TXT>
+<TXT>你常常會看到 [%personname F L] 一邊看打擊練習，一邊在筆記本上寫滿對打者習性的觀察。大家或許覺得他是個怪咖；但他確實有讓打者的保送三振比進步的實績。</TXT>
 <COND id="118" value="1"/>
 <COND id="135" value="2"/>
 <COND id="125" value="7"/>
 <COND id="126" value="7"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37778" text="[%personname F L] has a reputation around the league for improving the walk and strikeout rates of his hitters. The [%personage]-year-old is not a miracle worker; but he has shown he can turn bench hitters into starters, and starters into All-Stars. ">
+<OBJ id="37778" text="[%personname F L] 在聯盟裡以改善打者的保送率和三振率聞名。這位 [%personage] 歲的教練不是什麼神仙；但他確實證明了自己能把板凳打者變成先發，把先發變成明星球員。">
 <COND id="118" value="1"/>
 <COND id="135" value="2"/>
 <COND id="125" value="8"/>
@@ -105463,145 +105463,145 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="368" value="0"/>
 </OBJ>
 <OBJ id="37779">
-<TXT>From a personality standpoint, [%personname F L] has an unpleasant reputation. {He|She|They} is blunt to the point of rudeness and often uninterested in other opinions. But as a hitting coach, the [%coach experience noyear]-year veteran is one of the best around. </TXT>
+<TXT>就個性而言，[%personname F L] 的名聲不太好。{他|她|他們}直白到近乎失禮，也常常懶得聽別人的意見。但身為打擊教練，這位 [%coach experience noyear] 年資歷的老將是這行最頂尖的幾位之一。</TXT>
 <COND id="118" value="2"/>
 <COND id="126" value="9"/>
 <COND id="125" value="9"/>
 <COND id="135" value="2"/>
 </OBJ>
 <OBJ id="37780">
-<TXT>[%personname F L], [%personage], may be the best young hitting coach in the game. In fact, {he|she|they} may be the best hitting coach period. As a coach, {he|she|they} underscores the importance of learning the strike zone and using it to one's advantage. </TXT>
+<TXT>[%personage] 歲的 [%personname F L] 可能是這項運動裡最好的年輕打擊教練。事實上，{他|她|他們}可能就是最好的打擊教練，沒有之一。身為教練，{他|她|他們}強調認識好球帶、並把它變成自己優勢的重要性。</TXT>
 <COND id="117" value="10"/>
 <COND id="135" value="2"/>
 <COND id="125" value="9"/>
 </OBJ>
-<OBJ id="37781" text="[%personname F L] has a wealth of experience.  During his long career, he has seen pretty much every pitcher-batter-umpire combination.  He places a premium on mental toughness, working the count, and getting a good pitch to hit.">
+<OBJ id="37781" text="[%personname F L] 的資歷極為豐富。在漫長的生涯裡，投手、打者、主審的各種組合他大概都見過了。他特別重視心理韌性、纏鬥球數，以及等到一顆好打的球。">
 <COND id="118" value="20"/>
 <COND id="135" value="2"/>
 <COND id="125" value="9"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37782" text="[%personname F L] is a legend in {his|her|their} own time.  As a hitting coach, {he|she|they} has a preternatural ability to curb reckless free-swinging and instill plate discipline.">
+<OBJ id="37782" text="[%personname F L] 是活著的傳奇。身為打擊教練，{他|她|他們}有種近乎天賦的本事，能收斂魯莽的亂揮棒，把打擊區紀律灌輸給打者。">
 <COND id="125" value="10"/>
 <COND id="135" value="2"/>
 </OBJ>
-<OBJ id="37783" text="[%personname F L] is still looking to make a name for himself in the league. He will probably get the opportunity at some level, but it's unclear what he will do with it.">
+<OBJ id="37783" text="[%personname F L] 還在尋找在聯盟闖出名號的機會。他大概會在某個層級得到機會，只是他能做出什麼還很難說。">
 <COND id="126" value="2"/>
 <COND id="135" value="3"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37784" text="[%personname F L] probably has enthusiastic supporters in {his|her|their} hometown of [%personhometown], but that's about it. He has yet to separate himself from the many coaching hopefuls that only stick around for a year or two.">
+<OBJ id="37784" text="[%personname F L] 大概在{他的|她的|他們的}家鄉 [%personhometown] 有些死忠支持者，但也就僅止於此了。在那些只待一兩年就消失的教練人選當中，他還沒能突圍而出。">
 <COND id="117" value="4"/>
 <COND id="126" value="3"/>
 <COND id="135" value="3"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37785" text="There is no obvious reason why [%personname F L] has not been a more successful coach, but the results just are not there. Until {he|she|they} has more sustained success, {his|her|their} reputation for mediocrity will not change.">
+<OBJ id="37785" text="沒有什麼明顯的理由能解釋 [%personname F L] 為何沒能更成功，但成績就是拿不出來。除非{他|她|他們}能繳出更持續的成果，否則{他的|她的|他們的}平庸名聲不會改變。">
 <COND id="118" value="2"/>
 <COND id="126" value="4"/>
 <COND id="125" value="4"/>
 </OBJ>
-<OBJ id="37786" text="The [%personage]-year-old [%personname F L] is an average coach with no strategic tendencies.">
+<OBJ id="37786" text="[%personage] 歲的 [%personname F L] 是位沒有特殊戰術傾向的普通教練。">
 <COND id="126" value="5"/>
 <COND id="125" value="5"/>
 <COND id="135" value="3"/>
 </OBJ>
 <OBJ id="37787">
-<TXT>Many hitting coaches focus on a specific aspect of the game, for instance, developing power hitting. [%personname F L] instead tries to assess the needs of {he|she|they} team and make that the focus of {he|she|they} attention. This approach has proven moderately successful.</TXT>
+<TXT>許多打擊教練會專注在比賽的某個特定面向，例如培養長打能力。[%personname F L] 則是先評估自己球隊的需求，再把注意力放在那上面。這套做法算是取得了一定的成功。</TXT>
 <COND id="118" value="2"/>
 <COND id="135" value="3"/>
 <COND id="126" value="6"/>
 <COND id="125" value="6"/>
 </OBJ>
-<OBJ id="37788" text="[%personname F L] may soon enter the conversation as one of the best hitting coaches in baseball. {He|She|They} regards himself as a kind of handyman, fixing problems with hitters as they arise, rather than focusing on a specific aspect of the game.">
+<OBJ id="37788" text="[%personname F L] 或許很快就會被列入棒球界最佳打擊教練的討論。{他|她|他們}把自己當成一個修繕工，打者出什麼問題就修什麼，而不是專注在某個特定面向。">
 <COND id="126" value="7"/>
 <COND id="125" value="7"/>
 <COND id="135" value="3"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37789" text="[%personname F L], [%personage], is certainly near the top of the list of best hitting coaches in baseball. {He|She|They} tries to split his time between correcting the bad habits of hitters and developing previously untapped talents.">
+<OBJ id="37789" text="[%personage] 歲的 [%personname F L] 絕對排得進棒球界最佳打擊教練名單的前段。{他|她|他們}會把時間分配在修正打者的壞習慣，以及開發他們尚未被挖掘的才能上。">
 <COND id="135" value="3"/>
 <COND id="126" value="9"/>
 <COND id="125" value="8"/>
 </OBJ>
-<OBJ id="37790" text="[%personname F L] is an exceptional, and young, hitting coach. The [%personage]-year-old has impressed observers both for {his|her|their} skills and {his|her|their} knowledge of the game (despite {his|her|their} lack of experience).">
+<OBJ id="37790" text="[%personname F L] 是位傑出而且年輕的打擊教練。這位 [%personage] 歲的教練，無論是本事還是對這項運動的理解都讓觀察家印象深刻（儘管{他|她|他們}資歷還淺）。">
 <COND id="117" value="5"/>
 <COND id="135" value="3"/>
 <COND id="125" value="9"/>
 <COND id="8" value="40"/>
 </OBJ>
 <OBJ id="37792">
-<TXT>[%personname F L] is very good at what he does. He tailors his teaching to the individual hitter, preferring in some cases to emphasize their power stroke and in others to improve their batting eye. The [%personhometown] native would be a good addition to any roster.</TXT>
+<TXT>[%personname F L] 對自己的專業非常在行。他會依打者個別調整教法，有些人著重長打能力，有些人則加強選球眼。這位來自 [%personhometown] 的教練，加進任何一支球隊都是好事。</TXT>
 <COND id="125" value="10"/>
 <COND id="135" value="3"/>
 <COND id="121" value="10"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37793" text="[%personname F L] is still waiting for the chance to be a hitting coach. {He|She|They} seems to favor contact hitters, but it is hard to know what to expect from {him|her|them}.">
+<OBJ id="37793" text="[%personname F L] 還在等當上打擊教練的機會。{他|她|他們}似乎偏好接觸型打者，但實在很難預期{他|她|他們}會有什麼表現。">
 <COND id="135" value="0"/>
 <COND id="117" value="0"/>
 </OBJ>
-<OBJ id="37794" text="[%personname F L] talks as if {he|she|they} has insight into what makes a good power stroke. But it will remain theoretical until {he|she|they} gets {his|her|their} first job.">
+<OBJ id="37794" text="[%personname F L] 講起話來，好像很懂什麼才是好的長打揮擊。但在{他|她|他們}拿到第一份工作之前，這一切都還停留在紙上談兵。">
 <COND id="117" value="0"/>
 <COND id="135" value="1"/>
 </OBJ>
-<OBJ id="37795" text="[%personname F L], [%personage], believes in working the pitch count and wearing down the opposing pitcher as quickly as possible. {He|She|They} has not had the chance to put {his|her|their} ideas into practice, however.">
+<OBJ id="37795" text="[%personage] 歲的 [%personname F L] 信奉纏鬥球數，盡快把對方投手拖垮。只是{他|她|他們}還沒有機會把這些想法付諸實行。">
 <COND id="117" value="0"/>
 <COND id="135" value="2"/>
 </OBJ>
-<OBJ id="37796" text="Some coaches held promise until they got their first job; others were completely ignored until finally being given a chance. [%personname F L], should {he|she|they} join the coaching ranks, could be boom or bust.">
+<OBJ id="37796" text="有些教練在拿到第一份工作前備受看好；有些則是一直被忽視，直到終於等到機會。[%personname F L] 若真的進了教練圈，可能大紅也可能大敗。">
 <COND id="117" value="0"/>
 <COND id="135" value="3"/>
 </OBJ>
 </CAT>
 
 <CAT id="755">
-<OBJ id="37315" text="[%personname F L], since he's inexperienced, has no reputation as a general manager yet.">
+<OBJ id="37315" text="由於資歷尚淺，[%personname F L] 目前還沒有總經理方面的名聲。">
 <COND id="126" value="1"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37316" text="[%personage]-year-old [%personname F L] doesn't have much experience as a general manager. ">
+<OBJ id="37316" text="[%personage] 歲的 [%personname F L] 擔任總經理的經驗不多。">
 <COND id="125" value="2"/>
 <COND id="126" value="2"/>
 </OBJ>
-<OBJ id="37317" text="[%personname F L] has just [%coach experience] of experience with a lot of room for improvement.">
+<OBJ id="37317" text="[%personname F L] 只有 [%coach experience] 的資歷，還有很大的進步空間。">
 <COND id="126" value="3"/>
 <COND id="125" value="3"/>
 <COND id="117" value="7"/>
 </OBJ>
-<OBJ id="37318" text="[%personage]-year-old [%personname F L] has [%coach experience] of experience working in pro ball, but {his|her|their} reputation so far is subpar.">
+<OBJ id="37318" text="[%personage] 歲的 [%personname F L] 有 [%coach experience] 的職業棒球工作資歷，但{他的|她的|他們的}風評至今仍在水準以下。">
 <COND id="126" value="3"/>
 <COND id="125" value="3"/>
 </OBJ>
-<OBJ id="37319" text="[%personname F L], out of [%personhometown], has worked in professional baseball for [%coach experience] without much success thus far.">
+<OBJ id="37319" text="來自 [%personhometown] 的 [%personname F L] 已經在職業棒球界工作了 [%coach experience]，至今仍談不上成功。">
 <COND id="126" value="4"/>
 <COND id="125" value="4"/>
 </OBJ>
-<OBJ id="37320" text="[%personage]-year-old [%personname F L] has an average reputation after [%coach experience] in the business. ">
+<OBJ id="37320" text="在這行待了 [%coach experience] 之後，[%personage] 歲的 [%personname F L] 風評普通。">
 <COND id="126" value="5"/>
 <COND id="125" value="5"/>
 </OBJ>
-<OBJ id="37321" text="Working in baseball for [%coach experience] now, [%personage]-year-old [%personname F L] has built up a decent reputation. His teams have been mostly successful.">
+<OBJ id="37321" text="在棒球界工作 [%coach experience] 之後，[%personage] 歲的 [%personname F L] 已經累積出不錯的風評。他帶的球隊大多相當成功。">
 <COND id="126" value="6"/>
 <COND id="125" value="6"/>
 </OBJ>
-<OBJ id="37322" text="[%personage]-year-old [%personname F L], who was born in [%personhometown], has [%coach experience] of experience. His reputation is very good and his teams have had a lot of success. ">
+<OBJ id="37322" text="出生於 [%personhometown]、[%personage] 歲的 [%personname F L] 有 [%coach experience] 的資歷。他風評非常好，帶的球隊也繳出許多好成績。">
 <COND id="126" value="7"/>
 <COND id="125" value="7"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37323" text="[%personname F L] is a man with a great reputation. The GM out of [%personhometown] has built an outstanding track record and is well-respected.">
+<OBJ id="37323" text="[%personname F L] 是位風評極佳的人物。這位來自 [%personhometown] 的總經理，累積了出色的紀錄，也備受敬重。">
 <COND id="126" value="8"/>
 <COND id="125" value="8"/>
 </OBJ>
-<OBJ id="37324" text="[%personname F L] has had amazing success in pro baseball. {He|She|They} is respected, even feared, by other GMs.">
+<OBJ id="37324" text="[%personname F L] 在職業棒球界成績斐然。{他|她|他們}受到其他總經理的敬重，甚至讓人忌憚。">
 <COND id="126" value="9"/>
 <COND id="125" value="9"/>
 </OBJ>
-<OBJ id="37325" text="[%personage]-year-old [%personname F L] is a legend. One of the best, if not THE best, in the business. Fellow GMs respect {his|her|their} intelligence and good baseball sense.">
+<OBJ id="37325" text="[%personage] 歲的 [%personname F L] 是個傳奇，就算不是這行最強的一位，也是最強的幾位之一。同業總經理都很佩服{他的|她的|他們的}才智與棒球眼光。">
 <COND id="125" value="10"/>
 </OBJ>
-<OBJ id="37357" text="[%personname F L], [%personage], is not a familiar name in baseball management circles. {He|She|They} has no track record to speak of.">
+<OBJ id="37357" text="[%personage] 歲的 [%personname F L] 在棒球管理圈裡不是個熟悉的名字。{他|她|他們}沒有什麼值得一提的紀錄。">
 <COND id="126" value="1"/>
 </OBJ><!--
 <OBJ id="37358" text="Information on [%personname F L] as a general manager is scarce. The [%personage]-year-old native of [%personhometown] is relatively unknown. ">
@@ -105618,7 +105618,7 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="126" value="2"/>
 <COND id="125" value="2"/>
 </OBJ>-->
-<OBJ id="37362" text="[%personage]-year-old [%personname F L], who was born in [%personhometown], will be looking to establish himself as a general manager.  Thus far {he|she|they} hasn't developed much of a reputation.">
+<OBJ id="37362" text="出生於 [%personhometown]、[%personage] 歲的 [%personname F L]，正力求在總經理這個位子上站穩腳步。到目前為止，{他|她|他們}還沒累積出什麼名聲。">
 <COND id="125" value="2"/>
 <COND id="126" value="2"/>
 <COND id="368" value="0"/>
@@ -105627,7 +105627,7 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="125" value="3"/>
 <COND id="126" value="3"/>
 </OBJ>-->
-<OBJ id="37364" text="Still working to establish himself, [%personage]-year-old [%personname F L] of [%personhometown] has a less than stellar reputation as a general manager.">
+<OBJ id="37364" text="來自 [%personhometown]、[%personage] 歲的 [%personname F L] 仍在努力站穩腳步，總經理的風評稱不上出色。">
 <COND id="126" value="3"/>
 <COND id="125" value="3"/>
 <COND id="368" value="0"/>
@@ -105652,7 +105652,7 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="126" value="5"/>
 <COND id="125" value="5"/>
 </OBJ>-->
-<OBJ id="37370" text="[%personname F L] has not built much of a reputation around the league, despite having [%coach experience] of experience as a general manager.">
+<OBJ id="37370" text="儘管有 [%coach experience] 的總經理資歷，[%personname F L] 在聯盟裡並沒有累積出什麼名聲。">
 <COND id="126" value="1"/>
 <COND id="117" value="3"/>
 </OBJ><!--
@@ -105672,7 +105672,7 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="125" value="6"/>
 <COND id="126" value="6"/>
 </OBJ>-->
-<OBJ id="37375" text="Maybe with a few more years under {his|her|their} belt, [%personage]-year-old [%personname F L] can become the next great general manager. Right now, {he|she|they} is still unproven.">
+<OBJ id="37375" text="或許再多累積幾年，[%personage] 歲的 [%personname F L] 就能成為下一位偉大的總經理。而現在，{他|她|他們}仍未經過驗證。">
 <COND id="126" value="2"/>
 <COND id="125" value="2"/>
 <COND id="117" value="5"/>
@@ -105681,18 +105681,18 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="126" value="6"/>
 <COND id="125" value="6"/>
 </OBJ>-->
-<OBJ id="37377" text="In [%coach experience] as a general manager, [%personname F L] has seen it all. The longtime executive hopes {he|she|they} can apply what {he|she|they} has learned to {his|her|their} new position.">
+<OBJ id="37377" text="在總經理位子上的 [%coach experience] 裡，[%personname F L] 什麼場面都見過了。這位資深主管希望能把{他|她|他們}學到的東西，用在{他的|她的|他們的}新職位上。">
 <COND id="118" value="20"/>
 <COND id="125" value="6"/>
 </OBJ>
-<OBJ id="37378" text="Known for {his|her|their} excellent front office leadership skills, [%personname F L] will look to build on that reputation.">
+<OBJ id="37378" text="[%personname F L] 以出色的球團高層領導能力聞名，接下來也將設法把這份名聲累積得更厚。">
 <COND id="126" value="7"/>
 <COND id="125" value="7"/>
 </OBJ><!--
 <OBJ id="37379" text="At [%personage] years old, [%personname F L] is already a legend in baseball circles, but {he|she|they} still has something to prove.">
 <COND id="125" value="10"/>
 </OBJ>-->
-<OBJ id="37380" text="[%personname F L] knows {he|she|they} might be risking {his|her|their} legendary reputation by returning to baseball at an age when most people are slowing down.  But by all accounts the [%personage]-year-old is as sharp as ever.">
+<OBJ id="37380" text="[%personname F L] 知道，在多數人都開始放慢腳步的年紀重返棒球界，可能會賠上{他|她|他們}的傳奇聲望。但據各方說法，這位 [%personage] 歲的老將依然敏銳如昔。">
 <COND id="7" value="60"/>
 <COND id="125" value="9"/>
 <COND id="118" value="5"/>
@@ -105700,7 +105700,7 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <OBJ id="37381" text="[%personhometown]-born [%personname F L] has built a reputation for {his|her|their} foresight, tough negotiation skills, and eye for talent. Most teams would love to have {him|her|them} in their front office.">
 <COND id="125" value="10"/>
 </OBJ>-->
-<OBJ id="37382" text="[%personname F L] has made a few wise moves over the years, but so far {his|her|their} name is not being etched in the history books.">
+<OBJ id="37382" text="這些年來 [%personname F L] 做過幾筆明智的操作，但到目前為止，{他的|她的|他們的}名字還沒被刻進歷史。">
 <COND id="125" value="4"/>
 <COND id="126" value="6"/>
 <COND id="118" value="3"/>
@@ -105709,22 +105709,22 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="126" value="7"/>
 <COND id="125" value="7"/>
 </OBJ>-->
-<OBJ id="37384" text="[%personname F L] will make a few good deals and she'll make a few bad ones, but she is generally known as a reliable, competent executive.">
+<OBJ id="37384" text="[%personname F L] 會做出幾筆好交易，也會做出幾筆爛交易，但外界普遍認為她是位可靠而稱職的主管。">
 <COND id="125" value="5"/>
 <COND id="126" value="7"/>
 <COND id="368" value="1"/>
 </OBJ>
-<OBJ id="37386" text="[%personname F L] once traded a future All-Star for a crate of baseball bats. Anyone can improve, but early indications are not promising.">
+<OBJ id="37386" text="[%personname F L] 曾經用一位未來的明星球員換來一箱球棒。人都是會進步的，但初期的跡象並不樂觀。">
 <COND id="118" value="5"/>
 <COND id="126" value="3"/>
 <COND id="125" value="3"/>
 </OBJ>
-<OBJ id="37387" text="He may not end up in the Hall of Fame, but [%personname F L] is a strong leader who knows how to assemble a baseball team.">
+<OBJ id="37387" text="他或許進不了名人堂，但 [%personname F L] 是位強悍的領導者，很懂得怎麼組出一支球隊。">
 <COND id="118" value="1"/>
 <COND id="125" value="7"/>
 <COND id="126" value="8"/>
 </OBJ>
-<OBJ id="37388" text="[%personname F L] is an incredible talent for a [%personage]-year-old who has only been in the business for [%coach experience].">
+<OBJ id="37388" text="以一個只在這行待了 [%coach experience] 的 [%personage] 歲的人來說，[%personname F L] 的才華驚人。">
 <COND id="117" value="5"/>
 <COND id="125" value="9"/>
 <COND id="8" value="35"/>
@@ -105741,7 +105741,7 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="126" value="8"/>
 <COND id="125" value="8"/>
 </OBJ>-->
-<OBJ id="37401" text="[%personname F L], [%personage], could eventually be considered one of the great baseball leaders. She's not quite there yet, but she makes good decisions.">
+<OBJ id="37401" text="[%personage] 歲的 [%personname F L] 未來有機會被視為棒球界偉大的領導者之一。她還沒到那個程度，但她的決策確實不錯。">
 <COND id="126" value="8"/>
 <COND id="125" value="8"/>
 <COND id="368" value="1"/>
@@ -105750,57 +105750,57 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="126" value="9"/>
 <COND id="125" value="9"/>
 </OBJ>-->
-<OBJ id="37403" text="[%personname F L] has done his hometown of [%personhometown] proud with his exceptional skills as a general manager.">
+<OBJ id="37403" text="[%personname F L] 以出色的總經理本事，讓家鄉 [%personhometown] 與有榮焉。">
 <COND id="126" value="9"/>
 <COND id="125" value="9"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37404" text="[%personname F L] will likely receive a Hall of Fame plaque when {his|her|their} management career is all said and done. ">
+<OBJ id="37404" text="等到{他的|她的|他們的}管理生涯畫下句點，[%personname F L] 很可能會在名人堂掛上一面銅牌。">
 <COND id="126" value="10"/>
 <COND id="125" value="10"/>
 <COND id="118" value="5"/>
 </OBJ>
-<OBJ id="37405" text="[%personname F L] is the total package when it comes to leading a baseball team. After [%coach experience] in the game, {he|she|they} is considered one of the all-time best.">
+<OBJ id="37405" text="講到帶領一支球隊，[%personname F L] 樣樣俱全。在這項運動裡待了 [%coach experience] 之後，{他|她|他們}被視為史上最出色的幾位之一。">
 <COND id="126" value="10"/>
 <COND id="125" value="10"/>
 <COND id="118" value="7"/>
 </OBJ>
-<OBJ id="37406" text="Baseball executives look up to [%personname F L].  He is in a class by himself.">
+<OBJ id="37406" text="棒球界的主管們都很敬重 [%personname F L]，他自成一格。">
 <COND id="126" value="10"/>
 <COND id="125" value="10"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37407" text="It's rare when a deal doesn't work out for [%personname F L]. The [%personage]-year-old is considered one of the best general managers around.">
+<OBJ id="37407" text="[%personname F L] 的交易很少有做壞的時候。這位 [%personage] 歲的主管公認是當今最出色的總經理之一。">
 <COND id="125" value="10"/>
 <COND id="126" value="10"/>
 </OBJ>
-<OBJ id="37483" text="If you're specifically looking for a general manager from [%personhometown], [%personname F L] fits the bill.  Not much more can be said on {his|her|their} behalf.">
+<OBJ id="37483" text="如果你就是想找一位來自 [%personhometown] 的總經理，[%personname F L] 完全符合。至於{他|她|他們}其他方面，就沒什麼好說的了。">
 <COND id="126" value="2"/>
 </OBJ>
-<OBJ id="37484" text="It might not be a good idea to put [%personname F L] in charge of your valuable assets.">
+<OBJ id="37484" text="把你的珍貴資產交給 [%personname F L] 掌管，可能不是個好主意。">
 <COND id="126" value="3"/>
 <COND id="125" value="2"/>
 </OBJ>
-<OBJ id="37485" text="If all you need is a warm body in the general manager's chair, [%personname F L] is your guy.">
+<OBJ id="37485" text="如果你只是需要有個人坐在總經理的位子上，[%personname F L] 就是你要的人。">
 <COND id="125" value="3"/>
 <COND id="126" value="5"/>
 </OBJ>
-<OBJ id="37486" text="Putting [%personname F L] in charge wouldn't be a terrible idea, but it might not be the best one either.">
+<OBJ id="37486" text="讓 [%personname F L] 來掌管不算是個糟糕的決定，但大概也不是最好的決定。">
 <COND id="125" value="4"/>
 <COND id="126" value="6"/>
 </OBJ>
-<OBJ id="37487" text="[%personname F L] is a serviceable general manager, but he's not brilliant by any stretch of the imagination. ">
+<OBJ id="37487" text="[%personname F L] 是位堪用的總經理，但無論怎麼想都稱不上高明。">
 <COND id="125" value="5"/>
 <COND id="126" value="6"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37488" text="Not a bad choice, but after [%coach experience] in baseball, [%personname F L] has yet to prove he can turn around a franchise.">
+<OBJ id="37488" text="不算差的選擇，但在棒球界待了 [%coach experience] 之後，[%personname F L] 還沒證明自己能讓一支球隊起死回生。">
 <COND id="125" value="5"/>
 <COND id="126" value="7"/>
 <COND id="118" value="5"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37489" text="[%personname F L] is a clever guy who ought to be able to keep your roster stocked with a decent amount of talent">
+<OBJ id="37489" text="[%personname F L] 是個聰明人，應該有辦法讓你的球隊維持一定水準的人才庫">
 <COND id="125" value="6"/>
 <COND id="126" value="8"/>
 </OBJ><!--
@@ -105809,45 +105809,45 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="126" value="8"/>
 <COND id="118" value="1"/>
 </OBJ>-->
-<OBJ id="37491" text="[%personname F L] is on the shortlist of best general managers in the game.">
+<OBJ id="37491" text="[%personname F L] 名列這項運動裡最佳總經理的短名單上。">
 <COND id="125" value="9"/>
 </OBJ>
-<OBJ id="37492" text="Maybe this next position will allow the true talent of [%personname F L] to emerge. It has not happened yet.">
+<OBJ id="37492" text="或許下一個職位能讓 [%personname F L] 真正的才華浮現出來。至少目前還沒有。">
 <COND id="118" value="20"/>
 <COND id="126" value="2"/>
 </OBJ>
-<OBJ id="37493" text="[%personname F L] has made a lot of friends over the last [%coach experience] and he's made a lot of enemies. What he hasn't made is many good deals.">
+<OBJ id="37493" text="過去 [%coach experience] 裡，[%personname F L] 交了很多朋友，也結了很多仇家。他沒做出來的，是幾筆像樣的交易。">
 <COND id="118" value="20"/>
 <COND id="126" value="3"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37494" text="After all this time, you'd think [%personname F L] would have mastered the job.">
+<OBJ id="37494" text="過了這麼久，你會以為 [%personname F L] 早該把這份工作做通了。">
 <COND id="118" value="20"/>
 <COND id="126" value="5"/>
 <COND id="125" value="4"/>
 </OBJ>
-<OBJ id="37495" text="[%personname F L] has been in the business long enough that he has probably learned all he's going to learn.">
+<OBJ id="37495" text="[%personname F L] 在這行待得夠久，該學的大概都學完了。">
 <COND id="125" value="4"/>
 <COND id="126" value="6"/>
 <COND id="118" value="20"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37496" text="[%personname F L] is a stable, if uninspiring, leader. Depending on your needs, that may be enough.">
+<OBJ id="37496" text="[%personname F L] 是位穩定但不令人振奮的領導者。看你的需求是什麼，這樣或許就夠了。">
 <COND id="125" value="5"/>
 <COND id="126" value="7"/>
 <COND id="118" value="20"/>
 </OBJ>
-<OBJ id="37497" text="[%personname F L] has been around some great minds and at least a little bit of that wisdom has rubbed off.">
+<OBJ id="37497" text="[%personname F L] 待過不少高手身邊，多少也沾染到了一些智慧。">
 <COND id="118" value="20"/>
 <COND id="125" value="6"/>
 <COND id="126" value="8"/>
 </OBJ>
-<OBJ id="37498" text="[%personname F L] is a veteran of the business who knows how to put together a winner.">
+<OBJ id="37498" text="[%personname F L] 是這行的老手，很懂得怎麼組出一支贏球的隊伍。">
 <COND id="118" value="20"/>
 <COND id="125" value="7"/>
 <COND id="126" value="8"/>
 </OBJ>
-<OBJ id="37499" text="Plenty of good executives have been outfoxed by [%personname F L] over the years. A true visionary.">
+<OBJ id="37499" text="這些年來，不少優秀的主管都栽在 [%personname F L] 手上。他是位真正有遠見的人。">
 <COND id="118" value="20"/>
 <COND id="125" value="10"/>
 </OBJ><!--
@@ -105855,173 +105855,173 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <COND id="118" value="20"/>
 <COND id="125" value="10"/>
 </OBJ>-->
-<OBJ id="37550" text="[%personname F L], [%personage], is part of a younger group of general managers.  Right now, the [%personhometown] native is an unknown quantity.  ">
+<OBJ id="37550" text="[%personage] 歲的 [%personname F L] 屬於比較年輕的一批總經理。目前，這位來自 [%personhometown] 的主管仍是個未知數。">
 <COND id="126" value="1"/>
 <COND id="125" value="1"/>
 <COND id="8" value="35"/>
 </OBJ>
-<OBJ id="37551" text="[%personname F L] may be inexperienced; but at age [%personage], he still has plenty of time to grow in his position.">
+<OBJ id="37551" text="[%personname F L] 或許資歷尚淺；但在 [%personage] 歲這個年紀，他還有很多時間在這個位子上成長。">
 <COND id="126" value="2"/>
 <COND id="125" value="2"/>
 <COND id="8" value="35"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37552" text="At age [%personage], [%personname F L] is regarded as a poor general manager.">
+<OBJ id="37552" text="在 [%personage] 歲這個年紀，[%personname F L] 被認為是位糟糕的總經理。">
 <COND id="126" value="3"/>
 <COND id="125" value="3"/>
 <COND id="8" value="35"/>
 </OBJ>
-<OBJ id="37553" text="[%personname F L] is still trying to establish himself as a general manager. Only [%personage] years old, he hopes to improve as he gains experience.">
+<OBJ id="37553" text="[%personname F L] 仍在努力站穩總經理的位子。他才 [%personage] 歲，希望能隨著經驗累積而進步。">
 <COND id="126" value="4"/>
 <COND id="125" value="4"/>
 <COND id="8" value="35"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37554" text="Nothing stands out about [%personname F L] as a general manager. He is only [%personage] years old, though, and the [%personhometown] native likely will continue to learn and grow.">
+<OBJ id="37554" text="[%personname F L] 身為總經理沒有什麼特別突出的地方。不過他才 [%personage] 歲，這位來自 [%personhometown] 的主管應該還會繼續學習與成長。">
 <COND id="126" value="5"/>
 <COND id="125" value="5"/>
 <COND id="8" value="35"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37555" text="[%personname F L] is regarded as a decent general manager, which is impressive since he is only [%personage] years old.">
+<OBJ id="37555" text="[%personname F L] 被認為是位還不錯的總經理，考慮到他才 [%personage] 歲，這相當難得。">
 <COND id="126" value="6"/>
 <COND id="125" value="6"/>
 <COND id="8" value="35"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37556" text="[%personname F L] generally makes more good deals than bad ones. At [%personage] years old, he's not the most experienced general manager around, but he has proven to be more than competent.">
+<OBJ id="37556" text="[%personname F L] 做的好交易通常多過爛交易。[%personage] 歲的他稱不上是資歷最深的總經理，但他已經證明自己絕對稱職。">
 <COND id="126" value="7"/>
 <COND id="125" value="7"/>
 <COND id="8" value="35"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37557" text="[%personname F L], [%personage], is developing a reputation as one of the brightest young minds in baseball.">
+<OBJ id="37557" text="[%personage] 歲的 [%personname F L] 正逐漸累積出棒球界最聰明的年輕頭腦之一的名聲。">
 <COND id="126" value="8"/>
 <COND id="125" value="8"/>
 <COND id="8" value="35"/>
 </OBJ>
-<OBJ id="37558" text="[%personname F L] is only [%personage] years old, but that hasn't stopped the native of [%personhometown] from becoming one of the game's best general managers.">
+<OBJ id="37558" text="[%personname F L] 才 [%personage] 歲，但這並沒有妨礙這位來自 [%personhometown] 的主管成為這項運動最出色的總經理之一。">
 <COND id="126" value="9"/>
 <COND id="125" value="9"/>
 <COND id="8" value="35"/>
 </OBJ>
-<OBJ id="37559" text="At [%personage], [%personname F L] has accomplished more than most general managers who are twice his age. He is an elite front office leader.">
+<OBJ id="37559" text="[%personage] 歲的 [%personname F L]，成就已經超過多數年紀是他兩倍的總經理。他是頂級的球團高層領導者。">
 <COND id="126" value="10"/>
 <COND id="125" value="10"/>
 <COND id="8" value="35"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37560" text="[%personname F L] is still relatively unknown as a general manager; even so, it's hard to imagine {him|her|them} having a long career.">
+<OBJ id="37560" text="[%personname F L] 身為總經理仍相對沒沒無聞；即便如此，也很難想像{他|她|他們}會有多長的生涯。">
 <COND id="126" value="1"/>
 <COND id="125" value="1"/>
 <COND id="7" value="60"/>
 </OBJ>
-<OBJ id="37561" text="[%personname F L], now [%personage], has probably reached {his|her|their} ceiling, low as it is, as a general manager. ">
+<OBJ id="37561" text="如今 [%personage] 歲的 [%personname F L]，身為總經理大概已經到頂了，儘管這個天花板並不高。">
 <COND id="7" value="60"/>
 <COND id="126" value="2"/>
 <COND id="125" value="2"/>
 </OBJ>
-<OBJ id="37562" text="The game has likely passed [%personname F L] by. Now [%personage], {he|she|they} has not had much success as a general manager.">
+<OBJ id="37562" text="這項運動大概已經把 [%personname F L] 甩在後頭了。如今 [%personage] 歲的{他|她|他們}，擔任總經理並不成功。">
 <COND id="126" value="3"/>
 <COND id="125" value="3"/>
 <COND id="7" value="60"/>
 </OBJ>
-<OBJ id="37563" text="[%personname F L] is not the worst general manager around, but at age [%personage] {he|she|they} is far from the best.">
+<OBJ id="37563" text="[%personname F L] 不算是最差的總經理，但在 [%personage] 歲這個年紀，{他|她|他們}離最好的還差得遠。">
 <COND id="126" value="4"/>
 <COND id="125" value="4"/>
 <COND id="7" value="60"/>
 </OBJ>
-<OBJ id="37564" text="[%personname F L] is a competent general manager; but at age [%personage], you have to wonder if {he|she|they} has much of a future.">
+<OBJ id="37564" text="[%personname F L] 是位稱職的總經理；但在 [%personage] 歲這個年紀，不免讓人懷疑{他|她|他們}還有多少未來。">
 <COND id="126" value="5"/>
 <COND id="125" value="5"/>
 <COND id="7" value="60"/>
 </OBJ>
-<OBJ id="37565" text="He may at times get outsmarted by savvier general managers, but [%personname F L] is decent enough, even at age [%personage].">
+<OBJ id="37565" text="他有時候會被更精明的總經理算計，但即使到了 [%personage] 歲，[%personname F L] 還是夠稱職。">
 <COND id="126" value="6"/>
 <COND id="125" value="6"/>
 <COND id="7" value="60"/>
 </OBJ>
-<OBJ id="37566" text="[%personname F L], [%personage], is very good at his job.  He has learned valuable lessons during his [%coach experience] in the game.">
+<OBJ id="37566" text="[%personage] 歲的 [%personname F L] 很擅長自己的工作。在這項運動的 [%coach experience] 裡，他學到了許多寶貴的經驗。">
 <COND id="126" value="7"/>
 <COND id="118" value="4"/>
 <COND id="125" value="7"/>
 <COND id="7" value="60"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="37567" text="[%personname F L] shows no signs of slowing down. The [%personage]-year-old is still an excellent general manager after [%coach experience] in the front office.">
+<OBJ id="37567" text="[%personname F L] 完全沒有慢下來的跡象。在球團高層待了 [%coach experience] 之後，這位 [%personage] 歲的主管依然是位出色的總經理。">
 <COND id="126" value="8"/>
 <COND id="125" value="8"/>
 <COND id="118" value="4"/>
 <COND id="7" value="60"/>
 </OBJ>
-<OBJ id="37568" text="Retirement? No need. [%personname F L] is still one of the best general managers at age [%personage].">
+<OBJ id="37568" text="退休？不需要。[%personage] 歲的 [%personname F L] 依然是最出色的總經理之一。">
 <COND id="126" value="9"/>
 <COND id="125" value="9"/>
 <COND id="118" value="5"/>
 <COND id="7" value="60"/>
 </OBJ>
-<OBJ id="37569" text="[%personname F L] is still successful enough that he might work until he's 100. The [%personage]-year-old is a legend as a general manager.">
+<OBJ id="37569" text="[%personname F L] 至今依然成功到可能做到一百歲。這位 [%personage] 歲的主管，是總經理界的傳奇。">
 <COND id="118" value="8"/>
 <COND id="126" value="10"/>
 <COND id="125" value="10"/>
 <COND id="7" value="60"/>
 <COND id="368" value="0"/>
 </OBJ>
-<OBJ id="59786" text="Baseball executives look up to [%personname F L].  She is in a class by herself.">
+<OBJ id="59786" text="棒球界的主管們都很敬重 [%personname F L]，她自成一格。">
 <COND id="126" value="10"/>
 <COND id="125" value="10"/>
 <COND id="368" value="1"/>
 </OBJ>
-<OBJ id="59787" text="Not a bad choice, but after [%coach experience] in baseball, [%personname F L] has yet to prove she can turn around a franchise.">
+<OBJ id="59787" text="不算差的選擇，但在棒球界待了 [%coach experience] 之後，[%personname F L] 還沒證明自己能讓一支球隊起死回生。">
 <COND id="125" value="5"/>
 <COND id="126" value="7"/>
 <COND id="118" value="5"/>
 <COND id="368" value="1"/>
 </OBJ>
-<OBJ id="59788" text="[%personname F L] has made a lot of friends over the last [%coach experience] and she's made a lot of enemies. What she hasn't made is many good deals.">
+<OBJ id="59788" text="過去 [%coach experience] 裡，[%personname F L] 交了很多朋友，也結了很多仇家。她沒做出來的，是幾筆像樣的交易。">
 <COND id="118" value="20"/>
 <COND id="126" value="3"/>
 <COND id="368" value="1"/>
 </OBJ>
-<OBJ id="59789" text="[%personname F L] has been in the business long enough that she has probably learned all she's going to learn.">
+<OBJ id="59789" text="[%personname F L] 在這行待得夠久，該學的大概都學完了。">
 <COND id="125" value="4"/>
 <COND id="126" value="6"/>
 <COND id="118" value="20"/>
 <COND id="368" value="1"/>
 </OBJ>
-<OBJ id="59790" text="[%personname F L] may be inexperienced; but at age [%personage], she still has plenty of time to grow in her position.">
+<OBJ id="59790" text="[%personname F L] 或許資歷尚淺；但在 [%personage] 歲這個年紀，她還有很多時間在這個位子上成長。">
 <COND id="126" value="2"/>
 <COND id="125" value="2"/>
 <COND id="8" value="35"/>
 <COND id="368" value="1"/>
 </OBJ>
-<OBJ id="59791" text="[%personname F L] is still trying to establish herself as a general manager. Only [%personage] years old, she hopes to improve as she gains experience.">
+<OBJ id="59791" text="[%personname F L] 仍在努力站穩總經理的位子。她才 [%personage] 歲，希望能隨著經驗累積而進步。">
 <COND id="126" value="4"/>
 <COND id="125" value="4"/>
 <COND id="8" value="35"/>
 <COND id="368" value="1"/>
 </OBJ>
-<OBJ id="59792" text="[%personname F L] generally makes more good deals than bad ones. At [%personage] years old, she's not the most experienced general manager around, but she has proven to be more than competent.">
+<OBJ id="59792" text="[%personname F L] 做的好交易通常多過爛交易。[%personage] 歲的她稱不上是資歷最深的總經理，但她已經證明自己絕對稱職。">
 <COND id="126" value="7"/>
 <COND id="125" value="7"/>
 <COND id="8" value="35"/>
 <COND id="368" value="1"/>
 </OBJ>
-<OBJ id="59793" text="[%personname F L], since she's inexperienced, has no reputation as a general manager yet.">
+<OBJ id="59793" text="由於資歷尚淺，[%personname F L] 目前還沒有總經理方面的名聲。">
 <COND id="126" value="1"/>
 <COND id="368" value="1"/>
 </OBJ>
-<OBJ id="59794" text="[%personname F L] is a serviceable general manager, but she's not brilliant by any stretch of the imagination. ">
+<OBJ id="59794" text="[%personname F L] 是位堪用的總經理，但無論怎麼想都稱不上高明。">
 <COND id="125" value="5"/>
 <COND id="126" value="6"/>
 <COND id="368" value="1"/>
 </OBJ>
-<OBJ id="59795" text="[%personage]-year-old [%personname F L], who was born in [%personhometown], will be looking to establish herself as a general manager.  Thus far {he|she|they} hasn't developed much of a reputation.">
+<OBJ id="59795" text="出生於 [%personhometown]、[%personage] 歲的 [%personname F L]，正力求在總經理這個位子上站穩腳步。到目前為止，{他|她|他們}還沒累積出什麼名聲。">
 <COND id="125" value="2"/>
 <COND id="126" value="2"/>
 <COND id="368" value="1"/>
 </OBJ>
-<OBJ id="59796" text="[%personname F L] is still relatively unknown as a general manager; even so, it's hard to imagine her having a long career.">
+<OBJ id="59796" text="[%personname F L] 身為總經理仍相對沒沒無聞；即便如此，也很難想像她會有多長的生涯。">
 <COND id="126" value="1"/>
 <COND id="125" value="1"/>
 <COND id="7" value="60"/>
