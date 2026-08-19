@@ -26163,7 +26163,7 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <COND id="60" value="1"/>
 <COND id="61" value="1"/>
 </OBJ>
-<OBJ id="8500" text="Out of the windup...(nl)the 3-O from [%game pitcher]...">
+<OBJ id="8500" text="揮臂式投球...(nl)[%game pitcher] 投出 3 壞 0 好這一球...">
 <COND id="60" value="3"/>
 <COND id="61" value="0"/>
 </OBJ><!--
@@ -26266,7 +26266,7 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <COND id="61" value="2"/>
 <COND id="69" value="2"/>
 </OBJ>-->
-<OBJ id="9517" text="Full count.(nl)[%game pitcher] delivers...">
+<OBJ id="9517" text="滿球數。(nl)[%game pitcher] 投出...">
 <COND id="60" value="3"/>
 <COND id="61" value="2"/>
 </OBJ><!--
@@ -26324,11 +26324,11 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <COND id="60" value="2"/>
 <COND id="61" value="1"/>
 </OBJ>-->
-<OBJ id="26229" text="[%game pitcher] brings the payoff pitch...">
+<OBJ id="26229" text="[%game pitcher] 送出決勝的這一球...">
 <COND id="82" value="0"/>
 <COND id="46" value="1"/>
 </OBJ>
-<OBJ id="26294" text="Bases loaded, 3-2 count.(nl)Now the merry-go-round will start...(nl)everybody running...(nl)the pitch...">
+<OBJ id="26294" text="滿壘，球數 3 壞 2 好。(nl)接下來要天下大亂了...(nl)所有跑者都會啟動...(nl)投出...">
 <COND id="47" value="1"/>
 <COND id="46" value="1"/>
 <COND id="69" value="2"/>
@@ -26400,13 +26400,13 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <COND id="60" value="0"/>
 <COND id="61" value="1"/>
 </OBJ>-->
-<OBJ id="28461" text="1-2 pitch from the left-hander...">
+<OBJ id="28461" text="左投手投出 1 壞 2 好這一球...">
 <COND id="80" value="1"/>
 <COND id="81" value="5"/>
 <COND id="60" value="1"/>
 <COND id="61" value="2"/>
 </OBJ>
-<OBJ id="28462" text="2-2 pitch from the right-hander...">
+<OBJ id="28462" text="右投手投出 2 壞 2 好這一球...">
 <COND id="80" value="0"/>
 <COND id="92" value="1"/>
 <COND id="60" value="2"/>
@@ -26416,7 +26416,7 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <COND id="60" value="3"/>
 <COND id="61" value="1"/>
 </OBJ>-->
-<OBJ id="28764" text="Behind [%game batter], 3-O...(nl)[%game pitcher] winds, deals...">
+<OBJ id="28764" text="球數落後 [%game batter] 3 壞 0 好...(nl)[%game pitcher] 揮臂，投出...">
 <COND id="60" value="3"/>
 <COND id="61" value="0"/>
 <COND id="51" value="1"/>
@@ -26445,7 +26445,7 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <COND id="60" value="0"/>
 <COND id="61" value="2"/>
 </OBJ>-->
-<OBJ id="29307" text="Here's the 1-2 pitch...">
+<OBJ id="29307" text="1 壞 2 好這一球來了...">
 <COND id="92" value="1"/>
 <COND id="60" value="1"/>
 <COND id="61" value="2"/>
@@ -26462,11 +26462,11 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <COND id="60" value="0"/>
 <COND id="61" value="1"/>
 </OBJ>-->
-<OBJ id="30142" text="Full-count pitch...">
+<OBJ id="30142" text="滿球數的這一球...">
 <COND id="46" value="1"/>
 <COND id="85" value="1"/>
 </OBJ>
-<OBJ id="30188" text="[%game pitcher] up O-2.(nl)Here's his next pitch...">
+<OBJ id="30188" text="[%game pitcher] 以 0 壞 2 好領先。(nl)下一球來了...">
 <COND id="60" value="0"/>
 <COND id="61" value="2"/>
 <COND id="82" value="1"/>
@@ -26530,7 +26530,7 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <COND id="60" value="1"/>
 <COND id="61" value="2"/>
 </OBJ>-->
-<OBJ id="32084" text="The full-count pitch...">
+<OBJ id="32084" text="滿球數的這一球...">
 <COND id="46" value="1"/>
 <COND id="81" value="5"/>
 </OBJ><!--
@@ -26550,7 +26550,7 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <COND id="60" value="3"/>
 <COND id="61" value="1"/>
 </OBJ>-->
-<OBJ id="32889" text="[%game batter] is in the catbird seat --(nl)2 and O.(nl)And here it comes...">
+<OBJ id="32889" text="[%game batter] 佔盡優勢 ——(nl)2 壞 0 好。(nl)球來了...">
 <COND id="60" value="2"/>
 <COND id="61" value="0"/>
 <COND id="81" value="9"/>
@@ -26563,7 +26563,7 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <COND id="61" value="0"/>
 <COND id="60" value="1"/>
 </OBJ>-->
-<OBJ id="33764" text="The windup...(nl)the first pitch to [%game batter]...">
+<OBJ id="33764" text="揮臂式投球...(nl)投給 [%game batter] 的第一球...">
 <COND id="60" value="0"/>
 <COND id="61" value="0"/>
 </OBJ><!--
@@ -26587,7 +26587,7 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <COND id="60" value="0"/>
 <COND id="61" value="2"/>
 </OBJ>-->
-<OBJ id="34199" text="The 1-1 delivery...">
+<OBJ id="34199" text="1 壞 1 好這一球投出...">
 <COND id="60" value="1"/>
 <COND id="61" value="1"/>
 <COND id="49" value="1"/>
@@ -26597,7 +26597,7 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <COND id="61" value="2"/>
 <COND id="82" value="1"/>
 </OBJ>-->
-<OBJ id="34201" text="The 2-1 delivery by the lefty...">
+<OBJ id="34201" text="左投手投出 2 壞 1 好這一球...">
 <COND id="60" value="2"/>
 <COND id="61" value="1"/>
 <COND id="80" value="1"/>
@@ -26611,12 +26611,12 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <COND id="60" value="2"/>
 <COND id="61" value="2"/>
 </OBJ>-->
-<OBJ id="34527" text="3-1 on the way...">
+<OBJ id="34527" text="3 壞 1 好這一球投出...">
 <COND id="60" value="3"/>
 <COND id="82" value="1"/>
 <COND id="61" value="1"/>
 </OBJ>
-<OBJ id="34528" text="2-2 incoming...">
+<OBJ id="34528" text="2 壞 2 好這一球來了...">
 <COND id="60" value="2"/>
 <COND id="61" value="2"/>
 <COND id="50" value="1"/>
@@ -26681,12 +26681,12 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <COND id="61" value="2"/>
 <COND id="69" value="2"/>
 </OBJ>
-<OBJ id="36636" text="1-1 count on [%game batter first name].(nl)The pitch...">
+<OBJ id="36636" text="[%game batter first name] 的球數來到 1 壞 1 好。(nl)投出...">
 <COND id="60" value="1"/>
 <COND id="61" value="1"/>
 <COND id="85" value="1"/>
 </OBJ>
-<OBJ id="36637" text="The 3-1 pitch to [%game batter first name]...">
+<OBJ id="36637" text="投給 [%game batter first name] 的 3 壞 1 好這一球...">
 <COND id="60" value="3"/>
 <COND id="61" value="1"/>
 <COND id="69" value="2"/>
@@ -26700,7 +26700,7 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <COND id="60" value="2"/>
 <COND id="61" value="2"/>
 </OBJ>-->
-<OBJ id="37156" text="The 1-1 pitch to [%game batter first name]...">
+<OBJ id="37156" text="投給 [%game batter first name] 的 1 壞 1 好這一球...">
 <COND id="60" value="1"/>
 <COND id="61" value="1"/>
 <COND id="69" value="2"/>
@@ -26714,12 +26714,12 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <COND id="60" value="2"/>
 <COND id="61" value="2"/>
 </OBJ>-->
-<OBJ id="38966" text="Kick and the 1-O pitch...">
+<OBJ id="38966" text="抬腿，投出 1 壞 0 好這一球...">
 <COND id="60" value="1"/>
 <COND id="61" value="0"/>
 <COND id="82" value="1"/>
 </OBJ>
-<OBJ id="38967" text="Kick and the 2-1 pitch...">
+<OBJ id="38967" text="抬腿，投出 2 壞 1 好這一球...">
 <COND id="60" value="2"/>
 <COND id="61" value="1"/>
 <COND id="69" value="2"/>
@@ -26746,7 +26746,7 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <COND id="60" value="2"/>
 <COND id="61" value="1"/>
 </OBJ>-->
-<OBJ id="39797" text="[%game pitcher] brings the 3-1...">
+<OBJ id="39797" text="[%game pitcher] 送出 3 壞 1 好這一球...">
 <COND id="60" value="3"/>
 <COND id="61" value="1"/>
 <COND id="240" value="8"/>
@@ -26806,13 +26806,13 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <COND id="60" value="1"/>
 <COND id="61" value="2"/>
 </OBJ>-->
-<OBJ id="40524" text="The right-hander's O-2 pitch...">
+<OBJ id="40524" text="右投手投出 0 壞 2 好這一球...">
 <COND id="60" value="0"/>
 <COND id="61" value="2"/>
 <COND id="80" value="0"/>
 <COND id="69" value="2"/>
 </OBJ>
-<OBJ id="40525" text="The right-hander's 2-2 pitch...">
+<OBJ id="40525" text="右投手投出 2 壞 2 好這一球...">
 <COND id="60" value="2"/>
 <COND id="61" value="2"/>
 <COND id="82" value="1"/>
@@ -139401,7 +139401,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 </CAT>
 
 <CAT id="896">
-<OBJ id="47854" text="he's gone deep twice already...(nl)going [%batting h] for [%batting ab] with [%batting rbi] RBI.">
+<OBJ id="47854" text="他今天已經開轟兩發...(nl)[%batting ab] 打數 [%batting h] 安打，[%batting rbi] 分打點。">
 <COND id="194" value="2"/>
 <COND id="288" value="2"/>
 </OBJ><!--
@@ -139413,7 +139413,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="194" value="2"/>
 <COND id="288" value="2"/>
 </OBJ>-->
-<OBJ id="47857" text="he's gone deep THREE TIMES already...(nl)going [%batting h] for [%batting ab] with [%batting rbi short]...">
+<OBJ id="47857" text="他今天已經開轟三發！(nl)[%batting ab] 打數 [%batting h] 安打，[%batting rbi short]...">
 <COND id="194" value="3"/>
 <COND id="288" value="3"/>
 </OBJ><!--
@@ -139425,13 +139425,13 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="194" value="3"/>
 <COND id="288" value="3"/>
 </OBJ>-->
-<OBJ id="47860" text="he's having a great game, belting [%batting hr word]!">
+<OBJ id="47860" text="他今天表現極佳，已經敲出 [%batting hr word]！">
 <COND id="194" value="2"/>
 </OBJ>
-<OBJ id="47861" text="he's O for [%batting ab] today...">
+<OBJ id="47861" text="他今天 [%batting ab] 打數 0 安打...">
 <COND id="292" value="0"/>
 </OBJ>
-<OBJ id="47862" text="he's gone hitless in [%batting ab word]...">
+<OBJ id="47862" text="他 [%batting ab word] 都沒有安打...">
 <COND id="292" value="0"/>
 <COND id="289" value="2"/>
 </OBJ><!--
@@ -139442,15 +139442,15 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <OBJ id="47864" usage_chance_for_game="4" only_once_per_x2="1" text="he's wearing the collar so far...">
 <COND id="292" value="0"/>
 </OBJ>-->
-<OBJ id="47865" text="he's still looking for that first hit...">
+<OBJ id="47865" text="他還在等今天的第一支安打...">
 <COND id="292" value="0"/>
 <COND id="240" value="6"/>
 </OBJ>
-<OBJ id="47866" text="in [%batting ab word] he's hitless...">
+<OBJ id="47866" text="[%batting ab word] 他都沒有敲出安打...">
 <COND id="292" value="0"/>
 <COND id="289" value="3"/>
 </OBJ>
-<OBJ id="47867" text="he's hitless in [%batting ab] trips...">
+<OBJ id="47867" text="他 [%batting ab] 次打擊都沒有安打...">
 <COND id="292" value="0"/>
 <COND id="308" value="0"/>
 <COND id="289" value="2"/>
@@ -139480,7 +139480,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <OBJ id="47874" text="he's still looking for his first hit...">
 <COND id="292" value="0"/>
 </OBJ>-->
-<OBJ id="47875" text="he's gone hitless...">
+<OBJ id="47875" text="他今天還沒有安打...">
 <COND id="292" value="0"/>
 <COND id="289" value="4"/>
 </OBJ><!--
@@ -139539,7 +139539,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <OBJ id="47891" only_once_per_x2="1" text="he's hitless in this one...">
 <COND id="292" value="0"/>
 </OBJ>-->
-<OBJ id="47892" text="all of his at-bats have resulted in K's...">
+<OBJ id="47892" text="他今天每個打席都被三振...">
 <COND id="289" value="2"/>
 <COND id="295" value="1"/>
 </OBJ><!--
@@ -139547,7 +139547,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="289" value="2"/>
 <COND id="295" value="1"/>
 </OBJ>-->
-<OBJ id="47894" text="he's been overmatched, striking out [%batting k] times in [%batting ab word]...">
+<OBJ id="47894" text="他完全被壓制，[%batting ab word] 被三振 [%batting k] 次...">
 <COND id="289" value="2"/>
 <COND id="296" value="2"/>
 <COND id="292" value="0"/>
@@ -139561,19 +139561,19 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="289" value="2"/>
 <COND id="292" value="0"/>
 </OBJ>-->
-<OBJ id="47897" text="he's a perfect [%batting h] for [%batting ab][%batting with]">
+<OBJ id="47897" text="他 [%batting ab] 打數 [%batting h] 安打，打擊率百分之百[%batting with]">
 <COND id="288" value="1"/>
 <COND id="294" value="1"/>
 <COND id="289" value="2"/>
 </OBJ>
-<OBJ id="47898" text="he has [%batting h word] in as many at-bats[%batting with]">
+<OBJ id="47898" text="他打擊數與安打數相同，全部 [%batting h word][%batting with]">
 <COND id="294" value="1"/>
 <COND id="288" value="1"/>
 <COND id="289" value="2"/>
 <COND id="291" value="2"/>
 <COND id="290" value="3"/>
 </OBJ>
-<OBJ id="47899" text="he hasn't been retired yet, going [%batting h] for [%batting ab][%batting with]">
+<OBJ id="47899" text="他今天還沒被解決過，[%batting ab] 打數 [%batting h] 安打[%batting with]">
 <COND id="294" value="1"/>
 <COND id="288" value="1"/>
 <COND id="289" value="3"/>
@@ -139583,7 +139583,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="288" value="1"/>
 <COND id="289" value="2"/>
 </OBJ>-->
-<OBJ id="47901" text="he's [%batting h] for [%batting ab][%batting with]">
+<OBJ id="47901" text="他 [%batting ab] 打數 [%batting h] 安打[%batting with]">
 <COND id="288" value="1"/>
 <COND id="295" value="0"/>
 <COND id="294" value="0"/>
@@ -139666,12 +139666,12 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="288" value="2"/>
 <COND id="194" value="2"/>
 </OBJ>-->
-<OBJ id="47940" text="he's had a day to forget so far -- [%batting k word] in [%batting ab word]...">
+<OBJ id="47940" text="他今天過得很不順 —— [%batting ab word] 被三振 [%batting k word]...">
 <COND id="296" value="3"/>
 <COND id="289" value="3"/>
 <COND id="292" value="0"/>
 </OBJ>
-<OBJ id="47942" text="he's had a fruitless day at the plate...">
+<OBJ id="47942" text="他今天在打擊區顆粒無收...">
 <COND id="292" value="0"/>
 <COND id="289" value="4"/>
 <COND id="308" value="0"/>
@@ -139692,11 +139692,11 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="289" value="2"/>
 <COND id="295" value="1"/>
 </OBJ>-->
-<OBJ id="47947" text="it's been a forgettable day at the plate for him --(nl)nothing for [%batting ab]...">
+<OBJ id="47947" text="今天的打擊區對他來說不堪回首 ——(nl)[%batting ab] 打數掛蛋...">
 <COND id="292" value="0"/>
 <COND id="289" value="5"/>
 </OBJ>
-<OBJ id="47948" text="his at-bats have brought him nothing but frustration so far...">
+<OBJ id="47948" text="他今天的每個打席都只帶來挫折...">
 <COND id="289" value="2"/>
 <COND id="295" value="1"/>
 <COND id="308" value="0"/>
@@ -139712,13 +139712,13 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="288" value="2"/>
 <COND id="194" value="2"/>
 </OBJ>-->
-<OBJ id="47961" text="[%game batter first name] has gone [%batting h] for [%batting ab][%batting with]">
+<OBJ id="47961" text="[%game batter first name] 今天 [%batting ab] 打數 [%batting h] 安打[%batting with]">
 <COND id="288" value="1"/>
 <COND id="295" value="0"/>
 <COND id="294" value="0"/>
 <COND id="291" value="2"/>
 </OBJ>
-<OBJ id="47962" text="he's collected three hits...">
+<OBJ id="47962" text="他今天已經敲出三支安打...">
 <COND id="289" value="3"/>
 <COND id="292" value="3"/>
 <COND id="291" value="3"/>
@@ -139728,7 +139728,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="292" value="3"/>
 <COND id="291" value="3"/>
 </OBJ>-->
-<OBJ id="47988" text="he's doubled twice...">
+<OBJ id="47988" text="他今天敲出兩支二壘安打...">
 <COND id="292" value="2"/>
 <COND id="297" value="2"/>
 </OBJ><!--
@@ -139740,11 +139740,11 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="292" value="2"/>
 <COND id="297" value="2"/>
 </OBJ>-->
-<OBJ id="47991" text="he's had three hits, all doubles...">
+<OBJ id="47991" text="他今天三支安打全是二壘安打...">
 <COND id="292" value="3"/>
 <COND id="297" value="3"/>
 </OBJ>
-<OBJ id="47992" text="he's a single short of hitting for the cycle...">
+<OBJ id="47992" text="他只差一支一壘安打就達成完全打擊...">
 <COND id="292" value="3"/>
 <COND id="297" value="1"/>
 <COND id="194" value="1"/>
@@ -139756,7 +139756,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="194" value="1"/>
 <COND id="298" value="1"/>
 </OBJ>-->
-<OBJ id="48003" text="he's had two hits, both triples...">
+<OBJ id="48003" text="他今天兩支安打都是三壘安打...">
 <COND id="292" value="2"/>
 <COND id="298" value="2"/>
 </OBJ><!--
@@ -139768,16 +139768,16 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="292" value="2"/>
 <COND id="297" value="2"/>
 </OBJ>-->
-<OBJ id="48006" text="his two hits include a home run and a double...">
+<OBJ id="48006" text="他今天的兩支安打包括一發全壘打和一支二壘安打...">
 <COND id="292" value="2"/>
 <COND id="297" value="1"/>
 <COND id="194" value="1"/>
 </OBJ>
-<OBJ id="48007" text="he's trying to get off the schneid...(nl)having struck out each time up...">
+<OBJ id="48007" text="他想打破今天的乾旱...(nl)每個打席都被三振...">
 <COND id="289" value="3"/>
 <COND id="295" value="1"/>
 </OBJ>
-<OBJ id="48008" text="he's nothing for three, striking out each time up...">
+<OBJ id="48008" text="他三個打數掛蛋，而且每次都被三振...">
 <COND id="289" value="3"/>
 <COND id="295" value="1"/>
 <COND id="290" value="3"/>
@@ -139798,7 +139798,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="295" value="1"/>
 <COND id="290" value="3"/>
 </OBJ>-->
-<OBJ id="48012" text="he's homered and twice been struck out...">
+<OBJ id="48012" text="他今天開轟一發，另外被三振兩次...">
 <COND id="289" value="3"/>
 <COND id="290" value="3"/>
 <COND id="194" value="1"/>
@@ -139810,7 +139810,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="194" value="1"/>
 <COND id="296" value="2"/>
 </OBJ>-->
-<OBJ id="48014" text="[%game batter first name] has struck out twice and doubled...">
+<OBJ id="48014" text="[%game batter first name] 今天被三振兩次，敲出一支二壘安打...">
 <COND id="289" value="3"/>
 <COND id="290" value="3"/>
 <COND id="296" value="2"/>
@@ -139820,7 +139820,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="292" value="0"/>
 <COND id="289" value="4"/>
 </OBJ>-->
-<OBJ id="48095" text="he's O for [%batting ab] with 2 strikeouts...">
+<OBJ id="48095" text="他 [%batting ab] 打數 0 安打，被三振兩次...">
 <COND id="292" value="0"/>
 <COND id="295" value="1"/>
 <COND id="290" value="2"/>
@@ -139838,7 +139838,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="290" value="2"/>
 <COND id="289" value="2"/>
 </OBJ>-->
-<OBJ id="48098" text="a double and a strikeout for [%game batter first name]...">
+<OBJ id="48098" text="[%game batter first name] 今天一支二壘安打、一次三振...">
 <COND id="297" value="1"/>
 <COND id="296" value="1"/>
 <COND id="290" value="2"/>
@@ -139876,7 +139876,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <OBJ id="48160" usage_chance_for_game="11" only_once_per_x2="1" text="he's got an O-fer going...">
 <COND id="292" value="0"/>
 </OBJ>-->
-<OBJ id="48161" text="he's gone [%batting h] for [%batting ab] with two singles...">
+<OBJ id="48161" text="他 [%batting ab] 打數 [%batting h] 安打，兩支都是一壘安打...">
 <COND id="301" value="2"/>
 <COND id="305" value="2"/>
 <COND id="292" value="2"/>
@@ -139904,7 +139904,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="308" value="0"/>
 <COND id="302" value="0"/>
 </OBJ>-->
-<OBJ id="48165" text="he's [%batting h] for [%batting ab] with two singles and a walk...">
+<OBJ id="48165" text="他 [%batting ab] 打數 [%batting h] 安打，兩支一壘安打加一次保送...">
 <COND id="301" value="2"/>
 <COND id="305" value="2"/>
 <COND id="292" value="2"/>
@@ -139925,7 +139925,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="308" value="1"/>
 <COND id="302" value="1"/>
 </OBJ>-->
-<OBJ id="48168" text="he's reached base three times...(nl)with two singles and a walk...">
+<OBJ id="48168" text="他今天三度上壘...(nl)兩支一壘安打加一次保送...">
 <COND id="301" value="2"/>
 <COND id="305" value="2"/>
 <COND id="292" value="2"/>
@@ -139944,7 +139944,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <OBJ id="48170" text="he's hitless...">
 <COND id="292" value="0"/>
 </OBJ>-->
-<OBJ id="48171" text="he's O for [%batting ab] with a walk...">
+<OBJ id="48171" text="他 [%batting ab] 打數 0 安打，另有一次保送...">
 <COND id="292" value="0"/>
 <COND id="308" value="1"/>
 <COND id="302" value="1"/>
@@ -139962,13 +139962,13 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="302" value="1"/>
 <COND id="289" value="2"/>
 </OBJ>-->
-<OBJ id="48174" text="he's hitless but he does have two walks...">
+<OBJ id="48174" text="他今天沒有安打，但選到兩次保送...">
 <COND id="292" value="0"/>
 <COND id="308" value="2"/>
 <COND id="302" value="2"/>
 <COND id="289" value="3"/>
 </OBJ>
-<OBJ id="48175" text="[%game batter first name] has walked twice...">
+<OBJ id="48175" text="[%game batter first name] 今天選到兩次保送...">
 <COND id="292" value="0"/>
 <COND id="308" value="2"/>
 <COND id="302" value="2"/>
@@ -139983,7 +139983,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="308" value="2"/>
 <COND id="302" value="2"/>
 </OBJ>-->
-<OBJ id="48178" text="he's gone [%batting h] for [%batting ab] with two singles and a walk...(nl)and he's scored twice...">
+<OBJ id="48178" text="他 [%batting ab] 打數 [%batting h] 安打，兩支一壘安打加一次保送...(nl)另有兩次得分...">
 <COND id="308" value="1"/>
 <COND id="292" value="2"/>
 <COND id="302" value="1"/>
@@ -139992,26 +139992,26 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="304" value="2"/>
 <COND id="303" value="2"/>
 </OBJ>
-<OBJ id="48179" text="he needs a double to hit for the cycle...">
+<OBJ id="48179" text="他只差一支二壘安打就達成完全打擊...">
 <COND id="292" value="3"/>
 <COND id="301" value="1"/>
 <COND id="194" value="1"/>
 <COND id="298" value="1"/>
 </OBJ>
-<OBJ id="48180" text="he needs a triple to hit for the cycle...">
+<OBJ id="48180" text="他只差一支三壘安打就達成完全打擊...">
 <COND id="292" value="3"/>
 <COND id="301" value="1"/>
 <COND id="194" value="1"/>
 <COND id="297" value="1"/>
 </OBJ>
-<OBJ id="48181" text="he needs to hit a home run to complete the cycle...">
+<OBJ id="48181" text="他只差一發全壘打就能完成完全打擊...">
 <COND id="292" value="3"/>
 <COND id="301" value="1"/>
 <COND id="298" value="1"/>
 <COND id="297" value="1"/>
 <COND id="289" value="3"/>
 </OBJ>
-<OBJ id="48182" text="he's lacking just a home run for the cycle...">
+<OBJ id="48182" text="他只差一發全壘打就達成完全打擊...">
 <COND id="292" value="3"/>
 <COND id="301" value="1"/>
 <COND id="298" value="1"/>
@@ -140051,7 +140051,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="292" value="0"/>
 <COND id="289" value="3"/>
 </OBJ>-->
-<OBJ id="48189" text="he's singled and walked in [%batting pa] plate appearances...(nl)and he's scored two runs...">
+<OBJ id="48189" text="他 [%batting pa] 個打席敲出一支一壘安打、選到一次保送...(nl)另有兩次得分...">
 <COND id="308" value="1"/>
 <COND id="292" value="1"/>
 <COND id="302" value="1"/>
@@ -140087,11 +140087,11 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="304" value="2"/>
 <COND id="303" value="2"/>
 </OBJ>-->
-<OBJ id="48193" text="he's [%batting h] for [%batting ab] with [%batting rbi] RBIs...">
+<OBJ id="48193" text="他 [%batting ab] 打數 [%batting h] 安打，[%batting rbi] 分打點...">
 <COND id="288" value="0"/>
 <COND id="218" value="4"/>
 </OBJ>
-<OBJ id="48194" text="he's [%batting h] for [%batting ab] with [%batting r] runs scored and [%batting rbi] RBIs...">
+<OBJ id="48194" text="他 [%batting ab] 打數 [%batting h] 安打，[%batting r] 分得分、[%batting rbi] 分打點...">
 <COND id="288" value="0"/>
 <COND id="218" value="3"/>
 <COND id="303" value="2"/>
@@ -140101,15 +140101,15 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="218" value="3"/>
 <COND id="303" value="2"/>
 </OBJ>-->
-<OBJ id="48196" text="he's enjoying a [%batting rbi]-RBI day...">
+<OBJ id="48196" text="他今天已經有 [%batting rbi] 分打點進帳...">
 <COND id="288" value="0"/>
 <COND id="218" value="3"/>
 </OBJ>
-<OBJ id="48224" text="he's looking for his fourth hit of the game...">
+<OBJ id="48224" text="他正在追求今天的第四支安打...">
 <COND id="292" value="3"/>
 <COND id="291" value="3"/>
 </OBJ>
-<OBJ id="48225" text="he'll try to make it 4 for 4...">
+<OBJ id="48225" text="他要挑戰四打數四安打...">
 <COND id="292" value="3"/>
 <COND id="291" value="3"/>
 <COND id="290" value="3"/>
@@ -140119,7 +140119,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="291" value="3"/>
 <COND id="290" value="3"/>
 </OBJ>-->
-<OBJ id="48227" text="he's 4 for 4 and still not done...">
+<OBJ id="48227" text="他今天四打數四安打，而且還沒結束...">
 <COND id="292" value="4"/>
 <COND id="291" value="4"/>
 <COND id="290" value="4"/>
@@ -140129,12 +140129,12 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="291" value="4"/>
 <COND id="290" value="4"/>
 </OBJ>-->
-<OBJ id="48229" text="he's collected five hits to this point...(nl)with a chance for one more...">
+<OBJ id="48229" text="他到目前為止已經敲出五支安打...(nl)還有機會再添一支...">
 <COND id="292" value="5"/>
 <COND id="291" value="5"/>
 <COND id="289" value="5"/>
 </OBJ>
-<OBJ id="48230" text="he's singled twice, walked, and struck out...">
+<OBJ id="48230" text="他今天兩支一壘安打、一次保送、一次三振...">
 <COND id="310" value="1"/>
 <COND id="296" value="1"/>
 <COND id="290" value="3"/>
@@ -140144,7 +140144,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="302" value="1"/>
 <COND id="308" value="1"/>
 </OBJ>
-<OBJ id="48231" text="he's singled twice and walked twice...">
+<OBJ id="48231" text="他今天兩支一壘安打、兩次保送...">
 <COND id="290" value="2"/>
 <COND id="289" value="2"/>
 <COND id="301" value="2"/>
@@ -140157,12 +140157,12 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="308" value="2"/>
 <COND id="292" value="0"/>
 </OBJ>-->
-<OBJ id="48233" text="he's walked three times...">
+<OBJ id="48233" text="他今天選到三次保送...">
 <COND id="302" value="3"/>
 <COND id="308" value="3"/>
 <COND id="292" value="0"/>
 </OBJ>
-<OBJ id="48234" text="he's walked four times...">
+<OBJ id="48234" text="他今天選到四次保送...">
 <COND id="302" value="4"/>
 <COND id="308" value="4"/>
 <COND id="292" value="0"/>
@@ -140172,7 +140172,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="308" value="4"/>
 <COND id="292" value="0"/>
 </OBJ>-->
-<OBJ id="48236" text="he's walked twice and scored a run...">
+<OBJ id="48236" text="他今天選到兩次保送，並跑回一分...">
 <COND id="302" value="2"/>
 <COND id="308" value="2"/>
 <COND id="292" value="0"/>
@@ -140186,7 +140186,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="304" value="1"/>
 <COND id="303" value="1"/>
 </OBJ>-->
-<OBJ id="48238" text="he's drawn two walks and scored twice...">
+<OBJ id="48238" text="他今天選到兩次保送，並跑回兩分...">
 <COND id="302" value="2"/>
 <COND id="308" value="2"/>
 <COND id="292" value="0"/>
@@ -140200,13 +140200,13 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="304" value="2"/>
 <COND id="303" value="2"/>
 </OBJ>-->
-<OBJ id="48287" text="he's gone hitless in [%batting ab word]...(nl)with two strikeouts...">
+<OBJ id="48287" text="他 [%batting ab word] 都沒有安打...(nl)還被三振兩次...">
 <COND id="292" value="0"/>
 <COND id="308" value="0"/>
 <COND id="310" value="2"/>
 <COND id="296" value="2"/>
 </OBJ>
-<OBJ id="48288" text="he's gone hitless and struck out twice...">
+<OBJ id="48288" text="他今天沒有安打，還被三振兩次...">
 <COND id="292" value="0"/>
 <COND id="308" value="0"/>
 <COND id="310" value="2"/>
@@ -140233,7 +140233,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="289" value="2"/>
 <COND id="302" value="1"/>
 </OBJ>-->
-<OBJ id="48299" text="he's hitless in three at-bats with a pair of strikeouts...">
+<OBJ id="48299" text="他三個打數沒有安打，另被三振兩次...">
 <COND id="292" value="0"/>
 <COND id="308" value="0"/>
 <COND id="310" value="2"/>
@@ -140249,13 +140249,13 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="289" value="3"/>
 <COND id="290" value="3"/>
 </OBJ>-->
-<OBJ id="48301" text="he's hitless in three trips...">
+<OBJ id="48301" text="他三次打擊都沒有安打...">
 <COND id="292" value="0"/>
 <COND id="308" value="0"/>
 <COND id="289" value="3"/>
 <COND id="290" value="3"/>
 </OBJ>
-<OBJ id="48304" text="a goose egg for [%game batter first name] in [%batting ab word]...">
+<OBJ id="48304" text="[%game batter first name] [%batting ab word] 掛蛋...">
 <COND id="292" value="0"/>
 <COND id="289" value="4"/>
 <COND id="308" value="0"/>
@@ -140267,7 +140267,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="308" value="0"/>
 <COND id="309" value="0"/>
 </OBJ>-->
-<OBJ id="48306" text="he's O for [%batting ab] but he has scored a run...">
+<OBJ id="48306" text="他 [%batting ab] 打數 0 安打，但有跑回一分...">
 <COND id="292" value="0"/>
 <COND id="289" value="2"/>
 <COND id="308" value="0"/>
@@ -140283,7 +140283,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="304" value="1"/>
 <COND id="303" value="1"/>
 </OBJ>-->
-<OBJ id="48308" text="he's O for [%batting ab] with an RBI...">
+<OBJ id="48308" text="他 [%batting ab] 打數 0 安打，但有一分打點...">
 <COND id="292" value="0"/>
 <COND id="289" value="2"/>
 <COND id="308" value="0"/>
@@ -140301,13 +140301,13 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="303" value="0"/>
 <COND id="218" value="1"/>
 </OBJ>-->
-<OBJ id="48382" text="he's scored [%batting r] runs in this game...">
+<OBJ id="48382" text="他這場比賽已經跑回 [%batting r] 分...">
 <COND id="303" value="3"/>
 </OBJ><!--
 <OBJ id="48383" only_once_per_x2="1" text="he's scored [%batting r] times...">
 <COND id="303" value="3"/>
 </OBJ>-->
-<OBJ id="48384" text="he's scored the only [%game teamab] run...">
+<OBJ id="48384" text="[%game teamab] 唯一的一分就是他跑回來的...">
 <COND id="216" value="1"/>
 <COND id="303" value="1"/>
 <COND id="215" value="1"/>
@@ -140315,7 +140315,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="84" value="-19"/>
 <COND id="304" value="1"/>
 </OBJ>
-<OBJ id="48385" text="he's scored both [%game teamab] runs...">
+<OBJ id="48385" text="[%game teamab] 的兩分都是他跑回來的...">
 <COND id="216" value="2"/>
 <COND id="303" value="2"/>
 <COND id="215" value="2"/>
@@ -140323,7 +140323,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="84" value="-19"/>
 <COND id="304" value="2"/>
 </OBJ>
-<OBJ id="48386" text="he's had little success at the plate today...">
+<OBJ id="48386" text="他今天在打擊區沒什麼收穫...">
 <COND id="292" value="0"/>
 <COND id="308" value="0"/>
 <COND id="289" value="3"/>
@@ -140347,14 +140347,14 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="289" value="3"/>
 <COND id="309" value="0"/>
 </OBJ>-->
-<OBJ id="48390" text="his bat has been rather quiet today...">
+<OBJ id="48390" text="他今天的棒子相當安靜...">
 <COND id="292" value="0"/>
 <COND id="308" value="0"/>
 <COND id="289" value="3"/>
 <COND id="309" value="0"/>
 <COND id="22" value="7"/>
 </OBJ>
-<OBJ id="48391" text="the [%game teamdef nick] have had his number today...">
+<OBJ id="48391" text="[%game teamdef nick] 今天完全掌握了他...">
 <COND id="292" value="0"/>
 <COND id="308" value="0"/>
 <COND id="289" value="3"/>
@@ -140362,7 +140362,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="22" value="6"/>
 <COND id="296" value="1"/>
 </OBJ>
-<OBJ id="48392" text="the [%game teamdef nick] have stifled his bat today...">
+<OBJ id="48392" text="[%game teamdef nick] 今天完全封住了他的棒子...">
 <COND id="292" value="0"/>
 <COND id="308" value="0"/>
 <COND id="289" value="3"/>
@@ -140378,7 +140378,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="22" value="7"/>
 <COND id="296" value="1"/>
 </OBJ>-->
-<OBJ id="48394" text="no thunder in his bat so far...">
+<OBJ id="48394" text="他的棒子到目前為止都沒有火力...">
 <COND id="292" value="0"/>
 <COND id="308" value="0"/>
 <COND id="289" value="3"/>
@@ -140386,7 +140386,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="22" value="1"/>
 <COND id="296" value="1"/>
 </OBJ>
-<OBJ id="48395" text="he's done no damage to [%game teamdef] so far...">
+<OBJ id="48395" text="他到目前為止還沒對 [%game teamdef] 造成任何傷害...">
 <COND id="292" value="0"/>
 <COND id="308" value="0"/>
 <COND id="289" value="3"/>
@@ -140418,7 +140418,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="296" value="1"/>
 <COND id="16" value="7"/>
 </OBJ>-->
-<OBJ id="48399" text="[%game teamdef] pitching has dominated him today...">
+<OBJ id="48399" text="[%game teamdef] 的投手今天完全壓制他...">
 <COND id="292" value="0"/>
 <COND id="308" value="0"/>
 <COND id="289" value="3"/>
@@ -140437,7 +140437,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <OBJ id="48401" text="[%game batter first name] is O for [%batting ab]...">
 <COND id="292" value="0"/>
 </OBJ>-->
-<OBJ id="48402" text="he's singled and walked...(nl)he's also scored twice and knocked in two runs...">
+<OBJ id="48402" text="他今天一支一壘安打、一次保送...(nl)另有兩次得分和兩分打點...">
 <COND id="308" value="1"/>
 <COND id="292" value="1"/>
 <COND id="302" value="1"/>
@@ -140448,7 +140448,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="309" value="2"/>
 <COND id="218" value="2"/>
 </OBJ>
-<OBJ id="48403" text="he's singled twice, scored twice, and added 2 RBI...">
+<OBJ id="48403" text="他今天兩支一壘安打、兩次得分，外加 2 分打點...">
 <COND id="308" value="0"/>
 <COND id="292" value="2"/>
 <COND id="302" value="0"/>
@@ -140459,7 +140459,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="309" value="2"/>
 <COND id="218" value="2"/>
 </OBJ>
-<OBJ id="48404" text="he's singled twice, scored twice, and added an RBI...">
+<OBJ id="48404" text="他今天兩支一壘安打、兩次得分，外加 1 分打點...">
 <COND id="308" value="0"/>
 <COND id="292" value="2"/>
 <COND id="302" value="0"/>
@@ -140470,7 +140470,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="309" value="1"/>
 <COND id="218" value="1"/>
 </OBJ>
-<OBJ id="48405" text="he's singled twice, scored a run, and added an RBI...">
+<OBJ id="48405" text="他今天兩支一壘安打、跑回一分，外加 1 分打點...">
 <COND id="308" value="0"/>
 <COND id="292" value="2"/>
 <COND id="302" value="0"/>
@@ -140481,7 +140481,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="309" value="1"/>
 <COND id="218" value="1"/>
 </OBJ>
-<OBJ id="48406" text="he's singled twice, scored a run, and added 2 RBI...">
+<OBJ id="48406" text="他今天兩支一壘安打、跑回一分，外加 2 分打點...">
 <COND id="308" value="0"/>
 <COND id="292" value="2"/>
 <COND id="302" value="0"/>
@@ -140492,7 +140492,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="309" value="2"/>
 <COND id="218" value="2"/>
 </OBJ>
-<OBJ id="48407" text="he's singled twice, scored a run, and driven in 3 more...">
+<OBJ id="48407" text="他今天兩支一壘安打、跑回一分，另外送回 3 分...">
 <COND id="308" value="0"/>
 <COND id="292" value="2"/>
 <COND id="302" value="0"/>
@@ -140503,7 +140503,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="309" value="3"/>
 <COND id="218" value="3"/>
 </OBJ>
-<OBJ id="48408" text="he's singled, doubled, scored a run, and driven in 3...">
+<OBJ id="48408" text="他今天一支一壘安打、一支二壘安打、跑回一分，另外送回 3 分...">
 <COND id="308" value="0"/>
 <COND id="292" value="2"/>
 <COND id="302" value="0"/>
@@ -140515,7 +140515,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="218" value="3"/>
 <COND id="297" value="1"/>
 </OBJ>
-<OBJ id="48409" text="he's singled, doubled, and scored a run...">
+<OBJ id="48409" text="他今天一支一壘安打、一支二壘安打，並跑回一分...">
 <COND id="308" value="0"/>
 <COND id="292" value="2"/>
 <COND id="302" value="0"/>
@@ -140527,7 +140527,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="218" value="0"/>
 <COND id="297" value="1"/>
 </OBJ>
-<OBJ id="48410" text="he's singled, doubled, and scored twice...">
+<OBJ id="48410" text="他今天一支一壘安打、一支二壘安打，並跑回兩分...">
 <COND id="308" value="0"/>
 <COND id="292" value="2"/>
 <COND id="302" value="0"/>
@@ -140539,7 +140539,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="218" value="0"/>
 <COND id="297" value="1"/>
 </OBJ>
-<OBJ id="48411" text="he's singled, doubled, and scored twice...(nl)plus he's knocked in a run...">
+<OBJ id="48411" text="他今天一支一壘安打、一支二壘安打，並跑回兩分...(nl)另有一分打點...">
 <COND id="308" value="0"/>
 <COND id="292" value="2"/>
 <COND id="302" value="0"/>
@@ -140551,7 +140551,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="218" value="1"/>
 <COND id="297" value="1"/>
 </OBJ>
-<OBJ id="48412" text="he's singled, doubled, and scored twice...(nl)plus he's driven in 2...">
+<OBJ id="48412" text="他今天一支一壘安打、一支二壘安打，並跑回兩分...(nl)另外送回 2 分...">
 <COND id="308" value="0"/>
 <COND id="292" value="2"/>
 <COND id="302" value="0"/>
@@ -140563,7 +140563,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="218" value="2"/>
 <COND id="297" value="1"/>
 </OBJ>
-<OBJ id="48413" text="he's singled, doubled, and scored twice...(nl)and he has [%batting rbi word]...">
+<OBJ id="48413" text="他今天一支一壘安打、一支二壘安打，並跑回兩分...(nl)另有 [%batting rbi word]...">
 <COND id="308" value="0"/>
 <COND id="292" value="2"/>
 <COND id="302" value="0"/>
@@ -140574,7 +140574,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="218" value="2"/>
 <COND id="297" value="1"/>
 </OBJ>
-<OBJ id="48414" text="he's singled, doubled, and scored a run...(nl)and he has [%batting rbi word]...">
+<OBJ id="48414" text="他今天一支一壘安打、一支二壘安打，並跑回一分...(nl)另有 [%batting rbi word]...">
 <COND id="308" value="0"/>
 <COND id="292" value="2"/>
 <COND id="302" value="0"/>
@@ -140592,7 +140592,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <OBJ id="48420" usage_chance_for_game="11" only_once_per_x2="1" text="he's got an O-fer to this point...">
 <COND id="292" value="0"/>
 </OBJ>-->
-<OBJ id="48421" text="he's singled, tripled, and scored twice...(nl)plus he's driven in 2...">
+<OBJ id="48421" text="他今天一支一壘安打、一支三壘安打，並跑回兩分...(nl)另外送回 2 分...">
 <COND id="308" value="0"/>
 <COND id="292" value="2"/>
 <COND id="302" value="0"/>
@@ -140604,7 +140604,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="218" value="2"/>
 <COND id="298" value="1"/>
 </OBJ>
-<OBJ id="48422" text="he's singled, tripled, and scored a run...(nl)and he has [%batting rbi word]...">
+<OBJ id="48422" text="他今天一支一壘安打、一支三壘安打，並跑回一分...(nl)另有 [%batting rbi word]...">
 <COND id="308" value="0"/>
 <COND id="292" value="2"/>
 <COND id="302" value="0"/>
@@ -140615,7 +140615,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="218" value="2"/>
 <COND id="298" value="1"/>
 </OBJ>
-<OBJ id="48423" text="he has two triples in this game...">
+<OBJ id="48423" text="他這場比賽敲出兩支三壘安打...">
 <COND id="308" value="0"/>
 <COND id="292" value="2"/>
 <COND id="302" value="0"/>
@@ -140633,7 +140633,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="302" value="0"/>
 <COND id="298" value="2"/>
 </OBJ>-->
-<OBJ id="48426" text="he's banged out two doubles...">
+<OBJ id="48426" text="他今天轟出兩支二壘安打...">
 <COND id="308" value="0"/>
 <COND id="292" value="2"/>
 <COND id="302" value="0"/>
@@ -140645,7 +140645,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="302" value="0"/>
 <COND id="297" value="2"/>
 </OBJ>-->
-<OBJ id="48428" text="he's collected two doubles...(nl)and scored twice...">
+<OBJ id="48428" text="他今天敲出兩支二壘安打...(nl)並跑回兩分...">
 <COND id="308" value="0"/>
 <COND id="292" value="2"/>
 <COND id="302" value="0"/>
@@ -140665,7 +140665,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="303" value="2"/>
 <COND id="218" value="0"/>
 </OBJ>-->
-<OBJ id="48430" text="he's hit two doubles...(nl)and he's scored a run...">
+<OBJ id="48430" text="他今天敲出兩支二壘安打...(nl)並跑回一分...">
 <COND id="308" value="0"/>
 <COND id="292" value="2"/>
 <COND id="302" value="0"/>
@@ -140685,7 +140685,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="303" value="1"/>
 <COND id="218" value="0"/>
 </OBJ>-->
-<OBJ id="48432" text="he's doubled twice, scored a run, and batted in a run...">
+<OBJ id="48432" text="他今天兩支二壘安打、跑回一分，另有一分打點...">
 <COND id="308" value="0"/>
 <COND id="292" value="2"/>
 <COND id="302" value="0"/>
@@ -140695,7 +140695,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="303" value="1"/>
 <COND id="218" value="1"/>
 </OBJ>
-<OBJ id="48433" text="he's doubled twice and driven home a run...">
+<OBJ id="48433" text="他今天敲出兩支二壘安打，並送回一分...">
 <COND id="308" value="0"/>
 <COND id="292" value="2"/>
 <COND id="302" value="0"/>
@@ -140715,7 +140715,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="303" value="0"/>
 <COND id="218" value="1"/>
 </OBJ>-->
-<OBJ id="48435" text="he's got a pair of doubles and [%batting rbi word]...">
+<OBJ id="48435" text="他今天兩支二壘安打，另有 [%batting rbi word]...">
 <COND id="308" value="0"/>
 <COND id="292" value="2"/>
 <COND id="302" value="0"/>
@@ -140724,14 +140724,14 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="303" value="0"/>
 <COND id="218" value="2"/>
 </OBJ>
-<OBJ id="48436" text="he has [%batting rbi] RBIs this game...(nl)on the strength of two doubles...">
+<OBJ id="48436" text="他這場比賽有 [%batting rbi] 分打點...(nl)靠的是兩支二壘安打...">
 <COND id="308" value="0"/>
 <COND id="292" value="2"/>
 <COND id="302" value="0"/>
 <COND id="297" value="2"/>
 <COND id="218" value="2"/>
 </OBJ>
-<OBJ id="48437" text="he's [%batting h] for [%batting ab] with a solo home run...">
+<OBJ id="48437" text="他 [%batting ab] 打數 [%batting h] 安打，其中一發是陽春全壘打...">
 <COND id="194" value="1"/>
 <COND id="288" value="1"/>
 <COND id="289" value="2"/>
@@ -140773,7 +140773,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="309" value="1"/>
 <COND id="292" value="1"/>
 </OBJ>-->
-<OBJ id="48446" text="he's contributed two hits -- a single and a double --(nl)to the [%game teamab] attack...">
+<OBJ id="48446" text="他貢獻了兩支安打 —— 一支一壘安打和一支二壘安打 ——(nl)為 [%game teamab] 的攻勢加溫...">
 <COND id="308" value="0"/>
 <COND id="292" value="2"/>
 <COND id="302" value="0"/>
@@ -140784,7 +140784,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="84" value="20"/>
 <COND id="299" value="6"/>
 </OBJ>
-<OBJ id="48447" text="he's contributed a single and a double to the onslaught...">
+<OBJ id="48447" text="他為這波攻勢貢獻了一支一壘安打和一支二壘安打...">
 <COND id="308" value="0"/>
 <COND id="302" value="0"/>
 <COND id="292" value="2"/>
@@ -140795,7 +140795,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="84" value="20"/>
 <COND id="299" value="1"/>
 </OBJ>
-<OBJ id="48448" text="he's chipped in two singles for the [%game teamab] cause...">
+<OBJ id="48448" text="他為 [%game teamab] 貢獻了兩支一壘安打...">
 <COND id="308" value="0"/>
 <COND id="302" value="0"/>
 <COND id="292" value="2"/>
@@ -140805,7 +140805,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="84" value="20"/>
 <COND id="299" value="6"/>
 </OBJ>
-<OBJ id="48449" text="he's contributed three hits to the offensive barrage...">
+<OBJ id="48449" text="他為這波猛烈攻勢貢獻了三支安打...">
 <COND id="292" value="3"/>
 <COND id="305" value="3"/>
 <COND id="306" value="2"/>
@@ -140815,7 +140815,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="288" value="0"/>
 <COND id="299" value="6"/>
 </OBJ>
-<OBJ id="48501" text="he'll try again to join the hit parade...">
+<OBJ id="48501" text="他要再試一次，看能不能加入安打行列...">
 <COND id="308" value="0"/>
 <COND id="292" value="0"/>
 <COND id="302" value="0"/>
@@ -140824,7 +140824,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="84" value="20"/>
 <COND id="299" value="4"/>
 </OBJ>
-<OBJ id="48531" text="he's still trying to get in the hit column...">
+<OBJ id="48531" text="他還在努力讓自己的安打欄開張...">
 <COND id="292" value="0"/>
 <COND id="308" value="0"/>
 <COND id="289" value="3"/>
@@ -140834,7 +140834,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="308" value="0"/>
 <COND id="289" value="3"/>
 </OBJ>-->
-<OBJ id="48533" text="he's scored [%batting r] times...">
+<OBJ id="48533" text="他今天已經跑回 [%batting r] 分...">
 <COND id="303" value="3"/>
 <COND id="309" value="1"/>
 </OBJ><!--
@@ -140842,7 +140842,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="303" value="3"/>
 <COND id="309" value="1"/>
 </OBJ>-->
-<OBJ id="48535" text="he's racked up three hits, scored a run, and batted in a run...">
+<OBJ id="48535" text="他今天累積三支安打、跑回一分，另有一分打點...">
 <COND id="308" value="0"/>
 <COND id="292" value="3"/>
 <COND id="302" value="0"/>
@@ -140855,7 +140855,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="306" value="1"/>
 <COND id="305" value="2"/>
 </OBJ>
-<OBJ id="48536" text="he's racked up three hits and scored twice...">
+<OBJ id="48536" text="他今天累積三支安打，並跑回兩分...">
 <COND id="308" value="0"/>
 <COND id="292" value="3"/>
 <COND id="302" value="0"/>
@@ -140881,7 +140881,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="306" value="1"/>
 <COND id="305" value="2"/>
 </OBJ>-->
-<OBJ id="48538" text="three hits for him...(nl)and he's driven in [%batting rbi] runs...">
+<OBJ id="48538" text="他今天三支安打...(nl)另外送回 [%batting rbi] 分...">
 <COND id="308" value="0"/>
 <COND id="292" value="3"/>
 <COND id="302" value="0"/>
@@ -140894,7 +140894,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="306" value="1"/>
 <COND id="305" value="3"/>
 </OBJ>
-<OBJ id="48539" text="three hits on his ledger...(nl)with a run and an RBI...">
+<OBJ id="48539" text="他今天已經有三支安打...(nl)另有一次得分和一分打點...">
 <COND id="308" value="0"/>
 <COND id="292" value="3"/>
 <COND id="302" value="0"/>
@@ -140920,7 +140920,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="306" value="1"/>
 <COND id="305" value="3"/>
 </OBJ>-->
-<OBJ id="48573" text="no hits and a walk in [%batting pa] plate appearances...">
+<OBJ id="48573" text="[%batting pa] 個打席沒有安打，選到一次保送...">
 <COND id="292" value="0"/>
 <COND id="308" value="1"/>
 <COND id="289" value="2"/>
@@ -140932,7 +140932,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="289" value="3"/>
 <COND id="308" value="0"/>
 </OBJ>-->
-<OBJ id="48581" text="he's got a double in [%batting ab word]...">
+<OBJ id="48581" text="他 [%batting ab word] 敲出一支二壘安打...">
 <COND id="308" value="0"/>
 <COND id="292" value="1"/>
 <COND id="302" value="0"/>
@@ -140940,7 +140940,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="290" value="2"/>
 <COND id="291" value="1"/>
 </OBJ>
-<OBJ id="48582" text="he's got a double in [%batting pa] trips...">
+<OBJ id="48582" text="他 [%batting pa] 次打擊敲出一支二壘安打...">
 <COND id="308" value="0"/>
 <COND id="292" value="1"/>
 <COND id="302" value="0"/>
@@ -140956,7 +140956,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="289" value="2"/>
 <COND id="291" value="1"/>
 </OBJ>-->
-<OBJ id="48584" text="he's got a double in [%batting pa] times up...">
+<OBJ id="48584" text="他 [%batting pa] 次打擊敲出一支二壘安打...">
 <COND id="308" value="0"/>
 <COND id="292" value="1"/>
 <COND id="302" value="0"/>
@@ -140966,7 +140966,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="305" value="1"/>
 <COND id="301" value="1"/>
 </OBJ>
-<OBJ id="48585" text="he's got one single in [%batting pa] times up...">
+<OBJ id="48585" text="他 [%batting pa] 次打擊敲出一支一壘安打...">
 <COND id="308" value="0"/>
 <COND id="292" value="1"/>
 <COND id="302" value="0"/>
@@ -140984,7 +140984,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="301" value="1"/>
 <COND id="305" value="1"/>
 </OBJ>-->
-<OBJ id="48587" text="in [%batting pa] times up he's got a single and a walk...">
+<OBJ id="48587" text="[%batting pa] 次打擊中，他有一支一壘安打和一次保送...">
 <COND id="308" value="1"/>
 <COND id="292" value="1"/>
 <COND id="302" value="1"/>
@@ -141024,7 +141024,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="309" value="1"/>
 <COND id="218" value="1"/>
 </OBJ>-->
-<OBJ id="48591" text="he's picked up a single and an RBI...">
+<OBJ id="48591" text="他今天有一支一壘安打和一分打點...">
 <COND id="308" value="0"/>
 <COND id="292" value="1"/>
 <COND id="302" value="0"/>
@@ -141057,7 +141057,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="309" value="1"/>
 <COND id="218" value="1"/>
 </OBJ>-->
-<OBJ id="48594" text="he's got a single and [%batting rbi word]...">
+<OBJ id="48594" text="他今天有一支一壘安打和 [%batting rbi word]...">
 <COND id="308" value="0"/>
 <COND id="292" value="1"/>
 <COND id="302" value="0"/>
@@ -141087,7 +141087,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="305" value="1"/>
 <COND id="218" value="2"/>
 </OBJ>-->
-<OBJ id="48597" text="he's singled and scored a run...">
+<OBJ id="48597" text="他今天敲出一壘安打並跑回一分...">
 <COND id="308" value="0"/>
 <COND id="292" value="1"/>
 <COND id="302" value="0"/>
@@ -141135,7 +141135,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="303" value="1"/>
 <COND id="304" value="1"/>
 </OBJ>-->
-<OBJ id="48601" text="he's singled, walked, and scored a run...">
+<OBJ id="48601" text="他今天一支一壘安打、一次保送，並跑回一分...">
 <COND id="308" value="1"/>
 <COND id="292" value="1"/>
 <COND id="302" value="1"/>
@@ -141147,7 +141147,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="303" value="1"/>
 <COND id="304" value="1"/>
 </OBJ>
-<OBJ id="48602" text="he has walked and scored a run...">
+<OBJ id="48602" text="他今天選到一次保送並跑回一分...">
 <COND id="308" value="1"/>
 <COND id="292" value="0"/>
 <COND id="302" value="1"/>
@@ -141157,7 +141157,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="303" value="1"/>
 <COND id="304" value="1"/>
 </OBJ>
-<OBJ id="48603" text="he has walked and scored a run...">
+<OBJ id="48603" text="他今天選到一次保送並跑回一分...">
 <COND id="308" value="1"/>
 <COND id="292" value="0"/>
 <COND id="302" value="1"/>
@@ -141197,7 +141197,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="303" value="1"/>
 <COND id="304" value="1"/>
 </OBJ>-->
-<OBJ id="48607" text="he's doubled and scored a run...">
+<OBJ id="48607" text="他今天敲出二壘安打並跑回一分...">
 <COND id="308" value="0"/>
 <COND id="292" value="1"/>
 <COND id="302" value="0"/>
@@ -141225,7 +141225,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="306" value="1"/>
 <COND id="297" value="1"/>
 </OBJ>-->
-<OBJ id="48609" text="he has a double, a run scored, and an RBI...">
+<OBJ id="48609" text="他今天有一支二壘安打、一次得分和一分打點...">
 <COND id="308" value="0"/>
 <COND id="292" value="1"/>
 <COND id="302" value="0"/>
@@ -141240,7 +141240,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="297" value="1"/>
 <COND id="218" value="1"/>
 </OBJ>
-<OBJ id="48610" text="he has a double and an RBI...">
+<OBJ id="48610" text="他今天有一支二壘安打和一分打點...">
 <COND id="308" value="0"/>
 <COND id="292" value="1"/>
 <COND id="302" value="0"/>
@@ -141270,7 +141270,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="297" value="1"/>
 <COND id="218" value="1"/>
 </OBJ>-->
-<OBJ id="48612" text="he's doubled and driven in [%batting rbi]...">
+<OBJ id="48612" text="他今天敲出二壘安打，送回 [%batting rbi] 分...">
 <COND id="308" value="0"/>
 <COND id="292" value="1"/>
 <COND id="302" value="0"/>
@@ -141298,16 +141298,16 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="297" value="1"/>
 <COND id="218" value="2"/>
 </OBJ>-->
-<OBJ id="48743" text="he's already collected [%batting h] hits...">
+<OBJ id="48743" text="他今天已經累積 [%batting h] 支安打...">
 <COND id="291" value="3"/>
 <COND id="288" value="0"/>
 </OBJ>
-<OBJ id="48744" text="he has [%batting h word], [%batting r word], and [%batting rbi word]...">
+<OBJ id="48744" text="他今天有 [%batting h word]、[%batting r word] 和 [%batting rbi word]...">
 <COND id="291" value="1"/>
 <COND id="303" value="1"/>
 <COND id="218" value="1"/>
 </OBJ>
-<OBJ id="48745" text="he is [%batting h] for [%batting ab] so far...(nl)with [%batting r word] and [%batting rbi word]...">
+<OBJ id="48745" text="他今天到目前為止 [%batting ab] 打數 [%batting h] 安打...(nl)另有 [%batting r word] 和 [%batting rbi word]...">
 <COND id="291" value="1"/>
 <COND id="303" value="1"/>
 <COND id="218" value="1"/>
@@ -141370,7 +141370,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="309" value="1"/>
 <COND id="218" value="1"/>
 </OBJ>-->
-<OBJ id="48768" text="the [%game teamab] slugger has a single and a run driven in...">
+<OBJ id="48768" text="這位 [%game teamab] 的強打今天有一支一壘安打和一分打點...">
 <COND id="308" value="0"/>
 <COND id="292" value="1"/>
 <COND id="302" value="0"/>
@@ -141404,7 +141404,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="291" value="3"/>
 <COND id="289" value="3"/>
 </OBJ>-->
-<OBJ id="48810" text="he's red hot, going [%batting h] for [%batting ab]...">
+<OBJ id="48810" text="他手感火燙，[%batting ab] 打數 [%batting h] 安打...">
 <COND id="291" value="3"/>
 <COND id="289" value="3"/>
 </OBJ><!--
@@ -141420,14 +141420,14 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="291" value="3"/>
 <COND id="289" value="3"/>
 </OBJ>-->
-<OBJ id="48814" text="he has [%batting h word] -- a double --(nl)[%batting r word] and [%batting rbi word]...">
+<OBJ id="48814" text="他今天 [%batting h word] —— 是一支二壘安打 ——(nl)另有 [%batting r word] 和 [%batting rbi word]...">
 <COND id="291" value="1"/>
 <COND id="303" value="1"/>
 <COND id="218" value="1"/>
 <COND id="292" value="1"/>
 <COND id="297" value="1"/>
 </OBJ>
-<OBJ id="48815" text="he has [%batting h word] -- a triple --(nl)[%batting r word] and [%batting rbi word]...">
+<OBJ id="48815" text="他今天 [%batting h word] —— 是一支三壘安打 ——(nl)另有 [%batting r word] 和 [%batting rbi word]...">
 <COND id="291" value="1"/>
 <COND id="303" value="1"/>
 <COND id="218" value="1"/>
@@ -141449,7 +141449,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <OBJ id="48831" only_once_per_x2="1" text="hitless in this ballgame...">
 <COND id="292" value="0"/>
 </OBJ>-->
-<OBJ id="48851" text="[%batting ab] at-bats for [%game batter first name]...(nl)and he's got a double...">
+<OBJ id="48851" text="[%game batter first name] 今天 [%batting ab] 個打數...(nl)敲出一支二壘安打...">
 <COND id="308" value="0"/>
 <COND id="292" value="1"/>
 <COND id="302" value="0"/>
@@ -141489,7 +141489,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="301" value="1"/>
 <COND id="305" value="1"/>
 </OBJ>-->
-<OBJ id="48855" text="he's been on base all three trips...">
+<OBJ id="48855" text="他今天三次打擊全部上壘...">
 <COND id="292" value="1"/>
 <COND id="289" value="1"/>
 <COND id="290" value="1"/>
@@ -141497,7 +141497,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="291" value="1"/>
 <COND id="308" value="2"/>
 </OBJ>
-<OBJ id="48856" text="he's been on base all three times...">
+<OBJ id="48856" text="他今天三次打擊全部上壘...">
 <COND id="292" value="1"/>
 <COND id="289" value="2"/>
 <COND id="290" value="2"/>
@@ -141505,7 +141505,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="291" value="1"/>
 <COND id="308" value="2"/>
 </OBJ>
-<OBJ id="48857" text="he's been on base all three times...">
+<OBJ id="48857" text="他今天三次打擊全部上壘...">
 <COND id="292" value="2"/>
 <COND id="289" value="2"/>
 <COND id="290" value="2"/>
@@ -141513,7 +141513,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="291" value="2"/>
 <COND id="308" value="1"/>
 </OBJ>
-<OBJ id="48858" text="he's been on base all four times up...">
+<OBJ id="48858" text="他今天四次打擊全部上壘...">
 <COND id="292" value="2"/>
 <COND id="289" value="2"/>
 <COND id="290" value="2"/>
@@ -141521,7 +141521,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="291" value="2"/>
 <COND id="308" value="2"/>
 </OBJ>
-<OBJ id="48859" text="he's reached base all four times...">
+<OBJ id="48859" text="他今天四次打擊全部上壘...">
 <COND id="292" value="3"/>
 <COND id="289" value="3"/>
 <COND id="290" value="3"/>
@@ -141529,13 +141529,13 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="291" value="3"/>
 <COND id="308" value="1"/>
 </OBJ>
-<OBJ id="48860" text="[%batting h] for [%batting ab] in the game...">
+<OBJ id="48860" text="本場 [%batting ab] 打數 [%batting h] 安打...">
 <COND id="194" value="0"/>
 <COND id="288" value="0"/>
 <COND id="289" value="2"/>
 <COND id="291" value="1"/>
 </OBJ>
-<OBJ id="48861" text="he's a robust [%batting h] for [%batting ab]...">
+<OBJ id="48861" text="他表現強勢，[%batting ab] 打數 [%batting h] 安打...">
 <COND id="288" value="0"/>
 <COND id="194" value="0"/>
 <COND id="289" value="3"/>
@@ -141556,11 +141556,11 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="308" value="2"/>
 <COND id="292" value="0"/>
 </OBJ>-->
-<OBJ id="48936" text="[%batting bb] walks in [%batting pa] plate appearances...">
+<OBJ id="48936" text="[%batting pa] 個打席選到 [%batting bb] 次保送...">
 <COND id="302" value="3"/>
 <COND id="292" value="0"/>
 </OBJ>
-<OBJ id="48937" text="he's picked up [%batting bb] bases on balls...">
+<OBJ id="48937" text="他今天選到 [%batting bb] 次四壞保送...">
 <COND id="302" value="2"/>
 <COND id="292" value="0"/>
 </OBJ><!--
@@ -141572,7 +141572,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="288" value="2"/>
 <COND id="194" value="2"/>
 </OBJ>-->
-<OBJ id="49122" text="the [%game teamdef nick] have retired him...(nl)each of his [%batting ab] at-bats...">
+<OBJ id="49122" text="[%game teamdef nick] 今天把他完全解決...(nl)他 [%batting ab] 個打數全被解決...">
 <COND id="292" value="0"/>
 <COND id="289" value="4"/>
 <COND id="308" value="0"/>
@@ -141603,7 +141603,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="295" value="1"/>
 <COND id="289" value="4"/>
 </OBJ>-->
-<OBJ id="49128" text="[%batting h] for [%batting ab] with a home run...">
+<OBJ id="49128" text="[%batting ab] 打數 [%batting h] 安打，其中一發全壘打...">
 <COND id="194" value="1"/>
 <COND id="288" value="1"/>
 <COND id="289" value="2"/>
@@ -141618,7 +141618,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="301" value="0"/>
 <COND id="298" value="0"/>
 </OBJ>
-<OBJ id="49129" text="[%batting h] for [%batting ab] with a walk and a home run...">
+<OBJ id="49129" text="[%batting ab] 打數 [%batting h] 安打，另有一次保送和一發全壘打...">
 <COND id="194" value="1"/>
 <COND id="288" value="1"/>
 <COND id="289" value="2"/>
@@ -141634,7 +141634,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="298" value="0"/>
 <COND id="291" value="1"/>
 </OBJ>
-<OBJ id="49130" text="[%batting h] for [%batting ab] with [%batting bb word] and a home run...">
+<OBJ id="49130" text="[%batting ab] 打數 [%batting h] 安打，另有 [%batting bb word] 和一發全壘打...">
 <COND id="194" value="1"/>
 <COND id="288" value="1"/>
 <COND id="289" value="2"/>
@@ -141650,7 +141650,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="298" value="0"/>
 <COND id="291" value="1"/>
 </OBJ>
-<OBJ id="49131" text="[%batting h] for [%batting ab]...(nl)with [%batting bb word], a single, and a home run...">
+<OBJ id="49131" text="[%batting ab] 打數 [%batting h] 安打...(nl)另有 [%batting bb word]、一支一壘安打和一發全壘打...">
 <COND id="194" value="1"/>
 <COND id="288" value="1"/>
 <COND id="289" value="2"/>
@@ -141667,7 +141667,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="291" value="2"/>
 <COND id="218" value="1"/>
 </OBJ>
-<OBJ id="49132" text="[%batting h] for [%batting ab]...(nl)with [%batting bb word] and [%batting s word]...">
+<OBJ id="49132" text="[%batting ab] 打數 [%batting h] 安打...(nl)另有 [%batting bb word] 和 [%batting s word]...">
 <COND id="194" value="0"/>
 <COND id="288" value="0"/>
 <COND id="289" value="2"/>
@@ -141684,7 +141684,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="291" value="1"/>
 <COND id="218" value="0"/>
 </OBJ>
-<OBJ id="49133" text="[%batting h] for [%batting ab] with [%batting d word] and [%batting s word]...">
+<OBJ id="49133" text="[%batting ab] 打數 [%batting h] 安打，其中 [%batting d word] 和 [%batting s word]...">
 <COND id="194" value="0"/>
 <COND id="288" value="0"/>
 <COND id="289" value="2"/>
@@ -141701,7 +141701,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="291" value="2"/>
 <COND id="218" value="0"/>
 </OBJ>
-<OBJ id="49134" text="[%batting h] for [%batting ab] with [%batting t word] and [%batting s word]...">
+<OBJ id="49134" text="[%batting ab] 打數 [%batting h] 安打，其中 [%batting t word] 和 [%batting s word]...">
 <COND id="194" value="0"/>
 <COND id="288" value="0"/>
 <COND id="289" value="2"/>
@@ -141718,7 +141718,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="291" value="2"/>
 <COND id="218" value="0"/>
 </OBJ>
-<OBJ id="49135" text="[%batting h] for [%batting ab] with [%batting t word] and [%batting d word]...">
+<OBJ id="49135" text="[%batting ab] 打數 [%batting h] 安打，其中 [%batting t word] 和 [%batting d word]...">
 <COND id="194" value="0"/>
 <COND id="288" value="0"/>
 <COND id="289" value="2"/>
@@ -141735,7 +141735,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="291" value="2"/>
 <COND id="218" value="0"/>
 </OBJ>
-<OBJ id="49136" text="[%batting h] for [%batting ab] with [%batting hr word] and [%batting d word]...">
+<OBJ id="49136" text="[%batting ab] 打數 [%batting h] 安打，其中 [%batting hr word] 和 [%batting d word]...">
 <COND id="194" value="1"/>
 <COND id="288" value="4"/>
 <COND id="289" value="2"/>
@@ -141769,7 +141769,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="291" value="2"/>
 <COND id="218" value="0"/>
 </OBJ>-->
-<OBJ id="49138" text="[%batting h] for [%batting ab] with [%batting r word] scored and [%batting rbi word]...">
+<OBJ id="49138" text="[%batting ab] 打數 [%batting h] 安打，另有 [%batting r word] 得分和 [%batting rbi word]...">
 <COND id="194" value="0"/>
 <COND id="288" value="0"/>
 <COND id="289" value="2"/>
@@ -141808,7 +141808,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <OBJ id="49219" text="[%batting ab]打數 [%batting h]安打...">
 <COND id="288" value="0"/>
 </OBJ>
-<OBJ id="49220" text="[%game batter first name] is [%batting h] for [%batting ab]...">
+<OBJ id="49220" text="[%game batter first name] 今天 [%batting ab] 打數 [%batting h] 安打...">
 <COND id="288" value="0"/>
 <COND id="289" value="2"/>
 </OBJ><!--
@@ -141877,7 +141877,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="295" value="0"/>
 <COND id="294" value="0"/>
 </OBJ>-->
-<OBJ id="49236" text="he's had a [%batting h] for [%batting ab] game so far[%batting with]">
+<OBJ id="49236" text="他今天到目前為止 [%batting ab] 打數 [%batting h] 安打[%batting with]">
 <COND id="288" value="1"/>
 <COND id="295" value="0"/>
 <COND id="294" value="0"/>
@@ -141974,7 +141974,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <OBJ id="55433" text="[%game batter first name] so far is [%batting h] for [%batting ab]...">
 <COND id="288" value="0"/>
 </OBJ>-->
-<OBJ id="55625" text="he's hit into [%batting gdp] double plays this season...">
+<OBJ id="55625" text="他本季已經打進 [%batting gdp] 次雙殺打...">
 <COND id="208" value="81"/>
 <COND id="83" value="-1"/>
 <COND id="84" value="1"/>
@@ -141982,7 +141982,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="82" value="1"/>
 <COND id="50" value="1"/>
 </OBJ>
-<OBJ id="55626" text="this year he's grounded into [%batting gdp] double plays...">
+<OBJ id="55626" text="他今年已經擊出 [%batting gdp] 次滾地雙殺打...">
 <COND id="50" value="1"/>
 <COND id="82" value="1"/>
 <COND id="69" value="1"/>
@@ -141991,7 +141991,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="208" value="81"/>
 <MUTEX1 dont_use_id="55625"/>
 </OBJ>
-<OBJ id="55627" text="he has [%batting sf word] to his credit this season...">
+<OBJ id="55627" text="他本季已經有 [%batting sf word] 進帳...">
 <COND id="50" value="1"/>
 <COND id="82" value="1"/>
 <COND id="69" value="1"/>
@@ -141999,7 +141999,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="83" value="-1"/>
 <COND id="208" value="54"/>
 </OBJ>
-<OBJ id="55628" text="he has produced [%batting sf word] this season...">
+<OBJ id="55628" text="他本季已經打出 [%batting sf word]...">
 <COND id="50" value="1"/>
 <COND id="82" value="1"/>
 <COND id="73" value="1"/>
@@ -142008,28 +142008,28 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="208" value="54"/>
 <MUTEX1 dont_use_id="55627"/>
 </OBJ>
-<OBJ id="55629" text="[%personnickname] is hitless so far...">
+<OBJ id="55629" text="[%personnickname] 今天還沒有安打...">
 <COND id="292" value="0"/>
 <COND id="395" value="1"/>
 </OBJ>
-<OBJ id="55630" text="[%personnickname] has homered twice...">
+<OBJ id="55630" text="[%personnickname] 今天已經開轟兩發...">
 <COND id="288" value="2"/>
 <COND id="194" value="2"/>
 <COND id="395" value="1"/>
 </OBJ>
-<OBJ id="55631" text="[%personnickname] has walked twice...">
+<OBJ id="55631" text="[%personnickname] 今天選到兩次保送...">
 <COND id="302" value="2"/>
 <COND id="308" value="2"/>
 <COND id="292" value="0"/>
 <COND id="395" value="1"/>
 </OBJ>
-<OBJ id="55632" text="[%personnickname] is [%batting h] for [%batting ab][%batting with]">
+<OBJ id="55632" text="[%personnickname] 今天 [%batting ab] 打數 [%batting h] 安打[%batting with]">
 <COND id="288" value="1"/>
 <COND id="295" value="0"/>
 <COND id="294" value="0"/>
 <COND id="395" value="1"/>
 </OBJ>
-<OBJ id="55633" text="[%personnickname] has singled and driven in a run...">
+<OBJ id="55633" text="[%personnickname] 今天敲出一壘安打並送回一分...">
 <COND id="308" value="0"/>
 <COND id="292" value="1"/>
 <COND id="302" value="0"/>
@@ -142041,7 +142041,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="218" value="1"/>
 <COND id="395" value="1"/>
 </OBJ>
-<OBJ id="55634" text="[%personnickname] has a double and [%batting rbi word]...">
+<OBJ id="55634" text="[%personnickname] 今天有一支二壘安打和 [%batting rbi word]...">
 <COND id="308" value="0"/>
 <COND id="292" value="1"/>
 <COND id="302" value="0"/>
@@ -142062,7 +142062,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="292" value="0"/>
 <COND id="395" value="1"/>
 </OBJ>-->
-<OBJ id="55690" text="[%personnickname] has reached base three times...">
+<OBJ id="55690" text="[%personnickname] 今天三度上壘...">
 <COND id="292" value="2"/>
 <COND id="289" value="2"/>
 <COND id="290" value="2"/>
@@ -142071,7 +142071,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="308" value="1"/>
 <COND id="395" value="1"/>
 </OBJ>
-<OBJ id="55691" text="[%personnickname] has singled and scored a run...">
+<OBJ id="55691" text="[%personnickname] 今天敲出一壘安打並跑回一分...">
 <COND id="308" value="0"/>
 <COND id="292" value="1"/>
 <COND id="302" value="0"/>
@@ -142084,7 +142084,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="304" value="1"/>
 <COND id="395" value="1"/>
 </OBJ>
-<OBJ id="55692" text="[%personnickname] has singled twice...">
+<OBJ id="55692" text="[%personnickname] 今天敲出兩支一壘安打...">
 <COND id="308" value="0"/>
 <COND id="292" value="2"/>
 <COND id="302" value="0"/>
@@ -142094,7 +142094,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="305" value="2"/>
 <COND id="395" value="1"/>
 </OBJ>
-<OBJ id="55693" text="[%personnickname] has a double in [%batting pa] trips...">
+<OBJ id="55693" text="[%personnickname] [%batting pa] 次打擊敲出一支二壘安打...">
 <COND id="292" value="1"/>
 <COND id="308" value="0"/>
 <COND id="302" value="0"/>
@@ -142104,7 +142104,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="395" value="1"/>
 <COND id="309" value="0"/>
 </OBJ>
-<OBJ id="55694" text="this season he's hit into [%batting gdp] double plays...">
+<OBJ id="55694" text="他本季已經打進 [%batting gdp] 次雙殺打...">
 <COND id="208" value="81"/>
 <COND id="83" value="-1"/>
 <COND id="84" value="1"/>
@@ -142113,7 +142113,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="47" value="1"/>
 <COND id="21" value="2"/>
 </OBJ>
-<OBJ id="55695" text="he's a double play candidate...">
+<OBJ id="55695" text="他是容易被雙殺的打者...">
 <COND id="83" value="-1"/>
 <COND id="84" value="1"/>
 <COND id="69" value="1"/>
@@ -142121,7 +142121,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="47" value="1"/>
 <COND id="21" value="2"/>
 </OBJ>
-<OBJ id="55696" text="he's a double play candidate...">
+<OBJ id="55696" text="他是容易被雙殺的打者...">
 <COND id="83" value="-1"/>
 <COND id="84" value="1"/>
 <COND id="69" value="1"/>
@@ -142130,7 +142130,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="21" value="2"/>
 <MUTEX1 dont_use_id="55695"/>
 </OBJ>
-<OBJ id="55697" text="he's not a double play candidate...">
+<OBJ id="55697" text="他不太容易被雙殺...">
 <COND id="83" value="-1"/>
 <COND id="84" value="1"/>
 <COND id="69" value="1"/>
@@ -142139,7 +142139,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="47" value="1"/>
 <MUTEX1 dont_use_id="55695"/>
 </OBJ>
-<OBJ id="55698" text="hard to double him up...">
+<OBJ id="55698" text="要讓他打成雙殺不容易...">
 <COND id="83" value="-1"/>
 <COND id="84" value="1"/>
 <COND id="69" value="1"/>
@@ -142148,7 +142148,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="50" value="1"/>
 <MUTEX1 dont_use_id="55695"/>
 </OBJ>
-<OBJ id="55760" text="he's singled and driven in a run...(nl)the game's only run...">
+<OBJ id="55760" text="他敲出一壘安打並送回一分...(nl)那是這場比賽唯一的分數...">
 <COND id="308" value="0"/>
 <COND id="292" value="1"/>
 <COND id="302" value="0"/>
@@ -142161,7 +142161,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="403" value="0"/>
 <COND id="401" value="1"/>
 </OBJ>
-<OBJ id="55761" text="he's singled...(nl)and driven in the game's only run...">
+<OBJ id="55761" text="他敲出一壘安打...(nl)送回這場比賽唯一的分數...">
 <COND id="292" value="1"/>
 <COND id="302" value="0"/>
 <COND id="291" value="1"/>
@@ -142171,7 +142171,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="403" value="0"/>
 <COND id="401" value="1"/>
 </OBJ>
-<OBJ id="55762" text="his solo homer is the game's only run...">
+<OBJ id="55762" text="他的陽春全壘打是這場比賽唯一的分數...">
 <COND id="308" value="0"/>
 <COND id="292" value="1"/>
 <COND id="302" value="0"/>
@@ -142186,7 +142186,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="194" value="1"/>
 <COND id="288" value="1"/>
 </OBJ>
-<OBJ id="55763" text="his home run has supplied the only run...(nl)in this 1-0 contest...">
+<OBJ id="55763" text="在這場 1 比 0 的比賽中...(nl)他的全壘打就是唯一的得分...">
 <COND id="302" value="0"/>
 <COND id="291" value="1"/>
 <COND id="289" value="2"/>
@@ -142197,7 +142197,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="194" value="1"/>
 <COND id="288" value="1"/>
 </OBJ>
-<OBJ id="55764" text="his solo home run...(nl)is all the scoring in this game...">
+<OBJ id="55764" text="他的陽春全壘打...(nl)就是這場比賽全部的分數...">
 <COND id="292" value="1"/>
 <COND id="302" value="0"/>
 <COND id="291" value="1"/>
@@ -142223,7 +142223,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="194" value="1"/>
 <COND id="288" value="1"/>
 </OBJ>-->
-<OBJ id="55766" text="he has accounted for all the scoring...(nl)with his two solo home runs...">
+<OBJ id="55766" text="這場比賽的分數全是他一個人包辦的...(nl)靠的是兩發陽春全壘打...">
 <COND id="292" value="2"/>
 <COND id="291" value="2"/>
 <COND id="289" value="2"/>
@@ -142239,12 +142239,12 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="308" value="2"/>
 <COND id="302" value="2"/>
 </OBJ>-->
-<OBJ id="59938" text="he's owned the [%game teamdef nick] today...(nl)driving in [%batting rbi] on [%batting h] hits...">
+<OBJ id="59938" text="他今天完全宰制 [%game teamdef nick]...(nl)[%batting h] 支安打送回 [%batting rbi] 分...">
 <COND id="194" value="1"/>
 <COND id="218" value="4"/>
 <COND id="291" value="3"/>
 </OBJ>
-<OBJ id="62801" text="not a good day at the plate so far...(nl)he's looking for a piece of anything right now...">
+<OBJ id="62801" text="他今天在打擊區過得不太順...(nl)現在只想打中任何一顆球...">
 <COND id="84" value="0"/>
 <COND id="83" value="-5"/>
 <COND id="49" value="1"/>
@@ -142254,7 +142254,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="308" value="0"/>
 <COND id="292" value="0"/>
 </OBJ>
-<OBJ id="62956" text="he's been a Johnny Appleseed today...(nl)just planting singles everywhere...">
+<OBJ id="62956" text="他今天像個到處播種的約翰蘋果籽...(nl)一壘安打滿天開花...">
 <COND id="301" value="4"/>
 <COND id="289" value="4"/>
 </OBJ><!--
@@ -142280,7 +142280,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="194" value="1"/>
 <COND id="288" value="1"/>
 </OBJ>-->
-<OBJ id="62960" text="he's gone [%batting h] for [%batting ab]...(nl)and his stock has risen considerably...">
+<OBJ id="62960" text="他今天 [%batting ab] 打數 [%batting h] 安打...(nl)身價大幅上漲...">
 <COND id="294" value="1"/>
 <COND id="194" value="2"/>
 <COND id="289" value="3"/>
@@ -142288,14 +142288,14 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="469" value="120"/>
 <COND id="11" value="1"/>
 </OBJ>
-<OBJ id="62962" text="he's had a great audition for next season...(nl)going [%batting h] for [%batting ab] with [%batting rbi] RBI...">
+<OBJ id="62962" text="他為下個球季交出了一份漂亮的試鏡成績...(nl)[%batting ab] 打數 [%batting h] 安打，[%batting rbi] 分打點...">
 <COND id="11" value="1"/>
 <COND id="469" value="140"/>
 <COND id="218" value="6"/>
 <COND id="442" value="3"/>
 <COND id="194" value="2"/>
 </OBJ>
-<OBJ id="62964" text="he's [%batting h] for [%batting ab][%batting with](nl)He's had a pretty good day at the office so far...">
+<OBJ id="62964" text="他今天 [%batting ab] 打數 [%batting h] 安打[%batting with](nl)今天上班的表現相當不錯...">
 <COND id="289" value="3"/>
 <COND id="194" value="2"/>
 <COND id="294" value="0"/>
@@ -142307,7 +142307,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="310" value="2"/>
 <COND id="308" value="0"/>
 </OBJ>-->
-<OBJ id="63095" text="terrible day at the plate...(nl)but he has a chance to redeem himself here...">
+<OBJ id="63095" text="今天在打擊區糟透了...(nl)但他現在有機會扳回一城...">
 <COND id="292" value="0"/>
 <COND id="296" value="2"/>
 <COND id="309" value="0"/>
@@ -148480,7 +148480,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="318" value="0"/>
 <COND id="319" value="2"/>
 </OBJ>-->
-<OBJ id="49424" text="[%game lob]...(nl)but [%game teamab] does get a run.">
+<OBJ id="49424" text="[%game lob]...(nl)但 [%game teamab] 還是拿下一分。">
 <COND id="318" value="1"/>
 <COND id="317" value="1"/>
 <COND id="321" value="2"/>
@@ -148489,21 +148489,21 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="317" value="2"/>
 <COND id="327" value="1"/>
 </OBJ>-->
-<OBJ id="49426" text="[%game inning hits] hits but no runs for [%teamname].">
+<OBJ id="49426" text="[%teamname] 敲出 [%game inning hits] 支安打卻沒有得分。">
 <COND id="319" value="2"/>
 <COND id="318" value="0"/>
 </OBJ><!--
 <OBJ id="49427" usage_chance_for_game="4" only_once_per_x2="1" text="[%teamname] pushes [%game inning runs] across the plate.">
 <COND id="317" value="2"/>
 </OBJ>-->
-<OBJ id="49428" text="Double digit runs for [%teamname] in the inning.">
+<OBJ id="49428" text="[%teamname] 這一局得分上看兩位數。">
 <COND id="317" value="10"/>
 </OBJ>
-<OBJ id="49429" text="Double digit runs for the [%teamnickname] in the inning.">
+<OBJ id="49429" text="[%teamnickname] 這一局得分上看兩位數。">
 <COND id="317" value="10"/>
 <COND id="327" value="1"/>
 </OBJ>
-<OBJ id="49430" text="But not before [%game inning runs] score for [%teamname].">
+<OBJ id="49430" text="但在那之前 [%teamname] 已經拿下 [%game inning runs] 分。">
 <COND id="317" value="4"/>
 </OBJ><!--
 <OBJ id="49431" text="But not before [%teamname] scores [%game inning runs] times.">
@@ -148515,7 +148515,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="319" value="1"/>
 <COND id="324" value="0"/>
 </OBJ>
-<OBJ id="49433" text="Nothing across for [%teamname].">
+<OBJ id="49433" text="[%teamname] 這一局掛蛋。">
 <COND id="318" value="0"/>
 <COND id="320" value="0"/>
 <COND id="324" value="0"/>
@@ -148526,45 +148526,45 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="318" value="0"/>
 <COND id="319" value="2"/>
 </OBJ>-->
-<OBJ id="49435" text="One error by [%team#2name] in the inning...(nl)but [%teamname] fails to capitalize.">
+<OBJ id="49435" text="[%team#2name] 這一局出現一次失誤...(nl)但 [%teamname] 沒能把握。">
 <COND id="324" value="1"/>
 <COND id="323" value="1"/>
 <COND id="318" value="0"/>
 <COND id="322" value="1"/>
 </OBJ>
-<OBJ id="49436" text="The [%teamnickname] take advantage of [%game inning errors] errors by [%team#2name]...(nl)to score [%game inning runs] runs.">
+<OBJ id="49436" text="[%teamnickname] 抓住 [%team#2name] 的 [%game inning errors] 次失誤...(nl)拿下 [%game inning runs] 分。">
 <COND id="323" value="2"/>
 <COND id="317" value="2"/>
 <COND id="327" value="1"/>
 </OBJ>
-<OBJ id="49437" text="One error by [%team#2name] in the inning...(nl)as [%teamname] scores [%game inning runs] times.">
+<OBJ id="49437" text="[%team#2name] 這一局出現一次失誤...(nl)[%teamname] 趁機拿下 [%game inning runs] 分。">
 <COND id="324" value="1"/>
 <COND id="323" value="1"/>
 <COND id="317" value="2"/>
 <COND id="320" value="1"/>
 </OBJ>
-<OBJ id="49438" text="[%teamname] capitalizes on [%game inning errors] miscues by [%team#2name]...(nl)to plate [%game inning runs].">
+<OBJ id="49438" text="[%teamname] 把握 [%team#2name] 的 [%game inning errors] 次失誤...(nl)送回 [%game inning runs] 分。">
 <COND id="323" value="2"/>
 <COND id="317" value="1"/>
 <COND id="332" value="0"/>
 </OBJ>
-<OBJ id="49439" text="[%teamname] lights up the scoreboard with [%game inning runs] runs!">
+<OBJ id="49439" text="[%teamname] 一口氣灌進 [%game inning runs] 分！">
 <COND id="317" value="6"/>
 </OBJ>
-<OBJ id="49440" text="The [%teamnickname] light up the scoreboard with [%game inning runs] runs!">
+<OBJ id="49440" text="[%teamnickname] 一口氣灌進 [%game inning runs] 分！">
 <COND id="317" value="6"/>
 <COND id="327" value="1"/>
 </OBJ>
-<OBJ id="49441" text="The [%teamnickname] stun the [%team#2nickname], putting up double digits.">
+<OBJ id="49441" text="[%teamnickname] 打出兩位數得分，讓 [%team#2nickname] 傻眼。">
 <COND id="317" value="10"/>
 <COND id="327" value="1"/>
 <COND id="328" value="1"/>
 </OBJ>
-<OBJ id="49442" text="[%teamname] stagger the [%team#2nickname], putting up double digits.">
+<OBJ id="49442" text="[%teamname] 打出兩位數得分，讓 [%team#2nickname] 站不穩腳步。">
 <COND id="317" value="10"/>
 <COND id="328" value="1"/>
 </OBJ>
-<OBJ id="49443" text="The [%teamnickname] score [%game inning runs] runs on [%game inning hits] hits.">
+<OBJ id="49443" text="[%teamnickname] 靠 [%game inning hits] 支安打拿下 [%game inning runs] 分。">
 <COND id="327" value="1"/>
 <COND id="317" value="2"/>
 <COND id="319" value="2"/>
@@ -148574,7 +148574,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="317" value="2"/>
 <COND id="319" value="2"/>
 </OBJ>-->
-<OBJ id="49445" text="The [%teamnickname] bat around in the inning...(nl)scoring [%game inning runs] times.">
+<OBJ id="49445" text="[%teamnickname] 這一局打完一輪打線...(nl)拿下 [%game inning runs] 分。">
 <COND id="326" value="9"/>
 <COND id="327" value="1"/>
 </OBJ><!--
@@ -148582,14 +148582,14 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="326" value="9"/>
 <COND id="327" value="1"/>
 </OBJ>-->
-<OBJ id="49447" text="One error, but [%teamname] gets nothing.">
+<OBJ id="49447" text="對方出現一次失誤，但 [%teamname] 什麼都沒撈到。">
 <COND id="324" value="1"/>
 <COND id="323" value="1"/>
 <COND id="318" value="0"/>
 <COND id="322" value="1"/>
 <COND id="320" value="0"/>
 </OBJ>
-<OBJ id="49450" text="[%game inning runs] runs on [%game inning hits] hits for [%teamname].">
+<OBJ id="49450" text="[%teamname] [%game inning hits] 支安打拿下 [%game inning runs] 分。">
 <COND id="317" value="2"/>
 <COND id="319" value="2"/>
 </OBJ><!--
@@ -148598,7 +148598,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="317" value="1"/>
 <COND id="327" value="1"/>
 </OBJ>-->
-<OBJ id="49453" text="[%game lob]...(nl)but [%teamname] scores a run.">
+<OBJ id="49453" text="[%game lob]...(nl)但 [%teamname] 還是拿下一分。">
 <COND id="318" value="1"/>
 <COND id="317" value="1"/>
 </OBJ><!--
@@ -148606,7 +148606,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="321" value="3"/>
 <COND id="318" value="0"/>
 </OBJ>-->
-<OBJ id="49455" text="[%game pitcher] gets out of a bases-loaded jam...(nl)as [%teamname] squanders a chance to score.">
+<OBJ id="49455" text="[%game pitcher] 化解滿壘危機...(nl)[%teamname] 白白浪費了得分機會。">
 <COND id="318" value="0"/>
 <COND id="321" value="3"/>
 <COND id="84" value="3"/>
@@ -148643,7 +148643,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="318" value="0"/>
 <COND id="319" value="2"/>
 </OBJ>-->
-<OBJ id="49495" text="Despite getting [%game inning hits] hits, [%game teamab] does not score.">
+<OBJ id="49495" text="雖然敲出 [%game inning hits] 支安打，[%game teamab] 還是沒有得分。">
 <COND id="318" value="0"/>
 <COND id="319" value="3"/>
 </OBJ><!--
@@ -148660,7 +148660,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="317" value="1"/>
 <COND id="321" value="2"/>
 </OBJ>-->
-<OBJ id="49499" text="The [%teamnickname] bat around and score [%game inning runs] times.">
+<OBJ id="49499" text="[%teamnickname] 打完一輪打線，拿下 [%game inning runs] 分。">
 <COND id="317" value="2"/>
 <COND id="327" value="1"/>
 <COND id="326" value="9"/>
@@ -148672,7 +148672,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="326" value="9"/>
 <COND id="325" value="10"/>
 </OBJ>-->
-<OBJ id="49501" text="[%game inning runs] runs score for [%teamname].">
+<OBJ id="49501" text="[%teamname] 拿下 [%game inning runs] 分。">
 <COND id="317" value="2"/>
 </OBJ>
 <OBJ id="49502" text="沒得分, 2安打, 沒失誤...(nl)[%game lob].">
@@ -148712,21 +148712,21 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="317" value="6"/>
 <COND id="327" value="1"/>
 </OBJ>-->
-<OBJ id="49508" text="The [%teamnickname] score [%game inning runs] runs on [%game inning hits] hits and leave one.">
+<OBJ id="49508" text="[%teamnickname] [%game inning hits] 支安打拿下 [%game inning runs] 分，殘壘一人。">
 <COND id="327" value="1"/>
 <COND id="317" value="2"/>
 <COND id="319" value="2"/>
 <COND id="321" value="1"/>
 <COND id="322" value="1"/>
 </OBJ>
-<OBJ id="49509" text="The [%teamnickname] score [%game inning runs] runs on [%game inning hits] hits and leave two.">
+<OBJ id="49509" text="[%teamnickname] [%game inning hits] 支安打拿下 [%game inning runs] 分，殘壘兩人。">
 <COND id="327" value="1"/>
 <COND id="317" value="2"/>
 <COND id="319" value="2"/>
 <COND id="321" value="2"/>
 <COND id="322" value="2"/>
 </OBJ>
-<OBJ id="49510" text="The [%teamnickname] load the bases and fail to score.">
+<OBJ id="49510" text="[%teamnickname] 攻佔滿壘卻沒能得分。">
 <COND id="321" value="3"/>
 <COND id="318" value="0"/>
 <COND id="327" value="1"/>
@@ -148736,7 +148736,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="318" value="0"/>
 <COND id="327" value="1"/>
 </OBJ>-->
-<OBJ id="49512" text="No runs score...(nl)with three stranded.">
+<OBJ id="49512" text="沒有得分...(nl)三人殘壘。">
 <COND id="321" value="3"/>
 <COND id="318" value="0"/>
 </OBJ><!--
@@ -148832,7 +148832,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="322" value="3"/>
 <COND id="321" value="0"/>
 </OBJ>
-<OBJ id="49541" text="[%game inning runs] runs, [%game inning hits] hits, no errors...(nl)[%game lob].">
+<OBJ id="49541" text="[%game inning runs] 分、[%game inning hits] 支安打、無失誤...(nl)[%game lob]。">
 <COND id="318" value="8"/>
 <COND id="320" value="9"/>
 <COND id="319" value="2"/>
@@ -148850,7 +148850,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="321" value="0"/>
 <COND id="317" value="2"/>
 </OBJ>-->
-<OBJ id="49543" text="[%teamname] scores [%game inning runs] runs on [%game inning hits] hits...(nl)no [%team#2name] errors...(nl)with [%game lob].">
+<OBJ id="49543" text="[%teamname] [%game inning hits] 支安打拿下 [%game inning runs] 分...(nl)[%team#2name] 無失誤...(nl)[%game lob]。">
 <COND id="318" value="8"/>
 <COND id="320" value="9"/>
 <COND id="319" value="2"/>
@@ -148883,7 +148883,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="324" value="0"/>
 <COND id="334" value="0"/>
 </OBJ>-->
-<OBJ id="49548" text="The [%teamnickname] go down in order.">
+<OBJ id="49548" text="[%teamnickname] 三上三下。">
 <COND id="325" value="3"/>
 <COND id="327" value="1"/>
 <COND id="334" value="0"/>
@@ -148912,11 +148912,11 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="317" value="6"/>
 <COND id="327" value="1"/>
 </OBJ>-->
-<OBJ id="49556" text="[%teamname] bombards the [%team#2nickname] with [%game inning runs] runs!">
+<OBJ id="49556" text="[%teamname] 對 [%team#2nickname] 猛轟 [%game inning runs] 分！">
 <COND id="317" value="8"/>
 <COND id="328" value="1"/>
 </OBJ>
-<OBJ id="49567" text="The [%teamnickname] send 8 to the plate, scoring [%game inning runs] runs.">
+<OBJ id="49567" text="[%teamnickname] 這一局送上 8 名打者，拿下 [%game inning runs] 分。">
 <COND id="317" value="2"/>
 <COND id="327" value="1"/>
 <COND id="326" value="8"/>
@@ -148928,31 +148928,31 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="326" value="8"/>
 <COND id="325" value="8"/>
 </OBJ>-->
-<OBJ id="49569" text="Nine men bat for [%teamname]...(nl)with [%game inning runs] of them coming around to score.">
+<OBJ id="49569" text="[%teamname] 這一局有九人上場打擊...(nl)其中 [%game inning runs] 人跑回本壘得分。">
 <COND id="317" value="2"/>
 <COND id="326" value="9"/>
 <COND id="325" value="9"/>
 </OBJ>
-<OBJ id="49594" text="3 men up, 3 men down for [%teamname].">
+<OBJ id="49594" text="[%teamname] 三上三下。">
 <COND id="325" value="3"/>
 <COND id="320" value="0"/>
 <COND id="324" value="0"/>
 <COND id="316" value="0"/>
 <COND id="334" value="0"/>
 </OBJ>
-<OBJ id="49601" text="The [%teamnickname] send 11 to the plate...(nl)scoring [%game inning runs] runs on [%game inning hits] hits.">
+<OBJ id="49601" text="[%teamnickname] 這一局送上 11 名打者...(nl)[%game inning hits] 支安打拿下 [%game inning runs] 分。">
 <COND id="317" value="2"/>
 <COND id="327" value="1"/>
 <COND id="326" value="11"/>
 <COND id="325" value="11"/>
 </OBJ>
-<OBJ id="49602" text="The [%teamnickname] send 12 to the plate...(nl)scoring [%game inning runs] runs on [%game inning hits] hits.">
+<OBJ id="49602" text="[%teamnickname] 這一局送上 12 名打者...(nl)[%game inning hits] 支安打拿下 [%game inning runs] 分。">
 <COND id="317" value="2"/>
 <COND id="327" value="1"/>
 <COND id="326" value="12"/>
 <COND id="325" value="12"/>
 </OBJ>
-<OBJ id="49612" text="Nothing on two hits for [%teamname].">
+<OBJ id="49612" text="[%teamname] 敲出兩支安打卻沒有得分。">
 <COND id="318" value="0"/>
 <COND id="320" value="2"/>
 <COND id="319" value="2"/>
@@ -149017,7 +149017,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="317" value="2"/>
 <COND id="323" value="2"/>
 </OBJ>
-<OBJ id="49621" text="[%game inning runs] runs, [%game inning hits] hits, [%game inning errors] errors...(nl)[%game lob].">
+<OBJ id="49621" text="[%game inning runs] 分、[%game inning hits] 支安打、[%game inning errors] 次失誤...(nl)[%game lob]。">
 <COND id="319" value="2"/>
 <COND id="317" value="2"/>
 <COND id="323" value="2"/>
@@ -149028,7 +149028,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="324" value="0"/>
 <COND id="334" value="0"/>
 </OBJ>-->
-<OBJ id="49623" text="[%game inning runs] runs, [%game inning hits] hits, no errors...(nl)three left on base.">
+<OBJ id="49623" text="[%game inning runs] 分、[%game inning hits] 支安打、無失誤...(nl)三人殘壘。">
 <COND id="319" value="2"/>
 <COND id="317" value="2"/>
 <COND id="321" value="3"/>
@@ -149040,14 +149040,14 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="321" value="3"/>
 <COND id="324" value="0"/>
 </OBJ>-->
-<OBJ id="49625" text="one run, [%game inning hits] hits, no errors...(nl)three left on.">
+<OBJ id="49625" text="一分、[%game inning hits] 支安打、無失誤...(nl)三人殘壘。">
 <COND id="319" value="2"/>
 <COND id="317" value="1"/>
 <COND id="321" value="3"/>
 <COND id="324" value="0"/>
 <COND id="318" value="1"/>
 </OBJ>
-<OBJ id="49626" text="[%game inning runs] runs, [%game inning hits] hits, no errors...(nl)three left on.">
+<OBJ id="49626" text="[%game inning runs] 分、[%game inning hits] 支安打、無失誤...(nl)三人殘壘。">
 <COND id="319" value="2"/>
 <COND id="317" value="2"/>
 <COND id="321" value="3"/>
@@ -149058,7 +149058,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="321" value="3"/>
 <COND id="318" value="0"/>
 </OBJ>-->
-<OBJ id="49631" text="The [%teamnickname] get [%game inning runs].">
+<OBJ id="49631" text="[%teamnickname] 拿下 [%game inning runs] 分。">
 <COND id="317" value="2"/>
 <COND id="327" value="1"/>
 </OBJ><!--
@@ -149070,14 +149070,14 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="317" value="6"/>
 <COND id="327" value="1"/>
 </OBJ>-->
-<OBJ id="49634" text="[%teamname] strikes for [%game inning runs] runs.">
+<OBJ id="49634" text="[%teamname] 一舉攻下 [%game inning runs] 分。">
 <COND id="317" value="5"/>
 <COND id="327" value="1"/>
 </OBJ><!--
 <OBJ id="49635" text="[%teamname] puts [%game inning runs] runs on the board.">
 <COND id="317" value="2"/>
 </OBJ>-->
-<OBJ id="49636" text="Zip for [%teamname].">
+<OBJ id="49636" text="[%teamname] 掛蛋。">
 <COND id="318" value="0"/>
 <COND id="320" value="0"/>
 <COND id="324" value="0"/>
@@ -149147,13 +149147,13 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="318" value="0"/>
 <COND id="320" value="0"/>
 </OBJ>
-<OBJ id="49676" text="[%teamname] capitalizes on an error by [%team#2name] to score 1.">
+<OBJ id="49676" text="[%teamname] 把握 [%team#2name] 的失誤拿下 1 分。">
 <COND id="317" value="1"/>
 <COND id="318" value="1"/>
 <COND id="323" value="1"/>
 <COND id="320" value="0"/>
 </OBJ>
-<OBJ id="49677" text="One run in, but they leave them loaded.">
+<OBJ id="49677" text="拿下一分，但滿壘機會沒能延續。">
 <COND id="318" value="1"/>
 <COND id="317" value="1"/>
 <COND id="321" value="3"/>
@@ -149164,7 +149164,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="320" value="2"/>
 <COND id="319" value="2"/>
 </OBJ>
-<OBJ id="49679" text="[%game inning runners] baserunners in the inning...(nl)but [%teamname] fails to score.">
+<OBJ id="49679" text="這一局有 [%game inning runners] 名跑者上壘...(nl)但 [%teamname] 沒能得分。">
 <COND id="333" value="2"/>
 <COND id="318" value="0"/>
 </OBJ>
@@ -149173,7 +149173,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="318" value="1"/>
 <COND id="322" value="2"/>
 </OBJ>
-<OBJ id="49681" text="The solo shot is all that [%teamname] will get this inning.">
+<OBJ id="49681" text="這一局 [%teamname] 就只靠這發陽春砲拿下分數。">
 <COND id="331" value="1"/>
 <COND id="318" value="1"/>
 </OBJ><!--
@@ -149413,7 +149413,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="329" value="1"/>
 <COND id="321" value="3"/>
 </OBJ>-->
-<OBJ id="49713" text="One run on one hit, [%game inning bb] walks...(nl)[%game lob].">
+<OBJ id="49713" text="一分、一支安打、[%game inning bb] 次保送...(nl)[%game lob]。">
 <COND id="318" value="1"/>
 <COND id="320" value="1"/>
 <COND id="319" value="1"/>
@@ -149422,7 +149422,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="329" value="2"/>
 <COND id="317" value="1"/>
 </OBJ>
-<OBJ id="49714" text="[%game inning runs] runs on [%game inning hits] hits and a walk...(nl)[%game lob].">
+<OBJ id="49714" text="[%game inning hits] 支安打加一次保送拿下 [%game inning runs] 分...(nl)[%game lob]。">
 <COND id="318" value="8"/>
 <COND id="320" value="8"/>
 <COND id="319" value="2"/>
@@ -149431,7 +149431,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="329" value="1"/>
 <COND id="317" value="2"/>
 </OBJ>
-<OBJ id="49715" text="[%game inning runs] runs on [%game inning hits] hits and [%game inning bb] walks...(nl)[%game lob].">
+<OBJ id="49715" text="[%game inning hits] 支安打加 [%game inning bb] 次保送拿下 [%game inning runs] 分...(nl)[%game lob]。">
 <COND id="318" value="8"/>
 <COND id="320" value="8"/>
 <COND id="319" value="2"/>
@@ -149440,7 +149440,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="329" value="2"/>
 <COND id="317" value="2"/>
 </OBJ>
-<OBJ id="49716" text="No runs on one error and one walk...(nl)[%game lob].">
+<OBJ id="49716" text="一次失誤、一次保送，沒有得分...(nl)[%game lob]。">
 <COND id="318" value="0"/>
 <COND id="320" value="0"/>
 <COND id="319" value="0"/>
@@ -149478,7 +149478,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="331" value="1"/>
 <COND id="318" value="1"/>
 </OBJ>-->
-<OBJ id="49723" text="[%game inning runs] runs on [%game inning hits] hits --(nl)including a home run --(nl)with [%game lob].">
+<OBJ id="49723" text="[%game inning hits] 支安打拿下 [%game inning runs] 分 ——(nl)其中包含一發全壘打 ——(nl)[%game lob]。">
 <COND id="318" value="11"/>
 <COND id="320" value="11"/>
 <COND id="319" value="2"/>
@@ -149488,7 +149488,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="332" value="1"/>
 <COND id="322" value="2"/>
 </OBJ>
-<OBJ id="49724" text="[%game inning runs] runs on one hit -- a home run --(nl)[%game lob].">
+<OBJ id="49724" text="一支安打拿下 [%game inning runs] 分 —— 那是一發全壘打 ——(nl)[%game lob]。">
 <COND id="318" value="11"/>
 <COND id="320" value="1"/>
 <COND id="319" value="1"/>
@@ -149506,7 +149506,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="331" value="1"/>
 <COND id="332" value="1"/>
 </OBJ>-->
-<OBJ id="49726" text="[%game inning runs] runs on [%game inning hits] hits --(nl)one of them a home run --(nl)one error...(nl)[%game lob].">
+<OBJ id="49726" text="[%game inning hits] 支安打拿下 [%game inning runs] 分 ——(nl)其中一支是全壘打 ——(nl)一次失誤...(nl)[%game lob]。">
 <COND id="318" value="11"/>
 <COND id="320" value="11"/>
 <COND id="319" value="2"/>
@@ -149516,7 +149516,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="332" value="1"/>
 <COND id="323" value="1"/>
 </OBJ>
-<OBJ id="49727" text="[%game inning runs] runs on [%game inning hits] hits --(nl)including [%game inning hr] home runs --(nl)[%game lob].">
+<OBJ id="49727" text="[%game inning hits] 支安打拿下 [%game inning runs] 分 ——(nl)其中包含 [%game inning hr] 發全壘打 ——(nl)[%game lob]。">
 <COND id="318" value="11"/>
 <COND id="320" value="11"/>
 <COND id="319" value="2"/>
@@ -149524,7 +149524,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="331" value="2"/>
 <COND id="332" value="6"/>
 </OBJ>
-<OBJ id="49728" text="[%game inning runs] runs on [%game inning hits] hits --(nl)one of them a home run --(nl)no errors...(nl)[%game lob].">
+<OBJ id="49728" text="[%game inning hits] 支安打拿下 [%game inning runs] 分 ——(nl)其中一支是全壘打 ——(nl)無失誤...(nl)[%game lob]。">
 <COND id="318" value="11"/>
 <COND id="320" value="11"/>
 <COND id="319" value="2"/>
@@ -149583,7 +149583,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="317" value="1"/>
 <COND id="323" value="1"/>
 </OBJ>-->
-<OBJ id="49738" text="[%game inning runs] runs on [%game inning hits] base hits, including a homer...(nl)one error...(nl)[%game lob].">
+<OBJ id="49738" text="[%game inning hits] 支安打拿下 [%game inning runs] 分，其中包含一發全壘打...(nl)一次失誤...(nl)[%game lob]。">
 <COND id="319" value="2"/>
 <COND id="324" value="1"/>
 <COND id="317" value="2"/>
@@ -149601,7 +149601,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <OBJ id="49753" text="But [%teamname] scores [%game inning runs] runs.">
 <COND id="317" value="4"/>
 </OBJ>-->
-<OBJ id="49754" text="But [%teamname] scores [%game inning runs] times.">
+<OBJ id="49754" text="但 [%teamname] 拿下 [%game inning runs] 分。">
 <COND id="317" value="3"/>
 </OBJ><!--
 <OBJ id="49755" usage_chance_for_game="2" only_once_per_x2="1" text="But [%teamname] tallies [%game inning runs] runs.">
@@ -149633,7 +149633,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="322" value="1"/>
 <COND id="320" value="0"/>
 </OBJ>-->
-<OBJ id="49762" text="The [%teamnickname] get nothing...(nl)despite the [%team#2name] error.">
+<OBJ id="49762" text="[%teamnickname] 什麼也沒撈到...(nl)儘管 [%team#2name] 出現失誤。">
 <COND id="324" value="1"/>
 <COND id="323" value="1"/>
 <COND id="318" value="0"/>
@@ -149641,7 +149641,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="320" value="0"/>
 <COND id="327" value="1"/>
 </OBJ>
-<OBJ id="49763" text="The [%teamnickname] get nothing...(nl)despite the [%team#2name] miscue.">
+<OBJ id="49763" text="[%teamnickname] 什麼也沒撈到...(nl)儘管 [%team#2name] 有守備瑕疵。">
 <COND id="324" value="1"/>
 <COND id="323" value="1"/>
 <COND id="318" value="0"/>
@@ -149656,11 +149656,11 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="322" value="1"/>
 <COND id="320" value="0"/>
 </OBJ>-->
-<OBJ id="49765" text="[%teamname] pounces on [%game inning errors] errors by [%team#2name]...(nl)and scores [%game inning runs] runs.">
+<OBJ id="49765" text="[%teamname] 抓住 [%team#2name] 的 [%game inning errors] 次失誤...(nl)拿下 [%game inning runs] 分。">
 <COND id="323" value="2"/>
 <COND id="317" value="1"/>
 </OBJ>
-<OBJ id="49766" text="One error by the [%team#2nickname]...(nl)but the [%teamnickname] cannot capitalize.">
+<OBJ id="49766" text="[%team#2nickname] 出現一次失誤...(nl)但 [%teamnickname] 沒能把握。">
 <COND id="324" value="1"/>
 <COND id="323" value="1"/>
 <COND id="318" value="0"/>
@@ -149670,7 +149670,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="320" value="0"/>
 <COND id="330" value="0"/>
 </OBJ>
-<OBJ id="49767" text="One error by the [%team#2nickname]...(nl)but the [%teamnickname] can't cash in.">
+<OBJ id="49767" text="[%team#2nickname] 出現一次失誤...(nl)但 [%teamnickname] 沒能得分。">
 <COND id="324" value="1"/>
 <COND id="323" value="1"/>
 <COND id="318" value="0"/>
@@ -149688,7 +149688,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="327" value="1"/>
 <COND id="320" value="0"/>
 </OBJ>-->
-<OBJ id="49769" text="One error by the [%team#2nickname]...(nl)but the [%teamnickname] waste the scoring chance.">
+<OBJ id="49769" text="[%team#2nickname] 出現一次失誤...(nl)但 [%teamnickname] 白白浪費了得分機會。">
 <COND id="324" value="1"/>
 <COND id="323" value="1"/>
 <COND id="318" value="0"/>
@@ -149697,7 +149697,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="320" value="2"/>
 <COND id="319" value="1"/>
 </OBJ>
-<OBJ id="49770" text="The [%team#2nickname] give the [%teamnickname] an extra out...(nl)but [%teamname] does not score in the inning.">
+<OBJ id="49770" text="[%team#2nickname] 多送給 [%teamnickname] 一個出局數...(nl)但 [%teamname] 這一局沒有得分。">
 <COND id="324" value="1"/>
 <COND id="323" value="1"/>
 <COND id="318" value="0"/>
@@ -149810,7 +149810,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="321" value="0"/>
 <COND id="323" value="1"/>
 </OBJ>
-<OBJ id="49782" text="[%game inning bb] walks but no runs in the inning...(nl)[%game lob].">
+<OBJ id="49782" text="這一局有 [%game inning bb] 次保送卻沒有得分...(nl)[%game lob]。">
 <COND id="318" value="0"/>
 <COND id="320" value="0"/>
 <COND id="319" value="0"/>
@@ -149862,7 +149862,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="317" value="2"/>
 <COND id="327" value="1"/>
 </OBJ>-->
-<OBJ id="49801" text="[%teamname] has a [%game inning runs]-run inning.">
+<OBJ id="49801" text="[%teamname] 這一局拿下 [%game inning runs] 分。">
 <COND id="317" value="3"/>
 <COND id="327" value="1"/>
 <COND id="318" value="7"/>
@@ -149877,7 +149877,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="324" value="0"/>
 <COND id="334" value="0"/>
 </OBJ>-->
-<OBJ id="49804" text="1-2-3 go the [%teamnickname].">
+<OBJ id="49804" text="[%teamnickname] 三上三下。">
 <COND id="325" value="3"/>
 <COND id="320" value="0"/>
 <COND id="324" value="0"/>
@@ -149909,7 +149909,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="328" value="1"/>
 <COND id="327" value="1"/>
 </OBJ>-->
-<OBJ id="49808" text="One error by the [%team#2nickname]...(nl)but the [%teamnickname] don't cash in.">
+<OBJ id="49808" text="[%team#2nickname] 出現一次失誤...(nl)但 [%teamnickname] 沒能得分。">
 <COND id="324" value="1"/>
 <COND id="323" value="1"/>
 <COND id="318" value="0"/>
@@ -149917,7 +149917,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="328" value="1"/>
 <COND id="327" value="1"/>
 </OBJ>
-<OBJ id="49809" text="The error results in the only baserunner...(nl)but he does not score.">
+<OBJ id="49809" text="那次失誤是這一局唯一的上壘...(nl)但這名跑者沒能回來得分。">
 <COND id="324" value="1"/>
 <COND id="323" value="1"/>
 <COND id="318" value="0"/>
@@ -150028,7 +150028,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="334" value="0"/>
 <COND id="327" value="1"/>
 </OBJ>-->
-<OBJ id="49834" text="Two walks in the inning but nothing more.">
+<OBJ id="49834" text="這一局兩次保送，其他什麼都沒有。">
 <COND id="325" value="5"/>
 <COND id="320" value="0"/>
 <COND id="324" value="0"/>
@@ -150058,7 +150058,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="329" value="2"/>
 <COND id="318" value="0"/>
 </OBJ>-->
-<OBJ id="49837" text="One walk in the inning, but that's it.">
+<OBJ id="49837" text="這一局一次保送，就這樣而已。">
 <COND id="325" value="4"/>
 <COND id="320" value="0"/>
 <COND id="324" value="0"/>
@@ -150098,7 +150098,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="318" value="0"/>
 <COND id="327" value="1"/>
 </OBJ>-->
-<OBJ id="49843" text="[%teamname] gets a hit and a walk but nothing more.">
+<OBJ id="49843" text="[%teamname] 拿到一支安打和一次保送，就沒有然後了。">
 <COND id="325" value="5"/>
 <COND id="320" value="1"/>
 <COND id="324" value="0"/>
@@ -150131,14 +150131,14 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="318" value="0"/>
 <COND id="319" value="1"/>
 </OBJ>-->
-<OBJ id="49846" text="One run, [%game inning hits] hits, no errors...(nl)[%game lob].">
+<OBJ id="49846" text="一分、[%game inning hits] 支安打、無失誤...(nl)[%game lob]。">
 <COND id="318" value="1"/>
 <COND id="320" value="5"/>
 <COND id="319" value="2"/>
 <COND id="324" value="0"/>
 <COND id="317" value="1"/>
 </OBJ>
-<OBJ id="49847" text="The [%teamnickname] get a run on [%game inning hits] hits, no errors...(nl)[%game lob].">
+<OBJ id="49847" text="[%teamnickname] [%game inning hits] 支安打拿下一分，無失誤...(nl)[%game lob]。">
 <COND id="318" value="1"/>
 <COND id="320" value="5"/>
 <COND id="319" value="2"/>
@@ -150170,7 +150170,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="317" value="1"/>
 <COND id="327" value="1"/>
 </OBJ>-->
-<OBJ id="49851" text="The [%teamnickname] score one run on [%game inning hits] hits and a walk...(nl)[%game lob].">
+<OBJ id="49851" text="[%teamnickname] [%game inning hits] 支安打加一次保送拿下一分...(nl)[%game lob]。">
 <COND id="318" value="1"/>
 <COND id="320" value="5"/>
 <COND id="319" value="2"/>
@@ -150195,7 +150195,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="327" value="1"/>
 <COND id="318" value="1"/>
 </OBJ>-->
-<OBJ id="49854" text="The [%teamnickname] pick up a run.">
+<OBJ id="49854" text="[%teamnickname] 拿下一分。">
 <COND id="317" value="1"/>
 <COND id="327" value="1"/>
 <COND id="318" value="1"/>
@@ -150205,7 +150205,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="327" value="1"/>
 <COND id="318" value="1"/>
 </OBJ>-->
-<OBJ id="49856" text="Down in order, [%teamname].">
+<OBJ id="49856" text="[%teamname] 三上三下。">
 <COND id="325" value="3"/>
 <COND id="320" value="0"/>
 <COND id="324" value="0"/>
@@ -150236,7 +150236,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="324" value="0"/>
 <COND id="317" value="1"/>
 </OBJ>-->
-<OBJ id="49879" text="The [%teamnickname] get a run...(nl)on one hit and an error...(nl)[%game lob].">
+<OBJ id="49879" text="[%teamnickname] 拿下一分...(nl)靠的是一支安打加一次失誤...(nl)[%game lob]。">
 <COND id="318" value="1"/>
 <COND id="320" value="1"/>
 <COND id="319" value="1"/>
@@ -150245,7 +150245,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="323" value="1"/>
 <COND id="327" value="1"/>
 </OBJ>
-<OBJ id="49894" text="The [%teamnickname] get a hit but nothing else.">
+<OBJ id="49894" text="[%teamnickname] 只拿到一支安打，沒有其他建樹。">
 <COND id="325" value="4"/>
 <COND id="320" value="1"/>
 <COND id="324" value="0"/>
@@ -150256,7 +150256,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="318" value="0"/>
 <COND id="319" value="1"/>
 </OBJ>
-<OBJ id="49895" text="The [%teamnickname] get a walk but nothing else.">
+<OBJ id="49895" text="[%teamnickname] 只拿到一次保送，沒有其他建樹。">
 <COND id="325" value="4"/>
 <COND id="320" value="0"/>
 <COND id="324" value="0"/>
@@ -150267,7 +150267,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="318" value="0"/>
 <COND id="319" value="0"/>
 </OBJ>
-<OBJ id="49896" text="Nothing across for the [%teamnickname].">
+<OBJ id="49896" text="[%teamnickname] 掛蛋。">
 <COND id="318" value="0"/>
 <COND id="320" value="0"/>
 <COND id="324" value="0"/>
@@ -150306,7 +150306,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="326" value="9"/>
 <COND id="325" value="9"/>
 </OBJ>-->
-<OBJ id="49903" text="[%game inning runs] [%teamname] runs on [%game inning hits] hits...(nl)no errors, [%game lob].">
+<OBJ id="49903" text="[%teamname] [%game inning hits] 支安打拿下 [%game inning runs] 分...(nl)無失誤，[%game lob]。">
 <COND id="319" value="2"/>
 <COND id="324" value="0"/>
 <COND id="317" value="2"/>
@@ -150318,7 +150318,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="84" value="3"/>
 <COND id="83" value="-3"/>
 </OBJ>-->
-<OBJ id="49905" text="[%game pitcher] gets out of a bases-loaded jam...(nl)keeping the [%teamnickname] from scoring.">
+<OBJ id="49905" text="[%game pitcher] 化解滿壘危機...(nl)讓 [%teamnickname] 無法得分。">
 <COND id="318" value="0"/>
 <COND id="321" value="3"/>
 <COND id="84" value="3"/>
@@ -150343,7 +150343,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="84" value="3"/>
 <COND id="83" value="-3"/>
 </OBJ>-->
-<OBJ id="49917" text="The [%teamnickname] score one run...(nl)and it's a big one.">
+<OBJ id="49917" text="[%teamnickname] 拿下一分...(nl)而且是很關鍵的一分。">
 <COND id="327" value="1"/>
 <COND id="318" value="1"/>
 <COND id="84" value="0"/>
@@ -150351,7 +150351,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="317" value="1"/>
 <COND id="82" value="1"/>
 </OBJ>
-<OBJ id="49918" text="The [%teamnickname] score one on a clutch home run.">
+<OBJ id="49918" text="[%teamnickname] 靠一發關鍵全壘打拿下一分。">
 <COND id="327" value="1"/>
 <COND id="318" value="1"/>
 <COND id="84" value="0"/>
@@ -150381,14 +150381,14 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="331" value="1"/>
 <COND id="332" value="1"/>
 </OBJ>-->
-<OBJ id="49921" text="The [%teamnickname] score one on a solo jack.">
+<OBJ id="49921" text="[%teamnickname] 靠一發陽春砲拿下一分。">
 <COND id="327" value="1"/>
 <COND id="318" value="1"/>
 <COND id="317" value="1"/>
 <COND id="331" value="1"/>
 <COND id="332" value="1"/>
 </OBJ>
-<OBJ id="49924" text="The [%teamnickname] get a deuce.">
+<OBJ id="49924" text="[%teamnickname] 拿下兩分。">
 <COND id="318" value="2"/>
 <COND id="324" value="0"/>
 <COND id="317" value="2"/>
@@ -150400,7 +150400,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="327" value="1"/>
 <COND id="317" value="2"/>
 </OBJ>-->
-<OBJ id="49926" text="[%game inning runs] runs on [%game inning hits] hits --(nl)including [%game inning hr] home runs --(nl)with [%game lob].">
+<OBJ id="49926" text="[%game inning hits] 支安打拿下 [%game inning runs] 分 ——(nl)其中包含 [%game inning hr] 發全壘打 ——(nl)[%game lob]。">
 <COND id="318" value="11"/>
 <COND id="320" value="11"/>
 <COND id="319" value="2"/>
@@ -150410,21 +150410,21 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="332" value="2"/>
 <COND id="322" value="2"/>
 </OBJ>
-<OBJ id="49927" text="The [%teamnickname] get two solo home runs.">
+<OBJ id="49927" text="[%teamnickname] 敲出兩發陽春全壘打。">
 <COND id="327" value="1"/>
 <COND id="318" value="2"/>
 <COND id="317" value="2"/>
 <COND id="331" value="2"/>
 <COND id="332" value="2"/>
 </OBJ>
-<OBJ id="49928" text="The [%teamnickname] belt three home runs...(nl)all of them solo.">
+<OBJ id="49928" text="[%teamnickname] 轟出三發全壘打...(nl)全部都是陽春砲。">
 <COND id="327" value="1"/>
 <COND id="318" value="3"/>
 <COND id="317" value="3"/>
 <COND id="331" value="3"/>
 <COND id="332" value="3"/>
 </OBJ>
-<OBJ id="49929" text="The [%teamnickname] belt three home runs...(nl)and score [%game inning runs] times.">
+<OBJ id="49929" text="[%teamnickname] 轟出三發全壘打...(nl)拿下 [%game inning runs] 分。">
 <COND id="327" value="1"/>
 <COND id="318" value="11"/>
 <COND id="317" value="4"/>
@@ -150438,7 +150438,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="331" value="3"/>
 <COND id="332" value="3"/>
 </OBJ>-->
-<OBJ id="49931" text="The [%teamnickname] hit two homers...(nl)and score [%game inning runs] runs total.">
+<OBJ id="49931" text="[%teamnickname] 敲出兩發全壘打...(nl)這一局總共拿下 [%game inning runs] 分。">
 <COND id="327" value="1"/>
 <COND id="318" value="11"/>
 <COND id="317" value="3"/>
@@ -150469,7 +150469,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="327" value="1"/>
 <COND id="323" value="1"/>
 </OBJ>
-<OBJ id="49935" text="The [%teamnickname] get a run...(nl)without getting a hit.">
+<OBJ id="49935" text="[%teamnickname] 拿下一分...(nl)而且沒有敲出任何安打。">
 <COND id="318" value="1"/>
 <COND id="320" value="0"/>
 <COND id="319" value="0"/>
@@ -150477,7 +150477,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="317" value="1"/>
 <COND id="327" value="1"/>
 </OBJ>
-<OBJ id="49936" text="The [%teamnickname] produce [%game inning runs] runs...(nl)without getting a hit.">
+<OBJ id="49936" text="[%teamnickname] 拿下 [%game inning runs] 分...(nl)而且沒有敲出任何安打。">
 <COND id="320" value="0"/>
 <COND id="319" value="0"/>
 <COND id="324" value="0"/>
@@ -150497,13 +150497,13 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="317" value="1"/>
 <COND id="332" value="0"/>
 </OBJ>-->
-<OBJ id="49940" text="The [%teamnickname] use [%game inning errors] miscues by [%team#2name]...(nl)to score [%game inning runs].">
+<OBJ id="49940" text="[%teamnickname] 利用 [%team#2name] 的 [%game inning errors] 次守備瑕疵...(nl)拿下 [%game inning runs] 分。">
 <COND id="323" value="2"/>
 <COND id="317" value="1"/>
 <COND id="327" value="1"/>
 <COND id="332" value="0"/>
 </OBJ>
-<OBJ id="49941" text="The [%teamname] rally is thwarted.">
+<OBJ id="49941" text="[%teamname] 的反攻被擋了下來。">
 <COND id="321" value="3"/>
 <COND id="318" value="0"/>
 <COND id="84" value="1"/>
@@ -150515,12 +150515,12 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="84" value="1"/>
 <COND id="83" value="-1"/>
 </OBJ>-->
-<OBJ id="49970" text="[%game inning runners] baserunners in the inning...(nl)but the [%teamnickname] do nothing with them.">
+<OBJ id="49970" text="這一局有 [%game inning runners] 名跑者上壘...(nl)但 [%teamnickname] 完全沒能運用。">
 <COND id="333" value="2"/>
 <COND id="318" value="0"/>
 <COND id="327" value="1"/>
 </OBJ>
-<OBJ id="49971" text="[%game inning hits] hits in the inning...(nl)but the [%teamnickname] do nothing with them.">
+<OBJ id="49971" text="這一局敲出 [%game inning hits] 支安打...(nl)但 [%teamnickname] 完全沒能運用。">
 <COND id="318" value="0"/>
 <COND id="327" value="1"/>
 <COND id="320" value="2"/>
@@ -150596,7 +150596,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="84" value="3"/>
 <COND id="83" value="-3"/>
 </OBJ>-->
-<OBJ id="50037" text="The [%team#2nickname] face the minimum...(nl)despite allowing a hit.">
+<OBJ id="50037" text="[%team#2nickname] 只面對了最少的打者數...(nl)儘管被敲出一支安打。">
 <COND id="325" value="3"/>
 <COND id="322" value="0"/>
 <COND id="328" value="1"/>
@@ -150605,7 +150605,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="320" value="1"/>
 <COND id="319" value="1"/>
 </OBJ>
-<OBJ id="50038" text="[%game pitcher] faces the minimum...(nl)despite allowing a hit.">
+<OBJ id="50038" text="[%game pitcher] 只面對了最少的打者數...(nl)儘管被敲出一支安打。">
 <COND id="325" value="3"/>
 <COND id="322" value="0"/>
 <COND id="328" value="1"/>
@@ -150615,7 +150615,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="319" value="1"/>
 <COND id="241" value="2"/>
 </OBJ>
-<OBJ id="50039" text="The [%team#2nickname] face the minimum...(nl)despite allowing a base runner.">
+<OBJ id="50039" text="[%team#2nickname] 只面對了最少的打者數...(nl)儘管讓一名跑者上壘。">
 <COND id="325" value="3"/>
 <COND id="322" value="0"/>
 <COND id="328" value="1"/>
@@ -150643,7 +150643,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="327" value="1"/>
 <COND id="318" value="1"/>
 </OBJ>-->
-<OBJ id="50081" text="The [%team#2nickname] allow one run.">
+<OBJ id="50081" text="[%team#2nickname] 失掉一分。">
 <COND id="317" value="1"/>
 <COND id="318" value="1"/>
 <COND id="328" value="1"/>
@@ -150653,7 +150653,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="318" value="1"/>
 <COND id="328" value="1"/>
 </OBJ>-->
-<OBJ id="50083" text="The [%team#2nickname] allow one run on [%game inning hits] hits.">
+<OBJ id="50083" text="[%team#2nickname] 被敲 [%game inning hits] 支安打失掉一分。">
 <COND id="317" value="1"/>
 <COND id="318" value="1"/>
 <COND id="328" value="1"/>
@@ -150666,7 +150666,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="324" value="0"/>
 <COND id="322" value="0"/>
 </OBJ>-->
-<OBJ id="50106" text="The [%teamnickname] get zilch.">
+<OBJ id="50106" text="[%teamnickname] 什麼也沒撈到。">
 <COND id="318" value="0"/>
 <COND id="320" value="0"/>
 <COND id="324" value="0"/>
@@ -150679,7 +150679,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="324" value="0"/>
 <COND id="322" value="0"/>
 </OBJ>-->
-<OBJ id="50124" text="The [%teamnickname] come up with a run.">
+<OBJ id="50124" text="[%teamnickname] 拿下一分。">
 <COND id="317" value="1"/>
 <COND id="327" value="1"/>
 <COND id="318" value="1"/>
@@ -150707,7 +150707,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="317" value="3"/>
 <COND id="331" value="1"/>
 </OBJ>-->
-<OBJ id="50169" text="Two runs, one hit -- a home run --(nl)no errors...(nl)[%game lob].">
+<OBJ id="50169" text="兩分、一支安打 —— 那是一發全壘打 ——(nl)無失誤...(nl)[%game lob]。">
 <COND id="318" value="2"/>
 <COND id="320" value="1"/>
 <COND id="319" value="1"/>
@@ -150733,7 +150733,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="331" value="1"/>
 <COND id="323" value="1"/>
 </OBJ>
-<OBJ id="50178" text="The [%teamnickname] get nothing and strand one.">
+<OBJ id="50178" text="[%teamnickname] 沒有得分，殘壘一人。">
 <COND id="322" value="1"/>
 <COND id="321" value="1"/>
 <COND id="318" value="0"/>
@@ -150745,7 +150745,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="318" value="0"/>
 <COND id="327" value="1"/>
 </OBJ>-->
-<OBJ id="50180" text="The [%teamnickname] get nothing and leave two.">
+<OBJ id="50180" text="[%teamnickname] 沒有得分，殘壘兩人。">
 <COND id="322" value="2"/>
 <COND id="321" value="2"/>
 <COND id="318" value="0"/>
@@ -150763,7 +150763,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="318" value="0"/>
 <COND id="327" value="1"/>
 </OBJ>-->
-<OBJ id="50183" text="[%teamname] gets nothing and strands a pair.">
+<OBJ id="50183" text="[%teamname] 沒有得分，殘壘兩人。">
 <COND id="322" value="2"/>
 <COND id="321" value="2"/>
 <COND id="318" value="0"/>
@@ -150779,7 +150779,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="318" value="0"/>
 <COND id="319" value="0"/>
 </OBJ>-->
-<OBJ id="50202" text="Just a walk for [%teamname], nothing more.">
+<OBJ id="50202" text="[%teamname] 只拿到一次保送，沒有其他建樹。">
 <COND id="325" value="4"/>
 <COND id="320" value="0"/>
 <COND id="324" value="0"/>
@@ -150789,7 +150789,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="318" value="0"/>
 <COND id="319" value="0"/>
 </OBJ>
-<OBJ id="50213" text="The [%teamnickname] get [%game inning hits] hits --(nl)including a home run --(nl)en route to a [%game inning runs]-run inning.">
+<OBJ id="50213" text="[%teamnickname] 敲出 [%game inning hits] 支安打 ——(nl)其中包含一發全壘打 ——(nl)這一局拿下 [%game inning runs] 分。">
 <COND id="317" value="3"/>
 <COND id="327" value="1"/>
 <COND id="319" value="2"/>
@@ -150801,7 +150801,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="327" value="1"/>
 <COND id="319" value="2"/>
 </OBJ>-->
-<OBJ id="50215" text="The [%teamnickname] get [%game inning hits] hits --(nl)including a home run --(nl)in posting a [%game inning runs]-run inning.">
+<OBJ id="50215" text="[%teamnickname] 敲出 [%game inning hits] 支安打 ——(nl)其中包含一發全壘打 ——(nl)這一局拿下 [%game inning runs] 分。">
 <COND id="317" value="4"/>
 <COND id="327" value="1"/>
 <COND id="319" value="2"/>
@@ -150851,7 +150851,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="318" value="0"/>
 <COND id="327" value="1"/>
 </OBJ>-->
-<OBJ id="50270" text="[%game pitcher] allows a baserunner...(nl)but still faces just 3 batters.">
+<OBJ id="50270" text="[%game pitcher] 讓一名跑者上壘...(nl)但這一局仍然只面對 3 名打者。">
 <COND id="325" value="3"/>
 <COND id="322" value="0"/>
 <COND id="328" value="1"/>
@@ -150859,14 +150859,14 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="333" value="1"/>
 <COND id="241" value="2"/>
 </OBJ>
-<OBJ id="50278" text="[%teamname] scores [%game inning runs] runs on [%game inning hits] hits --(nl)one of the hits a home run.">
+<OBJ id="50278" text="[%teamname] [%game inning hits] 支安打拿下 [%game inning runs] 分 ——(nl)其中一支是全壘打。">
 <COND id="317" value="2"/>
 <COND id="327" value="1"/>
 <COND id="319" value="2"/>
 <COND id="332" value="1"/>
 <COND id="331" value="1"/>
 </OBJ>
-<OBJ id="50279" text="Nothing, just a walk, for [%teamname].">
+<OBJ id="50279" text="[%teamname] 只拿到一次保送，沒有其他建樹。">
 <COND id="318" value="0"/>
 <COND id="320" value="0"/>
 <COND id="319" value="0"/>
@@ -150910,7 +150910,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="322" value="2"/>
 <COND id="321" value="2"/>
 </OBJ>-->
-<OBJ id="50315" text="The [%teamnickname] get nothing on two hits.">
+<OBJ id="50315" text="[%teamnickname] 敲出兩支安打卻沒有得分。">
 <COND id="318" value="0"/>
 <COND id="320" value="2"/>
 <COND id="319" value="2"/>
@@ -150955,7 +150955,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="319" value="2"/>
 <COND id="327" value="1"/>
 </OBJ>
-<OBJ id="50474" text="A walk, a man left.">
+<OBJ id="50474" text="一次保送，殘壘一人。">
 <COND id="325" value="4"/>
 <COND id="320" value="0"/>
 <COND id="324" value="0"/>
@@ -150989,7 +150989,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="318" value="0"/>
 <COND id="319" value="0"/>
 </OBJ>-->
-<OBJ id="50518" text="The [%teamnickname] get a hit and a walk...(nl)and leave 2.">
+<OBJ id="50518" text="[%teamnickname] 拿到一支安打和一次保送...(nl)殘壘兩人。">
 <COND id="325" value="5"/>
 <COND id="320" value="1"/>
 <COND id="324" value="0"/>
@@ -151045,7 +151045,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="325" value="4"/>
 <COND id="320" value="0"/>
 </OBJ>-->
-<OBJ id="55287" text="Nothing across for [%teamname].">
+<OBJ id="55287" text="[%teamname] 掛蛋。">
 <COND id="318" value="0"/>
 <COND id="324" value="0"/>
 <COND id="320" value="0"/>
@@ -151057,7 +151057,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="402" value="0"/>
 <COND id="81" value="2"/>
 </OBJ>
-<OBJ id="55288" text="Nothing across for [%teamname].(nl)Still scoreless in this one.">
+<OBJ id="55288" text="[%teamname] 掛蛋。(nl)這場比賽仍然是 0 比 0。">
 <COND id="318" value="0"/>
 <COND id="324" value="0"/>
 <COND id="320" value="0"/>
@@ -151069,7 +151069,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="402" value="0"/>
 <COND id="81" value="4"/>
 </OBJ>
-<OBJ id="55289" text="3 up, 3 down for [%teamname].(nl)Still scoreless in this one.">
+<OBJ id="55289" text="[%teamname] 三上三下。(nl)這場比賽仍然是 0 比 0。">
 <COND id="318" value="0"/>
 <COND id="324" value="0"/>
 <COND id="320" value="0"/>
@@ -151081,7 +151081,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="402" value="0"/>
 <COND id="81" value="6"/>
 </OBJ>
-<OBJ id="55290" text="3 up, 3 down.(nl)[%game teamab nick] and [%game teamdef nick], still scoreless.">
+<OBJ id="55290" text="三上三下。(nl)[%game teamab nick] 與 [%game teamdef nick] 仍然掛零。">
 <COND id="318" value="0"/>
 <COND id="324" value="0"/>
 <COND id="320" value="0"/>
@@ -151105,7 +151105,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="402" value="0"/>
 <COND id="81" value="3"/>
 </OBJ>-->
-<OBJ id="55468" text="[%game teamab nick]-[%game teamdef nick], still scoreless.">
+<OBJ id="55468" text="[%game teamab nick] 對 [%game teamdef nick]，比數仍是 0 比 0。">
 <COND id="318" value="0"/>
 <COND id="324" value="0"/>
 <COND id="320" value="0"/>
@@ -151137,7 +151137,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="322" value="2"/>
 <COND id="321" value="2"/>
 </OBJ>-->
-<OBJ id="55701" text="No runs, no hits, no errors...(nl)two left on base.">
+<OBJ id="55701" text="無得分、無安打、無失誤...(nl)殘壘兩人。">
 <COND id="318" value="0"/>
 <COND id="320" value="0"/>
 <COND id="319" value="0"/>
@@ -151145,7 +151145,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="322" value="2"/>
 <COND id="321" value="2"/>
 </OBJ>
-<OBJ id="55702" text="No runs, no hits, no errors...(nl)three left on base.">
+<OBJ id="55702" text="無得分、無安打、無失誤...(nl)殘壘三人。">
 <COND id="318" value="0"/>
 <COND id="320" value="0"/>
 <COND id="319" value="0"/>
@@ -151161,7 +151161,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="322" value="3"/>
 <COND id="321" value="3"/>
 </OBJ>-->
-<OBJ id="55704" text="Three runs, two hits, no errors...(nl)[%game lob].">
+<OBJ id="55704" text="三分、兩支安打、無失誤...(nl)[%game lob]。">
 <COND id="318" value="3"/>
 <COND id="320" value="2"/>
 <COND id="319" value="2"/>
@@ -151169,7 +151169,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="317" value="3"/>
 <COND id="323" value="0"/>
 </OBJ>
-<OBJ id="55705" text="Two runs, two hits, no errors...(nl)[%game lob].">
+<OBJ id="55705" text="兩分、兩支安打、無失誤...(nl)[%game lob]。">
 <COND id="318" value="2"/>
 <COND id="320" value="2"/>
 <COND id="319" value="2"/>
@@ -151185,7 +151185,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="317" value="2"/>
 <COND id="323" value="0"/>
 </OBJ>-->
-<OBJ id="55707" text="Two runs for [%game teamab]...(nl)on four hits and no errors...(nl)[%game lob].">
+<OBJ id="55707" text="[%game teamab] 拿下兩分...(nl)四支安打、無失誤...(nl)[%game lob]。">
 <COND id="318" value="2"/>
 <COND id="320" value="4"/>
 <COND id="319" value="4"/>
@@ -151209,7 +151209,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="317" value="3"/>
 <COND id="323" value="1"/>
 </OBJ>
-<OBJ id="55710" text="Three runs on three hits for [%game teamab]...(nl)with no errors...(nl)and [%game lob].">
+<OBJ id="55710" text="[%game teamab] 三支安打拿下三分...(nl)無失誤...(nl)[%game lob]。">
 <COND id="318" value="3"/>
 <COND id="320" value="3"/>
 <COND id="319" value="3"/>
@@ -151241,7 +151241,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="402" value="0"/>
 <COND id="81" value="3"/>
 </OBJ>-->
-<OBJ id="55772" text="This game is still scoreless.">
+<OBJ id="55772" text="這場比賽仍然掛零。">
 <COND id="318" value="0"/>
 <COND id="324" value="0"/>
 <COND id="320" value="0"/>
@@ -151253,7 +151253,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="402" value="0"/>
 <COND id="240" value="3"/>
 </OBJ>
-<OBJ id="55773" text="Still no score in this one.">
+<OBJ id="55773" text="這場比賽還沒有人得分。">
 <COND id="318" value="0"/>
 <COND id="324" value="0"/>
 <COND id="320" value="0"/>
@@ -151265,7 +151265,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="402" value="0"/>
 <COND id="240" value="5"/>
 </OBJ>
-<OBJ id="55774" text="One walk in the inning, one left.">
+<OBJ id="55774" text="這一局一次保送，殘壘一人。">
 <COND id="325" value="4"/>
 <COND id="320" value="0"/>
 <COND id="324" value="0"/>
@@ -151280,7 +151280,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="403" value="0"/>
 <COND id="401" value="0"/>
 </OBJ>
-<OBJ id="55775" text="Two walks in the inning, two left.">
+<OBJ id="55775" text="這一局兩次保送，殘壘兩人。">
 <COND id="325" value="5"/>
 <COND id="320" value="0"/>
 <COND id="324" value="0"/>
@@ -151295,7 +151295,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="403" value="0"/>
 <COND id="401" value="0"/>
 </OBJ>
-<OBJ id="55776" text="A hit, a walk, two left.">
+<OBJ id="55776" text="一支安打、一次保送，殘壘兩人。">
 <COND id="325" value="5"/>
 <COND id="320" value="1"/>
 <COND id="324" value="0"/>
@@ -151310,7 +151310,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="403" value="0"/>
 <COND id="401" value="0"/>
 </OBJ>
-<OBJ id="55777" text="Nothing on a hit for [%game teamab].">
+<OBJ id="55777" text="[%game teamab] 敲出安打卻沒有得分。">
 <COND id="325" value="4"/>
 <COND id="320" value="1"/>
 <COND id="324" value="0"/>
@@ -151355,7 +151355,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="403" value="0"/>
 <COND id="401" value="0"/>
 </OBJ>-->
-<OBJ id="55780" text="No runs on two hits, no errors, two left.">
+<OBJ id="55780" text="兩支安打沒有得分，無失誤，殘壘兩人。">
 <COND id="325" value="5"/>
 <COND id="320" value="2"/>
 <COND id="324" value="0"/>
@@ -151385,7 +151385,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="403" value="0"/>
 <COND id="401" value="0"/>
 </OBJ>-->
-<OBJ id="55782" text="No runs on two hits, no errors, three left.">
+<OBJ id="55782" text="兩支安打沒有得分，無失誤，殘壘三人。">
 <COND id="325" value="6"/>
 <COND id="320" value="2"/>
 <COND id="324" value="0"/>
@@ -151400,7 +151400,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="403" value="0"/>
 <COND id="401" value="0"/>
 </OBJ>
-<OBJ id="55783" text="No runs, one hit, no errors, three left.">
+<OBJ id="55783" text="無得分、一支安打、無失誤，殘壘三人。">
 <COND id="325" value="6"/>
 <COND id="320" value="1"/>
 <COND id="324" value="0"/>
@@ -151415,7 +151415,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="403" value="0"/>
 <COND id="401" value="0"/>
 </OBJ>
-<OBJ id="55922" text="1-2-3 for [%teamname].">
+<OBJ id="55922" text="[%teamname] 三上三下。">
 <COND id="325" value="3"/>
 <COND id="320" value="0"/>
 <COND id="324" value="0"/>
@@ -151424,7 +151424,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="403" value="0"/>
 <COND id="240" value="2"/>
 </OBJ>
-<OBJ id="55923" text="1-2-3 for [%teamname].">
+<OBJ id="55923" text="[%teamname] 三上三下。">
 <COND id="325" value="3"/>
 <COND id="320" value="0"/>
 <COND id="324" value="0"/>
@@ -151442,7 +151442,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="403" value="0"/>
 <COND id="240" value="3"/>
 </OBJ>-->
-<OBJ id="55925" text="No runs, hits, or errors...(nl)and none left on.">
+<OBJ id="55925" text="無得分、無安打、無失誤...(nl)也沒有人殘壘。">
 <COND id="325" value="3"/>
 <COND id="320" value="0"/>
 <COND id="324" value="0"/>
@@ -151451,7 +151451,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="403" value="0"/>
 <COND id="240" value="5"/>
 </OBJ>
-<OBJ id="55969" text="[%game inning runs] runs on [%game inning hits] hits --(nl)[%game inning hr] solo home runs --(nl)with [%game lob].">
+<OBJ id="55969" text="[%game inning hits] 支安打拿下 [%game inning runs] 分 ——(nl)[%game inning hr] 發陽春全壘打 ——(nl)[%game lob]。">
 <COND id="322" value="2"/>
 <COND id="332" value="2"/>
 <COND id="331" value="2"/>
@@ -151461,12 +151461,12 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="320" value="2"/>
 <COND id="318" value="2"/>
 </OBJ>
-<OBJ id="59076" text="[%teamname] score [%game inning runs] times...(nl)and they are absolutely tattooing [%team#2name].">
+<OBJ id="59076" text="[%teamname] 拿下 [%game inning runs] 分...(nl)完全把 [%team#2name] 打成蜂窩。">
 <COND id="317" value="10"/>
 <COND id="84" value="20"/>
 <COND id="83" value="10"/>
 </OBJ>
-<OBJ id="59077" text="No runs, no hits, no errors.(nl)If you're looking for the [%teamname nick] offense...(nl)you'll have a better chance of finding Amelia Earhart.">
+<OBJ id="59077" text="無得分、無安打、無失誤。(nl)如果你在找 [%teamname nick] 的進攻火力...(nl)那還不如去找失蹤的愛蜜莉亞·艾爾哈特。">
 <COND id="325" value="3"/>
 <COND id="320" value="0"/>
 <COND id="324" value="0"/>
@@ -151481,7 +151481,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="240" value="7"/>
 <COND id="327" value="1"/>
 </OBJ>
-<OBJ id="59078" text="No runs, no hits, no errors.">
+<OBJ id="59078" text="無得分、無安打、無失誤。">
 <COND id="318" value="0"/>
 <COND id="320" value="0"/>
 <COND id="319" value="0"/>
@@ -151490,7 +151490,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="84" value="0"/>
 <COND id="82" value="1"/>
 </OBJ>
-<OBJ id="59079" text="[%teamname] scores [%game inning runs] on [%game inning errors] errors.(nl)Miscues aplenty today...(nl)and the pitchers have not been center stage on either end.">
+<OBJ id="59079" text="[%teamname] 靠 [%game inning errors] 次失誤拿下 [%game inning runs] 分。(nl)今天守備瑕疵滿天飛...(nl)兩隊投手都不是主角。">
 <COND id="323" value="3"/>
 <COND id="317" value="3"/>
 <COND id="332" value="0"/>
@@ -151499,7 +151499,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="400" value="6"/>
 <COND id="402" value="6"/>
 </OBJ>
-<OBJ id="59080" text="No runs with two left on base...(nl)and there may be an inquest in that dugout before long...(nl)as the [%teamname nick] bats remain silent.">
+<OBJ id="59080" text="沒有得分，殘壘兩人...(nl)那個休息區大概很快就要開檢討會了...(nl)[%teamname nick] 的棒子始終沉默。">
 <COND id="322" value="2"/>
 <COND id="396" value="3"/>
 <COND id="84" value="-1"/>
@@ -151510,7 +151510,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="321" value="2"/>
 <COND id="327" value="1"/>
 </OBJ>
-<OBJ id="59082" text="Two runs for [%game teamab]...(nl)but right now it's only a whimper of protest.">
+<OBJ id="59082" text="[%game teamab] 拿下兩分...(nl)但目前也只是微弱的抗議而已。">
 <COND id="318" value="2"/>
 <COND id="83" value="-5"/>
 <COND id="84" value="-10"/>
@@ -151519,7 +151519,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="401" value="2"/>
 <COND id="82" value="1"/>
 </OBJ>
-<OBJ id="59085" text="[%teamname] finally scratches out a run...(nl)and there's a ripple of enthusiasm from the crowd.">
+<OBJ id="59085" text="[%teamname] 終於擠出一分...(nl)看台上泛起一陣騷動。">
 <COND id="318" value="1"/>
 <COND id="320" value="1"/>
 <COND id="319" value="1"/>
@@ -151531,13 +151531,13 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="81" value="7"/>
 <COND id="85" value="1"/>
 </OBJ>
-<OBJ id="59086" text="A little between, and a little betwixt --(nl)the [%teamname nick] score one, but they leave them loaded.">
+<OBJ id="59086" text="有一點進展，又不太夠 ——(nl)[%teamname nick] 拿下一分，卻留下滿壘的遺憾。">
 <COND id="318" value="1"/>
 <COND id="317" value="1"/>
 <COND id="321" value="3"/>
 <COND id="327" value="1"/>
 </OBJ>
-<OBJ id="59087" text="A scoreless inning...(nl)and the [%teamname nick] look dead in the water today.">
+<OBJ id="59087" text="無得分的一局...(nl)[%teamname nick] 今天看起來完全沒有生氣。">
 <COND id="324" value="1"/>
 <COND id="396" value="2"/>
 <COND id="84" value="-3"/>
@@ -151548,7 +151548,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="330" value="1"/>
 <COND id="327" value="1"/>
 </OBJ>
-<OBJ id="59089" text="The [%teamnickname] score [%game inning runs] runs...(nl)and [%team#2name] has 3 innings...(nl)to avoid a total whitewash.">
+<OBJ id="59089" text="[%teamnickname] 拿下 [%game inning runs] 分...(nl)[%team#2name] 還剩 3 局...(nl)得設法避免被完封。">
 <COND id="85" value="1"/>
 <COND id="317" value="5"/>
 <COND id="327" value="1"/>
@@ -151565,13 +151565,13 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="331" value="2"/>
 <COND id="332" value="2"/>
 </OBJ>-->
-<OBJ id="59092" text="[%teamname] score [%game inning runs] times...(nl)and are raking [%team#2name] over the coals.">
+<OBJ id="59092" text="[%teamname] 拿下 [%game inning runs] 分...(nl)把 [%team#2name] 打得體無完膚。">
 <COND id="317" value="5"/>
 <COND id="84" value="20"/>
 <COND id="83" value="10"/>
 <COND id="331" value="1"/>
 </OBJ>
-<OBJ id="59094" text="The [%teamname nick] get two hits...(nl)but are left frustrated, leaving two men on.">
+<OBJ id="59094" text="[%teamname nick] 敲出兩支安打...(nl)卻只能徒呼負負，殘壘兩人。">
 <COND id="318" value="0"/>
 <COND id="320" value="2"/>
 <COND id="319" value="2"/>
@@ -151581,7 +151581,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="330" value="0"/>
 <COND id="327" value="1"/>
 </OBJ>
-<OBJ id="59095" text="[%teamname] score [%game inning runs] times...(nl)and the wheels have come off for [%team#2name].">
+<OBJ id="59095" text="[%teamname] 拿下 [%game inning runs] 分...(nl)[%team#2name] 整個崩盤了。">
 <COND id="317" value="5"/>
 <COND id="84" value="12"/>
 <COND id="83" value="6"/>
@@ -151590,11 +151590,11 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="323" value="1"/>
 <COND id="329" value="1"/>
 </OBJ>
-<OBJ id="59097" text="[%teamname] takes advantage of some shoddy defense...(nl) and scores [%game inning runs] runs on [%game inning errors] errors.">
+<OBJ id="59097" text="[%teamname] 抓住對方鬆散的守備...(nl) 靠 [%game inning errors] 次失誤拿下 [%game inning runs] 分。">
 <COND id="323" value="3"/>
 <COND id="317" value="3"/>
 </OBJ>
-<OBJ id="59098" text="[%teamname] loads the bases...(nl)but is not able to capitalize...(nl)now squandering 10 hits today.">
+<OBJ id="59098" text="[%teamname] 攻佔滿壘...(nl)卻沒能把握...(nl)今天已經浪費了 10 支安打。">
 <COND id="84" value="-1"/>
 <COND id="396" value="10"/>
 <COND id="83" value="-3"/>
@@ -151603,19 +151603,19 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="397" value="10"/>
 <COND id="401" value="0"/>
 </OBJ>
-<OBJ id="59117" text="One run but two men hung out to dry.">
+<OBJ id="59117" text="拿下一分，但有兩名跑者被留在壘上。">
 <COND id="318" value="1"/>
 <COND id="322" value="2"/>
 <COND id="321" value="2"/>
 <COND id="317" value="1"/>
 </OBJ>
-<OBJ id="59258" text="[%teamname] scores [%game inning runs] runs on [%game inning hits] hits...(nl)and [%team#2name] is behind the eight ball early.">
+<OBJ id="59258" text="[%teamname] [%game inning hits] 支安打拿下 [%game inning runs] 分...(nl)[%team#2name] 一開賽就陷入苦戰。">
 <COND id="241" value="3"/>
 <COND id="84" value="-3"/>
 <COND id="317" value="3"/>
 <COND id="83" value="-8"/>
 </OBJ>
-<OBJ id="59708" text="The [%teamnickname] pick up a run...(nl)to chip away at the [%team#2nickname] lead.">
+<OBJ id="59708" text="[%teamnickname] 拿下一分...(nl)一點一點追近 [%team#2nickname] 的領先。">
 <COND id="317" value="1"/>
 <COND id="327" value="1"/>
 <COND id="318" value="1"/>
@@ -151629,7 +151629,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <OBJ id="59711" usage_chance_for_game="6" only_once_per_x2="1" text="[%team#2name] gets popped for [%game inning runs] runs.">
 <COND id="317" value="6"/>
 </OBJ>-->
-<OBJ id="59712" text="[%teamname] scores [%game inning runs] runs...(nl)and the [%team#2nickname] hopes are sinking...(nl)faster than the Titanic.">
+<OBJ id="59712" text="[%teamname] 拿下 [%game inning runs] 分...(nl)[%team#2nickname] 的希望正在下沉...(nl)比鐵達尼號還快。">
 <COND id="317" value="4"/>
 <COND id="84" value="9"/>
 <COND id="83" value="6"/>
@@ -151637,19 +151637,19 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="240" value="4"/>
 <COND id="328" value="1"/>
 </OBJ>
-<OBJ id="59713" text="[%teamname] scores [%game inning runs] times...(nl)and leaves [%team#2name] shellshocked.">
+<OBJ id="59713" text="[%teamname] 拿下 [%game inning runs] 分...(nl)讓 [%team#2name] 徹底傻眼。">
 <COND id="317" value="8"/>
 <COND id="84" value="20"/>
 <COND id="83" value="10"/>
 <COND id="241" value="3"/>
 </OBJ>
-<OBJ id="59871" text="[%teamname] scores [%game inning runs] and draws first blood.">
+<OBJ id="59871" text="[%teamname] 拿下 [%game inning runs] 分，率先開張。">
 <COND id="318" value="5"/>
 <COND id="317" value="1"/>
 <COND id="81" value="1"/>
 <COND id="85" value="0"/>
 </OBJ>
-<OBJ id="59934" text="One run on two hits...(nl)and the sleeping giant is starting to awaken.">
+<OBJ id="59934" text="兩支安打拿下一分...(nl)沉睡的巨人開始甦醒了。">
 <COND id="318" value="1"/>
 <COND id="317" value="1"/>
 <COND id="320" value="2"/>
@@ -151661,7 +151661,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="84" value="5"/>
 <COND id="83" value="2"/>
 </OBJ>
-<OBJ id="59936" text="[%team#2name] bends but does not break...(nl)as the [%teamnickname] leave the bases loaded.">
+<OBJ id="59936" text="[%team#2name] 撐住了沒有崩潰...(nl)[%teamnickname] 留下滿壘遺憾。">
 <COND id="321" value="3"/>
 <COND id="318" value="0"/>
 <COND id="401" value="1"/>
@@ -151670,7 +151670,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="241" value="6"/>
 <COND id="327" value="1"/>
 </OBJ>
-<OBJ id="59941" text="[%game teamab] scores [%game inning runs] times...(nl)and we're right back where we started from.">
+<OBJ id="59941" text="[%game teamab] 拿下 [%game inning runs] 分...(nl)一切又回到原點。">
 <COND id="318" value="5"/>
 <COND id="317" value="3"/>
 <COND id="83" value="0"/>
@@ -151678,7 +151678,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="85" value="1"/>
 <COND id="81" value="1"/>
 </OBJ>
-<OBJ id="59951" text="It's a bull market for [%teamname]...(nl)as they score [%game inning runs] runs on [%game inning hits] hits.">
+<OBJ id="59951" text="[%teamname] 進入多頭行情...(nl)[%game inning hits] 支安打拿下 [%game inning runs] 分。">
 <COND id="318" value="10"/>
 <COND id="320" value="10"/>
 <COND id="319" value="5"/>
@@ -153870,10 +153870,10 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 </CAT>
 
 <CAT id="911">
-<OBJ id="50807" text="a [%pitch name]">
+<OBJ id="50807" text="一顆 [%pitch name]">
 <COND id="343" value="3"/>
 </OBJ>
-<OBJ id="50808" text="a plus-plus [%pitch name]">
+<OBJ id="50808" text="一顆頂級的 [%pitch name]">
 <COND id="343" value="5"/>
 </OBJ><!--
 <OBJ id="50809" text="an elite [%pitch name]">
@@ -153885,7 +153885,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <OBJ id="50811" text="a devastating [%pitch name]">
 <COND id="343" value="5"/>
 </OBJ>-->
-<OBJ id="50812" text="a plus [%pitch name]">
+<OBJ id="50812" text="一顆優質的 [%pitch name]">
 <COND id="343" value="4"/>
 </OBJ><!--
 <OBJ id="50813" text="an above average [%pitch name]">
@@ -153900,13 +153900,13 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <OBJ id="50816" text="a decent [%pitch name]">
 <COND id="343" value="3"/>
 </OBJ>-->
-<OBJ id="50817" text="a fringe [%pitch name]">
+<OBJ id="50817" text="一顆勉強及格的 [%pitch name]">
 <COND id="343" value="2"/>
 </OBJ><!--
 <OBJ id="50818" text="a fringy [%pitch name]">
 <COND id="343" value="2"/>
 </OBJ>-->
-<OBJ id="50819" text="a well below-average [%pitch name]">
+<OBJ id="50819" text="一顆遠低於平均的 [%pitch name]">
 <COND id="343" value="1"/>
 </OBJ><!--
 <OBJ id="50820" text="a below-average [%pitch name]">
@@ -153921,19 +153921,19 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <OBJ id="50917" text="a dominant [%pitch name]">
 <COND id="343" value="5"/>
 </OBJ>-->
-<OBJ id="50918" text="a live [%pitch name]">
+<OBJ id="50918" text="一顆尾勁十足的 [%pitch name]">
 <COND id="343" value="4"/>
 <COND id="344" value="20"/>
 </OBJ>
-<OBJ id="50919" text="a lively cutter">
+<OBJ id="50919" text="一顆尾勁十足的卡特球">
 <COND id="343" value="4"/>
 <COND id="344" value="10"/>
 </OBJ>
-<OBJ id="50920" text="a hammer curve">
+<OBJ id="50920" text="一顆大角度墜落的曲球">
 <COND id="343" value="5"/>
 <COND id="344" value="3"/>
 </OBJ>
-<OBJ id="50921" text="a wipeout [%pitch name]">
+<OBJ id="50921" text="一顆決勝級的 [%pitch name]">
 <COND id="343" value="5"/>
 <COND id="344" value="21"/>
 </OBJ><!--
@@ -153941,7 +153941,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="343" value="5"/>
 <COND id="344" value="21"/>
 </OBJ>-->
-<OBJ id="50923" text="a strikeout [%pitch name]">
+<OBJ id="50923" text="一顆專門用來抓三振的 [%pitch name]">
 <COND id="343" value="4"/>
 <COND id="344" value="21"/>
 </OBJ><!--
@@ -153949,11 +153949,11 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="343" value="4"/>
 <COND id="344" value="21"/>
 </OBJ>-->
-<OBJ id="50925" text="a sharp curve">
+<OBJ id="50925" text="一顆銳利的曲球">
 <COND id="343" value="4"/>
 <COND id="344" value="3"/>
 </OBJ>
-<OBJ id="50926" text="a 12-to-6 curve">
+<OBJ id="50926" text="一顆縱向大落差的曲球">
 <COND id="343" value="4"/>
 <COND id="344" value="3"/>
 <COND id="363" value="4"/>
@@ -153971,11 +153971,11 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <OBJ id="50930" text="a mediocre [%pitch name]">
 <COND id="343" value="2"/>
 </OBJ>-->
-<OBJ id="50931" text="a Bugs Bunny changeup">
+<OBJ id="50931" text="一顆慢到誇張的變速球">
 <COND id="343" value="5"/>
 <COND id="344" value="6"/>
 </OBJ>
-<OBJ id="50932" text="an impressive [%pitch name]">
+<OBJ id="50932" text="一顆令人印象深刻的 [%pitch name]">
 <COND id="343" value="4"/>
 <COND id="344" value="6"/>
 </OBJ><!--
@@ -153983,7 +153983,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="343" value="4"/>
 <COND id="344" value="6"/>
 </OBJ>-->
-<OBJ id="50934" text="a [%pitch name] with tremendous life">
+<OBJ id="50934" text="一顆尾勁極佳的 [%pitch name]">
 <COND id="343" value="5"/>
 <COND id="344" value="20"/>
 </OBJ><!--
@@ -153999,7 +153999,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="343" value="4"/>
 <COND id="344" value="20"/>
 </OBJ>-->
-<OBJ id="50938" text="a [%pitch name] that won't blow hitters away">
+<OBJ id="50938" text="一顆無法壓制打者的 [%pitch name]">
 <COND id="343" value="1"/>
 <COND id="344" value="20"/>
 </OBJ><!--
@@ -154035,7 +154035,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="343" value="4"/>
 <COND id="344" value="3"/>
 </OBJ>-->
-<OBJ id="50947" text="a [%pitch name] with hard bite">
+<OBJ id="50947" text="一顆變化犀利的 [%pitch name]">
 <COND id="343" value="4"/>
 <COND id="344" value="2"/>
 </OBJ><!--
@@ -154055,19 +154055,19 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="343" value="4"/>
 <COND id="344" value="21"/>
 </OBJ>-->
-<OBJ id="50952" text="a [%pitch name] with some depth">
+<OBJ id="50952" text="一顆有一定落差的 [%pitch name]">
 <COND id="343" value="3"/>
 <COND id="344" value="2"/>
 </OBJ>
-<OBJ id="50953" text="a [%pitch name] which flattens out too often">
+<OBJ id="50953" text="一顆太常跑平的 [%pitch name]">
 <COND id="343" value="2"/>
 <COND id="344" value="2"/>
 </OBJ>
-<OBJ id="50954" text="a [%pitch name] that lacks consistency">
+<OBJ id="50954" text="一顆缺乏穩定性的 [%pitch name]">
 <COND id="343" value="2"/>
 <COND id="344" value="21"/>
 </OBJ>
-<OBJ id="50955" text="a [%pitch name] that needs plenty of work">
+<OBJ id="50955" text="一顆還需要大量磨練的 [%pitch name]">
 <COND id="343" value="1"/>
 <COND id="344" value="21"/>
 </OBJ><!--
@@ -154095,11 +154095,11 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="343" value="4"/>
 <COND id="344" value="6"/>
 </OBJ>-->
-<OBJ id="50962" text="a [%pitch name] that needs refinement">
+<OBJ id="50962" text="一顆還需要打磨的 [%pitch name]">
 <COND id="343" value="2"/>
 <COND id="344" value="6"/>
 </OBJ>
-<OBJ id="50963" text="a [%pitch name] that he doesn't use much">
+<OBJ id="50963" text="一顆他不常使用的 [%pitch name]">
 <COND id="343" value="1"/>
 <COND id="344" value="6"/>
 </OBJ><!--
@@ -154160,7 +154160,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <OBJ id="51073" text="an outstanding [%pitch name]">
 <COND id="343" value="5"/>
 </OBJ>-->
-<OBJ id="51074" text="a blazing [%pitch name]">
+<OBJ id="51074" text="一顆火燙的 [%pitch name]">
 <COND id="343" value="5"/>
 <COND id="344" value="1"/>
 </OBJ><!--
@@ -154189,7 +154189,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="344" value="3"/>
 <COND id="363" value="4"/>
 </OBJ>-->
-<OBJ id="51298" text="a looping curve">
+<OBJ id="51298" text="一顆弧度飄大的曲球">
 <COND id="363" value="2"/>
 <COND id="343" value="5"/>
 </OBJ><!--
@@ -154205,7 +154205,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <OBJ id="53057" text="a wicked [%pitch name]">
 <COND id="343" value="5"/>
 </OBJ>-->
-<OBJ id="53058" text="a fluttering [%pitch name]">
+<OBJ id="53058" text="一顆飄忽不定的 [%pitch name]">
 <COND id="343" value="4"/>
 <COND id="344" value="9"/>
 </OBJ><!--
@@ -154213,15 +154213,15 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="343" value="5"/>
 <COND id="344" value="1"/>
 </OBJ>-->
-<OBJ id="53178" text="a legit [%pitch name]">
+<OBJ id="53178" text="一顆貨真價實的 [%pitch name]">
 <COND id="343" value="4"/>
 <COND id="344" value="1"/>
 </OBJ>
-<OBJ id="53179" text="a filthy sinker">
+<OBJ id="53179" text="一顆髒到不行的伸卡球">
 <COND id="343" value="5"/>
 <COND id="344" value="7"/>
 </OBJ>
-<OBJ id="53398" text="a viable curve">
+<OBJ id="53398" text="一顆堪用的曲球">
 <COND id="343" value="3"/>
 <COND id="344" value="3"/>
 </OBJ><!--
@@ -154229,7 +154229,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="343" value="3"/>
 <COND id="344" value="3"/>
 </OBJ>-->
-<OBJ id="53400" text="an average changeup">
+<OBJ id="53400" text="一顆中等的變速球">
 <COND id="343" value="3"/>
 <COND id="344" value="6"/>
 </OBJ><!--
@@ -154269,7 +154269,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="343" value="4"/>
 <COND id="344" value="9"/>
 </OBJ>-->
-<OBJ id="53410" text="a nice sinker">
+<OBJ id="53410" text="一顆不錯的伸卡球">
 <COND id="343" value="4"/>
 <COND id="344" value="7"/>
 </OBJ><!--
@@ -154297,7 +154297,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="343" value="5"/>
 <COND id="344" value="3"/>
 </OBJ>-->
-<OBJ id="53417" text="a nasty cutter">
+<OBJ id="53417" text="一顆凶狠的卡特球">
 <COND id="343" value="5"/>
 <COND id="344" value="10"/>
 </OBJ><!--
@@ -154309,7 +154309,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="343" value="5"/>
 <COND id="344" value="1"/>
 </OBJ>-->
-<OBJ id="53420" text="a nasty knuckler">
+<OBJ id="53420" text="一顆凶狠的蝴蝶球">
 <COND id="343" value="5"/>
 <COND id="344" value="9"/>
 </OBJ><!--
@@ -154321,7 +154321,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="343" value="5"/>
 <COND id="344" value="7"/>
 </OBJ>-->
-<OBJ id="53423" text="a nasty slider">
+<OBJ id="53423" text="一顆凶狠的滑球">
 <COND id="343" value="5"/>
 <COND id="344" value="2"/>
 </OBJ><!--
@@ -154350,7 +154350,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="343" value="1"/>
 <COND id="344" value="6"/>
 </OBJ>-->
-<OBJ id="53798" text="a curveball that is straight as an arrow">
+<OBJ id="53798" text="一顆直得像箭一樣的曲球">
 <COND id="343" value="1"/>
 <COND id="344" value="3"/>
 </OBJ><!--
@@ -154358,11 +154358,11 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="343" value="1"/>
 <COND id="344" value="3"/>
 </OBJ>-->
-<OBJ id="53800" text="a fastball that is slower than molasses">
+<OBJ id="53800" text="一顆慢得像烏龜的速球">
 <COND id="343" value="1"/>
 <COND id="344" value="1"/>
 </OBJ>
-<OBJ id="53801" text="a curve that barely breaks">
+<OBJ id="53801" text="一顆幾乎不會轉彎的曲球">
 <COND id="343" value="2"/>
 <COND id="344" value="3"/>
 </OBJ><!--
@@ -169031,13 +169031,13 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 </CAT>
 
 <CAT id="966">
-<OBJ id="60174" text="Welcome to game [%game playoff num] of the [%leagueabbr] [%league currentseries]!">
+<OBJ id="60174" text="歡迎收看 [%leagueabbr] [%league currentseries] 第 [%game playoff num] 戰！">
 <COND id="419" value="0"/>
 </OBJ><!--
 <OBJ id="60176" text="Let's get ready for game [%game playoff num]...(nl)of the [%leagueabbr] [%league currentseries]!">
 <COND id="419" value="0"/>
 </OBJ>-->
-<OBJ id="60177" text="Welcome to game [%game playoff num] of the [%league assoc abbr] [%league assoc round]!">
+<OBJ id="60177" text="歡迎收看 [%league assoc abbr] [%league assoc round] 第 [%game playoff num] 戰！">
 <COND id="419" value="1"/>
 </OBJ><!--
 <OBJ id="60178" text="Time for game [%game playoff num] of the [%league assoc abbr] [%league assoc round]!">
@@ -169484,52 +169484,52 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 </CAT>
 
 <CAT id="979">
-<OBJ id="60310" text="Clear skies, the temperature [%game temperature] degrees.">
+<OBJ id="60310" text="晴朗無雲，氣溫 [%game temperature] 度。">
 <COND id="422" value="1"/>
 </OBJ>
-<OBJ id="60311" text="It's [%game temperature] degrees...(nl)and there's not a single cloud in sight.">
+<OBJ id="60311" text="氣溫 [%game temperature] 度...(nl)天上看不到一片雲。">
 <COND id="422" value="1"/>
 <COND id="420" value="1"/>
 </OBJ>
-<OBJ id="60312" text="The sun has been shining all day.(nl)The game-time temperature is [%game temperature] degrees.">
+<OBJ id="60312" text="太陽照了一整天。(nl)開賽時的氣溫是 [%game temperature] 度。">
 <COND id="426" value="0"/>
 <COND id="422" value="1"/>
 </OBJ>
-<OBJ id="60314" text="It's partly cloudy, the temperature [%game temperature] degrees.">
+<OBJ id="60314" text="多雲時晴，氣溫 [%game temperature] 度。">
 <COND id="422" value="2"/>
 </OBJ><!--
 <OBJ id="60315" text="The temperature is [%game temperature] degrees...(nl)under partly cloudy skies.">
 <COND id="422" value="2"/>
 </OBJ>-->
-<OBJ id="60316" text="The weather? Not bad.(nl)It's partly cloudy and [%game temperature] degrees.">
+<OBJ id="60316" text="天氣如何？還不錯。(nl)多雲時晴，氣溫 [%game temperature] 度。">
 <COND id="420" value="1"/>
 <COND id="422" value="2"/>
 <COND id="425" value="90"/>
 <COND id="424" value="55"/>
 </OBJ>
-<OBJ id="60317" text="Despite the cloud cover, there is no rain in the forecast.">
+<OBJ id="60317" text="雖然雲層很厚，但預報沒有降雨。">
 <COND id="422" value="3"/>
 </OBJ><!--
 <OBJ id="60320" text="The game-time temperature is [%game temperature] degrees...(nl)under heavy clouds.">
 <COND id="422" value="3"/>
 </OBJ>-->
-<OBJ id="60321" text="Crummy weather.(nl)It's cloudy but so far no rain.">
+<OBJ id="60321" text="天氣不太好。(nl)雲層很厚，不過目前還沒下雨。">
 <COND id="422" value="3"/>
 <COND id="425" value="55"/>
 <COND id="424" value="40"/>
 </OBJ>
-<OBJ id="60322" text="No rain in the forecast...(nl)so the roof should stay open [%game timeofday].">
+<OBJ id="60322" text="預報沒有降雨...(nl)所以 [%game timeofday] 屋頂應該會保持開啟。">
 <COND id="422" value="3"/>
 <COND id="426" value="2"/>
 </OBJ>
-<OBJ id="60323" text="It's a scorcher out there.(nl)Days like this, you wish this park had a roof.">
+<OBJ id="60323" text="外頭熱到爆。(nl)這種日子真希望這座球場有屋頂。">
 <COND id="420" value="1"/>
 <COND id="424" value="100"/>
 </OBJ>
-<OBJ id="60324" text="The temperature is [%game temperature] degrees...(nl)and snow's in the forecast!">
+<OBJ id="60324" text="氣溫 [%game temperature] 度...(nl)而且預報說會下雪！">
 <COND id="422" value="5"/>
 </OBJ>
-<OBJ id="60325" text="Rain is in the forecast.">
+<OBJ id="60325" text="預報有雨。">
 <COND id="422" value="4"/>
 </OBJ><!--
 <OBJ id="60326" text="The temperature is [%game temperature] degrees with rain possible.">
@@ -169541,19 +169541,19 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <OBJ id="60328" text="They're calling for rain later today.(nl)We'll have to see if they can get this game in.">
 <COND id="422" value="4"/>
 </OBJ>-->
-<OBJ id="60582" text="A very cold day here at [%ballpark].(nl)The umpires have already indicated...(nl)that they will allow pitchers...(nl)to blow in their hands on the mound.">
+<OBJ id="60582" text="今天 [%ballpark] 非常冷。(nl)裁判已經表示...(nl)允許投手在投手丘上...(nl)對著手心哈氣。">
 <COND id="425" value="39"/>
 </OBJ>
-<OBJ id="60589" text="A rather overcast and gray day this afternoon.">
+<OBJ id="60589" text="今天下午天色相當陰沉灰暗。">
 <COND id="422" value="3"/>
 <COND id="420" value="1"/>
 </OBJ>
-<OBJ id="60593" text="A hitter's paradise today...(nl)with temperatures exceeding [%game temperature] fahrenheit.">
+<OBJ id="60593" text="今天是打者的天堂...(nl)氣溫超過華氏 [%game temperature] 度。">
 <COND id="422" value="1"/>
 <COND id="420" value="1"/>
 <COND id="424" value="95"/>
 </OBJ>
-<OBJ id="60601" text="A beautiful day for baseball!(nl)[%game temperature] degrees and not a cloud in the sky.">
+<OBJ id="60601" text="今天是打棒球的好日子！(nl)氣溫 [%game temperature] 度，天上一片雲也沒有。">
 <COND id="422" value="1"/>
 <COND id="425" value="75"/>
 <COND id="424" value="72"/>
@@ -169573,7 +169573,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <OBJ id="61807" text="There's a good chance of rain.">
 <COND id="422" value="4"/>
 </OBJ>-->
-<OBJ id="61808" text="Sunny day on tap.(nl)The game-time temperature is [%game temperature] degrees.">
+<OBJ id="61808" text="今天是晴天。(nl)開賽時的氣溫是 [%game temperature] 度。">
 <COND id="422" value="1"/>
 <COND id="420" value="1"/>
 <COND id="426" value="0"/>
@@ -169630,59 +169630,59 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="422" value="1"/>
 <COND id="426" value="0"/>
 </OBJ>-->
-<OBJ id="62674" text="Football weather today.(nl)The temperature is [%game temperature] degrees and snow is in the forecast.">
+<OBJ id="62674" text="今天是打美式足球的天氣。(nl)氣溫 [%game temperature] 度，預報還會下雪。">
 <COND id="425" value="40"/>
 <COND id="422" value="5"/>
 </OBJ>
-<OBJ id="62675" text="A crisp, sunny day.(nl)The game-time temperature is [%game temperature] degrees.">
+<OBJ id="62675" text="涼爽晴朗的一天。(nl)開賽時的氣溫是 [%game temperature] 度。">
 <COND id="425" value="50"/>
 <COND id="420" value="1"/>
 <COND id="422" value="1"/>
 <COND id="426" value="0"/>
 </OBJ>
-<OBJ id="62676" text="A remorseless sun beating down on [%ballpark] today.(nl)Temperatures are expected to top 100 degrees.">
+<OBJ id="62676" text="今天烈日毫不留情地曬著 [%ballpark]。(nl)氣溫預計會突破 100 度。">
 <COND id="422" value="1"/>
 <COND id="424" value="100"/>
 <COND id="420" value="1"/>
 <COND id="426" value="0"/>
 </OBJ>
-<OBJ id="62677" text="A picture perfect day.(nl)It's sunny and the temperature is [%game temperature] degrees.">
+<OBJ id="62677" text="完美無瑕的一天。(nl)陽光普照，氣溫 [%game temperature] 度。">
 <COND id="424" value="72"/>
 <COND id="425" value="80"/>
 <COND id="420" value="1"/>
 <COND id="422" value="1"/>
 <COND id="426" value="0"/>
 </OBJ>
-<OBJ id="62678" text="Fairly pleasant day.(nl)A few wispy clouds and the temperature is [%game temperature] degrees.">
+<OBJ id="62678" text="相當舒服的一天。(nl)幾絲薄雲，氣溫 [%game temperature] 度。">
 <COND id="425" value="75"/>
 <COND id="424" value="68"/>
 <COND id="422" value="2"/>
 <COND id="420" value="1"/>
 </OBJ>
-<OBJ id="62993" text="A delightfully cool day.(nl)Mostly cloudy and the temperature is [%game temperature] degrees.">
+<OBJ id="62993" text="涼爽宜人的一天。(nl)多雲，氣溫 [%game temperature] 度。">
 <COND id="425" value="63"/>
 <COND id="424" value="59"/>
 <COND id="422" value="2"/>
 </OBJ>
-<OBJ id="62994" text="A cool, dreary day.">
+<OBJ id="62994" text="涼颼颼又有點沉悶的一天。">
 <COND id="425" value="60"/>
 <COND id="424" value="55"/>
 <COND id="422" value="2"/>
 </OBJ>
-<OBJ id="63075" text="Chamber of Commerce weather!(nl)[%game temperature] degrees and not a cloud in the sky.">
+<OBJ id="63075" text="簡直是觀光局的宣傳天氣！(nl)氣溫 [%game temperature] 度，天上一片雲也沒有。">
 <COND id="425" value="75"/>
 <COND id="422" value="1"/>
 <COND id="424" value="72"/>
 <COND id="420" value="1"/>
 </OBJ>
-<OBJ id="63076" text="Ideal baseball weather!(nl)Light breeze, [%game temperature] degrees...(nl)and not a cloud in the sky.">
+<OBJ id="63076" text="打棒球的完美天氣！(nl)微風徐徐，氣溫 [%game temperature] 度...(nl)天上一片雲也沒有。">
 <COND id="425" value="75"/>
 <COND id="422" value="1"/>
 <COND id="424" value="72"/>
 <COND id="436" value="5"/>
 <COND id="420" value="1"/>
 </OBJ>
-<OBJ id="63077" text="A gorgeous day for baseball!(nl)Sunny skies, light breeze, [%game temperature] degrees.">
+<OBJ id="63077" text="打棒球的絕佳好天氣！(nl)晴空萬里，微風徐徐，氣溫 [%game temperature] 度。">
 <COND id="425" value="75"/>
 <COND id="422" value="1"/>
 <COND id="424" value="70"/>
@@ -169690,7 +169690,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="420" value="1"/>
 <COND id="426" value="0"/>
 </OBJ>
-<OBJ id="63078" text="The temperature is [%game temperature] degrees...(nl)under clear skies.">
+<OBJ id="63078" text="氣溫 [%game temperature] 度...(nl)天空晴朗。">
 <COND id="422" value="1"/>
 <COND id="420" value="0"/>
 </OBJ><!--
@@ -169702,7 +169702,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="422" value="1"/>
 <COND id="420" value="0"/>
 </OBJ>-->
-<OBJ id="63081" text="Partly cloudy skies...(nl)but no precipitation is expected tonight.">
+<OBJ id="63081" text="多雲時晴...(nl)不過今晚預計不會下雨。">
 <COND id="422" value="2"/>
 <COND id="420" value="0"/>
 </OBJ><!--
@@ -169710,7 +169710,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="422" value="2"/>
 <COND id="420" value="0"/>
 </OBJ>-->
-<OBJ id="63083" text="Cloud cover tonight...(nl) but there's no rain in the forecast.">
+<OBJ id="63083" text="今晚雲層較厚...(nl) 不過預報沒有降雨。">
 <COND id="422" value="3"/>
 <COND id="420" value="0"/>
 </OBJ><!--
@@ -169718,7 +169718,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="422" value="3"/>
 <COND id="420" value="0"/>
 </OBJ>-->
-<OBJ id="63085" text="Rain is in the forecast tonight.">
+<OBJ id="63085" text="今晚預報有雨。">
 <COND id="422" value="4"/>
 <COND id="420" value="0"/>
 </OBJ><!--
@@ -169734,7 +169734,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="422" value="4"/>
 <COND id="420" value="0"/>
 </OBJ>-->
-<OBJ id="63099" text="A bitterly cold day at [%ballpark] today.(nl)Plenty of blankets in the stands.">
+<OBJ id="63099" text="今天 [%ballpark] 冷得刺骨。(nl)看台上滿滿都是毛毯。">
 <COND id="425" value="35"/>
 </OBJ><!--
 <OBJ id="63124" usage_chance_for_game="8" text="Picture-perfect weather!(nl)Clear skies, [%game temperature] degrees.">
