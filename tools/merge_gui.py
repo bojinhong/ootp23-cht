@@ -51,8 +51,9 @@ FALLBACK_BASE = "text/gui_translations.xml"
 DEFAULT_OLD = "text/gui_translations.xml"
 DEFAULT_OUT = "text/gui_translations.xml"
 
-# 轉繁體用的 opencc 設定。s2tw = 簡體 -> 台灣正體字，只換字不換詞。
-# 之後若要一併把「設置/數據/信息」換成「設定/資料/資訊」，改成 s2twp 再重跑。
+# 轉繁體用的 opencc 設定。s2tw = 簡體 -> 台灣正體字，只換字不換詞；
+# 「設置/數據/信息」這類詞交給下面的 TERM_FIXES 處理，不用 s2twp（它會連
+# 不該換的地方一起換）。
 OPENCC_CONFIG = "s2tw"
 
 # 只有這兩段的 <CN> 堪用，可以拿來自動填 <KR>
@@ -139,7 +140,7 @@ OVERRIDES_HCS = {
     "23349": "排名卡片",
     "23350": "從錦標賽排名中獲得卡片",               # standing 不是站立
     "23352": "準備球隊圖像",
-    "23353": "該球員尚未通過釋出程序",               # waivers = 釋出
+    "23353": "該球員尚未通過讓渡程序",               # waivers = 讓渡
     "23355": "您確定要從關注清單中移除所有球員嗎",
     "23360": "使用 3D 開包畫面",
     "23362": "DEF潛力",                              # Pot = Potential，不是鍋
@@ -224,6 +225,67 @@ OVERRIDES_HCS = {
     "23547": "已選擇的自選卡包",                     # CN 是「精選精選包」
     "23548": "選擇了一個自選卡包",
     "23549": "Topps BUNT 系列",
+
+    # 用詞統一時挑出來的機翻錯譯
+    "112": "%ln 已公佈本次擴編競標的得標球隊！新球隊為 %t",
+    "469": "歷史演進設定",
+    "969": "使用左右方向鍵切換守備佈陣",
+    "1029": "最低素質",
+    "1141": "用來衡量球員生涯整體水準（而非巔峰價值）的分數",
+    "1604": "解除共同專員",
+    "1614": "每週模擬次數",
+    "1698": "素質：%qual，球員：%players",
+    "1779": "將 OOOL 使用者設為共同專員",
+    "1781": "您現在有一位新的共同專員。記得到「新增/編輯總教練」對話視窗，"
+            "把新的共同專員指派給某位人類總教練",
+    "1793": "您已在 OOOL 解除該共同專員。如有需要，請自行到「新增/編輯總教練」"
+            "對話視窗手動解除",
+    "1962": "這會檢查所有球隊與聯盟，確認附屬球隊的連結正確。要繼續嗎",
+    "2410": "歷來戰績",
+    "2430": "一般排名",
+    "2633": "Out of the Park 新聞",
+    "2836": "注意！附加元件並非由 OOTP Developments 正式認可或提供支援，使用風險"
+            "請自負。所有版權與商標均屬於各自的擁有者。本頁的網頁連結可能連往"
+            "OOTP Developments 無法掌控的網站，OOTP Developments 對這些網站及其"
+            "提供的附加元件內容概不負責",
+    "2880": "正在安裝創意工坊項目",
+    "3272": "恭喜，您以 %dPP 買下了 %s。他會出現在您的預備名單，或以非現役卡片的"
+            "形式留在卡片收藏列表中，可從主選單的「管理卡片」進入",
+    "3916": "Fira Sans 標準",
+    "3917": "Barlow 標準",
+    "4192": "一般卡包",
+    "4193": "一般卡包",
+    "4466": "快速成績表 客隊",
+    "4973": "例行球處理數",
+    "5073": "例行球",
+    "5116": "例行球比例",
+    "5700": "球探目標",
+    "6041": "專員中心",
+    "6221": "匯入一般 PT 聯盟名單",
+    "6291": "Out of the Park Baseball",
+    "7304": "顯示待辦清單",
+    "9914": "例行守備之間的延遲",
+    "10797": "點此返回一般主畫面",
+    "11031": "一般聯盟新聞",
+    "11349": "系列賽戰成 %d 平手",
+    "12344": "標準",
+    "12592": "目前沒有進行中的投球",
+    "13570": "您提交了以下合約金額",
+    "16115": "Roboto 標準 (OOTP 18",
+    "16157": "無法前往成績看板",
+    "16524": "這個聯盟不適用一般的高中／大學規則",
+    "18332": "wRC",
+    "19684": "有限專員可以執行模擬與處理交易，但不能使用設定或編輯器",
+    "23497": "由於違反使用條款，您使用卡片商店的權限已暫時受限",
+    "7960": "OOTP Developments",
+    "16980": "佈局",                                 # SU = setup man 的欄位縮寫
+    "8210": "變速球品質潛力",                        # changeup 被機翻成「改變」
+    "8212": "變速球潛力",
+    "8240": "變速球品質",
+    "6931": "使用在網路商店買到的金鑰代碼兌換完美積分",
+    "13581": "季後賽設定",                           # PLAY_OFF 被當成「播放關閉」
+    "17204": "Out of the Park Baseball 手冊",
+    "17851": "並攻下 %s 分",                          # runs 是得分，不是「執行」
 }
 
 # TEAM_NAMES / TEAM_NICKNAMES 整體還沒中文化，這裡只補舊檔殘留的簡體字。
@@ -231,10 +293,137 @@ OVERRIDES_TEAM = {
     "21658": "韓華鷹",              # 舊檔寫成「韓华鹰隊」
 }
 
+# 佔位符（%player、{nl}…）被機翻吃掉或翻成中文的，遊戲跑起來會直接顯示錯字或
+# 少掉一段資訊。這裡照 <EN> 把佔位符補回去。
+OVERRIDES_PH = {
+    "95": "聯盟官員剛剛公佈了今年可以簽下職業合約的國際球員名單。這些球員不能簽"
+          "大聯盟合約，只能拿到含簽約金的小聯盟合約。{nl}{nl}球員名單現在可以在"
+          "聯盟選單／交易區找到。{nl}{nl}今年以下這幾位應該最受各隊關注",
+    "296": "%inn 局後",
+    "2288": "%teanname 贏得系列賽，%number1 比 %number2",
+    "2289": "%teanname 系列賽領先，%number1 比 %number2",
+    "2344": "%d 公尺",
+    "2453": "%a 保送",
+    "2595": "簽下第 %round 輪選秀權 %num_pick，簽約金 %bonus，另簽 %num_years 年、"
+            "總值 %cache_amount 的大聯盟合約",
+    "2654": "我給你的目標是在 %d 之前打進季後賽，我的期限還沒到",
+    "2754": "%tournament 的名單尚未選定，%team 的名單無效。請先確定名單再繼續",
+    "3083": "您的總教練可以決定是否僱用 %position",
+    "3788": "%number1 次 %league 季後賽，%number2 座 %championship 冠軍",
+    "3792": "SP: %letter %playername",
+    "4130": "桌面尺寸：%d x %d",
+    "4674": "有 %nskipped 份延長合約談不攏，必須個別再談",
+    "5049": "%player 對 %team 打出 %d1-%d2，%d3 場的連續安打紀錄就此中止",
+    "5340": "%bf 人次",
+    "5675": "%playername 的救援成功數在 %league 排名第 %number，共 %nums 次",
+    "5677": "%playername 的三振數在 %league 排名第 %number，共 %numk 次",
+    "5681": "投球局數排名第 %number，共 %numip 局",
+    "6226": "%d 公尺",
+    "6408": "專員辦公室通知您，%player 拒絕了合格報價，他將成為自由球員",
+    "6409": "專員辦公室通知您，%player 拒絕仲裁，他將成為自由球員",
+    "7602": "早安 %h，{nl}我一直在關注獨立聯盟，發現一位可能為球隊帶來價值的球員："
+            "%o %p。{nl}{nl}%r您有 14 天可以簽下他，之後他就能與其他球隊簽約。該球員"
+            "已加入您的候補名單。{nl}{nl}問候，{nl}%c",
+    "7823": "與 %teamname 一起贏得 %year 年 %association %championship",
+    "9010": "我不覺得這還有什麼好爭的，這是史上集結過最強的一支球隊。從我訂下這個"
+            "目標以來拿了 %number1 勝，過去 %year 年間又拿下 %number1 座冠軍，這支"
+            "球隊的成就讓我目瞪口呆",
+    "9106": "%c 這個項目，哪位 %a投手的生涯成績領先 %l",
+    "9538": "%player 被禁賽 %n 場",
+    "9688": "錯誤：無法將線上聯盟狀態報告上傳到 %path。%error",
+    "9811": "風：%direction，%speed mph",
+    "9812": "風：%direction，%speed km/h",
+    "9868": "風 %direction %speed mph",
+    "9869": "風 %direction %speed km/h",
+    "9898": "%win 勝，%playoff 季後賽",
+    "9989": "這支球隊的成就讓我非常興奮。過去 %year 年拿下 %win 座 %championship，"
+            "足以讓這支球隊躋身史上最偉大之列。談到 %number1-%number2 的 %teamname，"
+            "唯一的問題只剩下：這是一支偉大的球隊，還是最偉大的球隊",
+    "10018": "錯誤：無法從伺服器匯入球隊 %teamname。%error",
+    "10264": "限量版 - 第 %number 張，共 %total 張",
+    "10389": "左外野邊線：%n 公尺（牆高 %w 公尺",
+    "10390": "左外野：%n 公尺（牆高 %w 公尺",
+    "10391": "左中外野：%n 公尺（牆高 %w 公尺",
+    "10392": "中外野：%n 公尺（牆高 %w 公尺",
+    "10393": "右中外野：%n 公尺（牆高 %w 公尺",
+    "10394": "右外野：%n 公尺（牆高 %w 公尺",
+    "10395": "右外野邊線：%n 公尺（牆高 %w 公尺",
+    "10403": "註記 %d",
+    "11280": "除錯資訊；桌面尺寸：%d x %d",
+    "11719": "%m,(nl)(nl)您剛從球隊老闆 %o 得知，最新研究顯示 %team 的市場規模已降至"
+             "「%market_size",
+    "11720": "%m,(nl)(nl)您剛從球隊老闆 %o 得知，最新研究顯示 %team 的市場規模已增加到"
+             "「%market_size",
+    "11768": "您剛從球隊訓練員得知，%name 的 %injury 在復原過程中出現反覆",
+    "11801": "看您現在和過去的成績，我對您的整體表現感到 %mood。場上和董事會的成功"
+             "一樣重要，而您看起來正走在這條路上",
+    "11807": "我對您的表現仍然感到 %mood，但希望這支球隊能拿出更多東西",
+    "11901": "自 %nation 與 %organization 簽下小聯盟合約（簽約金 %money）",
+    "11902": "與 %organization 簽下小聯盟合約（簽約金 %money）",
+    "11908": "%y 年 %a 得主",
+    "11914": "%a 歲的 %p",
+    "11999": "%nick_name 身為 %league_name 球隊的 %num_years 年間，共 %num_made 次"
+             "打進季後賽。這次是球隊連續第 %num_str_missed 次無緣季後賽，上次打進"
+             "季後賽是在 %year_last",
+    "12569": "%playename 以 %numberd 支二壘安打追平 %gametype 比賽紀錄",
+    "12574": "%playername 以 %numberhr 支全壘打追平 %gametype 比賽紀錄",
+    "12651": "二壘跑者搶進三壘，安全上壘，球傳向後面的跑者，出局！_t_",
+    "12689": "%n 以 %a 締造 %l 生涯 %c 的歷史紀錄！(nl)恭喜 %f！了不起的成就",
+    "12690": "%n 以 %a 追平 %o，(nl)並列單一 %s 第 %p 多的 %c",
+    "12693": "%n 的生涯 %c 已經是 %l 史上第 %p 多(nl)，累積 %a！(nl)他的生涯已經"
+             "相當精彩",
+    "13795": "除錯資訊; get_window_width(): %d x %d",
+    "14162": "您今天還可以進行 %n 次 %m 商店嘗試",
+    "14334": "%year：%pct%",
+    "15871": "%coach (%job - %rating",
+    "15961": "%playername (%teamname) 的 %bodypart 受了 %degree 傷勢，診斷尚未完成，"
+             "預計未來幾天會有結果",
+    "16003": "%team 的正式名單球員人數不合規定！(%nplayers",
+    "16417": "LE (%number/%total",
+    "16478": "剩餘比賽總數：%total（主場 %home 場，客場 %away 場",
+    "17463": "%position 的 %award",
+    "17683": "衛冕 %a 得主",
+    "18234": "get_window_width(): %d x %d",
+    "18361": "他在 %sl 以 %a %c 排名第 %p",
+    "18762": "nl)我對你完成我交付目標的表現感到 %mood",
+    "18792": "nl)在我們共事的期間，我對你朝著我設定的目標前進的進度一直感到 %mood",
+    "19654": "會先搜尋該球場的專屬資料夾，接著才是一般聲音資料夾。檔案的使用順序為："
+             "{nl}-BBRef ID/Historical Minors ID%bbr{nl}-Full Name (%fn){nl}"
+             "-Short Name (%sn){nl}-Player ID (%pid",
+    "22968": "發生錯誤，無法取得卡片商店資料。{nl}請再試一次。如果錯誤仍然存在，"
+             "請嘗試重新啟動 OOTP",
+    "22969": "發生錯誤，無法建立買單。{nl}請確認您有足夠的完美積分再試一次。如果"
+             "錯誤仍然存在，請嘗試重新啟動 OOTP",
+    "23026": "建立賣單是為了在市場上賣卡。賣方掛出價格，以最低價優先成交。當另一位"
+             "使用者掛出的買單價格等於或高於目前最低掛價時就會成交。卡片會以最低價"
+             "賣出；若同一價格有多筆掛單，最早掛出的先成交。{nl}{nl}以賣單掛出的"
+             "球員卡會自動從名單中移除並停用。若取消掛單，需要到收藏畫面重新啟用該卡",
+    "23062": "發生錯誤，無法建立賣單。{nl}請確認您有足夠的完美積分再試一次。如果"
+             "錯誤仍然存在，請嘗試重新啟動 OOTP",
+    "14557": "在這裡可以找到 %teamname 組織裡的年輕國際球員，他們是被首席球探"
+             "發掘、或從國際業餘新秀庫簽下來的。國際訓練中心的球員人數上限為 "
+             "%number，年滿 20 歲的球員會在聯盟公佈年度國際業餘新秀庫之前自動"
+             "升上您的預備名單。國際訓練中心滿員時，您的球探就不會再發掘新人。"
+             "{nl}{nl}要把球員升上來，請在球員上按右鍵並使用動作選單（總教練"
+             "模式下無法使用）。國際訓練中心的球員不能交易",
+    "23131": "%league 選秀抽籤結果公佈",
+    "23218": "完美球隊宇宙中目前有 %nl 個聯盟、%nt 支球隊。您的 %t 正在 %n 出賽，"
+             "屬於 %l 聯盟。季後賽結束後（通常在週日晚上），伺服器會決定哪些球隊"
+             "晉級（先看季後賽成績，再看勝率）或降級（勝率最低者）。以您目前的層級，"
+             "%p 支球隊晉級、%r 支球隊降級。{nl}{nl}新賽季於美國東部時間週一上午 "
+             "10 點開始，新的聯盟檔案通常會提前 2 小時開放下載。祝你好運",
+    "23219": "您的 %t 目前在 %n 出賽，這是參賽池層級的聯盟。{nl}{nl}在參賽池期間，"
+             "您的球隊會在正常模擬時段內每 30 分鐘與另一位隨機選出的使用者對戰",
+    "23396": "發生錯誤，無法取得排名列表。{nl}請再試一次。如果錯誤仍然存在，請嘗試"
+             "重新啟動 OOTP",
+}
+
+
 OVERRIDES = {}
 OVERRIDES.update(OVERRIDES_TEAM)
 OVERRIDES.update(OVERRIDES_LEAGUE)
 OVERRIDES.update(OVERRIDES_HCS)
+OVERRIDES.update(OVERRIDES_PH)
 
 
 # ---------------------------------------------------------------------------
@@ -519,6 +708,221 @@ def team_value(section, i, en):
     return pair[0] if section == "TEAM_NAMES" else pair[1]
 
 
+# ---------------------------------------------------------------------------
+# 用詞統一。<CN> 是中國大陸的機翻，s2tw 只換字不換詞，所以「設置／文件／激活」
+# 這類詞還留著；這裡照順序做取代，把整份檔案的用語拉到同一套。
+#
+# 順序有意義：長詞要排在短詞前面，否則會被短詞先吃掉（用戶名 -> 使用者名稱 要
+# 排在 用戶 -> 使用者 之前）。棒球術語一律跟 text/korean.xml 對齊：
+# league = 聯盟、trade = 交易、manager = 總教練、tie = 平手、waiver = 讓渡。
+# ---------------------------------------------------------------------------
+TERM_FIXES = [
+    # 介面與電腦用語
+    ("用戶名", "使用者名稱"),
+    ("用戶", "使用者"),
+    ("文件夾", "資料夾"),
+    ("文本文件", "文字檔"),
+    ("文本框", "文字方塊"),
+    ("文本", "文字"),
+    ("文件", "檔案"),
+    ("數據庫", "資料庫"),
+    ("磁盤", "磁碟"),
+    ("應用程序", "應用程式"),
+    ("調度程序", "排程器"),
+    ("驅動程序", "驅動程式"),
+    ("顯卡", "顯示卡"),
+    ("快捷方式", "捷徑"),
+    ("設置", "設定"),
+    ("激活", "啟用"),
+    ("單擊", "點擊"),
+    ("登錄", "登入"),
+    ("注銷", "登出"),
+    ("搜索", "搜尋"),
+    ("質量", "品質"),
+    ("調試", "除錯"),
+    ("對話框", "對話視窗"),
+    ("計算機", "電腦"),
+    ("粘貼", "貼上"),
+    ("緩存", "快取"),
+    ("網絡", "網路"),
+    ("內存", "記憶體"),
+    ("人工智能", "人工智慧"),
+    ("智能", "智慧"),
+    ("首選項", "偏好設定"),
+    ("端口", "連接埠"),
+    ("視頻", "影片"),
+    ("加載", "載入"),
+    ("線程", "執行緒"),
+    ("操作系統", "作業系統"),
+    ("菜單", "選單"),
+    ("異步", "非同步"),
+    ("圖標欄", "圖示列"),
+    ("圖標", "圖示"),
+    ("上載", "上傳"),
+    ("全屏", "全螢幕"),
+    ("屏幕", "螢幕"),
+    ("分辨率", "解析度"),
+    ("添加", "新增"),
+    ("保存", "儲存"),
+    ("存儲", "儲存"),
+    ("全局", "全域"),
+    (r"在線(?!上)", "線上"),
+    ("互聯網", "網際網路"),
+    ("打開", "開啟"),
+    ("運行", "執行"),
+    ("自定義", "自訂"),
+    ("剪貼板", "剪貼簿"),
+    ("字符串", "字串"),
+    ("嚮導", "精靈"),
+    ("跟蹤", "追蹤"),
+    ("模板", "範本"),
+    ("界面", "介面"),
+    ("獲取", "取得"),
+    ("刷新", "重新整理"),
+    ("支持", "支援"),
+    ("附加組件", "附加元件"),
+    ("插件", "外掛"),
+    ("滾動", "捲動"),
+    ("窗口", "視窗"),
+    ("複選框", "核取方塊"),
+    ("工具欄", "工具列"),
+    ("任務欄", "工作列"),
+    ("控件", "控制項"),
+    ("代碼", "程式碼"),
+    (r"解壓(?!縮)", "解壓縮"),
+    ("賬戶", "帳戶"),
+    ("賬號", "帳號"),
+    ("鏈接", "連結"),
+    ("密鑰", "金鑰"),
+    ("收藏夾", "收藏"),
+    ("實時", "即時"),
+    ("圖像", "影像"),
+    ("車間", "創意工坊"),
+    ("後臺", "背景"),
+    ("模擬人生", "模擬"),
+    (r"佈局(?!投手)", "版面"),   # setup man 的「佈局投手」不能動
+    ("高亮", "精彩片段"),
+    ("峯值", "巔峰"),
+    ("注意力！", "注意！"),
+    (r"(?<!球)隊列", "佇列"),    # 「球隊列表」不是佇列
+    ("條目池", "參賽池"),
+
+    # 棒球與遊戲術語
+    ("貿易", "交易"),
+    ("花名冊", "名單"),
+    ("聯賽", "聯盟"),
+    ("經理人", "總教練"),
+    (r"(?<!總)經理", "總教練"),
+    ("人工管理人員", "人類總教練"),
+    ("管理器", "總教練"),
+    ("上帝模式", "專員模式"),
+    ("委員會", "專員"),
+    ("合同", "合約"),
+    ("平局", "平手"),
+    ("賽區", "分區"),
+    ("公園", "球場"),
+    ("棄權", "讓渡"),
+    ("包裝", "卡包"),
+    ("偵察", "球探"),
+    ("對象", "物件"),
+    ("設備", "裝置"),
+    ("性能", "效能"),
+    ("崩潰", "當機"),
+    ("父母聯盟", "母聯盟"),
+    ("單打擊員", "點擊球員"),      # 舊檔錯字，原意是「右鍵點擊球員姓名」
+
+    # s2tw 沒換到位的異體字，一律用教育部的寫法
+    ("啓", "啟"),
+    ("裏", "裡"),
+    ("爲", "為"),
+    ("着", "著"),
+    ("麪", "面"),
+    ("籤約", "簽約"),
+    ("幹得", "做得"),
+    ("幹擾", "干擾"),
+]
+TERM_FIXES = [(re.compile(p), r) for p, r in TERM_FIXES]
+
+# 同一個詞在不同英文原句裡要翻成不同的中文，只能看 <EN> 決定。
+def _pick_info(en):
+    return "訊息" if "message" in en else "資訊"
+
+
+def _pick_news(en):
+    return "消息" if "news" in en else "訊息"
+
+
+def _pick_data(en):
+    # 球員成績叫「數據」，其餘的 data 是「資料」
+    return "數據" if "stat" in en else "資料"
+
+
+def _pick_visit(en):
+    return "造訪" if "visit" in en else "進入"
+
+
+def _pick_regular(en):
+    if "routine" in en:
+        return "例行"
+    if "regular season" in en or "post-season" in en or "postseason" in en:
+        return "例行賽"
+    return "一般"
+
+
+def _pick_program(en):
+    # program / app 才是「程式」，其餘的 procedure 保留「程序」
+    return "程式" if ("program" in en or "app" in en or "software" in en) else "程序"
+
+
+def _pick_profile(en):
+    return "個人資料" if "profile" in en else "設定檔"
+
+
+def _make_waiver(word):
+    # waiver 一律叫「讓渡」，release 才是「釋出」。舊檔兩者混用，看 <EN> 拆開。
+    def pick(en):
+        return "讓渡" if "waiver" in en else word
+    return pick
+
+
+EN_TERM_FIXES = [
+    (re.compile("信息"), _pick_info),
+    (re.compile("消息"), _pick_news),
+    (re.compile("數據"), _pick_data),
+    (re.compile("訪問"), _pick_visit),
+    (re.compile("常規"), _pick_regular),
+    (re.compile("程序"), _pick_program),
+    (re.compile("配置檔案"), _pick_profile),
+    (re.compile("釋出"), _make_waiver("釋出")),
+    (re.compile("豁免"), _make_waiver("豁免")),
+    (re.compile("放棄"), _make_waiver("放棄")),
+]
+
+# 前面幾輪取代完才會冒出來的疊字，最後再掃一次
+POST_FIXES = [
+    ("{nl }", "{nl}"),          # 機翻把換行標記中間插了空白，遊戲會照字面印出來
+    ("{ nl}", "{nl}"),
+    ("資料資料夾", "資料夾"),   # application data folder，兩個「資料」很拗口
+    ("個人資料資料", "個人資料"),
+]
+
+TERM_SKIP_SECTIONS = TEAM_SECTIONS | {"TEAM_ABBR"}
+
+
+def apply_terms(section, en, value):
+    """把用詞統一套到一筆 <KR> 上。球隊名稱與英文縮寫不動。"""
+    if section in TERM_SKIP_SECTIONS:
+        return value
+    for pat, repl in TERM_FIXES:
+        value = pat.sub(repl, value)
+    en = en.lower()
+    for pat, pick in EN_TERM_FIXES:
+        value = pat.sub(pick(en), value)
+    for a, b in POST_FIXES:
+        value = value.replace(a, b)
+    return value
+
+
 def load_opencc():
     try:
         from opencc import OpenCC
@@ -551,6 +955,27 @@ def simplified_only_chars():
     return out - tw_standard
 
 
+PLACEHOLDER_RE = re.compile(r"%[A-Za-z_][A-Za-z0-9_]*|%\d*[dscfn]\b|\{nl\}")
+
+
+def placeholders_match(en, kr):
+    """<KR> 的佔位符要跟 <EN> 一樣多、一樣是那幾個。
+
+    英文那邊有些是 %r / %a 直接黏著後面的字（%rstarting、%apitchers），切不開，
+    所以中文的佔位符只要是英文那一個的開頭就算對得上。
+    """
+    want, got = sorted(PLACEHOLDER_RE.findall(en)), PLACEHOLDER_RE.findall(kr)
+    if sorted(got) == want:
+        return True
+    rest = list(got)
+    for token in want:
+        hit = next((g for g in rest if token.startswith(g)), None)
+        if hit is None:
+            return False
+        rest.remove(hit)
+    return not rest
+
+
 def read(path):
     with open(path, encoding="utf-8", newline="") as f:
         return f.read()
@@ -575,7 +1000,8 @@ def parse(path):
 def merge(base, old, out_path):
     convert = load_opencc()
     old_entries = parse(old)
-    stats = dict(team=0, override=0, kept=0, from_cn=0, from_en=0, untouched=0)
+    stats = dict(team=0, override=0, kept=0, from_cn=0, from_en=0, untouched=0,
+                 terms=0)
 
     def fix_section(sm):
         section = sm.group("sec")
@@ -611,8 +1037,15 @@ def merge(base, old, out_path):
                     return m.group(0)
                 stats["from_en"] += 1
             else:
+                # 沒有新值，但既有的中文一樣要跑用詞統一
+                new = cur
                 stats["untouched"] += 1
-                return m.group(0)
+
+            fixed = apply_terms(section, html.unescape(tag_value(body, "EN") or ""),
+                                new)
+            if fixed != new:
+                stats["terms"] += 1
+            new = fixed
 
             if new == cur:
                 return m.group(0)
@@ -635,6 +1068,7 @@ def merge(base, old, out_path):
     print(f"  由 <CN> 轉繁填入    : {stats['from_cn']}")
     print(f"  無中文、退回英文    : {stats['from_en']}")
     print(f"  原樣保留基底        : {stats['untouched']}")
+    print(f"  其中被用詞統一改到  : {stats['terms']}")
 
 
 def verify(out_path, base, old):
@@ -666,7 +1100,8 @@ def verify(out_path, base, old):
         if (i in OVERRIDES or D[i][0] in TEAM_SECTIONS or kr is None or kr == f["CN"]
                 or not CJK_RE.search(html.unescape(kr))):
             continue
-        if i not in O or O[i][1]["KR"] != kr:
+        expect = apply_terms(D[i][0], html.unescape(f["EN"] or ""), kr)
+        if i not in O or O[i][1]["KR"] != expect:
             lost.append(i)
     print(f"  遺失的舊中文翻譯      : {len(lost)}", lost[:5] if lost else "")
     ok = ok and not lost
@@ -686,6 +1121,17 @@ def verify(out_path, base, old):
             if sim:
                 print("      簡體:", sim[:5])
             ok = ok and not han and not sim
+
+    # 佔位符掉了或被翻成中文（「%球員」「% 職位」），遊戲會直接把錯字印在畫面上
+    bad_ph = []
+    for i, (sec, f) in O.items():
+        if sec != "HARD_CODED_STRINGS" or f["KR"] is None:
+            continue
+        en, kr = html.unescape(f["EN"] or ""), html.unescape(f["KR"])
+        if not placeholders_match(en, kr):
+            bad_ph.append(i)
+    print(f"  佔位符與英文對不上    : {len(bad_ph)}", bad_ph[:5] if bad_ph else "")
+    ok = ok and not bad_ph
 
     # TEAM_BY_I 的 key 必須都真的落在球隊段裡；改版後 i 跑掉要看得出來
     in_teams = {i for i, (sec, _) in O.items() if sec in TEAM_SECTIONS}

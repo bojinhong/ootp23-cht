@@ -9,7 +9,7 @@
 
 | 檔案 | 狀態 | 備註 |
 |---|---|---|
-| `text/gui_translations.xml` | 結構完成，用詞待統一 | 五段皆無韓文、無簡體 |
+| `text/gui_translations.xml` | 完成 | 無韓文、無簡體，用詞已統一 |
 | `text/korean.xml` | **4,345 / 4,345（100%）** | 上線敘述全部中文化 |
 | `text/tutorial_data.xml` | 完成 | KR 821 + KRGROUP 647 全中文 |
 | `database/names.xml` | 完成 | 25.7 萬筆，一律退回英文原名 |
@@ -41,18 +41,42 @@ CAT 860 是季後賽戰報，320 筆、14.7 萬字元，每筆帶 8~12 個 `<CON
 逐句翻完再依原順序組回去，最後用 `apply_zh.py` 的檢查確認每一筆的佔位符都對得上。
 之後如果要再翻類似的長篇分類，這個「句子級翻譯記憶」的流程可以直接重用。
 
+## text/gui_translations.xml — 用詞統一
+
+原本的 `<KR>` 是 `<CN>` 的機翻轉繁，opencc 的 `s2tw` 只換字不換詞，所以「設置／
+文件／激活／聯賽」這些中國大陸用語整片留著，同一個名詞在不同畫面還翻得不一樣。
+這一輪把規則寫進 `tools/merge_gui.py`，跑一次就會全檔套用，共改到 3,601 筆：
+
+- **`TERM_FIXES`**：約 110 條固定取代，介面用語（設置→設定、文件→檔案、
+  激活→啟用、單擊→點擊…）加上棒球術語，術語一律跟 `text/korean.xml` 對齊——
+  league = 聯盟、trade = 交易、manager = 總教練、tie = 平手、waiver = 讓渡。
+  順序有意義，長詞要排在短詞前面（經理人→總教練 得排在 經理→總教練 之前，
+  否則會變成「總教練人」）。
+- **`EN_TERM_FIXES`**：同一個詞要看 `<EN>` 才知道怎麼翻的。news 是「消息」、
+  message 是「訊息」；data 在成績欄位留「數據」、其餘是「資料」；waiver 是
+  「讓渡」、release 才是「釋出」。
+- 順手把 s2tw 沒換到位的異體字（啓→啟、裏→裡、着→著、爲→為）一起收掉。
+
+### 佔位符修好了 89 筆
+
+機翻會把 `%player` 翻成「%球員」、把 `%position` 拆成「% 職位」，或是整段吃掉
+`{nl}`，遊戲會直接把錯字印在畫面上（「您的總教練可以控制僱用 % 職位」）。
+`merge_gui.py --verify` 現在會比對每一筆 `<KR>` 與 `<EN>` 的佔位符，89 筆全部
+照英文補回去，現在是 0。
+
 ## 之後可以做的事
 
-1. **`gui_translations.xml` 的用詞統一**。結構已經沒問題，剩下的是同一個名詞在
-   不同畫面翻法不一致，要靠實際進遊戲逐頁看。
+1. **實機逐頁看 `gui_translations.xml`**。用詞已經統一，剩下的是語序和語感——
+   像球場名稱（`Comerica Park` → 「克邁利卡球場」）這種音譯，靜態看不出好壞。
 2. **回頭檢視被註解掉的 52,311 筆**。目前每個分類只留一筆上線，玩久了如果覺得
    某些情境的講法太單調，可以把註解拆開再補翻。
-3. **實機驗證佔位符**。像 `[%player throws]`、`[%pitching ha word]` 這類會由遊戲
+3. **實機驗證 korean.xml 的佔位符**。像 `[%player throws]`、`[%pitching ha word]` 這類會由遊戲
    自己填字的標記，中文語序下讀起來順不順，只能實際跑一季才知道。
 
 ## 工具怎麼用
 
 ```
+python3 tools/merge_gui.py --verify                               # 介面文字：用詞、佔位符
 python3 tools/merge_korean.py --todo | awk -F'\t' '$1=="831"'   # 列出某分類還沒翻的
 python3 tools/apply_zh.py batch.tsv --check                      # 只檢查譯文不寫檔
 python3 tools/apply_zh.py batch.tsv                              # 套用
