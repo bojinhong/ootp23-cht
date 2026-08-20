@@ -65379,7 +65379,7 @@
         </HCS>
         <HCS i="9516">
             <EN>The following players on your active roster are injured:{nl}&#37;t{nl}Please check your &lt;IL screen:page#&#37;p&gt;</EN>
-            <KR>您的正式名單中的以下球員受傷：{nl}&#37;t{nl}請檢查您的 &lt;IL 畫面：頁面#&#37;p&gt;</KR>
+            <KR>您的正式名單中的以下球員受傷：{nl}&#37;t{nl}請檢查您的 &lt;IL 畫面:page#&#37;p&gt;</KR>
             <ES>Los siguientes jugadores de tu plantilla activa están lesionados:{nl}&#37;t{nl}Consulta tu &amp;lt;pantalla de IL:página#&#37;p&amp;gt;</ES>
             <JP>アクティブな名簿上の次のプレーヤーが負傷しています：{nl}％t {nl} &amp;lt;IL画面：page＃％p&amp;gt;を確認してください</JP>
             <CN>您现役名单中的以下球员受伤：{nl}&#37;t{nl}请检查您的 &amp;lt;IL 屏幕：页面#&#37;p&amp;gt;</CN>
@@ -65421,14 +65421,14 @@
         </HCS>
         <HCS i="9522">
             <EN>The &#37;l salary arbitration hearings are coming up. Please check your &lt;arbitration offers:page#&#37;p&gt;</EN>
-            <KR>&#37;l 薪資仲裁聽證會即將舉行。請檢查您的&lt;仲裁報價：頁面#&#37;p&gt;</KR>
+            <KR>&#37;l 薪資仲裁聽證會即將舉行。請檢查您的&lt;仲裁報價:page#&#37;p&gt;</KR>
             <ES>Se acercan las audiencias de arbitraje salarial de &#37;l. Consulte sus &amp;lt;ofertas de arbitraje: página#&#37;p&amp;gt;</ES>
             <JP>％lの給与仲裁審理が近づいています。 &amp;lt;仲裁オファー：page＃％p&amp;gt;を確認してください</JP>
             <CN>&#37;l 工资仲裁听证会即将举行。请检查您的&amp;lt;仲裁报价：页面#&#37;p&amp;gt;</CN>
         </HCS>
         <HCS i="9523">
             <EN>The &#37;l expansion draft is coming up. Please submit your &lt;protection list:page#&#37;p&gt;</EN>
-            <KR>&#37;l 擴張選秀即將發佈。請提交您的&lt;保護名單：頁面#&#37;p&gt;</KR>
+            <KR>&#37;l 擴張選秀即將發佈。請提交您的&lt;保護名單:page#&#37;p&gt;</KR>
             <ES>Se acerca el borrador de la expansión &#37;l. Envíe su &amp;lt;protection list:page#&#37;p&amp;gt;</ES>
             <JP>％l拡張ドラフトが近づいています。 &amp;lt;保護リスト：page＃％p&amp;gt;を送信してください</JP>
             <CN>&#37;l 扩展草案即将发布。请提交您的&amp;lt;保护列表：页面#&#37;p&amp;gt;</CN>
@@ -97929,7 +97929,7 @@
         </HCS>
         <HCS i="14214">
             <EN>The following player(s) can now be activated from the injured list:{nl} &#37;t{nl}{nl}Please check your &lt;IL screen:page#&#37;p&gt;</EN>
-            <KR>現在可以從傷兵名單中啟用以下球員：{nl} &#37;t{nl}{nl}請檢查您的 &lt;IL 螢幕：頁面#&#37;p&gt;</KR>
+            <KR>現在可以從傷兵名單中啟用以下球員：{nl} &#37;t{nl}{nl}請檢查您的 &lt;IL 螢幕:page#&#37;p&gt;</KR>
             <ES>Los siguientes jugadores ahora pueden ser activados de la lista de lesionados:{nl} &#37;t{nl}{nl}Por favor revise su &amp;lt;pantalla IL:page#&#37;p&amp;gt;</ES>
             <JP>これで、負傷者リストから次のプレーヤーをアクティブ化できます。{nl}％t {nl} {nl} &amp;lt;IL画面：page＃％p&amp;gt;を確認してください</JP>
             <CN>现在可以从受伤名单中激活以下球员：{nl} &#37;t{nl}{nl}请检查您的 &amp;lt;IL 屏幕：页面#&#37;p&amp;gt;</CN>
@@ -100224,7 +100224,7 @@
         <HCS i="14553">
             <EN>Use drag &amp; drop to move players between rosters. The limit of active players is &#37;number1, the limit of the reserve roster is &#37;number2, for a total number of activated player cards of 200 (a minimum of 10 pitchers and 15 position players). Players demoted to the reserve roster must remain there for at least 14 days. Only one card per player is allowed on the active roster. {nl}In order to improve performance, we suggest to keep your reserve roster small and sell unused cards on the marketplace. To do so, please right-click on the player name and select &quot;Sell this card now&quot; or &quot;Put card up for auction&quot;. To manage your inactive player cards, please visit your &lt;card collection screen:page#&#37;number3&gt;</EN>
             <DC>translate the card collection screen part, but leave page# untranslated</DC>
-            <KR>使用拖放在名單之間移動球員。現役球員上限為 &#37;number1，預備名單上限為 &#37;number2，啟用球員卡總數為 200（最少 10 名投手和 15 名野手）。被降級到預備隊名單的球員必須在那裡至少呆 14 天。每個球員只能在正式名單上使用一張牌。 {nl}為了提高效能，我們建議您保持小規模的預備名單，並在市場上出售未使用的卡。為此，請右鍵點擊球員姓名並選擇“立即出售此卡”或“將卡拍賣”。要管理您的非活動球員卡片，請造訪您的&lt;卡片收集畫面：頁面#&#37;number3&gt;</KR>
+            <KR>使用拖放在名單之間移動球員。現役球員上限為 &#37;number1，預備名單上限為 &#37;number2，啟用球員卡總數為 200（最少 10 名投手和 15 名野手）。被降級到預備隊名單的球員必須在那裡至少呆 14 天。每個球員只能在正式名單上使用一張牌。 {nl}為了提高效能，我們建議您保持小規模的預備名單，並在市場上出售未使用的卡。為此，請右鍵點擊球員姓名並選擇“立即出售此卡”或“將卡拍賣”。要管理您的非活動球員卡片，請造訪您的&lt;卡片收集畫面:page#&#37;number3&gt;</KR>
             <ES>Use arrastrar y soltar para mover jugadores entre listas. El límite de jugadores activos es &#37;number1, el límite del roster de reserva es &#37;number2, para un total de tarjetas de jugadores activados de 200 (un mínimo de 10 lanzadores y 15 jugadores de posición). Los jugadores degradados a la lista de reserva deben permanecer allí durante al menos 14 días. Solo se permite una tarjeta por jugador en la lista activa. {nl}Para mejorar el rendimiento, le sugerimos que mantenga su lista de reserva pequeña y venda las tarjetas sin usar en el mercado. Para hacerlo, haz clic con el botón derecho en el nombre del jugador y selecciona &amp;quot;Vender esta carta ahora&amp;quot; o &amp;quot;Poner carta en subasta&amp;quot;. Para administrar sus tarjetas de jugador inactivas, visite su &amp;lt;pantalla de colección de tarjetas: página #&#37; número3&amp;gt;</ES>
             <JP>ドラッグアンドドロップを使用して、名簿間でプレーヤーを移動します。アクティブなプレーヤーの制限は％number1で、予備の名簿の制限は％number2で、アクティブなプレーヤーカードの総数は200です（最低10人のピッチャーと15人のポジションプレーヤー）。予備の名簿に降格されたプレーヤーは、少なくとも14日間そこに留まらなければなりません。アクティブな名簿には、プレーヤーごとに1枚のカードのみが許可されます。 {nl}パフォーマンスを向上させるために、予備の名簿を小さくして、未使用のカードを市場で販売することをお勧めします。これを行うには、プレーヤー名を右クリックして、[このカードを今すぐ販売する]または[カードをオークションにかける]を選択してください。非アクティブなプレーヤーカードを管理するには、&amp;lt;カード収集画面：page＃％number3&amp;gt;にアクセスしてください。</JP>
             <CN>使用拖放在名册之间移动玩家。现役球员上限为 &#37;number1，替补名单上限为 &#37;number2，激活球员卡总数为 200（最少 10 名投手和 15 名位置球员）。被降级到预备队名单的球员必须在那里至少呆 14 天。每个玩家只能在有效名单上使用一张牌。 {nl}为了提高性能，我们建议您保持小规模的储备名册，并在市场上出售未使用的卡。为此，请右键单击玩家姓名并选择“立即出售此卡”或“将卡拍卖”。要管理您的非活动玩家卡片，请访问您的&amp;lt;卡片收集屏幕：页面#&#37;number3&amp;gt;</CN>
@@ -128414,7 +128414,7 @@
         </HCS>
         <HCS i="18550">
             <EN>&lt;cast your ballot:page</EN>
-            <KR>&amp;lt;投票：頁面</KR>
+            <KR>&amp;lt;投票:page</KR>
             <ES>&amp;lt;emitir su voto: página</ES>
             <JP>&amp;lt;投票用紙をキャストする：ページ</JP>
             <CN>&amp;lt;投票：页面</CN>
@@ -129288,7 +129288,7 @@
         </HCS>
         <HCS i="18681">
             <EN>&gt; from the reports menu. The &lt;Top Minor League Systems Report:page</EN>
-            <KR>&gt; 從報告選單中。 &lt;頂級小聯盟系統報告：頁面</KR>
+            <KR>&gt; 從報告選單中。 &lt;頂級小聯盟系統報告:page</KR>
             <ES>&amp;gt; en el menú de informes. El &amp;lt;Informe de los mejores sistemas de ligas menores:página</ES>
             <JP>&amp;gt;レポートメニューから。 &amp;lt;トップマイナーリーグシステムレポート：ページ</JP>
             <CN>&amp;gt; 从报告菜单中。 &amp;lt;顶级小联盟系统报告：页面</CN>
@@ -130412,7 +130412,7 @@
         </HCS>
         <HCS i="18844">
             <EN>&lt;ballots:page</EN>
-            <KR>&amp;lt;選票：頁面</KR>
+            <KR>&amp;lt;選票:page</KR>
             <ES>&amp;lt;papeletas:página</ES>
             <JP>&amp;lt;ballots：page</JP>
             <CN>&amp;lt;选票：页面</CN>
