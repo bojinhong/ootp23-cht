@@ -95625,32 +95625,32 @@ It will be hard to improve on a campaign that saw the [%playerposition] stroke [
 
 <CAT id="654">
 <OBJ id="20964">
-<TXT>The hits just keep on coming -- especially off the red-hot bat of [%personlink]. The [%team#1link nickname] [%playerposition] got [%batting h word] in [%batting ab word] in today's [%game score] triumph over the [%team#2link nickname] at [%ballpark]. [%personname l] has now hit safely in his last [%string#1] games.(nl)(nl)Asked by reporters how it feels to experience something like this, [%personname l] said he can feel the pressure &quot;intensifying.&quot;(nl)(nl)&quot;The press coverage can get relentless at times,&quot; he said. &quot;I wish I could just go out and play the game without all this distraction, but I know that's not going to happen. I know I will just have to grin and bear it.&quot;</TXT>
+<TXT>安打一支接一支 —— 尤其是從 [%personlink] 那支火燙的棒子敲出來的。今天在 [%ballpark]、[%team#1link nickname] 以 [%game score] 擊敗 [%team#2link nickname] 的比賽中，這位 [%playerposition] [%batting ab word] 敲出 [%batting h word]，[%personname l] 最近 [%string#1] 場都有安打進帳。(nl)(nl)被記者問到經歷這種事是什麼感覺，[%personname l] 說他感覺到壓力「愈來愈大」。(nl)(nl)「媒體有時候真的追得很兇，」他說。「我希望可以單純上場打球，不用理會這些干擾，但我知道那不可能。我只能笑一笑，忍過去。」</TXT>
 <COND id="62" value="1"/>
 <COND id="162" value="4"/>
 <COND id="246" value="35"/>
 </OBJ>
 <OBJ id="20973">
-<TXT>The [%team#1link nickname] picked up the victory at [%ballpark] today, but you would have been hard-pressed to find anyone in the clubhouse talking about it. The focus was all on [%playerposition] [%personlink] and his blistering bat. [%personname l] extended his hitting streak to [%string#1] games today by going [%batting h]-for-[%batting ab] against [%team#2name].(nl)(nl)&quot;Sure we're happy that we won, but seeing [%personname f] extend his streak was also special,&quot; said a jubilant [%team#1link] manager [%team managerlink]. &quot;He's a special player who is capable of doing some amazing things at the plate.&quot;(nl)(nl)For the record, the [%team#1nickname] defeated the [%team#2link nickname] [%game score].</TXT>
+<TXT>[%team#1link nickname] 今天在 [%ballpark] 拿下勝利，但休息室裡幾乎沒人在聊這件事，焦點全在 [%playerposition] [%personlink] 那支火燙的棒子上。[%personname l] 今天面對 [%team#2name] [%batting ab] 打數 [%batting h] 安打，把連續安打場次推到 [%string#1] 場。(nl)(nl)「贏球我們當然開心，但看到 [%personname f] 延續紀錄同樣意義非凡，」[%team#1link] 總教練 [%team managerlink] 難掩喜悅地說。「他是個特別的球員，在打擊區能做出很多驚人的事。」(nl)(nl)順帶一提，[%team#1nickname] 以 [%game score] 擊敗 [%team#2link nickname]。</TXT>
 <COND id="62" value="1"/>
 <COND id="246" value="45"/>
 </OBJ>
 <OBJ id="20974">
-<TXT>[%personlink] of the [%team#1link nickname] just keeps going and going. The hot-hitting [%playerposition] went [%batting h]-for-[%batting ab] in his team's [%game score] victory over the [%team#2link nickname] at [%ballpark] and extended his hitting streak to [%string#1] games.(nl)(nl)&quot;He is definitely on a roll right now,&quot; said [%team#2nickname] manager [%team#2 managerlink]. &quot;I thought we made some good pitches against him, but he's a good hitter and he hit 'em anyway.&quot;(nl)(nl)When asked about his performance, [%personname l] said he would not mind going hitless &quot;as long as we get the win.&quot;</TXT>
+<TXT>[%team#1link nickname] 的 [%personlink] 就是停不下來。這位手感火燙的 [%playerposition] 在球隊於 [%ballpark] 以 [%game score] 擊敗 [%team#2link nickname] 的比賽中 [%batting ab] 打數 [%batting h] 安打，把連續安打場次延長到 [%string#1] 場。(nl)(nl)「他現在的狀態絕對是熱得發燙，」[%team#2nickname] 總教練 [%team#2 managerlink] 說。「我覺得我們對他投了幾顆不錯的球，但他就是好打者，照樣打得到。」(nl)(nl)談到自己的表現，[%personname l] 說只要「球隊能贏」，他不介意一場沒有安打。</TXT>
 <COND id="62" value="1"/>
 <COND id="162" value="1"/>
 </OBJ>
 <OBJ id="20975">
-<TXT>The [%team#1link nickname] may have proven to be mere mortals today as they lost [%game score] to the [%team#2link nickname], but [%personlink] continued to hit like a god.(nl)(nl)The [%playerposition] collected [%batting h word] in [%batting ab word] in the loss and extended his hitting streak to [%string#1] games.(nl)(nl)&quot;[%personname l] is playing great and is on fire right now,&quot; [%team#1nickname] manager [%team manager] said. &quot;Hopefully his play can spark the rest of our team and help us pick up some wins.&quot;(nl)(nl)[%personname l] was apparently not happy with the game and when pressed by reporters in the locker room only said &quot;nothing else matters but the loss.&quot;</TXT>
+<TXT>[%team#1link nickname] 今天以 [%game score] 敗給 [%team#2link nickname]，證明他們也是凡人，不過 [%personlink] 依舊打得像神一樣。(nl)(nl)這位 [%playerposition] 在敗戰中 [%batting ab word] 敲出 [%batting h word]，連續安打場次延長到 [%string#1] 場。(nl)(nl)「[%personname l] 打得很好，現在整個人都在燃燒，」[%team#1nickname] 總教練 [%team manager] 說。「希望他的表現能點燃全隊，幫我們多贏幾場。」(nl)(nl)[%personname l] 顯然對比賽結果不滿意，被記者在休息室追問時只丟下一句「輸球以外的事都不重要」。</TXT>
 <COND id="62" value="0"/>
 </OBJ>
 <OBJ id="21058">
-<TXT>The red-hot [%personlink] is riding high with a [%string#1]-consecutive-game hitting streak and is drawing a lot of attention at the ballpark and in the press. The [%personage]-year-old [%playerposition] continued the streak today at [%ballpark] with [%batting h word] in [%batting ab word] as the [%team#1link nickname] got the best of the [%team#2link nickname], [%game score].(nl)(nl)&quot;It's great,&quot; [%team#1name] manager [%team manager] said. &quot;The guys are having fun hitting in front of him and behind him, the fans are having fun watching him. It's been fun and exciting. Not only here, but baseball fans everywhere appreciate what is going on right now, and it has everyone on the edge of their seats wondering what he is going to do.&quot;</TXT>
+<TXT>手感火燙的 [%personlink] 帶著 [%string#1] 場連續安打的氣勢，在球場內外都成了焦點。這位 [%personage] 歲的 [%playerposition] 今天在 [%ballpark] [%batting ab word] 敲出 [%batting h word]，延續紀錄，[%team#1link nickname] 也以 [%game score] 擊敗 [%team#2link nickname]。(nl)(nl)「這太棒了，」[%team#1name] 總教練 [%team manager] 說。「排在他前後棒的球員打得很開心，球迷看得也很開心。這一切既有趣又刺激。不只是這裡，全世界的棒球迷都在關注現在發生的事，每個人都坐在椅子邊緣，想知道他接下來會做什麼。」</TXT>
 <COND id="62" value="1"/>
 <COND id="246" value="40"/>
 </OBJ>
 <OBJ id="21059">
-<TXT>He did it again.(nl)(nl)[%personlink] ran his hitting streak to [%string#1] games, collecting [%batting h word] in [%batting ab word] today.(nl)(nl)Unfortunately for [%team#1link], their hot-hitting [%playerposition] could not deliver them the win. The [%team#1nickname] were defeated [%game score] at [%ballpark] by the [%team#2link nickname].(nl)(nl)During the recent streak, the [%personage]-year-old has remained quiet, sidestepping questions with ease. Whether out of superstition or simply in an effort to avoid the spotlight, [%personlink l] has preferred to shower praise on his team.(nl)(nl)&quot;We have a better ballclub than we showed today,&quot; he told reporters after the game.</TXT>
+<TXT>他又做到了。(nl)(nl)[%personlink] 今天 [%batting ab word] 敲出 [%batting h word]，連續安打場次來到 [%string#1] 場。(nl)(nl)可惜對 [%team#1link] 來說，這位火燙的 [%playerposition] 沒能帶來勝利，[%team#1nickname] 在 [%ballpark] 以 [%game score] 敗給 [%team#2link nickname]。(nl)(nl)這波連續安打期間，這位 [%personage] 歲的球員始終低調，輕鬆閃避各種問題。不知是出於迷信還是單純想避開鎂光燈，[%personlink l] 總是把功勞推給隊友。(nl)(nl)「我們這支球隊實力比今天表現出來的更好，」他賽後告訴記者。</TXT>
 <COND id="62" value="0"/>
 <COND id="246" value="40"/>
 </OBJ><!--
@@ -95659,16 +95659,16 @@ It will be hard to improve on a campaign that saw the [%playerposition] stroke [
 <COND id="62" value="0"/>
 </OBJ>-->
 <OBJ id="21923">
-<TXT>[%personlink] extended his consecutive-game hitting streak to [%string#1] games today in the [%team#1link] [%game score] triumph over the [%team#2link nickname]. The [%personage]-year-old [%team#1nickname] [%playerposition] collected [%batting h word] in [%batting ab word].(nl)(nl)&quot;Of course it's going to end,&quot; he said. &quot;I'm just enjoying it until then.&quot;</TXT>
+<TXT>[%personlink] 今天在 [%team#1link] 以 [%game score] 擊敗 [%team#2link nickname] 的比賽中 [%batting ab word] 敲出 [%batting h word]，連續安打場次延長到 [%string#1] 場。這位 [%personage] 歲的 [%team#1nickname] [%playerposition] 依舊火燙。(nl)(nl)「這當然總有一天會結束，」他說。「在那之前我就好好享受。」</TXT>
 <COND id="62" value="1"/>
 <COND id="247" value="35"/>
 </OBJ>
 <OBJ id="21926">
-<TXT>[%personlink], [%playerposition] for the [%team#1link nickname], ran his consecutive-game hitting streak to [%string#1] games with [%batting h word] in his club's [%game score] victory today over the [%team#2link nickname] at [%ballpark] today.(nl)(nl)&quot;I don't really know why it's even happening,&quot; he said with a grin after the game. &quot;So asking me how long I can keep it up is kind of irrelevant. It'll end when it ends.&quot;</TXT>
+<TXT>[%team#1link nickname] 的 [%playerposition] [%personlink] 今天在 [%ballpark] 敲出 [%batting h word]，幫助球隊以 [%game score] 擊敗 [%team#2link nickname]，連續安打場次也來到 [%string#1] 場。(nl)(nl)「我其實不知道為什麼會這樣，」他賽後笑著說。「所以問我還能撐多久其實沒什麼意義。該結束的時候就會結束。」</TXT>
 <COND id="62" value="1"/>
 </OBJ>
 <OBJ id="21927">
-<TXT>Just like &quot;Old Man River,&quot; [%personlink] just keeps on rolling along.(nl)(nl)The veteran [%team#1link] [%playerposition] stretched his hitting streak to [%string#1] games today at [%ballpark]. He went [%batting h]-for-[%batting ab] as the [%team#1nickname] seized the [%game score] win over the [%team#2link nickname].(nl)(nl)&quot;This one is for anybody who said [%personage] is too old to be playing baseball,&quot; he joked with reporters.</TXT>
+<TXT>就像那首〈老人河〉唱的一樣，[%personlink] 就是一路向前，不曾停下。(nl)(nl)這位 [%team#1link] 的資深 [%playerposition] 今天在 [%ballpark] 把連續安打場次延長到 [%string#1] 場，[%batting ab] 打數 [%batting h] 安打，[%team#1nickname] 也以 [%game score] 擊敗 [%team#2link nickname]。(nl)(nl)「這一場獻給所有說 [%personage] 歲太老、不該再打球的人，」他對記者開玩笑說。</TXT>
 <COND id="62" value="1"/>
 <COND id="7" value="37"/>
 </OBJ><!--
@@ -95677,17 +95677,17 @@ It will be hard to improve on a campaign that saw the [%playerposition] stroke [
 <COND id="62" value="0"/>
 </OBJ>-->
 <OBJ id="21929">
-<TXT>[%team#1link] [%playerposition] [%personlink] has extended his hitting streak to [%string#1] straight games with a [%batting h]-for-[%batting ab] day. However, the [%team#2link nickname] took the [%game score] victory over the [%team#1nickname] at [%ballpark].(nl)(nl)&quot;Disappointing,&quot; [%personname l] said of the outcome.</TXT>
+<TXT>[%team#1link] 的 [%playerposition] [%personlink] 今天 [%batting ab] 打數 [%batting h] 安打，連續安打場次延長到 [%string#1] 場。不過在 [%ballpark]，[%team#2link nickname] 以 [%game score] 擊敗了 [%team#1nickname]。(nl)(nl)「很失望，」[%personname l] 這樣評論比賽結果。</TXT>
 <COND id="62" value="0"/>
 <COND id="247" value="30"/>
 </OBJ>
 <OBJ id="21930">
-<TXT>[%personlink]'s bat has been smoking lately, and it continued today as he went [%batting h]-for-[%batting ab] in a [%game score] [%team#1link nickname] triumph over the [%team#2link nickname] at [%ballpark]. The [%personage]-year-old [%playerposition] has now hit safely in [%string#1] consecutive games for the [%team#1nickname].</TXT>
+<TXT>[%personlink] 的棒子最近熱到冒煙，今天依舊如此。他在 [%ballpark] [%batting ab] 打數 [%batting h] 安打，幫助 [%team#1link nickname] 以 [%game score] 擊敗 [%team#2link nickname]。這位 [%personage] 歲的 [%playerposition] 為 [%team#1nickname] 已經連續 [%string#1] 場擊出安打。</TXT>
 <COND id="62" value="1"/>
 <COND id="247" value="30"/>
 </OBJ>
 <OBJ id="21931">
-<TXT>[%personlink] of the [%team#1link nickname] tagged [%batting h word] in today's [%game score] loss to the [%team#2link nickname] at [%ballpark] to run his hitting streak to [%string#1] straight games.(nl)(nl)&quot;I realize it's unlikely to have a [%string#1]-game streak and not have a couple losses mixed in,&quot; he said later. &quot;But it still takes the fun out of it.&quot;</TXT>
+<TXT>[%team#1link nickname] 的 [%personlink] 今天在 [%ballpark] 以 [%game score] 敗給 [%team#2link nickname] 的比賽中敲出 [%batting h word]，連續安打場次來到 [%string#1] 場。(nl)(nl)「我知道要連續 [%string#1] 場有安打、中間又完全不輸球，機率本來就不高，」他賽後說。「但這還是讓人少了一些樂趣。」</TXT>
 <COND id="62" value="0"/>
 <COND id="247" value="35"/>
 </OBJ><!--
@@ -95732,13 +95732,13 @@ It will be hard to improve on a campaign that saw the [%playerposition] stroke [
 <COND id="247" value="30"/>
 </OBJ>-->
 <OBJ id="21941">
-<TXT>At [%ballpark] today, [%team#1link] [%playerposition] [%personlink] stretched his consecutive-game hitting streak to [%string#1] games with [%batting h word] against the [%team#2link nickname]. The [%team#1nickname] took the win, [%game score].(nl)(nl)&quot;This team depends on me,&quot; he said after the game. &quot;I'm the motor here and when I'm working, as you saw today, we usually win.&quot;</TXT>
+<TXT>今天在 [%ballpark]，[%team#1link] 的 [%playerposition] [%personlink] 面對 [%team#2link nickname] 敲出 [%batting h word]，把連續安打場次延長到 [%string#1] 場。[%team#1nickname] 也以 [%game score] 拿下勝利。(nl)(nl)「這支球隊靠我，」他賽後說。「我是這裡的引擎，只要我運轉起來，就像今天這樣，我們通常都會贏。」</TXT>
 <COND id="62" value="1"/>
 <COND id="16" value="5"/>
 <COND id="162" value="7"/>
 </OBJ>
 <OBJ id="21942">
-<TXT>[%team#1link]'s [%personage]-year-old [%playerposition] [%personlink] is on a fine run at the plate. His consecutive-game hitting streak has reached [%string#1] games, doing so today by going [%batting h]-for-[%batting ab] against the [%team#2link nickname].(nl)(nl)The streak has brought a degree of attention that [%personname l] has often tried to deflect, talking about teammates' accomplishments rather than his own. After the [%team#1nickname] wrapped up their [%game score] triumph over [%team#2link] at [%ballpark] today, he downplayed his part in the victory.(nl)(nl)&quot;I got [%batting h word],&quot; he said. &quot;My contributions were no more important than those from everyone else who played today.&quot;</TXT>
+<TXT>[%team#1link] 這位 [%personage] 歲的 [%playerposition] [%personlink] 打擊狀況正好。今天他面對 [%team#2link nickname] [%batting ab] 打數 [%batting h] 安打，連續安打場次來到 [%string#1] 場。(nl)(nl)這波紀錄帶來的關注，[%personname l] 一向想辦法轉移，談的都是隊友的成績而不是自己的。今天 [%team#1nickname] 在 [%ballpark] 以 [%game score] 擊敗 [%team#2link] 之後，他刻意淡化自己在勝利中的角色。(nl)(nl)「我就是敲了 [%batting h word]，」他說。「我的貢獻沒有比今天上場的任何人更重要。」</TXT>
 <COND id="62" value="1"/>
 <COND id="162" value="4"/>
 </OBJ><!--
@@ -95747,7 +95747,7 @@ It will be hard to improve on a campaign that saw the [%playerposition] stroke [
 <COND id="62" value="0"/>
 </OBJ>-->
 <OBJ id="21944">
-<TXT>And the streak goes on.(nl)(nl)[%personlink] collected yet another hit in the [%game score] [%team#1link nickname] win over the [%team#2nickname] at [%ballpark] today. The [%team#1name] [%playerposition] finished [%batting h]-for-[%batting ab] in the game. During an extended batting practice session before the game, the famously hard-working [%personname l] had fielded questions from reporters about his hitting streak, which now sits at [%string#1] games.(nl)(nl)&quot;I'm not doing too much special,&quot; he said. &quot;I'm well-prepared and I'm just trying to get the bat on the ball and put it in play.&quot;</TXT>
+<TXT>紀錄還在延續。(nl)(nl)[%personlink] 今天在 [%ballpark] 又敲出一支安打，[%team#1link nickname] 以 [%game score] 擊敗 [%team#2nickname]。這位 [%team#1name] 的 [%playerposition] 全場 [%batting ab] 打數 [%batting h] 安打。賽前加練打擊時，以認真出名的 [%personname l] 回答了記者關於連續安打的提問，這項紀錄目前來到 [%string#1] 場。(nl)(nl)「我沒做什麼特別的事，」他說。「我準備得很充分，就是想把球棒碰到球、把球打進場內而已。」</TXT>
 <COND id="62" value="1"/>
 <COND id="162" value="6"/>
 </OBJ><!--
@@ -95760,7 +95760,7 @@ It will be hard to improve on a campaign that saw the [%playerposition] stroke [
 <COND id="62" value="1"/>
 </OBJ>-->
 <OBJ id="21947">
-<TXT>[%team#1link nickname] [%playerposition] [%personlink] was beaming today after his team finished beating the [%team#2link nickname] [%game score] at [%ballpark]. [%personname l] contributed [%batting h word] to the victory and extended his hitting streak to [%string#1] games.(nl)(nl)&quot;Life is good when the hits keep coming like they have in the last few weeks,&quot; he said at his postgame press conference. &quot;I hope I can keep it up a little while longer.&quot;</TXT>
+<TXT>[%team#1link nickname] 的 [%playerposition] [%personlink] 今天在 [%ballpark] 以 [%game score] 擊敗 [%team#2link nickname] 後笑得合不攏嘴。[%personname l] 為這場勝利貢獻 [%batting h word]，連續安打場次也延長到 [%string#1] 場。(nl)(nl)「像最近這幾週一樣安打一直來，人生真的很美好，」他在賽後記者會上說。「希望我能再多撐一陣子。」</TXT>
 <COND id="62" value="1"/>
 <COND id="246" value="35"/>
 </OBJ><!--
@@ -95769,12 +95769,12 @@ It will be hard to improve on a campaign that saw the [%playerposition] stroke [
 <COND id="62" value="0"/>
 </OBJ>-->
 <OBJ id="21949">
-<TXT>The [%team#2link nickname] knocked off the [%team#1link nickname] today by the score of [%game score], but [%team#1name] [%playerposition] [%personlink] still managed to extend his hitting streak to [%string#1] games. He finished the day with [%batting h word] in [%batting ab word], but made clear in postgame comments that he was upset with the loss.(nl)(nl)&quot;I don't know why you all are asking me about losing,&quot; he chided reporters. &quot;I did my part. Go ask one of the guys who didn't do anything.&quot;</TXT>
+<TXT>[%team#2link nickname] 今天以 [%game score] 擊敗 [%team#1link nickname]，但 [%team#1name] 的 [%playerposition] [%personlink] 仍把連續安打場次延長到 [%string#1] 場。他全場 [%batting ab word] 敲出 [%batting h word]，不過賽後談話明白顯示他對輸球很不滿。(nl)(nl)「我不懂你們為什麼要來問我輸球的事，」他數落記者。「我把我該做的做完了。去問那些什麼都沒做的人吧。」</TXT>
 <COND id="62" value="0"/>
 <COND id="162" value="2"/>
 </OBJ>
 <OBJ id="21950">
-<TXT>The [%team#1link nickname] suffered a [%game score] setback today at the hands of the [%team#2link nickname] at [%ballpark], but hot-hitting [%personlink] went [%batting h]-for-[%batting ab] and kept his consecutive-game hitting streak alive. The hometown crowd burst into cheers when the popular [%playerposition] extended his streak to [%string#1] games.(nl)(nl)&quot;The streak feels fine, but I'm sorry we couldn't send these fans home with a win,&quot; [%personname l] said.</TXT>
+<TXT>[%team#1link nickname] 今天在 [%ballpark] 以 [%game score] 敗給 [%team#2link nickname]，但手感火燙的 [%personlink] [%batting ab] 打數 [%batting h] 安打，延續了連續安打紀錄。當這位人氣極高的 [%playerposition] 把紀錄推到 [%string#1] 場時，主場球迷爆出一陣歡呼。(nl)(nl)「紀錄延續下去的感覺很好，但很抱歉沒能讓這些球迷帶著一場勝利回家，」[%personname l] 說。</TXT>
 <COND id="62" value="0"/>
 <COND id="198" value="0"/>
 <COND id="162" value="5"/>
@@ -95788,7 +95788,7 @@ It will be hard to improve on a campaign that saw the [%playerposition] stroke [
 <COND id="62" value="1"/>
 </OBJ>-->
 <OBJ id="21953">
-<TXT>[%team#1link]'s [%personlink] went [%batting h]-for-[%batting ab] in the [%team#1nickname] [%game score] victory over the [%team#2link nickname] at [%ballpark] today. The performance stretched his hitting streak to [%string#1] games.(nl)(nl)&quot;I'm in a groove right now, and I'm trying not to change anything,&quot; the [%personage]-year-old joked with reporters after the game. &quot;These socks I'm wearing, I've had them on for [%string#1] games. Same jersey on for [%string#1] games. Jock, [%string#1] games. Honestly, I'm kind of hoping it ends just so I can finally do some laundry.&quot;</TXT>
+<TXT>[%team#1link] 的 [%personlink] 今天在 [%ballpark] [%batting ab] 打數 [%batting h] 安打，[%team#1nickname] 以 [%game score] 擊敗 [%team#2link nickname]，他的連續安打場次也來到 [%string#1] 場。(nl)(nl)「我現在手感正順，什麼都不想改，」這位 [%personage] 歲的球員賽後對記者開玩笑說。「我腳上這雙襪子已經穿了 [%string#1] 場，同一件球衣穿了 [%string#1] 場，護具也是 [%string#1] 場。老實說，我有點希望紀錄趕快結束，這樣我終於可以去洗衣服了。」</TXT>
 <COND id="62" value="1"/>
 <COND id="162" value="8"/>
 </OBJ><!--
@@ -95798,7 +95798,7 @@ It will be hard to improve on a campaign that saw the [%playerposition] stroke [
 <COND id="162" value="8"/>
 </OBJ>-->
 <OBJ id="21955">
-<TXT>The [%team#2link nickname] whipped [%team#1link] today [%game score], but couldn't stop [%team#1nickname] [%playerposition] [%personlink] from adding to his consecutive-game hitting streak. The [%personage]-year-old [%personname l] collected [%batting h word] and pushed the streak to [%string#1] games in a row.(nl)(nl)&quot;Every game I keep this streak alive I go home and write a message to (owner) [%team owner] saying 'You better start saving for my next contract,'&quot; he told reporters after the game.</TXT>
+<TXT>[%team#2link nickname] 今天以 [%game score] 痛宰 [%team#1link]，卻沒能阻止 [%team#1nickname] 的 [%playerposition] [%personlink] 延續連續安打紀錄。這位 [%personage] 歲的 [%personname l] 敲出 [%batting h word]，把紀錄推到 [%string#1] 場。(nl)(nl)「每延續一場，我回家就傳訊息給（老闆）[%team owner]，跟他說『你最好開始存錢準備我的下一份合約』，」他賽後告訴記者。</TXT>
 <COND id="62" value="0"/>
 <COND id="162" value="3"/>
 </OBJ><!--
@@ -95811,12 +95811,12 @@ It will be hard to improve on a campaign that saw the [%playerposition] stroke [
 <COND id="62" value="1"/>
 </OBJ>-->
 <OBJ id="21958">
-<TXT>[%team#1link] [%playerposition] [%personlink] is really on a roll. In today's game at [%ballpark], [%personname l] came up with [%batting h word] in [%batting ab word] and extended his consecutive-game hitting streak to [%string#1] games. But meanwhile, the [%team#2link nickname] were coming up winners on the scoreboard, topping the [%team#1nickname] by the score of [%game score].(nl)(nl)&quot;I've never been a big stats guy, and I've never gone home happy from a loss,&quot; [%personname l] said later. &quot;So you can imagine how I'm feeling right now.&quot;</TXT>
+<TXT>[%team#1link] 的 [%playerposition] [%personlink] 手感正旺。今天在 [%ballpark]，[%personname l] [%batting ab word] 敲出 [%batting h word]，連續安打場次延長到 [%string#1] 場。但另一邊，[%team#2link nickname] 才是計分板上的贏家，他們以 [%game score] 擊敗 [%team#1nickname]。(nl)(nl)「我從來不是那種在意數據的人，輸球的日子我也從來沒有開心回家過，」[%personname l] 賽後說。「所以你們可以想像我現在的心情。」</TXT>
 <COND id="62" value="0"/>
 <COND id="33" value="5"/>
 </OBJ>
 <OBJ id="21959">
-<TXT>It has been quite a while since somebody held [%personlink] without a hit in a game. The [%team#2link nickname] weren't the ones to do it in today's game at [%ballpark]. [%personname l] banged out [%batting h word] for the [%team#1link nickname] and extended his hitting streak to [%string#1] consecutive games in his club's [%game score] victory.(nl)(nl)&quot;I really enjoy numbers and statistics, so it's been fun seeing how long this streak will go,&quot; he said.</TXT>
+<TXT>已經很久沒有人能讓 [%personlink] 整場比賽敲不出安打了。今天在 [%ballpark]，[%team#2link nickname] 也沒能做到。[%personname l] 為 [%team#1link nickname] 敲出 [%batting h word]，在球隊以 [%game score] 獲勝的比賽中把連續安打場次延長到 [%string#1] 場。(nl)(nl)「我很喜歡數字和數據，所以看這波紀錄能走多遠其實滿有趣的，」他說。</TXT>
 <COND id="62" value="1"/>
 <COND id="36" value="5"/>
 </OBJ><!--
@@ -95825,7 +95825,7 @@ It will be hard to improve on a campaign that saw the [%playerposition] stroke [
 <COND id="62" value="0"/>
 </OBJ>-->
 <OBJ id="21961">
-<TXT>Chalk up another one for [%team#1link nickname] [%playerposition] [%personlink]. He now has hit in [%string#1] straight games. [%personlink l] went [%batting h]-for-[%batting ab] today's game at [%ballpark] but saw his club defeated [%game score] by the host [%team#2link nickname].(nl)(nl)&quot;Playing on the road always makes it harder to get hits and to get wins,&quot; [%team#1nickname] manager [%team managerlink] said after the game. &quot;We got one of the two, but unfortunately it was the wrong one.&quot;</TXT>
+<TXT>[%team#1link nickname] 的 [%playerposition] [%personlink] 再添一筆，他已經連續 [%string#1] 場敲出安打。今天在 [%ballpark]，[%personlink l] [%batting ab] 打數 [%batting h] 安打，但球隊以 [%game score] 敗給地主 [%team#2link nickname]。(nl)(nl)「打客場要敲安打、要贏球本來就比較難，」[%team#1nickname] 總教練 [%team managerlink] 賽後說。「兩件事我們做到了一件，可惜是錯的那一件。」</TXT>
 <COND id="62" value="0"/>
 <COND id="198" value="1"/>
 </OBJ><!--
@@ -95835,7 +95835,7 @@ It will be hard to improve on a campaign that saw the [%playerposition] stroke [
 <COND id="246" value="40"/>
 </OBJ>-->
 <OBJ id="21963">
-<TXT>Fans everywhere are beginning to get interested in what [%team#1link nickname] [%playerposition] [%personlink] is doing. Drawing all the attention is the [%personage]-year-old's hitting streak, which today reached [%string#1] games.(nl)(nl)[%personname l] extended it today at [%ballpark] against the [%team#2link nickname], logging [%batting h word] in [%batting ab word]. The performance wasn't enough to help [%team#1name] in the standings, however -- [%team#2link] won the game [%game score].(nl)(nl)&quot;[%personname f] is definitely getting some attention now,&quot; agreed [%team#1nickname] manager [%team managerlink]. &quot;We just need to be sure our focus stays on winning the baseball games.&quot;</TXT>
+<TXT>各地的球迷都開始關注 [%team#1link nickname] 的 [%playerposition] [%personlink] 在做的事。吸引所有目光的，是這位 [%personage] 歲球員的連續安打紀錄，今天來到 [%string#1] 場。(nl)(nl)[%personname l] 今天在 [%ballpark] 面對 [%team#2link nickname] [%batting ab word] 敲出 [%batting h word]，延續紀錄。不過這樣的表現不足以幫 [%team#1name] 在戰績上前進 —— [%team#2link] 以 [%game score] 贏得比賽。(nl)(nl)「[%personname f] 現在確實受到不少關注，」[%team#1nickname] 總教練 [%team managerlink] 也同意。「我們只要確保注意力還是放在贏球上就好。」</TXT>
 <COND id="62" value="0"/>
 <COND id="246" value="45"/>
 </OBJ><!--
@@ -95849,13 +95849,13 @@ It will be hard to improve on a campaign that saw the [%playerposition] stroke [
 <COND id="62" value="1"/>
 </OBJ>-->
 <OBJ id="21966">
-<TXT>Long hitting streaks have a way of capturing the imagination of baseball fans. No one knows how long [%personlink] will keep his alive, but the crowds -- and the [%team#1link nickname] -- are enjoying the moment right now.(nl)(nl)The [%personage]-year-old [%playerposition] extended his string to [%string#1] consecutive games at [%ballpark] today. [%personlink l] got [%batting h word] in [%batting ab word], helping the [%team#1nickname] get the victory. They toppled the [%team#2link nickname] [%game score].(nl)(nl)&quot;The fans here at [%ballpark] and all over are rooting for [%personname f],&quot; franchise owner [%team owner] said in a statement. &quot;We at the [%team#1nickname] are excited to see how far this will go.&quot;</TXT>
+<TXT>長長的連續安打紀錄總能勾起球迷的想像。沒有人知道 [%personlink] 還能延續多久，但球迷 —— 以及 [%team#1link nickname] —— 現在都很享受這一刻。(nl)(nl)這位 [%personage] 歲的 [%playerposition] 今天在 [%ballpark] 把紀錄推到連續 [%string#1] 場。[%personlink l] [%batting ab word] 敲出 [%batting h word]，幫助 [%team#1nickname] 以 [%game score] 擊敗 [%team#2link nickname]。(nl)(nl)「[%ballpark] 以及各地的球迷都在為 [%personname f] 加油，」球團老闆 [%team owner] 在聲明中表示。「我們 [%team#1nickname] 很期待看到這能走到什麼地步。」</TXT>
 <COND id="62" value="1"/>
 <COND id="198" value="1"/>
 <COND id="246" value="45"/>
 </OBJ>
 <OBJ id="21967">
-<TXT>To everyone checking on whether [%personlink] kept his hitting streak alive -- today's answer is &quot;yes.&quot;(nl)(nl)[%personname l] finished with a [%batting h]-for-[%batting ab] day against the [%team#2link nickname]. The [%team#1link nickname] [%playerposition] stretched his streak to [%string#1] games as his club grabbed the [%game score] win at [%ballpark].(nl)(nl)&quot;It's not easy,&quot; a tired-looking [%personname l] told reporters later. &quot;Everyone's looking for me all the time now, so there's no showing up late to batting practice, and there's no slipping out of the stadium early.&quot;</TXT>
+<TXT>想知道 [%personlink] 今天有沒有延續連續安打紀錄的人 —— 答案是「有」。(nl)(nl)[%personname l] 面對 [%team#2link nickname] 全場 [%batting ab] 打數 [%batting h] 安打。這位 [%team#1link nickname] 的 [%playerposition] 把紀錄推到 [%string#1] 場，球隊也在 [%ballpark] 以 [%game score] 拿下勝利。(nl)(nl)「這並不輕鬆，」看起來有些疲憊的 [%personname l] 賽後告訴記者。「現在大家隨時都在找我，所以打擊練習不能遲到，也不能提早溜出球場。」</TXT>
 <COND id="62" value="1"/>
 <COND id="162" value="9"/>
 </OBJ><!--
@@ -99771,7 +99771,7 @@ It will be hard to improve on a campaign that saw the [%playerposition] stroke [
 
 <CAT id="656">
 <OBJ id="20963">
-<TXT>All good things must come to an end -- and so it was today for [%personlink] as he saw his [%string#1]-game hitting streak end. He went hitless in [%batting ab word] at the hands of the [%team#2link nickname].(nl)(nl)It wasn't all bad for the [%personage]-year-old [%playerposition] and the [%team#1link nickname] however, as they defeated [%team#2link] [%game score] at [%ballpark].(nl)(nl)When asked about his hitting streak, a smiling [%personname l] laughed and said, &quot;I guess my luck ran out today.&quot;</TXT>
+<TXT>天下沒有不散的筵席 —— 今天輪到 [%personlink]，他的 [%string#1] 場連續安打紀錄就此中止，面對 [%team#2link nickname] [%batting ab word] 沒有安打。(nl)(nl)不過對這位 [%personage] 歲的 [%playerposition] 和 [%team#1link nickname] 來說也不算太糟，他們在 [%ballpark] 以 [%game score] 擊敗 [%team#2link]。(nl)(nl)被問到連續安打紀錄時，[%personname l] 笑著說：「看來我今天運氣用完了。」</TXT>
 <COND id="62" value="1"/>
 </OBJ><!--
 <OBJ id="20965">
@@ -99783,7 +99783,7 @@ It will be hard to improve on a campaign that saw the [%playerposition] stroke [
 <COND id="62" value="1"/>
 </OBJ>-->
 <OBJ id="20972">
-<TXT>It was the best of both worlds for the [%team#2link nickname] today at [%ballpark], as they defeated the [%team#1link nickname] [%game score] and also snapped [%personlink]'s [%string#1]-game hitting streak. The [%personage]-year-old [%team#1name] [%playerposition] failed to get a hit in [%batting ab word].(nl)(nl)&quot;Nothing personal against [%personname l], we just wanted to win the game,&quot; said [%team#2nickname] skipper [%team#2 managerlink]. &quot;We did a great job keeping him off-balance and guessing.&quot;(nl)(nl)When asked by reporters about his streak coming to an end, [%personname l] frowned and said, &quot;I won't lie and say that I'm not disappointed about it, but I'd feel much better if we had won.&quot;</TXT>
+<TXT>今天在 [%ballpark]，[%team#2link nickname] 可說是雙喜臨門，不但以 [%game score] 擊敗 [%team#1link nickname]，還終結了 [%personlink] 的 [%string#1] 場連續安打。這位 [%personage] 歲的 [%team#1name] [%playerposition] [%batting ab word] 沒能敲出安打。(nl)(nl)「這跟 [%personname l] 個人沒什麼關係，我們只是想贏球，」[%team#2nickname] 教頭 [%team#2 managerlink] 說。「我們今天很成功地打亂了他的節奏，讓他一直在猜球。」(nl)(nl)面對記者問起紀錄中斷，[%personname l] 皺著眉說：「我不會騙人說自己不失望，但如果我們有贏球，我會好過很多。」</TXT>
 <COND id="62" value="0"/>
 </OBJ><!--
 <OBJ id="21053">
@@ -99843,7 +99843,7 @@ It will be hard to improve on a campaign that saw the [%playerposition] stroke [
 <COND id="62" value="1"/>
 </OBJ>-->
 <OBJ id="21975">
-<TXT>[%team#1link nickname] [%playerposition] [%personlink] and his hot bat finally met their match today at [%ballpark].(nl)(nl)The [%team#2link nickname] snapped his [%string#1]-game hitting string, holding [%personlink l] hitless in [%batting ab word] and also whipping [%team#1link] for good measure.(nl)(nl)&quot;We're real pleased with this one,&quot; [%team#2nickname] manager [%team#2 managerlink] said. &quot;Nobody wants to be on the wrong end of a streak like that, and clobbering [%team#1name] makes it even sweeter.&quot;</TXT>
+<TXT>[%team#1link nickname] 的 [%playerposition] [%personlink] 和他的火燙手感，今天在 [%ballpark] 終於踢到鐵板。(nl)(nl)[%team#2link nickname] 終結了他 [%string#1] 場的連續安打，讓 [%personlink l] [%batting ab word] 掛蛋，順便還把 [%team#1link] 痛宰了一頓。(nl)(nl)「這場贏得很過癮，」[%team#2nickname] 總教練 [%team#2 managerlink] 說。「沒有人想成為那種紀錄的墊背，而且能海扁 [%team#1name] 一頓更是加倍痛快。」</TXT>
 <COND id="62" value="0"/>
 <COND id="216" value="3"/>
 <COND id="213" value="7"/>
@@ -99893,12 +99893,12 @@ It will be hard to improve on a campaign that saw the [%playerposition] stroke [
 <COND id="62" value="1"/>
 </OBJ>-->
 <OBJ id="21987">
-<TXT>The [%team#2link nickname] brought [%personlink]'s hitting spree to a screeching halt today in its [%game score] victory over the [%team#1link nickname] at [%ballpark]. The [%team#2name] mound staff snapped the [%personage]-year-old [%playerposition]'s hitting streak at [%string#1] games, as [%personname l] failed to get a hit in [%batting ab word].(nl)(nl)&quot;The only reason I cared about the streak was because it meant I was contributing every day,&quot; [%personname l] said later. &quot;I didn't contribute today, and look what happened.&quot;</TXT>
+<TXT>[%team#2link nickname] 今天在 [%ballpark] 以 [%game score] 擊敗 [%team#1link nickname]，同時讓 [%personlink] 的火燙手感戛然而止。[%team#2name] 的投手群把這位 [%personage] 歲 [%playerposition] 的連續安打紀錄停在 [%string#1] 場，[%personname l] [%batting ab word] 沒有安打。(nl)(nl)「我在意這個紀錄的唯一理由，是它代表我每天都有貢獻，」[%personname l] 賽後說。「我今天沒有貢獻，結果你們也看到了。」</TXT>
 <COND id="62" value="0"/>
 <COND id="162" value="4"/>
 </OBJ>
 <OBJ id="21988">
-<TXT>[%personlink] has been hitting the heck out the ball for the past few weeks, but today his [%string#1]-game hitting streak came to an end as he went 0-for-[%batting ab] in the [%team#1link nickname] [%game score] win over the [%team#2link nickname] at [%ballpark].(nl)(nl)&quot;I'm disappointed it's over,&quot; he said in his postgame press conference. &quot;Honestly, I've always liked the attention, so it was a fun experience.&quot;</TXT>
+<TXT>過去幾週 [%personlink] 打得不可開交，但今天他的 [%string#1] 場連續安打紀錄畫下句點 —— 在 [%ballpark]、[%team#1link nickname] 以 [%game score] 擊敗 [%team#2link nickname] 的比賽中，他 [%batting ab] 打數 0 安打。(nl)(nl)「紀錄結束我當然失望，」他在賽後記者會上說。「老實說，我一直滿喜歡這種關注的，過程很好玩。」</TXT>
 <COND id="62" value="1"/>
 <COND id="162" value="5"/>
 </OBJ><!--
@@ -99907,7 +99907,7 @@ It will be hard to improve on a campaign that saw the [%playerposition] stroke [
 <COND id="62" value="1"/>
 </OBJ>-->
 <OBJ id="21990">
-<TXT>[%personlink]'s hit streak ended at [%string#1] games today, as the [%team#1link nickname] [%playerposition] went 0-for-[%batting ab] in a [%game score] loss to the [%team#2link nickname].(nl)(nl)&quot;It's one of those things,&quot; [%personlink l] said. &quot;It just didn't happen. I guess it was my day not to get a hit.&quot;</TXT>
+<TXT>[%personlink] 的連續安打紀錄今天停在 [%string#1] 場，這位 [%team#1link nickname] [%playerposition] 在球隊以 [%game score] 落敗給 [%team#2link nickname] 的比賽中 [%batting ab] 打數 0 安打。(nl)(nl)「這種事就是這樣，」[%personlink l] 說。「今天就是沒發生。大概今天注定不是我敲安打的日子。」</TXT>
 <COND id="62" value="0"/>
 <COND id="162" value="9"/>
 </OBJ><!--
@@ -99928,12 +99928,12 @@ It will be hard to improve on a campaign that saw the [%playerposition] stroke [
 <COND id="62" value="0"/>
 </OBJ>-->
 <OBJ id="21995">
-<TXT>For [%string#1] games in a row, [%personlink] of the [%team#1link nickname] had at least one hit. His day of reckoning finally came today at the hands of the [%team#2link nickname], who held him without a hit in [%batting ab word].(nl)(nl)Making matters worse for [%personname l] and the [%team#1nickname], the [%team#2nickname] also won the ballgame by the score of [%game score].(nl)(nl)&quot;[%personname f] is a great clubhouse presence, and he has done incredible things on the field for us the last few weeks,&quot; [%team#1name] manager [%team managerlink] said following the game. &quot;We're not going to forget all that just because of a bad day.&quot;</TXT>
+<TXT>連續 [%string#1] 場，[%team#1link nickname] 的 [%personlink] 都至少敲出一支安打。今天他終於踢到鐵板，[%team#2link nickname] 讓他 [%batting ab word] 沒有安打。(nl)(nl)更慘的是，[%team#2nickname] 還以 [%game score] 拿下這場比賽，讓 [%personname l] 和 [%team#1nickname] 雪上加霜。(nl)(nl)「[%personname f] 在休息室是很重要的存在，過去幾週他在場上也替我們做了很多不可思議的事，」[%team#1name] 總教練 [%team managerlink] 賽後說。「我們不會因為一場失常就忘記這些。」</TXT>
 <COND id="62" value="0"/>
 <COND id="162" value="1"/>
 </OBJ>
 <OBJ id="21996">
-<TXT>[%team#1link nickname] [%playerposition] [%personlink] was one of the hottest hitters in baseball, coming into today's game against [%team#2link nickname] sporting a [%string#1]-game hitting streak. However, the [%team#2nickname] put a chill into his bat, holding him hitless in [%batting ab word] as the team cruised to victory, [%game score], at [%ballpark].(nl)(nl)The mercurial [%personname l] was visibly upset following the game, offering only brief remarks to BNN reporters before storming out of the room.(nl)(nl)&quot;I've carried this team many times over the last [%string#1] games, and I expected them to do the same for me,&quot; he said.</TXT>
+<TXT>[%team#1link nickname] 的 [%playerposition] [%personlink] 是全聯盟手感最燙的打者之一，帶著 [%string#1] 場連續安打踏進今天對 [%team#2link nickname] 的比賽。然而 [%team#2nickname] 澆熄了他的棒子，讓他 [%batting ab word] 沒有安打，並在 [%ballpark] 以 [%game score] 輕鬆獲勝。(nl)(nl)情緒起伏向來明顯的 [%personname l] 賽後臉色難看，只丟給 BNN 記者幾句話就摔門而出。(nl)(nl)「過去這 [%string#1] 場我扛了球隊多少次，我以為他們也會為我扛一次，」他說。</TXT>
 <COND id="62" value="0"/>
 <COND id="162" value="2"/>
 </OBJ><!--
@@ -99946,7 +99946,7 @@ It will be hard to improve on a campaign that saw the [%playerposition] stroke [
 <COND id="62" value="1"/>
 </OBJ>-->
 <OBJ id="21999">
-<TXT>[%team#1link] [%playerposition] [%personlink] knew his hitting streak would end sooner or later. He just would have preferred later. [%personname l] went 0-for-[%batting ab] today in the [%team#1nickname] [%game score] victory over the [%team#2link nickname], snapping his [%string#1]-game hit streak.(nl)(nl)&quot;Heck yeah I'm disappointed it's over,&quot; he said later. &quot;My financial advisor is disappointed too. When you're riding a streak like that, everybody wants a piece of you. Nobody wants the guy who went 0-for-[%batting ab].&quot;</TXT>
+<TXT>[%team#1link] 的 [%playerposition] [%personlink] 知道連續安打紀錄遲早會斷，只是他希望晚一點。今天在 [%team#1nickname] 以 [%game score] 擊敗 [%team#2link nickname] 的比賽中，[%personname l] [%batting ab] 打數 0 安打，[%string#1] 場的紀錄就此中止。(nl)(nl)「結束了我當然失望，」他賽後說。「我的理財顧問也很失望。當你在寫紀錄的時候，每個人都想沾一點光；沒有人想找一個 [%batting ab] 支 0 安的傢伙。」</TXT>
 <COND id="62" value="1"/>
 <COND id="162" value="3"/>
 </OBJ><!--
@@ -99955,17 +99955,17 @@ It will be hard to improve on a campaign that saw the [%playerposition] stroke [
 <COND id="62" value="1"/>
 </OBJ>-->
 <OBJ id="22001">
-<TXT>[%team#1link] [%playerposition] [%personlink] was held hitless in today's game by the [%team#2link nickname], but the loss of his [%string#1]-game hitting streak was eased by the [%game score] [%team#1nickname] victory at [%ballpark].(nl)(nl)&quot;I don't care about the streak, and one 0-for-[%batting h] day isn't a big deal,&quot; he said later. &quot;But I'm going to come in early tomorrow for some extra batting practice to keep this from turning into a slump.&quot;</TXT>
+<TXT>[%team#1link] 的 [%playerposition] [%personlink] 今天被 [%team#2link nickname] 完全封鎖，[%string#1] 場連續安打紀錄就此告終，所幸 [%team#1nickname] 在 [%ballpark] 以 [%game score] 獲勝，沖淡了一些遺憾。(nl)(nl)「我不在乎紀錄，一場 [%batting h] 支安打也沒有的比賽沒什麼大不了，」他賽後說。「不過明天我會提早進場多打幾輪打擊練習，免得這變成一波低潮。」</TXT>
 <COND id="62" value="1"/>
 <COND id="162" value="6"/>
 </OBJ>
 <OBJ id="22002">
-<TXT>The [%team#1link nickname] lost to the [%team#2link nickname] today by the score of [%game score] at [%ballpark], but the bigger story was the end of a hit streak.(nl)(nl)[%team#1link] [%playerposition] [%personlink] had been working on a [%string#1]-game hitting streak, but went 0-for-[%batting ab] against the [%team#2nickname] to bring the hot stretch to an end.(nl)(nl)&quot;I couldn't do my job and we lost the game,&quot; he said in postgame remarks. &quot;It just goes to show how important I am to this team, and how critical it is that I play to the best of my abilities.&quot;</TXT>
+<TXT>[%team#1link nickname] 今天在 [%ballpark] 以 [%game score] 輸給 [%team#2link nickname]，但比賽更大的話題是一段連續安打的終結。(nl)(nl)[%team#1link] 的 [%playerposition] [%personlink] 原本累積了 [%string#1] 場連續安打，今天面對 [%team#2nickname] [%batting ab] 打數 0 安打，這波熱潮就此結束。(nl)(nl)「我沒做好自己的工作，我們也輸了球，」他在賽後表示。「這正好說明我對這支球隊有多重要，也說明我把自己的能力發揮到極限有多關鍵。」</TXT>
 <COND id="62" value="0"/>
 <COND id="162" value="7"/>
 </OBJ>
 <OBJ id="22003">
-<TXT>His run was over, but a [%team#1link] victory took some of the disappointment out of [%personlink] losing his [%string#1]-game hitting streak. The [%personage]-year-old [%playerposition] did not get a hit in [%batting ab word], but the [%team#1nickname] whipped the [%team#2link nickname] [%game score] today at [%ballpark].(nl)(nl)&quot;I did it on purpose just to get you all off my back,&quot; [%personname l] joked with reporters. &quot;You're going to put in your stories that I said this as a joke, but what if it wasn't?&quot;</TXT>
+<TXT>連續紀錄雖然斷了，但 [%team#1link] 的勝利沖淡了 [%personlink] 失去 [%string#1] 場連續安打的失落。這位 [%personage] 歲的 [%playerposition] [%batting ab word] 沒有安打，不過 [%team#1nickname] 今天在 [%ballpark] 以 [%game score] 痛宰 [%team#2link nickname]。(nl)(nl)「我是故意的，就是要讓你們別再纏著我，」[%personname l] 對記者開玩笑說。「你們寫稿一定會說我是在說笑，但萬一不是呢？」</TXT>
 <COND id="62" value="1"/>
 <COND id="162" value="8"/>
 <COND id="213" value="5"/>
@@ -124033,40 +124033,40 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 </CAT>
 
 <CAT id="831">
-<OBJ id="42095" text="[%personlink f l] picked up the win, improving his season record to [%player season wins]-[%player season losses]. He struck out [%pitching k] in [%pitching ip word].">
+<OBJ id="42095" text="[%personlink f l] 拿下勝投，本季戰績來到 [%player season wins] 勝 [%player season losses] 敗。他在 [%pitching ip word] 中送出 [%pitching k] 次三振。">
 <COND id="199" value="1"/>
 <COND id="189" value="1"/>
 <COND id="203" value="0"/>
 </OBJ>
-<OBJ id="42096" text="The win was credited to [%personlink f l] in relief. His record improves to [%player season wins]-[%player season losses]. [%personlink#2] took the loss.">
+<OBJ id="42096" text="勝投由後援上陣的 [%personlink f l] 收下，戰績進步到 [%player season wins] 勝 [%player season losses] 敗。[%personlink#2] 吞下敗投。">
 <COND id="199" value="0"/>
 <COND id="189" value="1"/>
 <COND id="203" value="0"/>
 <COND id="217" value="1.1"/>
 </OBJ>
-<OBJ id="42097" text="[%team#1name] starter [%personlink f l] was credited with the win after throwing [%pitching pi word] over [%pitching ip word]. His record now stands at [%player season wins]-[%player season losses].">
+<OBJ id="42097" text="[%team#1name] 先發 [%personlink f l] 在 [%pitching ip word] 中投了 [%pitching pi word]，拿下勝投，戰績來到 [%player season wins] 勝 [%player season losses] 敗。">
 <COND id="199" value="1"/>
 <COND id="203" value="0"/>
 </OBJ>
-<OBJ id="42149" text="In [%pitching ip word], [%personname l] surrendered [%pitching ha word], while striking out [%pitching k] and  walking [%pitching bb]. He allowed [%pitching r word].">
+<OBJ id="42149" text="[%personname l] 在 [%pitching ip word] 中被敲出 [%pitching ha word]，送出 [%pitching k] 次三振與 [%pitching bb] 次保送，失 [%pitching r word]。">
 <COND id="199" value="1"/>
 <COND id="203" value="1"/>
 </OBJ>
-<OBJ id="42150" text="The winning pitcher was [%personname l], now [%player season wins]-[%player season losses]. He tossed [%pitching ip word] of [%pitching ha]-hit ball, while walking [%pitching bb] and fanning [%pitching k].">
+<OBJ id="42150" text="勝投投手是 [%personname l]，戰績來到 [%player season wins] 勝 [%player season losses] 敗。他投了 [%pitching ip word]，只被敲 [%pitching ha] 支安打，另有 [%pitching bb] 次保送與 [%pitching k] 次三振。">
 <COND id="199" value="1"/>
 <COND id="187" value="2"/>
 <COND id="188" value="5"/>
 <COND id="203" value="1"/>
 </OBJ>
-<OBJ id="42151" text="[%personname l] got the win, improving to [%player season wins]-[%player season losses]. He allowed [%pitching ha word] and walked [%pitching bb] over [%pitching ip] innings. [%personname l] allowed [%pitching r word].">
+<OBJ id="42151" text="[%personname l] 拿下勝投，戰績進步到 [%player season wins] 勝 [%player season losses] 敗。[%pitching ip] 局的投球中，他被敲出 [%pitching ha word]、投出 [%pitching bb] 次保送。[%personname l] 失 [%pitching r word]。">
 <COND id="203" value="1"/>
 </OBJ>
-<OBJ id="42152" text="[%personname l], now [%player season wins]-[%player season losses], was the winner. In [%pitching ip word], he gave up [%pitching ha word], while striking out [%pitching k], walking [%pitching bb], and allowing [%pitching r word].">
+<OBJ id="42152" text="戰績來到 [%player season wins] 勝 [%player season losses] 敗的 [%personname l] 是本場勝投。[%pitching ip word] 中，他被敲出 [%pitching ha word]，送出 [%pitching k] 次三振、[%pitching bb] 次保送，失 [%pitching r word]。">
 <COND id="199" value="1"/>
 <COND id="189" value="1"/>
 <COND id="203" value="1"/>
 </OBJ>
-<OBJ id="42153" text="[%personname l] picked up the win for [%team#1name], going [%pitching ip word]. He gave up [%pitching r word] on [%pitching ha] hits. He now sports a record of [%player season wins]-[%player season losses].">
+<OBJ id="42153" text="[%personname l] 為 [%team#1name] 拿下勝投，主投 [%pitching ip word]，被敲 [%pitching ha] 支安打失 [%pitching r word]。他的戰績來到 [%player season wins] 勝 [%player season losses] 敗。">
 <COND id="199" value="1"/>
 <COND id="189" value="1"/>
 <COND id="203" value="1"/>
@@ -124087,7 +124087,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="189" value="1"/>
 <COND id="203" value="0"/>
 </OBJ>-->
-<OBJ id="42157" text="[%personlink f l] earned the win for [%team#1name]. He lasted [%pitching ip word], allowing [%pitching r word] on [%pitching ha word], while striking out [%pitching k]. With the win, he raised his record to [%player season wins]-[%player season losses]. ">
+<OBJ id="42157" text="[%personlink f l] 為 [%team#1name] 收下勝投。他撐了 [%pitching ip word]，被敲出 [%pitching ha word] 失 [%pitching r word]，並送出 [%pitching k] 次三振。這場勝利讓他的戰績來到 [%player season wins] 勝 [%player season losses] 敗。">
 <COND id="199" value="1"/>
 <COND id="184" value="0"/>
 <COND id="203" value="0"/>
@@ -124119,17 +124119,17 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="189" value="1"/>
 <COND id="217" value="1.1"/>
 </OBJ>-->
-<OBJ id="42749" text="[%personname l] went the distance for [%team#1name]. He gave up [%pitching r word] on [%pitching ha word].">
+<OBJ id="42749" text="[%personname l] 為 [%team#1name] 投完全場，被敲出 [%pitching ha word] 失 [%pitching r word]。">
 <COND id="199" value="1"/>
 <COND id="184" value="1"/>
 <COND id="203" value="1"/>
 </OBJ>
-<OBJ id="42750" text="The winner was [%personlink f l], who threw [%pitching pi word] over [%pitching ip word]. The [%player throws]hander was charged with [%pitching r word] on [%pitching ha word].">
+<OBJ id="42750" text="勝投是 [%personlink f l]，他在 [%pitching ip word] 中投了 [%pitching pi word]。這位 [%player throws] 投手被敲出 [%pitching ha word]，失 [%pitching r word]。">
 <COND id="199" value="1"/>
 <COND id="215" value="1"/>
 <COND id="203" value="0"/>
 </OBJ>
-<OBJ id="42869" text="[%team#1name] reliever [%personlink f l] picked up the win, upping his record to [%player season wins]-[%player season losses]. [%personlink#2] was saddled with the loss.">
+<OBJ id="42869" text="[%team#1name] 後援投手 [%personlink f l] 拿下勝投，戰績提升到 [%player season wins] 勝 [%player season losses] 敗。[%personlink#2] 背走敗投。">
 <COND id="199" value="0"/>
 <COND id="189" value="1"/>
 <COND id="203" value="0"/>
@@ -124138,7 +124138,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="199" value="0"/>
 <COND id="189" value="1"/>
 </OBJ>-->
-<OBJ id="42941" text="[%team#1name] reliever [%personlink f l] got the win, raising his record to [%player season wins]-[%player season losses]. [%personlink#2] was tagged with the loss.">
+<OBJ id="42941" text="[%team#1name] 後援投手 [%personlink f l] 收下勝投，戰績來到 [%player season wins] 勝 [%player season losses] 敗。[%personlink#2] 吞下敗投。">
 <COND id="199" value="0"/>
 <COND id="189" value="1"/>
 </OBJ><!--
@@ -124172,7 +124172,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="189" value="1"/>
 <COND id="199" value="0"/>
 </OBJ>-->
-<OBJ id="43947" text="[%personname l], the winner, moves to [%player season wins]-[%player season losses]. He threw [%pitching ip word] of [%pitching ha]-hit ball, while fanning [%pitching k] and giving up [%pitching bb word].">
+<OBJ id="43947" text="勝投投手 [%personname l] 戰績來到 [%player season wins] 勝 [%player season losses] 敗。他投了 [%pitching ip word]，只被敲 [%pitching ha] 支安打，送出 [%pitching k] 次三振並投出 [%pitching bb word]。">
 <COND id="199" value="1"/>
 <COND id="187" value="1"/>
 <COND id="188" value="4"/>
@@ -124182,12 +124182,12 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="199" value="1"/>
 <COND id="203" value="0"/>
 </OBJ>-->
-<OBJ id="44031" text="[%personlink f l] got credit for the win, improving to [%player season wins]-[%player season losses]. He allowed [%pitching r word] on [%pitching ha word] in [%pitching ip word].">
+<OBJ id="44031" text="[%personlink f l] 獲得勝投，戰績進步到 [%player season wins] 勝 [%player season losses] 敗。他在 [%pitching ip word] 中被敲出 [%pitching ha word]，失 [%pitching r word]。">
 <COND id="189" value="1"/>
 <COND id="203" value="0"/>
 <COND id="217" value="1.1"/>
 </OBJ>
-<OBJ id="44032" text="[%personlink f l], credited with the win, is now [%player season wins]-[%player season losses]. He allowed [%pitching r word] on [%pitching ha word] in [%pitching ip word].">
+<OBJ id="44032" text="拿下勝投的 [%personlink f l] 戰績來到 [%player season wins] 勝 [%player season losses] 敗。他在 [%pitching ip word] 中被敲出 [%pitching ha word]，失 [%pitching r word]。">
 <COND id="189" value="1"/>
 <COND id="203" value="0"/>
 <COND id="404" value="1"/>
@@ -124217,7 +124217,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="189" value="1"/>
 <COND id="203" value="0"/>
 </OBJ>-->
-<OBJ id="44153" text="[%personlink f l] got the win, improving to [%player season wins]-[%player season losses]. He held the [%team#2nickname] to [%pitching r word] on [%pitching ha word] over [%pitching ip] innings, while striking out [%pitching k] and walking [%pitching bb].">
+<OBJ id="44153" text="[%personlink f l] 拿下勝投，戰績進步到 [%player season wins] 勝 [%player season losses] 敗。[%pitching ip] 局的投球中，他只讓 [%team#2nickname] 敲出 [%pitching ha word]、得到 [%pitching r word]，同時送出 [%pitching k] 次三振與 [%pitching bb] 次保送。">
 <COND id="199" value="1"/>
 <COND id="189" value="1"/>
 <COND id="203" value="0"/>
@@ -124229,7 +124229,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="203" value="0"/>
 <COND id="188" value="6"/>
 </OBJ>-->
-<OBJ id="44155" text="[%personlink f l], the winner, improved to [%player season wins]-[%player season losses]. He held [%team#2name] to [%pitching r word] on [%pitching ha word] over [%pitching ip] innings, while racking up [%pitching k] strikeouts.">
+<OBJ id="44155" text="勝投投手 [%personlink f l] 戰績來到 [%player season wins] 勝 [%player season losses] 敗。[%pitching ip] 局的投球中，他只讓 [%team#2name] 敲出 [%pitching ha word]、得到 [%pitching r word]，並累積 [%pitching k] 次三振。">
 <COND id="199" value="1"/>
 <COND id="189" value="1"/>
 <COND id="203" value="0"/>
@@ -124343,7 +124343,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="215" value="1"/>
 <COND id="203" value="0"/>
 </OBJ>-->
-<OBJ id="56763" text="[%team#1name] pitcher [%personlink f l] got the win, upping his record to [%player season wins]-[%player season losses]. [%personlink#2] got the loss.">
+<OBJ id="56763" text="[%team#1name] 投手 [%personlink f l] 拿下勝投，戰績提升到 [%player season wins] 勝 [%player season losses] 敗。[%personlink#2] 吞下敗投。">
 <COND id="189" value="1"/>
 <COND id="203" value="0"/>
 </OBJ><!--
@@ -131022,40 +131022,40 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 
 <CAT id="839">
 <OBJ id="42179">
-<TXT>Opening day festivities have begun throughout the league. Fans of the [%game teamlink home] were eager to watch [%game starterlink home] square off against [%game starterlink visit] of the visiting [%game teamlink visit]. In the end, the [%team#1nickname] won the game, [%game score], with [%personlink f l] leading the way.</TXT>
+<TXT>開幕日的熱鬧氣氛已經在全聯盟展開。[%game teamlink home] 的球迷迫不及待想看 [%game starterlink home] 對決客隊 [%game teamlink visit] 的 [%game starterlink visit]。最後 [%team#1nickname] 以 [%game score] 贏得比賽，[%personlink f l] 帶頭建功。</TXT>
 <COND id="147" value="1"/>
 </OBJ>
 <OBJ id="42180">
-<TXT>Fans of the [%game teamlink home] who packed the stands for the home opener were rewarded with a [%team#1name] win over the visiting [%game teamlink visit], [%game score]. [%game starterlink home] started for the home team against [%game starterlink visit]. [%personlink f l] earned accolades for his performance.</TXT>
+<TXT>擠滿看台的 [%game teamlink home] 球迷，在主場開幕戰看到 [%team#1name] 以 [%game score] 擊敗來訪的 [%game teamlink visit]。主隊先發是 [%game starterlink home]，對上 [%game starterlink visit]。[%personlink f l] 的表現贏得滿堂彩。</TXT>
 <COND id="198" value="1"/>
 </OBJ>
 <OBJ id="42181">
-<TXT>Crowds lined up early in front of [%ballpark], eagerly awaiting the start of the [%leagueyear] [%leaguename] season. On the mound was [%game starterlink visit] for the visiting [%game teamlink visit] and [%game starterlink home] for the hometown [%game teamlink home]. In a spirited contest, the [%team#1nickname] pulled out the win, defeating the [%team#2nickname] by the score of [%game score]. Especially impressive was [%personname f l].</TXT>
+<TXT>球迷一早就在 [%ballpark] 外排起長龍，引頸期盼 [%leagueyear] [%leaguename] 球季開打。客隊 [%game teamlink visit] 推出 [%game starterlink visit]，地主 [%game teamlink home] 則由 [%game starterlink home] 掛帥。這場拚勁十足的比賽最後由 [%team#1nickname] 以 [%game score] 擊敗 [%team#2nickname]。表現特別亮眼的是 [%personname f l]。</TXT>
 <COND id="84" value="1"/>
 <COND id="83" value="-1"/>
 </OBJ>
 <OBJ id="42629">
-<TXT>Fans brought energy and enthusiasm to the [%game teamlink home] home opener. [%game starterlink home] started for the home team against [%game starterlink visit] for the [%game teamlink visit]. The [%team#2nickname] were unable to reward the home crowd with a win. The final score was [%game score], [%team#1name]. [%personlink f l], though, was impressive.</TXT>
+<TXT>球迷把滿滿的活力與熱情帶進了 [%game teamlink home] 的主場開幕戰。主隊先發 [%game starterlink home] 對上 [%game teamlink visit] 的 [%game starterlink visit]。可惜 [%team#2nickname] 無法用一場勝利回報主場球迷，最終比數 [%game score]，由 [%team#1name] 勝出。不過 [%personlink f l] 的表現令人印象深刻。</TXT>
 <COND id="198" value="0"/>
 </OBJ><!--
 <OBJ id="42630">
 <TXT>[%ballpark] was the site of the home opener for the [%game teamlink home]. The contest featured a prime matchup between [%game starterlink visit] of the visiting [%game teamlink visit] and [%game starterlink home] of the [%team#2nickname]. The final score was [%game score], the [%team#1nickname] getting the win. [%personname f l] turned in the best performance.</TXT>
 <COND id="198" value="0"/>
 </OBJ>-->
-<OBJ id="42631" text="The [%leagueyear] [%leaguename] season began inauspiciously for the [%game teamlink home]. The [%team#2nickname] were outclassed, [%game score], by the [%game teamlink visit].  [%personlink f l] [%player game line] in the contest.">
+<OBJ id="42631" text="[%leagueyear] [%leaguename] 球季對 [%game teamlink home] 來說開局不順。[%team#2nickname] 以 [%game score] 敗給 [%game teamlink visit]，全場被壓著打。[%personlink f l] 在這場比賽 [%player game line]。">
 <COND id="198" value="0"/>
 <COND id="216" value="2"/>
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 <COND id="213" value="8"/>
 </OBJ>
-<OBJ id="42632" text="The [%game teamlink home] got their [%leagueyear] [%leaguename] season off to a good start, defeating the [%game teamlink visit], [%game score]. [%personlink f l] set the pace. He [%player game line].">
+<OBJ id="42632" text="[%game teamlink home] 為 [%leagueyear] [%leaguename] 球季開了個好頭，以 [%game score] 擊敗 [%game teamlink visit]。[%personlink f l] 定調了比賽節奏，他 [%player game line]。">
 <COND id="198" value="1"/>
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 </OBJ>
 <OBJ id="42633">
-<TXT>The [%game teamlink home] got their [%leagueyear] season off and running with a win over the [%game teamlink visit] at [%ballpark]. The final score was [%game score]. [%team#1name] [%player game position] [%personlink f l], in particular, had a fine performance.</TXT>
+<TXT>[%game teamlink home] 在 [%ballpark] 擊敗 [%game teamlink visit]，為 [%leagueyear] 球季順利起跑，最終比數 [%game score]。其中 [%team#1name] 的 [%player game position] [%personlink f l] 表現特別出色。</TXT>
 <COND id="198" value="1"/>
 <COND id="147" value="1"/>
 </OBJ><!--
@@ -131064,7 +131064,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 </OBJ>-->
-<OBJ id="42650" text="The [%game teamlink home] opened their season in style with a blowout win over the [%game teamlink visit] at [%ballpark]. The final score was [%game score]. [%team#1name] [%player game position] [%personlink f l] led the attack. He [%player game line].">
+<OBJ id="42650" text="[%game teamlink home] 在 [%ballpark] 大勝 [%game teamlink visit]，用最帥氣的方式揭開球季序幕，最終比數 [%game score]。[%team#1name] 的 [%player game position] [%personlink f l] 領軍進攻，他 [%player game line]。">
 <COND id="216" value="3"/>
 <COND id="198" value="1"/>
 <COND id="147" value="1"/>
@@ -131082,13 +131082,13 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 </OBJ>-->
-<OBJ id="42653" text="The [%leagueyear] season is off to a poor start for the [%game teamlink home]. The [%team#2nickname] fell to the visiting [%game teamlink visit], [%game score], at [%ballpark]. [%personlink f l] earned the coveted player the game award for [%team#1name].">
+<OBJ id="42653" text="[%leagueyear] 球季對 [%game teamlink home] 來說開局不佳。[%team#2nickname] 在 [%ballpark] 以 [%game score] 敗給來訪的 [%game teamlink visit]。[%personlink f l] 拿下 [%team#1name] 的單場最佳球員。">
 <COND id="198" value="0"/>
 <COND id="147" value="1"/>
 <COND id="216" value="3"/>
 <COND id="213" value="8"/>
 </OBJ>
-<OBJ id="42654" text="The [%game teamlink home] kicked off the [%leagueyear] season with a decisive [%game score] win over the [%game teamlink visit] at [%ballpark]. [%team#1name] [%player game position] [%personlink f l] was already in midseason form. He [%player game line].">
+<OBJ id="42654" text="[%game teamlink home] 在 [%ballpark] 以 [%game score] 大勝 [%game teamlink visit]，為 [%leagueyear] 球季揭開序幕。[%team#1name] 的 [%player game position] [%personlink f l] 一開季就有球季中段的水準，他 [%player game line]。">
 <COND id="198" value="1"/>
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
@@ -131096,19 +131096,19 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="213" value="10"/>
 </OBJ>
 <OBJ id="42655">
-<TXT>The [%game teamlink home] opened their [%leagueyear] season with a disappointing [%game score] loss to the [%game teamlink visit] at [%ballpark].  [%playerposition capital] [%personlink f l] was a big part of the win for [%team#1name]. He [%player game line].</TXT>
+<TXT>[%game teamlink home] 在 [%ballpark] 以 [%game score] 輸給 [%game teamlink visit]，為 [%leagueyear] 球季開了個令人失望的頭。[%playerposition capital] [%personlink f l] 是 [%team#1name] 獲勝的重要功臣，他 [%player game line]。</TXT>
 <COND id="198" value="0"/>
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 </OBJ>
-<OBJ id="42656" text="The [%game teamlink home] inaugurated their [%leagueyear] season with a tough [%game score] loss to the [%game teamlink visit] at [%ballpark]. [%playerposition capital] [%personlink f l] had perhaps the best performance for [%team#1name].">
+<OBJ id="42656" text="[%game teamlink home] 在 [%ballpark] 以 [%game score] 敗給 [%game teamlink visit]，就這樣苦澀地展開 [%leagueyear] 球季。[%playerposition capital] [%personlink f l] 大概是 [%team#1name] 表現最好的球員。">
 <COND id="147" value="1"/>
 <COND id="84" value="1"/>
 <COND id="198" value="0"/>
 <COND id="83" value="-1"/>
 </OBJ>
 <OBJ id="42657">
-<TXT>The [%leagueyear] season did not get off to quite the start the [%game teamlink home] had hoped, with an opening day loss to the [%game teamlink visit] at [%ballpark]. The final score was [%game score]. [%playerposition capital] [%personlink f l] was the top performer for [%team#1name].</TXT>
+<TXT>[%leagueyear] 球季的開頭不如 [%game teamlink home] 所期待，他們在 [%ballpark] 的開幕戰輸給了 [%game teamlink visit]，最終比數 [%game score]。[%playerposition capital] [%personlink f l] 是 [%team#1name] 表現最突出的球員。</TXT>
 <COND id="198" value="0"/>
 <COND id="147" value="1"/>
 </OBJ><!--
@@ -131137,7 +131137,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="147" value="1"/>
 </OBJ>-->
 <OBJ id="42663">
-<TXT>The [%game teamlink home] started the [%leagueyear] season not with a bang but with a whimper, falling [%game score] to the [%game teamlink visit] at [%ballpark]. [%playerposition capital] [%personlink f l][%person descriptor trailing] was the top performer for [%team#1name].</TXT>
+<TXT>[%game teamlink home] 的 [%leagueyear] 球季開得虎頭蛇尾，在 [%ballpark] 以 [%game score] 敗給 [%game teamlink visit]。[%playerposition capital] [%personlink f l][%person descriptor trailing] 是 [%team#1name] 表現最好的球員。</TXT>
 <COND id="198" value="0"/>
 <COND id="147" value="1"/>
 <COND id="216" value="2"/>
@@ -131168,13 +131168,13 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="147" value="1"/>
 </OBJ>-->
 <OBJ id="42744">
-<TXT>It should've been the best of times, but it was more like the worst for the [%game teamlink home]: opening the season before the home crowd at [%ballpark] with a real dud. [%team#2name] was never in it, losing [%game score] to the [%game teamlink visit]. Earning kudos for his performance was [%team#1name] [%player game position] [%personlink f l].</TXT>
+<TXT>這本該是最美好的一天，對 [%game teamlink home] 來說卻慘不忍睹：在 [%ballpark] 的主場開幕戰打得七零八落。[%team#2name] 從頭到尾都沒進入狀況，以 [%game score] 輸給 [%game teamlink visit]。表現獲得肯定的是 [%team#1name] 的 [%player game position] [%personlink f l]。</TXT>
 <COND id="198" value="0"/>
 <COND id="147" value="1"/>
 <COND id="213" value="14"/>
 <COND id="216" value="2"/>
 </OBJ>
-<OBJ id="42745" text="The bad news for the [%game teamlink home]: an opening day loss, [%game score], to the [%game teamlink visit] at [%ballpark]. The good news: it was just game one in a long season. No one played better than [%personlink f l]. He [%player game line].">
+<OBJ id="42745" text="[%game teamlink home] 的壞消息：在 [%ballpark] 的開幕戰以 [%game score] 敗給 [%game teamlink visit]。好消息：漫長球季才剛打完第一場。全場沒有人比 [%personlink f l] 表現更好，他 [%player game line]。">
 <COND id="198" value="0"/>
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
