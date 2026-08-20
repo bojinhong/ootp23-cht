@@ -121593,11 +121593,11 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 </CAT>
 
 <CAT id="829">
-<OBJ id="42084" text="The [%team#1link nickname] downed the [%team#2link nickname], [%game score], at [%ballpark]. [%personlink f l] led the way, going [%batting h]-for-[%batting ab] for [%team#1name].">
+<OBJ id="42084" text="[%team#1link nickname] 在 [%ballpark] 以 [%game score] 擊敗 [%team#2link nickname]。[%personlink f l] 帶頭建功，為 [%team#1name] [%batting ab] 打數 [%batting h] 安打。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 </OBJ>
-<OBJ id="42085" text="In a tight contest at [%ballpark], the [%team#1link nickname] edged the [%team#2link nickname] by the score of [%game score]. [%team#1name] [%player game position] [%personlink], who blasted [%batting hr word], was a key contributor.">
+<OBJ id="42085" text="在 [%ballpark] 的一場拉鋸戰中，[%team#1link nickname] 以 [%game score] 小勝 [%team#2link nickname]。[%team#1name] 的 [%player game position] [%personlink] 轟出 [%batting hr word]，是關鍵功臣。">
 <COND id="194" value="1"/>
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
@@ -121605,25 +121605,25 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="83" value="-1"/>
 <COND id="203" value="1"/>
 </OBJ>
-<OBJ id="42086" text="Despite a great performance by [%team#2link] [%player game position] [%personlink], the [%team#1link nickname] defeated the [%team#2nickname] by the score of [%game score] at [%ballpark]. [%personname L] [%player game line].">
+<OBJ id="42086" text="儘管 [%team#2link] 的 [%player game position] [%personlink] 表現出色，[%team#1link nickname] 仍在 [%ballpark] 以 [%game score] 擊敗 [%team#2nickname]。[%personname L] [%player game line]。">
 <COND id="147" value="0"/>
 <COND id="72" value="14"/>
 </OBJ>
 <OBJ id="42087">
-<TXT>The [%team#1link nickname] faced a tough opponent in [%team#2link] pitcher [%personlink], but did just enough to pull out the victory at [%ballpark] by a final score of [%game score]. [%personname l] went [%pitching ip word] and allowed [%pitching r word].</TXT>
+<TXT>[%team#1link nickname] 面對 [%team#2link] 投手 [%personlink] 這個難纏的對手，仍在 [%ballpark] 做足了該做的事，以 [%game score] 拿下勝利。[%personname l] 投了 [%pitching ip word]，失 [%pitching r word]。</TXT>
 <COND id="72" value="1"/>
 <COND id="147" value="0"/>
 </OBJ>
-<OBJ id="42088" text="[%personlink] pitched a gem to lead [%team#1link] to victory over the [%team#2link nickname], [%game score].">
+<OBJ id="42088" text="[%personlink] 投出一場好球，帶領 [%team#1link] 以 [%game score] 擊敗 [%team#2link nickname]。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="216" value="1"/>
 </OBJ>
-<OBJ id="42104" text="The [%team#1link nickname] defeated the [%team#2link nickname], [%game score]. Doing his part was [%player game position] [%personlink], who [%player game line].">
+<OBJ id="42104" text="[%team#1link nickname] 以 [%game score] 擊敗 [%team#2link nickname]。盡了一份力的是 [%player game position] [%personlink]，他 [%player game line]。">
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
 </OBJ>
-<OBJ id="42186" text="The [%team#1link nickname] did not need a Herculean effort from starter [%personlink f l], not with their offense scoring runs at will. [%team#1name] dispatched the [%team#2link nickname], [%game score]. ">
+<OBJ id="42186" text="[%team#1link nickname] 今天不需要先發 [%personlink f l] 使出渾身解數，因為他們的打線得分如探囊取物。[%team#1name] 以 [%game score] 解決了 [%team#2link nickname]。 ">
 <COND id="147" value="1"/>
 <COND id="72" value="1"/>
 <COND id="199" value="1"/>
@@ -121634,12 +121634,12 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 </OBJ>-->
-<OBJ id="42337" text="The [%team#1link nickname] powered past the [%team#2link nickname], [%game score], at [%ballpark]. [%personlink] [%player game line], to lead the charge.">
+<OBJ id="42337" text="[%team#1link nickname] 在 [%ballpark] 以 [%game score] 強壓 [%team#2link nickname]。[%personlink] [%player game line]，帶頭衝鋒。">
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 <COND id="213" value="8"/>
 </OBJ>
-<OBJ id="42338" text="Riding the [%batting h]-hit performance of the [%person descriptor leading] [%personlink], the [%team#1link nickname] stopped the [%team#2link nickname], [%game score]. ">
+<OBJ id="42338" text="靠著 [%person descriptor leading] [%personlink] 單場 [%batting h] 支安打的表現，[%team#1link nickname] 以 [%game score] 擋下了 [%team#2link nickname]。 ">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="216" value="2"/>
@@ -121649,13 +121649,13 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 </OBJ>-->
-<OBJ id="42340" text="The [%team#1link nickname] got a strong performance from pitcher [%personlink#1], who stymied the [%team#2link] offense en route to a win, [%game score], at [%ballpark].">
+<OBJ id="42340" text="[%team#1link nickname] 的投手 [%personlink#1] 表現強勢，壓制住 [%team#2link] 的打線，球隊在 [%ballpark] 以 [%game score] 獲勝。">
 <COND id="216" value="2"/>
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="203" value="1"/>
 </OBJ>
-<OBJ id="42341" text="[%personlink] never let the [%team#2nickname] get in a groove. The [%player throws]hander used his bread and butter, his [%player best pitch], to pitch the [%team#1nickname] to a win, [%game score].">
+<OBJ id="42341" text="[%personlink] 從頭到尾沒讓 [%team#2nickname] 抓到節奏。這位 [%player throws] 投手祭出他的看家本領 [%player best pitch]，帶著 [%team#1nickname] 以 [%game score] 拿下勝利。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="188" value="5"/>
@@ -121663,7 +121663,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="214" value="6"/>
 <COND id="216" value="1"/>
 </OBJ>
-<OBJ id="42342" text="[%team#2link] had no answer for [%team#1link nickname] starter [%personlink], who flummoxed [%team#2nickname] hitters as the [%teamnickname] cruised to victory, [%game score].">
+<OBJ id="42342" text="[%team#2link] 對 [%team#1link nickname] 先發 [%personlink] 完全束手無策，[%team#2nickname] 的打者被耍得團團轉，[%teamnickname] 以 [%game score] 輕鬆獲勝。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="187" value="1"/>
@@ -121671,7 +121671,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="188" value="4"/>
 <COND id="213" value="6"/>
 </OBJ>
-<OBJ id="42343" text="[%team#1link nickname] starter [%personlink#1] turned in an exceptional performance against the [%team#2link nickname] at [%ballpark], resulting in a [%team#1name] win, [%game score].">
+<OBJ id="42343" text="[%team#1link nickname] 先發 [%personlink#1] 在 [%ballpark] 面對 [%team#2link nickname] 繳出精彩表現，[%team#1name] 以 [%game score] 獲勝。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="188" value="6"/>
@@ -121681,7 +121681,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="147" value="0"/>
 <COND id="72" value="14"/>
 </OBJ>-->
-<OBJ id="42345" text="[%personlink] pitched well, but the [%team#2link nickname] still lost the game, falling [%game score] to the [%team#1link nickname] at [%ballpark].">
+<OBJ id="42345" text="[%personlink] 投得不錯，[%team#2link nickname] 還是輸了球，在 [%ballpark] 以 [%game score] 敗給 [%team#1link nickname]。">
 <COND id="147" value="0"/>
 <COND id="72" value="11"/>
 <COND id="190" value="1"/>
@@ -121696,54 +121696,54 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 </OBJ>-->
-<OBJ id="42348" text="The [%team#1link nickname] defeated the [%team#2link nickname], [%game score], in [%subleaguename] action at [%ballpark]. [%personlink#1] pulled his weight. The [%player leagueseasons]-year veteran [%player game line].">
+<OBJ id="42348" text="[%team#1link nickname] 在 [%ballpark] 的 [%subleaguename] 賽事中以 [%game score] 擊敗 [%team#2link nickname]。[%personlink#1] 盡到了本分，這位 [%player leagueseasons] 年資歷的老將 [%player game line]。">
 <COND id="147" value="1"/>
 <COND id="203" value="1"/>
 <COND id="72" value="14"/>
 <COND id="9" value="6"/>
 </OBJ>
-<OBJ id="42349" text="[%team#1link nickname] starter [%personlink] had all his pitches working at [%ballpark]. His stellar performance paved the way for an easy [%game score] [%team#1name] win over the [%team#2link nickname]. ">
+<OBJ id="42349" text="[%team#1link nickname] 先發 [%personlink] 今天在 [%ballpark] 各種球路都很順手。他的精彩表現替 [%team#1name] 鋪好了路，以 [%game score] 輕鬆擊敗 [%team#2link nickname]。 ">
 <COND id="147" value="1"/>
 <COND id="216" value="2"/>
 <COND id="213" value="8"/>
 <COND id="199" value="1"/>
 </OBJ>
-<OBJ id="42350" text="Both pitching staffs were roughed up at [%ballpark], but [%teamname] pitcher [%personlink] mustered a strong enough performance to carry the [%teamnickname] to a win over the [%team#2link nickname], [%game score].  ">
+<OBJ id="42350" text="[%ballpark] 今天兩隊投手群都被打得很慘，但 [%teamname] 投手 [%personlink] 撐出足夠強勢的表現，帶著 [%teamnickname] 以 [%game score] 擊敗 [%team#2link nickname]。  ">
 <COND id="72" value="1"/>
 <COND id="147" value="1"/>
 <COND id="215" value="10"/>
 </OBJ>
-<OBJ id="42351" text="The bats were silent much of the day at [%ballpark]. But [%personlink] conjured up just enough offense to carry the [%teamnickname] past the [%team#2link nickname], [%game score]. [%personname l] [%player game line].">
+<OBJ id="42351" text="今天在 [%ballpark]，兩隊的棒子大多時候都很安靜。但 [%personlink] 硬是擠出足夠的攻勢，帶著 [%teamnickname] 以 [%game score] 力退 [%team#2link nickname]。[%personname l] [%player game line]。">
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 <COND id="214" value="3"/>
 </OBJ>
-<OBJ id="42352" text="[%team#2link] [%player game position] [%personlink] pounded [%team#1link nickname] pitchers at [%ballpark], but it was not enough to keep the [%team#2nickname] from falling, [%game score]. [%personname L] [%player game line].">
+<OBJ id="42352" text="[%team#2link] 的 [%player game position] [%personlink] 在 [%ballpark] 把 [%team#1link nickname] 的投手打得很慘，但仍不足以阻止 [%team#2nickname] 以 [%game score] 落敗。[%personname L] [%player game line]。">
 <COND id="147" value="0"/>
 <COND id="72" value="14"/>
 <COND id="194" value="2"/>
 <COND id="213" value="8"/>
 </OBJ>
-<OBJ id="42353" text="The [%team#1link nickname] got production from their entire lineup in an easy [%game score] win over the [%team#2link nickname]. Doing his part was [%playerposition] [%personlink]. [%personname l][%person descriptor trailing] [%player game line].">
+<OBJ id="42353" text="[%team#1link nickname] 全打線火力齊發，以 [%game score] 輕鬆擊敗 [%team#2link nickname]。盡了一份力的是 [%playerposition] [%personlink]，[%personname l][%person descriptor trailing] [%player game line]。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="216" value="3"/>
 <COND id="213" value="13"/>
 </OBJ>
-<OBJ id="42354" text="The [%team#2link nickname] wasted an impressive [%pitching ip]-inning effort from starter [%personlink], falling [%game score] to the [%team#1link nickname] at [%ballpark].">
+<OBJ id="42354" text="[%team#2link nickname] 浪費了先發 [%personlink] 主投 [%pitching ip] 局的精彩表現，在 [%ballpark] 以 [%game score] 敗給 [%team#1link nickname]。">
 <COND id="72" value="11"/>
 <COND id="147" value="0"/>
 <COND id="214" value="2"/>
 </OBJ>
 <OBJ id="42355">
-<TXT>At the rate they were hitting, the [%team#1link nickname] hardly needed a gem from their starting pitcher. They got one anyway, pulling away from the [%team#2link nickname] in the [%game score] victory. [%personlink] played a major role in the [%team#1name] win.</TXT>
+<TXT>以 [%team#1link nickname] 今天的打擊火力，他們其實不太需要先發投手投出一場好球，結果還是拿到了，並在 [%game score] 的勝利中甩開 [%team#2link nickname]。[%personlink] 在 [%team#1name] 的勝利中扮演要角。</TXT>
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="213" value="12"/>
 <COND id="203" value="1"/>
 <COND id="216" value="1"/>
 </OBJ>
-<OBJ id="42357" text="In a low-scoring contest, [%team#1link] pitcher [%personlink#1] was marvelous in his team's [%game score] win.">
+<OBJ id="42357" text="在一場低比分的比賽中，[%team#1link] 投手 [%personlink#1] 表現出色，球隊以 [%game score] 獲勝。">
 <COND id="147" value="1"/>
 <COND id="214" value="3"/>
 <COND id="188" value="5"/>
@@ -121752,7 +121752,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="203" value="1"/>
 <COND id="335" value="1"/>
 </OBJ>
-<OBJ id="42358" text="Pitcher [%personlink] was sensational for the [%team#1link nickname] in his team's [%game score] triumph over the [%team#2link nickname]. [%personname L] picked up the win, and it was well-earned.">
+<OBJ id="42358" text="投手 [%personlink] 在 [%team#1link nickname] 以 [%game score] 擊敗 [%team#2link nickname] 的比賽中表現驚人。[%personname L] 拿下勝投，實至名歸。">
 <COND id="147" value="1"/>
 <COND id="72" value="11"/>
 <COND id="188" value="4"/>
@@ -121760,28 +121760,28 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="189" value="1"/>
 <COND id="203" value="1"/>
 </OBJ>
-<OBJ id="42359" text="[%personlink] was the difference-maker for the [%team#1link nickname] in what turned into a shootout with the [%team#2link nickname]. [%personname L] went [%batting h]-for-[%batting ab] in the [%game score] [%teamnickname] win.">
+<OBJ id="42359" text="在與 [%team#2link nickname] 演變成大車拚的比賽裡，[%personlink] 是 [%team#1link nickname] 勝負的關鍵。[%personname L] [%batting ab] 打數 [%batting h] 安打，[%teamnickname] 以 [%game score] 獲勝。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="215" value="9"/>
 <COND id="203" value="1"/>
 </OBJ>
-<OBJ id="42360" text="A [%batting rbi]-RBI performance from [%player game position] [%personlink][%person descriptor trailing] led the [%team#1link nickname] to a win over the [%team#2link nickname], [%game score]. ">
+<OBJ id="42360" text="[%player game position] [%personlink][%person descriptor trailing] 單場 [%batting rbi] 分打點的表現，帶領 [%team#1link nickname] 以 [%game score] 擊敗 [%team#2link nickname]。 ">
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 <COND id="218" value="3"/>
 </OBJ>
-<OBJ id="42361" text="The [%team#2link nickname] got a superb performance from [%player game position] [%personlink], but the [%team#1link nickname] still won the game, [%game score]. [%personname l] [%player game line].">
+<OBJ id="42361" text="[%team#2link nickname] 的 [%player game position] [%personlink] 表現極佳，但 [%team#1link nickname] 還是以 [%game score] 贏下比賽。[%personname l] [%player game line]。">
 <COND id="147" value="0"/>
 <COND id="203" value="1"/>
 </OBJ>
-<OBJ id="42362" text="The [%team#1link nickname] did just enough to secure a victory over the [%team#2link nickname], [%game score], at [%ballpark]. Nobody did more than [%player game position] [%personlink].">
+<OBJ id="42362" text="[%team#1link nickname] 在 [%ballpark] 做足了該做的事，以 [%game score] 確保擊敗 [%team#2link nickname]。沒有人比 [%player game position] [%personlink] 貢獻更多。">
 <COND id="147" value="1"/>
 <COND id="84" value="1"/>
 <COND id="203" value="1"/>
 <COND id="83" value="-1"/>
 </OBJ>
-<OBJ id="42363" text="The [%team#1link nickname] beat the [%team#2link nickname], [%game score], at [%ballpark]. The win was due in part to [%player game position] [%personlink], who [%player game line].">
+<OBJ id="42363" text="[%team#1link nickname] 在 [%ballpark] 以 [%game score] 擊敗 [%team#2link nickname]。這場勝利有一部分要歸功於 [%player game position] [%personlink]，他 [%player game line]。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -121830,26 +121830,26 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 </OBJ>-->
-<OBJ id="42534" text="[%team#1link nickname] starter [%personlink] turned in a sterling  performance against the [%team#2link nickname], leading his team to a slim [%game score] win.">
+<OBJ id="42534" text="[%team#1link nickname] 先發 [%personlink] 面對 [%team#2link nickname] 繳出出色的表現，帶領球隊以 [%game score] 些微獲勝。">
 <COND id="72" value="11"/>
 <COND id="84" value="1"/>
 <COND id="214" value="3"/>
 <COND id="147" value="1"/>
 <COND id="83" value="-1"/>
 </OBJ>
-<OBJ id="42537" text="The [%team#1link nickname] had no problem beating the [%team#2link nickname], [%game score], at [%ballpark]. [%personlink f l] led the way. He [%player game line] for [%team#1name].">
+<OBJ id="42537" text="[%team#1link nickname] 在 [%ballpark] 輕鬆以 [%game score] 擊敗 [%team#2link nickname]。[%personlink f l] 帶頭建功，他為 [%team#1name] [%player game line]。">
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 <COND id="216" value="3"/>
 <COND id="213" value="11"/>
 </OBJ>
-<OBJ id="42538" text="The [%team#1link nickname] pounded the [%team#2link nickname], [%game score], at [%ballpark]. [%team#1name] [%player game position] [%personlink f l] had a solid game. He [%player game line] for the [%team#1nickname].">
+<OBJ id="42538" text="[%team#1link nickname] 在 [%ballpark] 以 [%game score] 痛擊 [%team#2link nickname]。[%team#1name] 的 [%player game position] [%personlink f l] 表現扎實，他為 [%team#1nickname] [%player game line]。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="216" value="2"/>
 <COND id="213" value="14"/>
 </OBJ>
-<OBJ id="42539" text="The [%team#1link nickname] coasted to a win over the [%team#2link nickname], [%game score]. [%personlink f l] had a good day at the plate for [%team#1name]. He [%player game line].">
+<OBJ id="42539" text="[%team#1link nickname] 以 [%game score] 輕鬆擊敗 [%team#2link nickname]。[%personlink f l] 為 [%team#1name] 在打擊區有不錯的一天，他 [%player game line]。">
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 <COND id="216" value="3"/>
@@ -121859,7 +121859,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="147" value="0"/>
 <COND id="72" value="14"/>
 </OBJ>-->
-<OBJ id="42548" text="The [%team#1link nickname] outlasted [%personlink] and the [%team#2link nickname], [%game score]. [%personname L] was impressive in the loss. The [%team#2name] [%player game position] [%player game line].  ">
+<OBJ id="42548" text="[%team#1link nickname] 以 [%game score] 撐過了 [%personlink] 與 [%team#2link nickname]。[%personname L] 在敗戰中表現亮眼，這位 [%team#2name] 的 [%player game position] [%player game line]。  ">
 <COND id="147" value="0"/>
 <COND id="213" value="8"/>
 <COND id="84" value="2"/>
@@ -121876,43 +121876,43 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="216" value="2"/>
 <COND id="213" value="14"/>
 </OBJ>-->
-<OBJ id="42554" text="The [%team#1link nickname] blasted the [%team#2link nickname], [%game score], at [%ballpark]. [%team#1name] [%player game position] [%personlink] had a productive day. He [%player game line].">
+<OBJ id="42554" text="[%team#1link nickname] 在 [%ballpark] 以 [%game score] 轟垮 [%team#2link nickname]。[%team#1name] 的 [%player game position] [%personlink] 收穫豐富，他 [%player game line]。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
 <COND id="216" value="2"/>
 <COND id="213" value="16"/>
 </OBJ>
-<OBJ id="42557" text="[%team#1link nickname] starter [%personlink] turned in a top-notch performance against the [%team#2link nickname] at [%ballpark]. The result was a win for the [%teamnickname], [%game score].">
+<OBJ id="42557" text="[%team#1link nickname] 先發 [%personlink] 在 [%ballpark] 面對 [%team#2link nickname] 投出頂級表現，[%teamnickname] 因此以 [%game score] 獲勝。">
 <COND id="147" value="1"/>
 <COND id="72" value="11"/>
 <COND id="188" value="7"/>
 <COND id="216" value="2"/>
 </OBJ>
-<OBJ id="42558" text="[%team#1link nickname] starter [%personlink] pitched a strong game against the [%team#2link nickname] at [%ballpark], leading the [%teamnickname] to victory, [%game score].">
+<OBJ id="42558" text="[%team#1link nickname] 先發 [%personlink] 在 [%ballpark] 面對 [%team#2link nickname] 投出強勢內容，帶領 [%teamnickname] 以 [%game score] 獲勝。">
 <COND id="147" value="1"/>
 <COND id="72" value="11"/>
 <COND id="187" value="2"/>
 </OBJ>
-<OBJ id="42602" text="The [%team#1link nickname] cruised to a win over the [%team#2link nickname], [%game score], at [%ballpark]. [%personlink f l] led the way, going [%batting h]-for-[%batting ab] for [%team#1name].">
+<OBJ id="42602" text="[%team#1link nickname] 在 [%ballpark] 以 [%game score] 輕鬆擊敗 [%team#2link nickname]。[%personlink f l] 帶頭建功，為 [%team#1name] [%batting ab] 打數 [%batting h] 安打。">
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 <COND id="216" value="4"/>
 <COND id="213" value="12"/>
 </OBJ>
-<OBJ id="42603" text="The [%team#1link nickname] used an offensive barrage to beat the [%team#2link nickname], [%game score], at [%ballpark]. [%personlink f l] led the way, going [%batting h]-for-[%batting ab] for [%team#1name].">
+<OBJ id="42603" text="[%team#1link nickname] 靠著一波猛烈攻勢，在 [%ballpark] 以 [%game score] 擊敗 [%team#2link nickname]。[%personlink f l] 帶頭建功，為 [%team#1name] [%batting ab] 打數 [%batting h] 安打。">
 <COND id="213" value="10"/>
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 <COND id="216" value="2"/>
 </OBJ>
-<OBJ id="42604" text="The [%team#1link nickname] buried the [%team#2link nickname], [%game score], under a barrage of hits. [%personlink f l] led the onslaught, going [%batting h]-for-[%batting ab] for [%team#1name].">
+<OBJ id="42604" text="[%team#1link nickname] 用一連串安打把 [%team#2link nickname] 徹底掩埋，比數 [%game score]。[%personlink f l] 領銜這波猛攻，為 [%team#1name] [%batting ab] 打數 [%batting h] 安打。">
 <COND id="216" value="2"/>
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 <COND id="213" value="12"/>
 </OBJ>
-<OBJ id="42605" text="In a close game at [%ballpark], the [%team#1link nickname] edged the [%team#2link nickname], [%game score]. [%team#1name] [%player game position] [%personlink] stood apart with his performance. He [%player game line].">
+<OBJ id="42605" text="在 [%ballpark] 的一場勢均力敵的比賽中，[%team#1link nickname] 以 [%game score] 小勝 [%team#2link nickname]。[%team#1name] 的 [%player game position] [%personlink] 表現特別突出，他 [%player game line]。">
 <COND id="84" value="1"/>
 <COND id="214" value="5"/>
 <COND id="72" value="14"/>
@@ -121933,23 +121933,23 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 </OBJ>-->
-<OBJ id="42705" text="[%team#1link] starter [%personlink] turned in a competent performance at [%ballpark] as the [%team#1nickname] beat the [%team#2link nickname], [%game score].">
+<OBJ id="42705" text="[%team#1link] 先發 [%personlink] 今天在 [%ballpark] 交出稱職的內容，[%team#1nickname] 以 [%game score] 擊敗 [%team#2link nickname]。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="215" value="6"/>
 <COND id="217" value="7.2"/>
 </OBJ>
-<OBJ id="42706" text="[%team#1link nickname] hurler [%personlink] went [%pitching ip word] to help his team beat the [%team#2link nickname], [%game score], at [%ballpark].">
+<OBJ id="42706" text="[%team#1link nickname] 投手 [%personlink] 主投 [%pitching ip word]，幫助球隊在 [%ballpark] 以 [%game score] 擊敗 [%team#2link nickname]。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="203" value="0"/>
 </OBJ>
-<OBJ id="42707" text="[%team#1link] [%player throws]hander [%personlink] pitched his team to victory over the [%team#2link nickname] at [%ballpark]. The final score was [%game score].">
+<OBJ id="42707" text="[%team#1link] 的 [%player throws] 投手 [%personlink] 在 [%ballpark] 帶領球隊擊敗 [%team#2link nickname]，最終比數 [%game score]。">
 <COND id="189" value="1"/>
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 </OBJ>
-<OBJ id="42756" text="[%team#1link nickname] starter [%personlink] was in fine form against the [%team#2link nickname] at [%ballpark], leading his team to a win, [%game score].">
+<OBJ id="42756" text="[%team#1link nickname] 先發 [%personlink] 在 [%ballpark] 面對 [%team#2link nickname] 狀況極佳，帶領球隊以 [%game score] 獲勝。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="216" value="4"/>
@@ -121960,7 +121960,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="72" value="11"/>
 <COND id="216" value="3"/>
 </OBJ>-->
-<OBJ id="42851" text="A [%batting rbi]-RBI performance from the [%person descriptor leading] [%personlink] helped the [%team#1link nickname] beat the [%team#2link nickname], [%game score].">
+<OBJ id="42851" text="[%person descriptor leading] [%personlink] 單場 [%batting rbi] 分打點的表現，幫助 [%team#1link nickname] 以 [%game score] 擊敗 [%team#2link nickname]。">
 <COND id="218" value="4"/>
 <COND id="147" value="1"/>
 </OBJ><!--
@@ -121973,55 +121973,55 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="147" value="0"/>
 <COND id="72" value="14"/>
 </OBJ>-->
-<OBJ id="42868" text="[%personlink] was superb against [%team#2link]. The [%player throws]hander[%person descriptor trailing] had a [%player best pitch] that was virtually unhittable at times. The result was a [%team#1nickname] victory. The score was [%game score].">
+<OBJ id="42868" text="[%personlink] 今天面對 [%team#2link] 表現超群。這位 [%player throws] 投手[%person descriptor trailing]的 [%player best pitch] 有時候根本打不到，結果就是 [%team#1nickname] 拿下勝利，比數 [%game score]。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="199" value="1"/>
 <COND id="188" value="3"/>
 <COND id="187" value="9"/>
 </OBJ>
-<OBJ id="42871" text="The [%team#1link nickname] defeated the [%team#2link nickname], [%game score], in [%subleaguename] action at [%ballpark]. [%team#1name] [%player game position] [%personlink] had a standout performance.">
+<OBJ id="42871" text="[%team#1link nickname] 在 [%ballpark] 的 [%subleaguename] 賽事中以 [%game score] 擊敗 [%team#2link nickname]。[%team#1name] 的 [%player game position] [%personlink] 表現亮眼。">
 <COND id="147" value="1"/>
 <COND id="203" value="1"/>
 <COND id="335" value="1"/>
 </OBJ>
-<OBJ id="42872" text="The [%team#1link nickname] topped the [%team#2link nickname], [%game score], in [%subleaguename] action at [%ballpark]. The game was highlighted by the performance of [%teamname] [%player game position] [%personlink].">
+<OBJ id="42872" text="[%team#1link nickname] 在 [%ballpark] 的 [%subleaguename] 賽事中以 [%game score] 力退 [%team#2link nickname]。比賽最精彩的是 [%teamname] 的 [%player game position] [%personlink] 的表現。">
 <COND id="147" value="1"/>
 <COND id="203" value="1"/>
 </OBJ>
-<OBJ id="42873" text="The [%team#1link nickname] got a magnificent performance from pitcher [%personlink], who muffled the [%team#2link] offense en route to a tight [%game score] [%teamnickname] win at [%ballpark].">
+<OBJ id="42873" text="[%team#1link nickname] 的投手 [%personlink] 表現極為出色，壓制住 [%team#2link] 的攻勢，[%teamnickname] 在 [%ballpark] 以 [%game score] 驚險獲勝。">
 <COND id="216" value="1"/>
 <COND id="147" value="1"/>
 <COND id="72" value="11"/>
 <COND id="214" value="3"/>
 <COND id="188" value="5"/>
 </OBJ>
-<OBJ id="42874" text="The [%team#1link nickname] thumped the [%team#2link nickname], [%game score], at [%ballpark]. [%personlink] was a big reason his team got the win. [%personname l] [%player game line].">
+<OBJ id="42874" text="[%team#1link nickname] 在 [%ballpark] 以 [%game score] 重擊 [%team#2link nickname]。[%personlink] 是球隊獲勝的一大原因，[%personname l] [%player game line]。">
 <COND id="213" value="8"/>
 <COND id="216" value="2"/>
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
 </OBJ>
-<OBJ id="42875" text="The [%team#1link nickname] and starting pitcher [%personlink] stifled the [%team#2link] offense en route to a comfortable [%game score] win at [%ballpark].">
+<OBJ id="42875" text="[%team#1link nickname] 與先發投手 [%personlink] 一起封鎖了 [%team#2link] 的攻勢，在 [%ballpark] 以 [%game score] 輕鬆獲勝。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="216" value="2"/>
 <COND id="213" value="8"/>
 </OBJ>
-<OBJ id="42876" text="The [%team#1link nickname] stymied the [%team#2link nickname], [%game score], at [%ballpark]. [%personlink f l] had a good day at the plate. He [%player game line] for [%team#1name].">
+<OBJ id="42876" text="[%team#1link nickname] 在 [%ballpark] 以 [%game score] 壓制 [%team#2link nickname]。[%personlink f l] 在打擊區有不錯的一天，他為 [%team#1name] [%player game line]。">
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 <COND id="216" value="2"/>
 <COND id="203" value="1"/>
 <COND id="214" value="7"/>
 </OBJ>
-<OBJ id="42910" text="The [%team#1link nickname] outlasted the [%team#2link nickname], [%game score], in 18 innings. [%personlink f l] provided some punch at the plate for [%team#1name]. He [%player game line].">
+<OBJ id="42910" text="[%team#1link nickname] 在十八局的鏖戰中以 [%game score] 撐過 [%team#2link nickname]。[%personlink f l] 在打擊區為 [%team#1name] 提供火力，他 [%player game line]。">
 <COND id="81" value="18"/>
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 </OBJ>
-<OBJ id="42911" text="The [%team#1link nickname] got a hard-earned win over the [%team#2link nickname], [%game score], in 17 innings. [%personlink f l] provided some offensive muscle for [%team#1name]. He [%player game line].">
+<OBJ id="42911" text="[%team#1link nickname] 在十七局的苦戰中以 [%game score] 擊敗 [%team#2link nickname]。[%personlink f l] 為 [%team#1name] 提供攻擊火力，他 [%player game line]。">
 <COND id="81" value="17"/>
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
@@ -122044,19 +122044,19 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
 </OBJ>-->
-<OBJ id="42973" text="The [%team#1link nickname] picked up a win at [%ballpark], knocking off the [%team#2link nickname], [%game score]. Starting pitcher [%personlink] was a big reason why.">
+<OBJ id="42973" text="[%team#1link nickname] 在 [%ballpark] 以 [%game score] 擊倒 [%team#2link nickname]，拿下勝利。先發投手 [%personlink] 是主要功臣。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="203" value="1"/>
 <COND id="217" value="6"/>
 </OBJ>
-<OBJ id="42989" text="The [%team#1nickname] faced a stiff challenge from [%team#2link] pitcher [%personlink f l], but persevered to claim a win at [%ballpark]. The final score was [%game score]. [%personname l] went [%pitching ip word] and allowed [%pitching r word].">
+<OBJ id="42989" text="[%team#1nickname] 面對 [%team#2link] 投手 [%personlink f l] 的頑強抵抗，仍堅持到底，在 [%ballpark] 拿下勝利，最終比數 [%game score]。[%personname l] 投了 [%pitching ip word]，失 [%pitching r word]。">
 <COND id="147" value="0"/>
 <COND id="72" value="1"/>
 <COND id="203" value="1"/>
 <COND id="214" value="2"/>
 </OBJ>
-<OBJ id="42990" text="[%team#2link] pitcher [%personlink f l] gave the [%team#1nickname] all they could handle, but in the end, [%team#1link] left [%ballpark] with a win, [%game score]. [%personname l] allowed [%pitching r word] on [%pitching ha word] over [%pitching ip word].">
+<OBJ id="42990" text="[%team#2link] 投手 [%personlink f l] 讓 [%team#1nickname] 吃足苦頭，但最後 [%team#1link] 仍以 [%game score] 帶著勝利離開 [%ballpark]。[%personname l] 在 [%pitching ip word] 中被敲出 [%pitching ha word]，失 [%pitching r word]。">
 <COND id="72" value="1"/>
 <COND id="147" value="0"/>
 <COND id="214" value="2"/>
@@ -122065,20 +122065,20 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 </OBJ>-->
-<OBJ id="43033" text="The [%team#1link nickname] clobbered the [%team#2link nickname], [%game score], at [%ballpark]. [%team#1name] [%player game position] [%personlink] led the onslaught. He [%player game line].">
+<OBJ id="43033" text="[%team#1link nickname] 在 [%ballpark] 以 [%game score] 痛宰 [%team#2link nickname]。[%team#1name] 的 [%player game position] [%personlink] 領銜這波猛攻，他 [%player game line]。">
 <COND id="216" value="3"/>
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 <COND id="203" value="1"/>
 <COND id="213" value="12"/>
 </OBJ>
-<OBJ id="43059" text="In a tight game between the [%team#2link nickname] and the [%team#1link nickname], nobody was more important for the winners than [%personlink]. [%personname L] was masterful in the [%game score] win.">
+<OBJ id="43059" text="在 [%team#2link nickname] 與 [%team#1link nickname] 的一場拉鋸戰中，對獲勝的一方來說沒有人比 [%personlink] 更重要。[%personname L] 在這場 [%game score] 的勝利中投得出神入化。">
 <COND id="203" value="1"/>
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 <COND id="214" value="2"/>
 </OBJ>
-<OBJ id="43060" text="Pitching was the name of the game in a tight contest between the [%team#1link nickname] and the [%team#2link nickname]. [%team#1name] won it, [%game score]. [%team#1name] starter [%personlink] was in command.">
+<OBJ id="43060" text="[%team#1link nickname] 與 [%team#2link nickname] 的這場拉鋸戰完全是投手主導，[%team#1name] 以 [%game score] 贏下比賽。[%team#1name] 先發 [%personlink] 完全掌控了局面。">
 <COND id="203" value="1"/>
 <COND id="214" value="3"/>
 <COND id="216" value="1"/>
@@ -122086,7 +122086,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="72" value="1"/>
 <COND id="188" value="6"/>
 </OBJ>
-<OBJ id="43108" text="[%team#1link nickname] starter [%personlink] kept the [%team#2link nickname] hitters in check, leading his team to a comfortable [%game score] win.">
+<OBJ id="43108" text="[%team#1link nickname] 先發 [%personlink] 把 [%team#2link nickname] 的打者壓得死死的，帶領球隊以 [%game score] 輕鬆獲勝。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="216" value="2"/>
@@ -122100,7 +122100,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 </OBJ>-->
-<OBJ id="43112" text="The [%team#1link nickname] topped the [%team#2link nickname], [%game score]. [%personlink][%person descriptor trailing] engineered a dominant performance.">
+<OBJ id="43112" text="[%team#1link nickname] 以 [%game score] 力退 [%team#2link nickname]。[%personlink][%person descriptor trailing]主導了一場壓倒性的演出。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="203" value="1"/>
@@ -122108,7 +122108,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="188" value="4"/>
 <COND id="187" value="8"/>
 </OBJ>
-<OBJ id="43113" text="The [%team#1link nickname] knocked off the [%team#2link nickname], [%game score]. [%team#1name] starter [%personlink] pitched a gem.">
+<OBJ id="43113" text="[%team#1link nickname] 以 [%game score] 擊倒 [%team#2link nickname]。[%team#1name] 先發 [%personlink] 投出一場好球。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="203" value="1"/>
@@ -122120,25 +122120,25 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 </OBJ>-->
-<OBJ id="43127" text="[%team#1link] rode a fine outing from starter [%personlink] to victory over the [%team#2link nickname] at [%ballpark]. The final score was [%game score].">
+<OBJ id="43127" text="[%team#1link] 靠著先發 [%personlink] 的精彩內容，在 [%ballpark] 擊敗 [%team#2link nickname]，最終比數 [%game score]。">
 <COND id="147" value="1"/>
 <COND id="72" value="11"/>
 <COND id="188" value="7"/>
 <COND id="216" value="2"/>
 <COND id="199" value="1"/>
 </OBJ>
-<OBJ id="43128" text="[%team#1link] beat [%team#2link] on the strength of starter [%personlink]'s fine effort. The [%player throws]hander led his team to a win, [%game score].">
+<OBJ id="43128" text="[%team#1link] 靠著先發 [%personlink] 的優異表現擊敗 [%team#2link]。這位 [%player throws] 投手帶領球隊以 [%game score] 獲勝。">
 <COND id="147" value="1"/>
 <COND id="72" value="11"/>
 <COND id="216" value="3"/>
 <COND id="199" value="1"/>
 </OBJ>
-<OBJ id="43138" text="Starting pitcher [%personlink] pitched well enough to help the [%team#1link nickname] beat the [%team#2link nickname], [%game score].">
+<OBJ id="43138" text="先發投手 [%personlink] 投得夠好，幫助 [%team#1link nickname] 以 [%game score] 擊敗 [%team#2link nickname]。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="215" value="3"/>
 </OBJ>
-<OBJ id="43139" text="[%team#1link] got an outstanding performance from [%personlink#1]. The [%player throws]hander maintained a tight grip on the [%team#2link] lineup, leading his team to a win, [%game score].">
+<OBJ id="43139" text="[%team#1link] 得到 [%personlink#1] 的出色表現。這位 [%player throws] 投手把 [%team#2link] 的打線牢牢掐住，帶領球隊以 [%game score] 獲勝。">
 <COND id="216" value="1"/>
 <COND id="72" value="1"/>
 <COND id="147" value="1"/>
@@ -122151,59 +122151,59 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="203" value="1"/>
 <COND id="72" value="14"/>
 </OBJ>-->
-<OBJ id="43253" text="[%team#1link] starter [%personlink] pitched well against the [%team#2link nickname] at [%ballpark]. The [%player throws]hander led his team to a win, [%game score].">
+<OBJ id="43253" text="[%team#1link] 先發 [%personlink] 在 [%ballpark] 面對 [%team#2link nickname] 投得不錯。這位 [%player throws] 投手帶領球隊以 [%game score] 獲勝。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 </OBJ>
-<OBJ id="43254" text="[%team#1link nickname] [%player throws]hander [%personlink] pitched a good game against the [%team#2link nickname] at [%ballpark], leading his team to victory, [%game score].">
+<OBJ id="43254" text="[%team#1link nickname] 的 [%player throws] 投手 [%personlink] 在 [%ballpark] 面對 [%team#2link nickname] 投出好內容，帶領球隊以 [%game score] 獲勝。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="216" value="4"/>
 </OBJ>
-<OBJ id="43255" text="[%team#1link nickname] starter [%personlink] turned in a workmanlike performance against the [%team#2link nickname] at [%ballpark].">
+<OBJ id="43255" text="[%team#1link nickname] 先發 [%personlink] 在 [%ballpark] 面對 [%team#2link nickname] 交出一份紮實稱職的內容。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="215" value="5"/>
 <COND id="217" value="7.2"/>
 </OBJ>
-<OBJ id="43308" text="The exploits of [%player game position] [%personlink][%person descriptor trailing] helped the [%team#1link nickname] defeat the [%team#2link nickname], [%game score]. [%personname l] [%player game line].">
+<OBJ id="43308" text="[%player game position] [%personlink][%person descriptor trailing]的精彩表現，幫助 [%team#1link nickname] 以 [%game score] 擊敗 [%team#2link nickname]。[%personname l] [%player game line]。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="216" value="2"/>
 </OBJ>
-<OBJ id="43318" text="The [%team#1link nickname] downed the [%team#2link nickname], [%game score], in 10 innings. [%personlink f l] led the way, going [%batting h]-for-[%batting ab] for [%team#1name].">
+<OBJ id="43318" text="[%team#1link nickname] 在延長十局以 [%game score] 擊敗 [%team#2link nickname]。[%personlink f l] 帶頭建功，為 [%team#1name] [%batting ab] 打數 [%batting h] 安打。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="81" value="10"/>
 </OBJ>
-<OBJ id="43319" text="The [%team#1link nickname] defeated the [%team#2link nickname], [%game score], in 12 innings. [%personlink f l] led the way, going [%batting h]-for-[%batting ab] for [%team#1name].">
+<OBJ id="43319" text="[%team#1link nickname] 在延長十二局以 [%game score] 擊敗 [%team#2link nickname]。[%personlink f l] 帶頭建功，為 [%team#1name] [%batting ab] 打數 [%batting h] 安打。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="81" value="12"/>
 </OBJ>
-<OBJ id="43320" text="The [%team#1link nickname] outlasted the [%team#2link nickname], [%game score], in 14 innings. [%personlink f l] led the way, going [%batting h]-for-[%batting ab] for [%team#1name].">
+<OBJ id="43320" text="[%team#1link nickname] 在延長十四局的鏖戰中以 [%game score] 撐過 [%team#2link nickname]。[%personlink f l] 帶頭建功，為 [%team#1name] [%batting ab] 打數 [%batting h] 安打。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="81" value="14"/>
 </OBJ>
-<OBJ id="43321" text="The [%team#1link nickname] outlasted the [%team#2link nickname], [%game score], in 16 innings. [%personlink f l] played a key role, going [%batting h]-for-[%batting ab] for [%team#1name].">
+<OBJ id="43321" text="[%team#1link nickname] 在延長十六局的鏖戰中以 [%game score] 撐過 [%team#2link nickname]。[%personlink f l] 扮演關鍵角色，為 [%team#1name] [%batting ab] 打數 [%batting h] 安打。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="81" value="16"/>
 </OBJ>
-<OBJ id="43322" text="The [%team#1link nickname] beat the [%team#2link nickname], [%game score], in 11 innings. [%team#1name] [%player game position] [%personlink], in particular, had a fine performance. He [%player game line].">
+<OBJ id="43322" text="[%team#1link nickname] 在延長十一局以 [%game score] 擊敗 [%team#2link nickname]。其中 [%team#1name] 的 [%player game position] [%personlink] 表現特別出色，他 [%player game line]。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
 <COND id="81" value="11"/>
 </OBJ>
-<OBJ id="43323" text="The [%team#1link nickname] topped the [%team#2link nickname], [%game score], in 13 innings. [%team#1name] [%player game position] [%personlink], in particular, was impressive. He [%player game line].">
+<OBJ id="43323" text="[%team#1link nickname] 在延長十三局以 [%game score] 力退 [%team#2link nickname]。其中 [%team#1name] 的 [%player game position] [%personlink] 特別令人印象深刻，他 [%player game line]。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
 <COND id="81" value="13"/>
 </OBJ>
-<OBJ id="43324" text="The [%team#1link nickname] outlasted the [%team#2link nickname], [%game score], in 17 innings. [%team#1name] [%player game position] [%personlink] stood out with his performance. He [%player game line].">
+<OBJ id="43324" text="[%team#1link nickname] 在延長十七局的鏖戰中以 [%game score] 撐過 [%team#2link nickname]。[%team#1name] 的 [%player game position] [%personlink] 表現突出，他 [%player game line]。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -122221,7 +122221,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="147" value="0"/>
 <COND id="72" value="14"/>
 </OBJ>-->
-<OBJ id="43330" text="[%personlink] pitched well enough to win, but it was not to be. The [%team#2link nickname], despite [%personname l]'s fine outing, dropped a [%game score] decision to the [%team#1link nickname] at [%ballpark].">
+<OBJ id="43330" text="[%personlink] 投出足以贏球的內容，可惜事與願違。儘管 [%personname l] 表現優異，[%team#2link nickname] 仍在 [%ballpark] 以 [%game score] 敗給 [%team#1link nickname]。">
 <COND id="147" value="0"/>
 <COND id="72" value="11"/>
 <COND id="190" value="1"/>
@@ -122234,13 +122234,13 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="214" value="4"/>
 </OBJ>-->
 <OBJ id="43352">
-<TXT>[%team#2link] got a terrific performance from [%player game position] [%personlink], but it wasn't enough to beat the [%team#1link nickname]. [%team#1name] won the [%ballpark] contest, [%game score]. [%personname l] [%player game line] for the losing team.</TXT>
+<TXT>[%team#2link] 的 [%player game position] [%personlink] 表現極佳，但仍不足以擊敗 [%team#1link nickname]。[%team#1name] 在 [%ballpark] 以 [%game score] 贏下比賽。敗方的 [%personname l] [%player game line]。</TXT>
 <COND id="147" value="0"/>
 <COND id="203" value="1"/>
 <COND id="245" value="2"/>
 <COND id="217" value="7"/>
 </OBJ>
-<OBJ id="43353" text="[%team#2link] [%player game position] [%personlink] was sensational. He [%player game line], but it wasn't enough to rally his team to a win. [%team#1link] beat the [%team#2nickname], [%game score].">
+<OBJ id="43353" text="[%team#2link] 的 [%player game position] [%personlink] 表現驚人，他 [%player game line]，卻仍無法帶動球隊逆轉。[%team#1link] 以 [%game score] 擊敗 [%team#2nickname]。">
 <COND id="147" value="0"/>
 <COND id="203" value="1"/>
 <COND id="72" value="14"/>
@@ -122257,7 +122257,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="188" value="7"/>
 <COND id="216" value="2"/>
 </OBJ>-->
-<OBJ id="43413" text="[%team#1link] [%player throws]hander [%personlink] helped his team edge [%team#2link] by the score of [%game score]. [%personname l] kept the opposing lineup in check.">
+<OBJ id="43413" text="[%team#1link] 的 [%player throws] 投手 [%personlink] 幫助球隊以 [%game score] 小勝 [%team#2link]。[%personname l] 把對方打線壓制得服服貼貼。">
 <COND id="147" value="1"/>
 <COND id="72" value="11"/>
 <COND id="216" value="2"/>
@@ -122270,18 +122270,18 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="188" value="7"/>
 <COND id="216" value="2"/>
 </OBJ>-->
-<OBJ id="43416" text="The [%team#1link nickname] got a stellar performance from pitcher [%personlink#1], who handcuffed the [%team#2link] offense en route to a win, [%game score], at [%ballpark].">
+<OBJ id="43416" text="[%team#1link nickname] 的投手 [%personlink#1] 表現出色，銬住了 [%team#2link] 的攻勢，球隊在 [%ballpark] 以 [%game score] 獲勝。">
 <COND id="216" value="2"/>
 <COND id="72" value="1"/>
 <COND id="147" value="1"/>
 </OBJ>
-<OBJ id="43417" text="The [%team#1link nickname] got a stellar effort from pitcher [%personlink#1], helping [%team#1name] score a win over the visiting [%team#2link nickname], [%game score].">
+<OBJ id="43417" text="[%team#1link nickname] 的投手 [%personlink#1] 拿出精彩表現，幫助 [%team#1name] 以 [%game score] 擊敗來訪的 [%team#2link nickname]。">
 <COND id="216" value="2"/>
 <COND id="198" value="1"/>
 <COND id="147" value="1"/>
 <COND id="72" value="1"/>
 </OBJ>
-<OBJ id="43432" text="The [%team#1link nickname] turned back the [%team#2link nickname], [%game score], at [%ballpark]. [%personlink], in particular, had a fine performance. He [%player game line].">
+<OBJ id="43432" text="[%team#1link nickname] 在 [%ballpark] 以 [%game score] 擋下 [%team#2link nickname]。其中 [%personlink] 表現特別出色，他 [%player game line]。">
 <COND id="83" value="-1"/>
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
@@ -122293,13 +122293,13 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
 </OBJ>-->
-<OBJ id="43437" text="[%team#1link] used a superb performance from starting pitcher [%personlink] to down the [%team#2link nickname], [%game score].">
+<OBJ id="43437" text="[%team#1link] 靠著先發投手 [%personlink] 的絕佳表現，以 [%game score] 擊敗 [%team#2link nickname]。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="216" value="1"/>
 <COND id="188" value="4"/>
 </OBJ>
-<OBJ id="43438" text="[%team#1link] got an elite performance from starting pitcher [%personlink] in taking a [%game score] decision over the [%team#2link nickname].">
+<OBJ id="43438" text="[%team#1link] 得到先發投手 [%personlink] 頂尖水準的表現，以 [%game score] 擊敗 [%team#2link nickname]。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="216" value="1"/>
@@ -122307,12 +122307,12 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="214" value="5"/>
 <COND id="217" value="8"/>
 </OBJ>
-<OBJ id="43483" text="The [%team#1link nickname] outscored the [%team#2link nickname], [%game score]. [%personlink f l] led the way, going [%batting h]-for-[%batting ab] for [%team#1name].">
+<OBJ id="43483" text="[%team#1link nickname] 以 [%game score] 在得分上壓過 [%team#2link nickname]。[%personlink f l] 帶頭建功，為 [%team#1name] [%batting ab] 打數 [%batting h] 安打。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="215" value="10"/>
 </OBJ>
-<OBJ id="43491" text="[%team#1link] pitcher [%personlink#1] did his part in helping his team beat the [%team#2link nickname], [%game score]. The [%player throws]hander kept opposing batters in check throughout the game.">
+<OBJ id="43491" text="[%team#1link] 投手 [%personlink#1] 盡到本分，幫助球隊以 [%game score] 擊敗 [%team#2link nickname]。這位 [%player throws] 投手全場都把對方打者壓制得死死的。">
 <COND id="216" value="3"/>
 <COND id="72" value="1"/>
 <COND id="147" value="1"/>
@@ -122327,7 +122327,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 </OBJ>-->
-<OBJ id="43541" text="[%team#1link] pitcher [%personlink#1] was good. Really good. He twirled a [%pitching ha]-hit shutout to beat the [%team#2link nickname], [%game score].">
+<OBJ id="43541" text="[%team#1link] 投手 [%personlink#1] 投得很好，非常好。他投出一場只被敲 [%pitching ha] 支安打的完封，以 [%game score] 擊敗 [%team#2link nickname]。">
 <COND id="185" value="1"/>
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
@@ -122336,7 +122336,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="188" value="6"/>
 <COND id="203" value="1"/>
 </OBJ>
-<OBJ id="43542" text="[%team#1link] starter [%personlink] had a strong outing against the [%team#2link nickname] at [%ballpark]. The [%player throws]hander was a big part of his team's [%game score] win.">
+<OBJ id="43542" text="[%team#1link] 先發 [%personlink] 在 [%ballpark] 面對 [%team#2link nickname] 有強勢的一場。這位 [%player throws] 投手是球隊以 [%game score] 獲勝的一大功臣。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="216" value="3"/>
@@ -122350,7 +122350,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="147" value="0"/>
 <COND id="203" value="1"/>
 </OBJ>-->
-<OBJ id="43564" text="[%team#1link] starter [%personlink] kept the [%team#2link] hitters in check, helping his team cruise to a win, [%game score].">
+<OBJ id="43564" text="[%team#1link] 先發 [%personlink] 把 [%team#2link] 的打者壓制住，幫助球隊以 [%game score] 輕鬆獲勝。">
 <COND id="147" value="1"/>
 <COND id="72" value="11"/>
 <COND id="216" value="2"/>
@@ -122362,7 +122362,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="72" value="11"/>
 <COND id="216" value="2"/>
 </OBJ>-->
-<OBJ id="43566" text="[%team#1link] starter [%personlink] kept the [%team#2link] offense in check, while his team rolled to a win, [%game score].">
+<OBJ id="43566" text="[%team#1link] 先發 [%personlink] 封鎖了 [%team#2link] 的攻勢，球隊也順勢以 [%game score] 拿下勝利。">
 <COND id="213" value="11"/>
 <COND id="147" value="1"/>
 <COND id="72" value="11"/>
@@ -122373,13 +122373,13 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="203" value="1"/>
 <COND id="72" value="14"/>
 </OBJ>-->
-<OBJ id="43573" text="Though he had a great game, [%personlink] could not single-handedly produce a win for [%team#2link]. [%team#1name] won the game, [%game score]. [%personname l] [%player game line].">
+<OBJ id="43573" text="儘管打了一場好球，[%personlink] 仍無法憑一己之力替 [%team#2link] 拿下勝利。[%team#1name] 以 [%game score] 贏得比賽。[%personname l] [%player game line]。">
 <COND id="147" value="0"/>
 <COND id="203" value="1"/>
 <COND id="216" value="2"/>
 <COND id="72" value="14"/>
 </OBJ>
-<OBJ id="43578" text="The [%team#1link nickname] picked up a win at [%ballpark], knocking off the [%team#2link nickname], [%game score]. Starting pitcher [%personlink] was an essential part of his team's success.">
+<OBJ id="43578" text="[%team#1link nickname] 在 [%ballpark] 以 [%game score] 擊倒 [%team#2link nickname]，拿下勝利。先發投手 [%personlink] 是球隊成功不可或缺的一環。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="203" value="1"/>
@@ -122404,12 +122404,12 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="203" value="1"/>
 <COND id="217" value="6"/>
 </OBJ>-->
-<OBJ id="43586" text="The [%team#1link nickname] topped the [%team#2link nickname], [%game score], in [%subleaguename] action at [%ballpark]. The standout performance belonged to [%teamname] [%player game position] and [%personhometown], native [%personlink].">
+<OBJ id="43586" text="[%team#1link nickname] 在 [%ballpark] 的 [%subleaguename] 賽事中以 [%game score] 力退 [%team#2link nickname]。表現最亮眼的是 [%teamname] 的 [%player game position]、來自 [%personhometown] 的 [%personlink]。">
 <COND id="147" value="1"/>
 <COND id="203" value="1"/>
 <COND id="72" value="1"/>
 </OBJ>
-<OBJ id="43619" text="In a low-scoring game between the [%team#1link nickname] and the [%team#2link nickname], pitcher [%personlink] was masterful on the mound. The [%team#1name] [%player throws]hander spearheaded his team's [%game score] win.">
+<OBJ id="43619" text="在 [%team#1link nickname] 與 [%team#2link nickname] 的低比分對決中，投手 [%personlink] 在投手丘上出神入化。這位 [%team#1name] 的 [%player throws] 投手領軍拿下 [%game score] 的勝利。">
 <COND id="147" value="1"/>
 <COND id="72" value="11"/>
 <COND id="214" value="3"/>
@@ -122418,7 +122418,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="187" value="5"/>
 <COND id="216" value="1"/>
 </OBJ>
-<OBJ id="43620" text="In a low-scoring tilt between the [%team#1link nickname] and the [%team#2link nickname], [%personlink] was the difference-maker. The [%team#1name] [%player throws]hander spearheaded the [%game score] win.">
+<OBJ id="43620" text="在 [%team#1link nickname] 與 [%team#2link nickname] 的低比分對決中，[%personlink] 是勝負的關鍵。這位 [%team#1name] 的 [%player throws] 投手領軍拿下 [%game score] 的勝利。">
 <COND id="147" value="1"/>
 <COND id="72" value="1"/>
 <COND id="214" value="3"/>
@@ -122427,7 +122427,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="147" value="0"/>
 <COND id="72" value="14"/>
 </OBJ>-->
-<OBJ id="43664" text="[%personlink#1] added some punch to the [%team#1link] offense, helping them outmuscle the [%team#2link nickname], [%game score]. In the game, [%personname l][%person descriptor trailing] [%player game line].">
+<OBJ id="43664" text="[%personlink#1] 為 [%team#1link] 的攻勢注入火力，幫助球隊以 [%game score] 硬碰硬贏過 [%team#2link nickname]。這場比賽中，[%personname l][%person descriptor trailing] [%player game line]。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="215" value="7"/>
@@ -122436,7 +122436,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="147" value="0"/>
 <COND id="203" value="1"/>
 </OBJ>-->
-<OBJ id="43669" text="[%team#1link] overcame a superior effort from [%personlink] to beat [%team#2link], [%game score]. The [%team#2link] [%player game position] [%player game line].">
+<OBJ id="43669" text="[%team#1link] 克服了 [%personlink] 的出色表現，以 [%game score] 擊敗 [%team#2link]。這位 [%team#2link] 的 [%player game position] [%player game line]。">
 <COND id="188" value="4"/>
 <COND id="147" value="0"/>
 <COND id="203" value="1"/>
@@ -122457,42 +122457,42 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="147" value="1"/>
 <COND id="218" value="3"/>
 </OBJ>-->
-<OBJ id="43677" text="[%team#1link] [%player game position] [%personlink] picked up [%batting rbi] ribbies while helping his team beat back the [%team#2link nickname], [%game score]. ">
+<OBJ id="43677" text="[%team#1link] 的 [%player game position] [%personlink] 帶回 [%batting rbi] 分打點，幫助球隊以 [%game score] 擋下 [%team#2link nickname]。 ">
 <COND id="83" value="-1"/>
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 <COND id="218" value="3"/>
 <COND id="84" value="1"/>
 </OBJ>
-<OBJ id="43678" text="[%personlink] knocked in all [%batting rbi] runs for the [%team#1link nickname], helping them beat the [%team#2link nickname], [%game score]. ">
+<OBJ id="43678" text="[%personlink] 一個人包辦 [%team#1link nickname] 全部 [%batting rbi] 分打點，幫助球隊以 [%game score] 擊敗 [%team#2link nickname]。 ">
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 <COND id="218" value="3"/>
 <COND id="214" value="3"/>
 <COND id="213" value="3"/>
 </OBJ>
-<OBJ id="43679" text="[%personlink] knocked in all [%batting rbi] runs for the [%team#1link nickname], helping them beat the [%team#2link nickname], [%game score]. ">
+<OBJ id="43679" text="[%personlink] 一個人包辦 [%team#1link nickname] 全部 [%batting rbi] 分打點，幫助球隊以 [%game score] 擊敗 [%team#2link nickname]。 ">
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 <COND id="218" value="4"/>
 <COND id="214" value="4"/>
 <COND id="213" value="4"/>
 </OBJ>
-<OBJ id="43680" text="[%personlink] knocked in all [%batting rbi] runs for the [%team#1link nickname], helping them beat the [%team#2link nickname], [%game score]. ">
+<OBJ id="43680" text="[%personlink] 一個人包辦 [%team#1link nickname] 全部 [%batting rbi] 分打點，幫助球隊以 [%game score] 擊敗 [%team#2link nickname]。 ">
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 <COND id="218" value="5"/>
 <COND id="214" value="5"/>
 <COND id="213" value="5"/>
 </OBJ>
-<OBJ id="43681" text="[%personlink] knocked in all [%batting rbi] runs for the [%team#1link nickname], helping them beat the [%team#2link nickname], [%game score]. ">
+<OBJ id="43681" text="[%personlink] 一個人包辦 [%team#1link nickname] 全部 [%batting rbi] 分打點，幫助球隊以 [%game score] 擊敗 [%team#2link nickname]。 ">
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 <COND id="218" value="6"/>
 <COND id="214" value="6"/>
 <COND id="213" value="6"/>
 </OBJ>
-<OBJ id="43682" text="[%personlink] pitched a gem in leading [%team#1link] to a [%game score] victory over the [%team#2link nickname].">
+<OBJ id="43682" text="[%personlink] 投出一場好球，帶領 [%team#1link] 以 [%game score] 擊敗 [%team#2link nickname]。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="216" value="1"/>
@@ -122501,7 +122501,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="187" value="3"/>
 <COND id="214" value="7"/>
 </OBJ>
-<OBJ id="43683" text="[%personlink] pitched a near no-hitter in leading [%team#1link] to a [%game score] triumph over the [%team#2link nickname].">
+<OBJ id="43683" text="[%personlink] 投出一場差點完成的無安打比賽，帶領 [%team#1link] 以 [%game score] 擊敗 [%team#2link nickname]。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="216" value="1"/>
@@ -122511,14 +122511,14 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="183" value="0"/>
 <COND id="214" value="7"/>
 </OBJ>
-<OBJ id="43702" text="The [%team#1link nickname] eked out a [%game score] win versus the [%team#2link nickname] at [%ballpark]. Nobody did more than [%player game position] [%personlink]. He was terrific.">
+<OBJ id="43702" text="[%team#1link nickname] 在 [%ballpark] 以 [%game score] 驚險擊敗 [%team#2link nickname]。沒有人比 [%player game position] [%personlink] 貢獻更多，他表現得非常出色。">
 <COND id="147" value="1"/>
 <COND id="84" value="1"/>
 <COND id="203" value="1"/>
 <COND id="83" value="-1"/>
 <COND id="214" value="3"/>
 </OBJ>
-<OBJ id="43703" text="[%team#1link] beat [%team#2link] at [%ballpark], eking out a [%game score] win. The win was due in large part to [%player game position] [%personlink]. He [%player game line].">
+<OBJ id="43703" text="[%team#1link] 在 [%ballpark] 以 [%game score] 驚險擊敗 [%team#2link]。這場勝利很大一部分要歸功於 [%player game position] [%personlink]，他 [%player game line]。">
 <COND id="147" value="1"/>
 <COND id="84" value="1"/>
 <COND id="203" value="1"/>
@@ -122527,7 +122527,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="335" value="14"/>
 <COND id="214" value="6"/>
 </OBJ>
-<OBJ id="43704" text="[%team#1link] beat [%team#2link] at [%ballpark], escaping with a [%game score] win. The win in large part was due to [%player game position] [%personlink]. He [%player game line].">
+<OBJ id="43704" text="[%team#1link] 在 [%ballpark] 以 [%game score] 險勝 [%team#2link]。這場勝利很大一部分要歸功於 [%player game position] [%personlink]，他 [%player game line]。">
 <COND id="147" value="1"/>
 <COND id="84" value="1"/>
 <COND id="203" value="1"/>
@@ -122543,7 +122543,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="83" value="-1"/>
 </OBJ>-->
 <OBJ id="43707">
-<TXT>The [%team#1link nickname] took [%team#2link] pitcher [%personlink]'s best shot and still were able to claim a win at [%ballpark]. The final score had [%team#1name] getting past the [%team#2nickname], [%game score]. [%personname l] went [%pitching ip word] and allowed [%pitching r word], striking out [%pitching k].</TXT>
+<TXT>[%team#1link nickname] 接下了 [%team#2link] 投手 [%personlink] 最好的一擊，仍在 [%ballpark] 拿下勝利。最終 [%team#1name] 以 [%game score] 力退 [%team#2nickname]。[%personname l] 投了 [%pitching ip word]，失 [%pitching r word]，送出 [%pitching k] 次三振。</TXT>
 <COND id="147" value="0"/>
 <COND id="72" value="11"/>
 <COND id="203" value="1"/>
@@ -122566,7 +122566,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="216" value="3"/>
 <COND id="213" value="11"/>
 </OBJ>-->
-<OBJ id="43776" text="The [%team#1link nickname] thrashed the [%team#2link nickname], [%game score], at [%ballpark]. [%personlink f l] was one of the batting leaders. He [%player game line] for [%team#1name].">
+<OBJ id="43776" text="[%team#1link nickname] 在 [%ballpark] 以 [%game score] 痛擊 [%team#2link nickname]。[%personlink f l] 是打線的領頭羊之一，他為 [%team#1name] [%player game line]。">
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 <COND id="216" value="2"/>
@@ -122578,24 +122578,24 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="147" value="1"/>
 <COND id="213" value="11"/>
 </OBJ>-->
-<OBJ id="43778" text="The [%team#1link nickname] blasted the [%team#2link nickname], [%game score]. [%personlink f l] was one of the hitting stars. He [%player game line] for [%team#1name].">
+<OBJ id="43778" text="[%team#1link nickname] 以 [%game score] 轟垮 [%team#2link nickname]。[%personlink f l] 是打擊表現最亮眼的球員之一，他為 [%team#1name] [%player game line]。">
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 <COND id="216" value="5"/>
 <COND id="213" value="14"/>
 </OBJ>
-<OBJ id="43779" text="The [%team#1link nickname] embarrassed the [%team#2link nickname], [%game score]. [%personlink f l] was one of the hitting stars. He [%player game line].">
+<OBJ id="43779" text="[%team#1link nickname] 以 [%game score] 讓 [%team#2link nickname] 顏面無光。[%personlink f l] 是打擊表現最亮眼的球員之一，他 [%player game line]。">
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 <COND id="216" value="2"/>
 <COND id="213" value="17"/>
 </OBJ>
-<OBJ id="43780" text="The [%team#1link nickname] dealt the [%team#2link nickname] a [%game score] loss at [%ballpark]. [%personlink f l] was the star on offense. He [%player game line].">
+<OBJ id="43780" text="[%team#1link nickname] 在 [%ballpark] 以 [%game score] 讓 [%team#2link nickname] 吞下敗仗。[%personlink f l] 是進攻端的主角，他 [%player game line]。">
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 <COND id="214" value="6"/>
 </OBJ>
-<OBJ id="43819" text="The [%team#1link nickname] had to overcome a good performance from [%team#2link] pitcher [%personlink f l] to claim a [%game score] win at [%ballpark]. [%personname l] went [%pitching ip word] and allowed [%pitching r word].">
+<OBJ id="43819" text="[%team#1link nickname] 必須克服 [%team#2link] 投手 [%personlink f l] 的好表現，才在 [%ballpark] 以 [%game score] 拿下勝利。[%personname l] 投了 [%pitching ip word]，失 [%pitching r word]。">
 <COND id="147" value="0"/>
 <COND id="72" value="1"/>
 <COND id="203" value="1"/>
@@ -122607,7 +122607,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="203" value="1"/>
 <COND id="214" value="3"/>
 </OBJ>-->
-<OBJ id="43821" text="The [%team#1link nickname] had to overcome a fine effort from [%team#2link] pitcher [%personlink] to grab a narrow [%game score] win at [%ballpark]. [%personname l] went [%pitching ip word] and allowed [%pitching r word].">
+<OBJ id="43821" text="[%team#1link nickname] 必須克服 [%team#2link] 投手 [%personlink] 的優異內容，才在 [%ballpark] 以 [%game score] 驚險獲勝。[%personname l] 投了 [%pitching ip word]，失 [%pitching r word]。">
 <COND id="83" value="-2"/>
 <COND id="147" value="0"/>
 <COND id="72" value="1"/>
@@ -122615,12 +122615,12 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="84" value="2"/>
 <COND id="217" value="6"/>
 </OBJ>
-<OBJ id="43822" text="The [%team#1nickname] grabbed a win, [%game score], at [%ballpark], overcoming a fine effort from [%team#2link] pitcher [%personlink]. [%personname l] went [%pitching ip word] and allowed [%pitching r word].">
+<OBJ id="43822" text="[%team#1nickname] 在 [%ballpark] 以 [%game score] 拿下勝利，克服了 [%team#2link] 投手 [%personlink] 的優異表現。[%personname l] 投了 [%pitching ip word]，失 [%pitching r word]。">
 <COND id="147" value="0"/>
 <COND id="72" value="1"/>
 <COND id="203" value="1"/>
 </OBJ>
-<OBJ id="43826" text="[%personlink] pitched a masterpiece in helping [%team#1link] triumph over the [%team#2link nickname], [%game score].">
+<OBJ id="43826" text="[%personlink] 投出一場大師級的比賽，幫助 [%team#1link] 以 [%game score] 擊敗 [%team#2link nickname]。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="216" value="1"/>
@@ -122630,7 +122630,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="183" value="0"/>
 <COND id="215" value="1"/>
 </OBJ>
-<OBJ id="43827" text="The [%team#1link nickname] knocked the living daylights out of the [%team#2link nickname], [%game score], at [%ballpark]. [%team#1name] [%player game position] [%personlink] was productive at the plate. He [%player game line].">
+<OBJ id="43827" text="[%team#1link nickname] 在 [%ballpark] 以 [%game score] 把 [%team#2link nickname] 打得七葷八素。[%team#1name] 的 [%player game position] [%personlink] 在打擊區收穫豐富，他 [%player game line]。">
 <COND id="216" value="2"/>
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
@@ -122646,7 +122646,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="147" value="1"/>
 <COND id="72" value="11"/>
 </OBJ>-->
-<OBJ id="43871" text="[%team#1link nickname] starter [%personlink] was in a rhythm all game. He led his team to a win over the [%team#2link nickname], [%game score].">
+<OBJ id="43871" text="[%team#1link nickname] 先發 [%personlink] 整場都掌握著節奏，帶領球隊以 [%game score] 擊敗 [%team#2link nickname]。">
 <COND id="147" value="1"/>
 <COND id="72" value="11"/>
 <COND id="216" value="2"/>
@@ -122660,7 +122660,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="187" value="5"/>
 <COND id="216" value="1"/>
 </OBJ>-->
-<OBJ id="43883" text="In a well-pitched game between the [%team#1link nickname] and the [%team#2link nickname], pitcher [%personlink] was fantastic. The [%team#1name] [%player throws]hander helped his team secure the win, [%game score].">
+<OBJ id="43883" text="在 [%team#1link nickname] 與 [%team#2link nickname] 這場投手好戲中，[%personlink] 表現極為出色。這位 [%team#1name] 的 [%player throws] 投手幫助球隊以 [%game score] 拿下勝利。">
 <COND id="147" value="1"/>
 <COND id="72" value="11"/>
 <COND id="214" value="3"/>
@@ -122735,7 +122735,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="203" value="1"/>
 <COND id="147" value="1"/>
 </OBJ>-->
-<OBJ id="43932" text="The [%team#1link nickname] scored a tight [%game score] win versus the [%team#2link nickname] at [%ballpark]. [%team#1name] [%player game position] [%personlink] held his own in the contest.">
+<OBJ id="43932" text="[%team#1link nickname] 在 [%ballpark] 以 [%game score] 驚險擊敗 [%team#2link nickname]。[%team#1name] 的 [%player game position] [%personlink] 在比賽中站穩了自己的角色。">
 <COND id="147" value="1"/>
 <COND id="84" value="1"/>
 <COND id="203" value="1"/>
@@ -122744,7 +122744,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="245" value="3"/>
 <COND id="335" value="1"/>
 </OBJ>
-<OBJ id="43937" text="Led by [%personlink f l], the [%team#1link nickname] defeated the [%team#2link nickname], [%game score]. [%Personname l] [%player game line] for the [%teamnickname].">
+<OBJ id="43937" text="在 [%personlink f l] 的帶領下，[%team#1link nickname] 以 [%game score] 擊敗 [%team#2link nickname]。[%Personname l] 為 [%teamnickname] [%player game line]。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="194" value="1"/>
@@ -122760,7 +122760,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="216" value="2"/>
 <COND id="199" value="1"/>
 </OBJ>-->
-<OBJ id="44063" text="[%personlink] never let [%team#2link] get something going. The [%team#1link] [%player throws]hander commanded his [%player best pitch] in pitching the [%team#1nickname] to a [%game score] win.">
+<OBJ id="44063" text="[%personlink] 從頭到尾沒讓 [%team#2link] 找到節奏。這位 [%team#1link] 的 [%player throws] 投手把 [%player best pitch] 控得極好，帶領 [%team#1nickname] 以 [%game score] 獲勝。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="188" value="5"/>
@@ -122769,7 +122769,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="216" value="1"/>
 <COND id="203" value="1"/>
 </OBJ>
-<OBJ id="44068" text="[%team#2link] [%player game position] [%personlink] had a good game, even if his team did not. The [%team#2nickname] dropped a [%game score] decision to [%team#1link] at [%ballpark]. [%personname l] [%player game line].">
+<OBJ id="44068" text="[%team#2link] 的 [%player game position] [%personlink] 打了場好球，可惜球隊沒有。[%team#2nickname] 在 [%ballpark] 以 [%game score] 敗給 [%team#1link]。[%personname l] [%player game line]。">
 <COND id="147" value="0"/>
 <COND id="72" value="14"/>
 <COND id="214" value="7"/>
@@ -122795,7 +122795,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="188" value="7"/>
 <COND id="216" value="2"/>
 </OBJ>-->
-<OBJ id="44079" text="The [%team#2link nickname] took it on the chin, losing [%game score] to the [%team#1link nickname]. [%personlink][%person descriptor trailing] pitched a strong game for [%team#1name].">
+<OBJ id="44079" text="[%team#2link nickname] 挨了一記重拳，以 [%game score] 敗給 [%team#1link nickname]。[%personlink][%person descriptor trailing]為 [%team#1name] 投出強勢的一場。">
 <COND id="199" value="1"/>
 <COND id="147" value="1"/>
 <COND id="72" value="11"/>
@@ -122839,7 +122839,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="214" value="3"/>
 <COND id="188" value="5"/>
 </OBJ>-->
-<OBJ id="44125" text="[%team#1link] starter [%personlink] put a stranglehold on the [%team#2link] offense. The [%player throws]hander had complete command of his [%player best pitch] in leading the [%team#1nickname] to a [%game score] win.">
+<OBJ id="44125" text="[%team#1link] 先發 [%personlink] 把 [%team#2link] 的攻勢牢牢掐住。這位 [%player throws] 投手完全掌控他的 [%player best pitch]，帶領 [%team#1nickname] 以 [%game score] 獲勝。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="199" value="1"/>
@@ -122847,14 +122847,14 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="203" value="1"/>
 <COND id="214" value="7"/>
 </OBJ>
-<OBJ id="44126" text="The [%team#1link nickname] wiggled past the [%team#2link nickname], [%game score], at [%ballpark]. The win was highlighted by the performance of [%team#1name] [%player game position] [%personlink].">
+<OBJ id="44126" text="[%team#1link nickname] 在 [%ballpark] 以 [%game score] 驚險擠過 [%team#2link nickname]。這場勝利最精彩的是 [%team#1name] 的 [%player game position] [%personlink] 的表現。">
 <COND id="92" value="1"/>
 <COND id="84" value="1"/>
 <COND id="203" value="1"/>
 <COND id="147" value="1"/>
 <COND id="83" value="-1"/>
 </OBJ>
-<OBJ id="44127" text="[%team#1link] rode a decent outing from starter [%personlink] to victory over the [%team#2link nickname]. The final score was [%game score].">
+<OBJ id="44127" text="[%team#1link] 靠著先發 [%personlink] 還不錯的內容擊敗 [%team#2link nickname]，最終比數 [%game score]。">
 <COND id="147" value="1"/>
 <COND id="72" value="11"/>
 <COND id="188" value="9"/>
@@ -122862,14 +122862,14 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="199" value="1"/>
 <COND id="215" value="2"/>
 </OBJ>
-<OBJ id="44128" text="The [%team#1link nickname] got a rather unremarkable outing from starting pitcher [%personlink], but it was good enough for the club to beat the [%team#2link nickname], [%game score].">
+<OBJ id="44128" text="[%team#1link nickname] 從先發投手 [%personlink] 那裡得到的內容並不特別亮眼，但已足夠讓球隊以 [%game score] 擊敗 [%team#2link nickname]。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="188" value="9"/>
 <COND id="203" value="0"/>
 <COND id="244" value="5"/>
 </OBJ>
-<OBJ id="44129" text="In a low-scoring clash between [%team#1link] and [%team#2link], pitcher [%personlink] was a difference-maker. The [%player throws]hander earned accolades in the [%game score] win.">
+<OBJ id="44129" text="在 [%team#1link] 與 [%team#2link] 的低比分對決中，投手 [%personlink] 是勝負關鍵。這位 [%player throws] 投手在這場 [%game score] 的勝利中贏得滿堂彩。">
 <COND id="147" value="1"/>
 <COND id="72" value="11"/>
 <COND id="214" value="3"/>
@@ -122884,7 +122884,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="147" value="0"/>
 <COND id="72" value="14"/>
 </OBJ>-->
-<OBJ id="44170" text="The [%team#1link nickname] got a superb performance from [%player game position] [%personlink], who shut out the [%team#2link nickname], [%game score].">
+<OBJ id="44170" text="[%team#1link nickname] 得到 [%player game position] [%personlink] 的精彩表現，以 [%game score] 完封 [%team#2link nickname]。">
 <COND id="147" value="1"/>
 <COND id="203" value="1"/>
 <COND id="185" value="1"/>
@@ -122898,7 +122898,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="216" value="0"/>
 <COND id="184" value="1"/>
 </OBJ>-->
-<OBJ id="44172" text="[%player throws cap]hander [%personlink] mesmerized the [%team#2link nickname] while leading the [%team#1link nickname] to a [%game score] victory.">
+<OBJ id="44172" text="[%player throws cap] 投手 [%personlink] 把 [%team#2link nickname] 耍得團團轉，帶領 [%team#1link nickname] 以 [%game score] 獲勝。">
 <COND id="214" value="7"/>
 <COND id="147" value="1"/>
 <COND id="203" value="1"/>
@@ -122933,7 +122933,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="216" value="0"/>
 <COND id="184" value="1"/>
 </OBJ>-->
-<OBJ id="44177" text="[%team#2link] had no answer for [%team#1link nickname] hurler [%personlink], who overwhelmed [%team#2nickname] hitters as the [%teamnickname] coasted to victory, [%game score].">
+<OBJ id="44177" text="[%team#2link] 對 [%team#1link nickname] 投手 [%personlink] 完全束手無策，[%team#2nickname] 的打者被壓得喘不過氣，[%teamnickname] 以 [%game score] 輕鬆獲勝。">
 <COND id="147" value="1"/>
 <COND id="187" value="4"/>
 <COND id="216" value="1"/>
@@ -122948,7 +122948,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 </OBJ>-->
-<OBJ id="44180" text="In a high-scoring game between [%team#1link] and [%team#2link], [%player game position] [%personlink] was a difference-maker. The [%personage]-year-old helped [%team#1name] grab the [%game score] win. He [%player game line].">
+<OBJ id="44180" text="在 [%team#1link] 與 [%team#2link] 的高比分對決中，[%player game position] [%personlink] 是勝負關鍵。這位 [%personage] 歲的球員幫助 [%team#1name] 以 [%game score] 拿下勝利，他 [%player game line]。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="215" value="8"/>
@@ -122959,12 +122959,12 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="72" value="14"/>
 <COND id="215" value="8"/>
 </OBJ>-->
-<OBJ id="44200" text="The [%team#1link nickname] topped the [%team#2link nickname], [%game score], with youngster [%personlink] playing a key role. [%Personname l] [%player game line] for the [%teamnickname] in the win.">
+<OBJ id="44200" text="[%team#1link nickname] 以 [%game score] 力退 [%team#2link nickname]，年輕的 [%personlink] 扮演關鍵角色。這場勝利中，[%Personname l] 為 [%teamnickname] [%player game line]。">
 <COND id="8" value="23"/>
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 </OBJ>
-<OBJ id="49304" text="The [%team#1link nickname] topped the [%team#2link nickname],  [%game score], at [%ballpark]. [%team#1name] [%player game position] [%personlink] banged out [%batting s word] and [%batting d word], while driving in [%batting rbi] runs.">
+<OBJ id="49304" text="[%team#1link nickname] 在 [%ballpark] 以 [%game score] 力退 [%team#2link nickname]。[%team#1name] 的 [%player game position] [%personlink] 敲出 [%batting s word] 與 [%batting d word]，並帶回 [%batting rbi] 分打點。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -123021,7 +123021,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="301" value="1"/>
 <COND id="298" value="0"/>
 </OBJ>-->
-<OBJ id="49307" text="The [%team#1link nickname] knocked off the [%team#2link nickname],  [%game score], at [%ballpark]. [%personlink] produced [%batting s word] and [%batting d word], while scoring [%batting r word] and driving in [%batting rbi].">
+<OBJ id="49307" text="[%team#1link nickname] 在 [%ballpark] 以 [%game score] 擊倒 [%team#2link nickname]。[%personlink] 敲出 [%batting s word] 與 [%batting d word]，得到 [%batting r word]，並帶回 [%batting rbi] 分打點。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -123061,7 +123061,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="298" value="0"/>
 </OBJ>-->
 <OBJ id="49309">
-<TXT>The [%team#1link nickname] defeated the [%team#2link nickname],  [%game score], at [%ballpark]. [%personlink] was one of the standouts for [%team#1link]. His [%batting h word] included [%batting s word] and [%batting t word], in addition to the [%batting r word] he scored and [%batting rbi] he knocked in.</TXT>
+<TXT>[%team#1link nickname] 在 [%ballpark] 以 [%game score] 擊敗 [%team#2link nickname]。[%personlink] 是 [%team#1link] 表現最突出的球員之一，他的 [%batting h word] 裡包含 [%batting s word] 與 [%batting t word]，另外還得到 [%batting r word]、帶回 [%batting rbi] 分打點。</TXT>
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -123101,7 +123101,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="298" value="1"/>
 </OBJ>-->
 <OBJ id="49311">
-<TXT>The [%team#1link nickname] handed the [%team#2link nickname] a loss at [%ballpark].  The final score was [%game score]. [%personlink] was one of the major contributors for [%team#1link]. In addition to his [%batting s word] and [%batting hr word], he scored [%batting r word] and drove in [%batting rbi].</TXT>
+<TXT>[%team#1link nickname] 在 [%ballpark] 讓 [%team#2link nickname] 吞下敗仗，最終比數 [%game score]。[%personlink] 是 [%team#1link] 的主要功臣之一，除了 [%batting s word] 與 [%batting hr word]，他還得到 [%batting r word]、帶回 [%batting rbi] 分打點。</TXT>
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -123121,7 +123121,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="298" value="0"/>
 </OBJ>
 <OBJ id="49312">
-<TXT>The [%team#1link nickname] handed the [%team#2link nickname] a loss at [%ballpark].  The final score was [%game score]. Major production was provided by [%personlink] for [%team#1link]. In addition to his [%batting s word] and [%batting hr word], he scored [%batting r word] and drove in [%batting rbi]. He also added [%batting bb word].</TXT>
+<TXT>[%team#1link nickname] 在 [%ballpark] 讓 [%team#2link nickname] 吞下敗仗，最終比數 [%game score]。[%personlink] 為 [%team#1link] 貢獻卓著，除了 [%batting s word] 與 [%batting hr word]，他還得到 [%batting r word]、帶回 [%batting rbi] 分打點，另有 [%batting bb word]。</TXT>
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -123141,7 +123141,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="298" value="0"/>
 </OBJ>
 <OBJ id="49313">
-<TXT>The [%team#1link nickname] handed the [%team#2link nickname] a loss at [%ballpark].  The final score was [%game score]. [%personlink] made the highlight reel for [%team#1link]. In addition to his [%batting s word] and [%batting hr word], he scored [%batting r word] and drove in [%batting rbi]. He also added [%batting bb] bases on balls.</TXT>
+<TXT>[%team#1link nickname] 在 [%ballpark] 讓 [%team#2link nickname] 吞下敗仗，最終比數 [%game score]。[%personlink] 為 [%team#1link] 打進了精華片段，除了 [%batting s word] 與 [%batting hr word]，他還得到 [%batting r word]、帶回 [%batting rbi] 分打點，另有 [%batting bb] 次保送。</TXT>
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -123180,7 +123180,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="301" value="1"/>
 <COND id="298" value="0"/>
 </OBJ>-->
-<OBJ id="49315" text="[%team#1link] [%player game position] [%personlink] had a [%batting rbi]-RBI game, which proved instrumental in his team beating the [%team#2link nickname], [%game score]. [%personlink l] picked up [%batting s word] and [%batting d word] in the ballgame.">
+<OBJ id="49315" text="[%team#1link] 的 [%player game position] [%personlink] 單場帶回 [%batting rbi] 分打點，成為球隊以 [%game score] 擊敗 [%team#2link nickname] 的關鍵。[%personlink l] 在這場比賽中敲出 [%batting s word] 與 [%batting d word]。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -123218,7 +123218,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="301" value="1"/>
 <COND id="298" value="0"/>
 </OBJ>-->
-<OBJ id="49317" text="[%personlink] had a [%batting rbi]-RBI game, during [%team#1link]'s [%game score] triumph over [%team#2link]. [%personlink l] had [%batting s word], [%batting d word], and [%batting bb word] in the contest.">
+<OBJ id="49317" text="在 [%team#1link] 以 [%game score] 擊敗 [%team#2link] 的比賽中，[%personlink] 帶回 [%batting rbi] 分打點。[%personlink l] 全場有 [%batting s word]、[%batting d word] 與 [%batting bb word]。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -123256,7 +123256,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="301" value="1"/>
 <COND id="298" value="0"/>
 </OBJ>-->
-<OBJ id="49319" text="[%personlink] had a [%batting rbi]-RBI game, during [%team#1link]'s [%game score] triumph over the [%team#2link nickname]. [%personlink l] contributed [%batting s word] and [%batting hr word] to the cause.">
+<OBJ id="49319" text="在 [%team#1link] 以 [%game score] 擊敗 [%team#2link nickname] 的比賽中，[%personlink] 帶回 [%batting rbi] 分打點。[%personlink l] 貢獻了 [%batting s word] 與 [%batting hr word]。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -123313,7 +123313,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="301" value="1"/>
 <COND id="298" value="0"/>
 </OBJ>-->
-<OBJ id="49322" text="[%personlink] knocked in [%batting rbi] runs to help [%team#1link] beat [%team#2link], [%game score]. [%personlink l] produced [%batting s word], [%batting d word], and [%batting hr word].">
+<OBJ id="49322" text="[%personlink] 帶回 [%batting rbi] 分打點，幫助 [%team#1link] 以 [%game score] 擊敗 [%team#2link]。[%personlink l] 敲出 [%batting s word]、[%batting d word] 與 [%batting hr word]。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -123351,7 +123351,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="301" value="1"/>
 <COND id="298" value="0"/>
 </OBJ>-->
-<OBJ id="49324" text="[%personlink] drove in [%batting rbi] runs to help [%team#1link] defeat [%team#2link], [%game score]. The [%player game position] had [%batting d word] and [%batting hr word] for the [%team#1nickname].">
+<OBJ id="49324" text="[%personlink] 帶回 [%batting rbi] 分打點，幫助 [%team#1link] 以 [%game score] 擊敗 [%team#2link]。這位 [%player game position] 為 [%team#1nickname] 敲出 [%batting d word] 與 [%batting hr word]。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -123370,7 +123370,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="301" value="0"/>
 <COND id="298" value="0"/>
 </OBJ>
-<OBJ id="49325" text="[%personlink] drove in [%batting rbi] runs to help [%team#1link] hand [%team#2link] a loss. The final score was [%game score]. [%personlink l] had [%batting s word] and [%batting t word] for the [%team#1nickname]. He also scored [%batting r word].">
+<OBJ id="49325" text="[%personlink] 帶回 [%batting rbi] 分打點，幫助 [%team#1link] 讓 [%team#2link] 吞敗，最終比數 [%game score]。[%personlink l] 為 [%team#1nickname] 敲出 [%batting s word] 與 [%batting t word]，並得到 [%batting r word]。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -123389,7 +123389,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="301" value="1"/>
 <COND id="298" value="1"/>
 </OBJ>
-<OBJ id="49340" text="[%personlink] led [%team#1link] to a win over [%team#2link]. The final score was [%game score]. [%personlink l] scored [%batting r] times, going [%batting h] for [%batting ab]. He also knocked in [%batting rbi word].">
+<OBJ id="49340" text="[%personlink] 帶領 [%team#1link] 擊敗 [%team#2link]，最終比數 [%game score]。[%personlink l] [%batting ab] 打數 [%batting h] 安打，得到 [%batting r] 分，另有 [%batting rbi word]。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -123427,7 +123427,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="301" value="2"/>
 <COND id="298" value="0"/>
 </OBJ>-->
-<OBJ id="49342" text="[%personlink] led [%team#1link] to a win over [%team#2link]. The final score was [%game score]. [%personlink l] scored [%batting r] times, while going [%batting h] for [%batting ab]. The [%player game position] also totaled  [%batting rbi word].">
+<OBJ id="49342" text="[%personlink] 帶領 [%team#1link] 擊敗 [%team#2link]，最終比數 [%game score]。[%personlink l] [%batting ab] 打數 [%batting h] 安打，得到 [%batting r] 分，這位 [%player game position] 另累積 [%batting rbi word]。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -123467,7 +123467,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="298" value="0"/>
 </OBJ>-->
 <OBJ id="49344">
-<TXT>[%personlink] led [%team#1link] to a win over [%team#2link]. The final score was [%game score]. [%personlink l] collected [%batting rbi word], while going [%batting h] for [%batting ab] at the plate. The [%player game position] also scored  [%batting r] times.</TXT>
+<TXT>[%personlink] 帶領 [%team#1link] 擊敗 [%team#2link]，最終比數 [%game score]。[%personlink l] 在打擊區 [%batting ab] 打數 [%batting h] 安打，帶回 [%batting rbi word]，這位 [%player game position] 還得到 [%batting r] 分。</TXT>
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -123486,7 +123486,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="301" value="2"/>
 <COND id="298" value="0"/>
 </OBJ>
-<OBJ id="49345" text="[%personlink] led [%team#1link] to a win over [%team#2link]. The final score was [%game score]. The [%player game position] collected [%batting h] extra-base hits, including [%batting hr word] and [%batting d word]. ">
+<OBJ id="49345" text="[%personlink] 帶領 [%team#1link] 擊敗 [%team#2link]，最終比數 [%game score]。這位 [%player game position] 敲出 [%batting h] 支長打，包括 [%batting hr word] 與 [%batting d word]。 ">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -123505,7 +123505,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="301" value="0"/>
 <COND id="298" value="0"/>
 </OBJ>
-<OBJ id="49346" text="[%personlink] led [%team#1link] to a win over [%team#2link]. The final score was [%game score]. The [%player game position] collected [%batting h] extra-base hits, including [%batting t word] and [%batting d word]. He also delivered [%batting rbi] RBI.">
+<OBJ id="49346" text="[%personlink] 帶領 [%team#1link] 擊敗 [%team#2link]，最終比數 [%game score]。這位 [%player game position] 敲出 [%batting h] 支長打，包括 [%batting t word] 與 [%batting d word]，並帶回 [%batting rbi] 分打點。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -123525,7 +123525,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="298" value="1"/>
 </OBJ>
 <OBJ id="49347">
-<TXT>[%personlink] led [%team#1link] to a triumph over [%team#2link]. The final score was [%game score]. The [%player game position] went [%batting h] for [%batting ab], falling a triple shy of the cycle. He scored [%batting r word] and added [%batting rbi] RBI.</TXT>
+<TXT>[%personlink] 帶領 [%team#1link] 擊敗 [%team#2link]，最終比數 [%game score]。這位 [%player game position] [%batting ab] 打數 [%batting h] 安打，只差一支三壘安打就完成完全打擊。他得到 [%batting r word]，另有 [%batting rbi] 分打點。</TXT>
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -123544,7 +123544,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="301" value="1"/>
 <COND id="298" value="0"/>
 </OBJ>
-<OBJ id="49349" text="[%personlink] had a hand in [%team#1link] defeating [%team#2link] by the score of [%game score]. [%personlink l] went [%batting h] for [%batting ab] at the plate, scoring [%batting r] times and driving in [%batting rbi] runs. ">
+<OBJ id="49349" text="[%personlink] 在 [%team#1link] 以 [%game score] 擊敗 [%team#2link] 的比賽中出了一份力。[%personlink l] 在打擊區 [%batting ab] 打數 [%batting h] 安打，得到 [%batting r] 分並帶回 [%batting rbi] 分打點。 ">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -123563,7 +123563,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="301" value="1"/>
 <COND id="298" value="0"/>
 </OBJ>
-<OBJ id="49350" text="[%personlink] had a big hand in [%team#1link]'s [%game score] triumph over [%team#2link]. He rattled off [%batting h word] in [%batting ab word], scoring [%batting r] times and knocking in [%batting rbi] runs.">
+<OBJ id="49350" text="[%personlink] 是 [%team#1link] 以 [%game score] 擊敗 [%team#2link] 的一大功臣。他 [%batting ab word] 敲出 [%batting h word]，得到 [%batting r] 分並帶回 [%batting rbi] 分打點。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -123644,7 +123644,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="72" value="11"/>
 <COND id="216" value="1"/>
 </OBJ>-->
-<OBJ id="56398" text="[%team#1link nickname] starter [%personlink] was dealing, as his team thumped the [%team#2link nickname], [%game score].">
+<OBJ id="56398" text="[%team#1link nickname] 先發 [%personlink] 投得虎虎生風，球隊也以 [%game score] 痛擊 [%team#2link nickname]。">
 <COND id="147" value="1"/>
 <COND id="72" value="11"/>
 <COND id="216" value="1"/>
@@ -123675,7 +123675,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="72" value="11"/>
 <COND id="216" value="1"/>
 </OBJ>-->
-<OBJ id="56422" text="[%personlink] was masterful in helping the [%team#1link nickname] take down the [%team#2link nickname], [%game score].">
+<OBJ id="56422" text="[%personlink] 表現出神入化，幫助 [%team#1link nickname] 以 [%game score] 擊倒 [%team#2link nickname]。">
 <COND id="147" value="1"/>
 <COND id="72" value="11"/>
 <COND id="216" value="1"/>
@@ -123789,7 +123789,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 </OBJ>-->
-<OBJ id="56750" text="Behind the hitting of [%personlink f l], the [%team#1link nickname] clipped the [%team#2link nickname], [%game score]. [%Personname l] [%player game line] for the [%teamnickname].">
+<OBJ id="56750" text="靠著 [%personlink f l] 的打擊，[%team#1link nickname] 以 [%game score] 修理了 [%team#2link nickname]。[%Personname l] 為 [%teamnickname] [%player game line]。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="215" value="4"/>
@@ -123801,7 +123801,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="188" value="7"/>
 <COND id="216" value="2"/>
 </OBJ>-->
-<OBJ id="56759" text="Behind [%player throws]hander [%personlink], [%team#1link] topped [%team#2link], [%game score].">
+<OBJ id="56759" text="在 [%player throws] 投手 [%personlink] 的帶領下，[%team#1link] 以 [%game score] 力退 [%team#2link]。">
 <COND id="147" value="1"/>
 <COND id="72" value="11"/>
 <COND id="216" value="3"/>
@@ -123838,18 +123838,18 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 </OBJ>-->
-<OBJ id="56869" text="The [%team#1link nickname] beat the [%team#2link nickname] at [%ballpark]. The final score was [%game score] in favor of [%team#1name]. [%personlink f l] led the way, going [%batting h]-for-[%batting ab] for the home team.">
+<OBJ id="56869" text="[%team#1link nickname] 在 [%ballpark] 擊敗 [%team#2link nickname]，最終比數 [%game score]，由 [%team#1name] 勝出。[%personlink f l] 帶頭建功，為地主隊 [%batting ab] 打數 [%batting h] 安打。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="198" value="1"/>
 </OBJ>
-<OBJ id="56870" text="The [%team#1link nickname] torpedoed the [%team#2link nickname] at [%ballpark]. The final score was [%game score], [%team#1name]. [%personlink f l] went [%batting h]-for-[%batting ab] for the winning team.">
+<OBJ id="56870" text="[%team#1link nickname] 在 [%ballpark] 把 [%team#2link nickname] 轟成碎片，最終比數 [%game score]，[%team#1name] 獲勝。[%personlink f l] 為勝方 [%batting ab] 打數 [%batting h] 安打。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="213" value="4"/>
 <COND id="216" value="2"/>
 </OBJ>
-<OBJ id="56871" text="The [%team#1link nickname] knocked off the [%team#2link nickname] by the score of [%game score]. [%personlink f l] provided some pop, going [%batting h]-for-[%batting ab] with [%batting hr word].">
+<OBJ id="56871" text="[%team#1link nickname] 以 [%game score] 擊倒 [%team#2link nickname]。[%personlink f l] 提供了長打火力，[%batting ab] 打數 [%batting h] 安打，其中包含 [%batting hr word]。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -123857,7 +123857,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="194" value="1"/>
 <COND id="307" value="0"/>
 </OBJ>
-<OBJ id="56872" text="The [%team#1link nickname] defeated the [%team#2link nickname] by the score of [%game score]. [%personlink f l] starred for [%team#1name], going [%batting h]-for-[%batting ab] with [%batting hr word].">
+<OBJ id="56872" text="[%team#1link nickname] 以 [%game score] 擊敗 [%team#2link nickname]。[%personlink f l] 是 [%team#1name] 的主角，[%batting ab] 打數 [%batting h] 安打，其中包含 [%batting hr word]。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -123878,7 +123878,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="72" value="11"/>
 <COND id="216" value="2"/>
 </OBJ>-->
-<OBJ id="56885" text="[%personlink] was outstanding against [%team#2link]. The [%player throws]hander[%person descriptor trailing] had a [%player best pitch] that was virtually unhittable at times. The result was a [%team#1nickname] [%game score] win.">
+<OBJ id="56885" text="[%personlink] 今天面對 [%team#2link] 表現出色。這位 [%player throws] 投手[%person descriptor trailing]的 [%player best pitch] 有時候根本打不到，結果就是 [%team#1nickname] 以 [%game score] 獲勝。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="199" value="1"/>
@@ -123886,7 +123886,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="187" value="9"/>
 <COND id="214" value="7"/>
 </OBJ>
-<OBJ id="56886" text="The [%team#1link nickname] picked up a win at [%ballpark], courtesy of [%personlink]. The [%player throws]hander helped his team stop the [%team#2link nickname], [%game score].">
+<OBJ id="56886" text="[%team#1link nickname] 在 [%ballpark] 拿下勝利，功勞歸於 [%personlink]。這位 [%player throws] 投手幫助球隊以 [%game score] 擋下 [%team#2link nickname]。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="203" value="1"/>
@@ -123927,7 +123927,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="217" value="6"/>
 <COND id="216" value="2"/>
 </OBJ>-->
-<OBJ id="57383" text="[%team#2link] got a decent performance from [%player game position] [%personlink], but it wasn't enough to beat the [%team#1link nickname]. [%team#1name] won the [%ballpark] contest, [%game score]. [%personname l] [%player game line] for the losing team.">
+<OBJ id="57383" text="[%team#2link] 的 [%player game position] [%personlink] 表現不錯，但仍不足以擊敗 [%team#1link nickname]。[%team#1name] 在 [%ballpark] 以 [%game score] 贏下比賽。敗方的 [%personname l] [%player game line]。">
 <COND id="147" value="0"/>
 <COND id="203" value="1"/>
 <COND id="244" value="3"/>
