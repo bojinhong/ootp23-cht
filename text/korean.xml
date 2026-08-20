@@ -2711,12 +2711,12 @@
 
 <CAT id="24">
 <OBJ id="68">
-<TXT>Today was a special one for [%personlink] of the [%team#1link nickname] as he slammed three home runs in the [%game score] win over the [%team#2link nickname].(nl)(nl)&quot;Lately, I've been uppercutting the ball too much,&quot; he said to sportswriters after the game. &quot;I would hit it hard, but they just went sky high and stayed in the ballpark. No big long outs for me in this game. I leveled out my swing and connected on the sweet spot. I knew they were gone the minute I hit 'em.&quot;(nl)(nl)The [%team#1link] [%playerposition] collected [%batting h word] in [%batting ab word], drove in [%batting rbi], and scored [%batting r word] in the contest at [%ballpark].(nl)(nl)[%string#1]</TXT>
+<TXT>今天對 [%team#1link nickname] 的 [%personlink] 來說格外特別，他在以 [%game score] 擊敗 [%team#2link nickname] 的比賽中轟出三發全壘打。(nl)(nl)「最近我揮棒的角度太往上了，」他賽後對記者說。「球是打得很紮實，但都高高飛起、留在場內。這場比賽沒有那種飛很遠的出局球了。我把揮棒軌跡放平，打中了甜蜜點。球一離棒我就知道飛出去了。」(nl)(nl)這位 [%team#1link] 的 [%playerposition] 在 [%ballpark] 的比賽中 [%batting ab word] 敲出 [%batting h word]，貢獻 [%batting rbi] 分打點並得到 [%batting r word]。(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="1"/>
 <COND id="22" value="5"/>
 </OBJ>
 <OBJ id="653">
-<TXT>[%personlink] showed off his power today as he launched three balls into the seats against the [%team#2link nickname] and sparked the [%team#1nickname] to a [%game score] victory.(nl)(nl)&quot;I got some good pitches to hit and turned on them real good,&quot; he told reporters in the postgame interview. &quot;I have always liked to hit at [%ballpark].&quot;(nl)(nl)For the day, [%personname l] collected [%batting h word] in [%batting ab word], scored [%batting r word] and had [%batting rbi] RBIs.(nl)(nl)&quot;He was instant offense today,&quot; [%team#1link] skipper [%team manager] said. &quot;[%personlink f] really put on a show.&quot;(nl)(nl)[%string#1]</TXT>
+<TXT>[%personlink] 今天展現了他的長打火力，對 [%team#2link nickname] 把三顆球送進看台，帶動 [%team#1nickname] 以 [%game score] 獲勝。(nl)(nl)「我等到幾顆好打的球，也確實把它們拉出去了，」他在賽後訪問中告訴記者。「我一直很喜歡在 [%ballpark] 打擊。」(nl)(nl)全場 [%personname l] [%batting ab word] 敲出 [%batting h word]，得到 [%batting r word]，並有 [%batting rbi] 分打點。(nl)(nl)「他今天就是即時火力，」[%team#1link] 教頭 [%team manager] 說。「[%personlink f] 真的表演了一場好戲。」(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="1"/>
 <COND id="198" value="1"/>
 </OBJ><!--
@@ -2726,7 +2726,7 @@
 <COND id="22" value="5"/>
 </OBJ>-->
 <OBJ id="4818">
-<TXT>Every now and then, everything just comes together.(nl)(nl)[%personlink] discovered that today at [%ballpark], as he smashed three home runs during the [%game score] [%team#1link nickname] win over the [%team#2link nickname].(nl)(nl)&quot;I got three balls to hit and nailed all three of them,&quot; the [%team#1link] [%playerposition] said in his postgame interview. &quot;The first was a hanging curve, the second was right down the middle and the last one was a good pitch, but I guessed right and put the wood to it.&quot;(nl)(nl)[%personname l] finished the day with [%batting h] hits in [%batting ab] at-bats and [%batting rbi] RBIs.(nl)(nl)[%string#1]</TXT>
+<TXT>偶爾，所有的環節就是會在同一天全部到位。(nl)(nl)[%personlink] 今天在 [%ballpark] 就體會到了這件事，他在 [%team#1link nickname] 以 [%game score] 擊敗 [%team#2link nickname] 的比賽中轟出三發全壘打。(nl)(nl)「我等到三顆好打的球，三顆全都打中了，」這位 [%team#1link] 的 [%playerposition] 在賽後訪問中說。「第一顆是沒轉好的曲球，第二顆正中紅心，最後一顆其實是好球，但我猜對了球路，狠狠地打了出去。」(nl)(nl)[%personname l] 全場 [%batting ab] 打數敲出 [%batting h] 支安打，貢獻 [%batting rbi] 分打點。(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="1"/>
 </OBJ><!--
 <OBJ id="4819">
@@ -2734,12 +2734,12 @@
 <COND id="62" value="1"/>
 </OBJ>-->
 <OBJ id="4820">
-<TXT>[%team#1link nickname] [%playerposition] [%personlink] was on fire with three home runs in the [%game score] win over the [%team#2link nickname] at [%ballpark] today.(nl)(nl)&quot;The first two, I got all of them and it was no doubt they were gone,&quot; [%personname l] said. &quot;The last one I got lucky. It seemed like the wind helped it a little. Old Mother Nature helped me get into the record books.&quot;(nl)(nl)For the game, [%personname l] went [%batting h]-for-[%batting ab] with [%batting rbi] RBIs and [%batting r word] scored.(nl)(nl)[%string#1]</TXT>
+<TXT>[%team#1link nickname] 的 [%playerposition] [%personlink] 今天在 [%ballpark] 火力全開，轟出三發全壘打，球隊以 [%game score] 擊敗 [%team#2link nickname]。(nl)(nl)「前兩顆我都打得很紮實，一出棒就知道會飛出去，」[%personname l] 說。「最後一顆算是運氣好，風好像幫了一點忙。是大自然母親幫我寫進紀錄簿的。」(nl)(nl)全場 [%personname l] [%batting ab] 打數 [%batting h] 安打，有 [%batting rbi] 分打點並得到 [%batting r word]。(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="1"/>
 <COND id="162" value="4"/>
 </OBJ>
 <OBJ id="4822">
-<TXT>For [%personlink], it was not an average day at the ballpark.(nl)(nl)Fans at [%ballpark] today watched [%personname l] power the [%team#1link nickname] to a [%game score] win over the [%team#2link nickname], blasting a trifecta of home runs.(nl)(nl)&quot;I've always loved hitting in [%ballpark],&quot; the [%playerposition] told reporters following his big day. &quot;You can see the ball so well.&quot;(nl)(nl)For the game, he collected [%batting h word] in [%batting ab word], scored [%batting r word] and had [%batting rbi] RBIs.(nl)(nl)[%string#1]</TXT>
+<TXT>對 [%personlink] 來說，今天在球場的一天絕不平凡。(nl)(nl)[%ballpark] 的球迷今天看著 [%personname l] 轟出三發全壘打，帶領 [%team#1link nickname] 以 [%game score] 擊敗 [%team#2link nickname]。(nl)(nl)「我一直很喜歡在 [%ballpark] 打擊，」這位 [%playerposition] 在大爆發後告訴記者。「在這裡看球看得特別清楚。」(nl)(nl)全場他 [%batting ab word] 敲出 [%batting h word]，得到 [%batting r word]，並有 [%batting rbi] 分打點。(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="1"/>
 <COND id="198" value="0"/>
 </OBJ><!--
@@ -2753,12 +2753,12 @@
 <COND id="62" value="1"/>
 </OBJ>-->
 <OBJ id="4825">
-<TXT>The [%team#2link nickname] won't soon forget the display of raw power put on today by [%personlink] of the [%team#1link nickname]. He victimized the [%team#2nickname] by pounding three pitches out of [%ballpark] to spark his club to the [%game score] win.(nl)(nl)&quot;I got three pitches down the pipe and popped them,&quot; [%personlink l] told reporters. &quot;Today I was in a groove. Tomorrow, I could just pop up the same pitches and go 0-for-3.&quot;(nl)(nl)In addition to the homers, he collected [%batting rbi] RBIs and scored [%batting r word].(nl)(nl)[%string#1]</TXT>
+<TXT>[%team#2link nickname] 短時間內不會忘記 [%team#1link nickname] 的 [%personlink] 今天展現的純粹力量。他把三顆球轟出 [%ballpark]，讓 [%team#2nickname] 成了受害者，也帶動球隊以 [%game score] 獲勝。(nl)(nl)「有三顆球進到好球帶正中間，我就把它們打出去了，」[%personlink l] 告訴記者。「今天我手感正順。明天說不定同樣的球我就打成高飛球，三支零。」(nl)(nl)除了全壘打之外，他還有 [%batting rbi] 分打點並得到 [%batting r word]。(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="1"/>
 <COND id="22" value="6"/>
 </OBJ>
 <OBJ id="4826">
-<TXT>[%team#1link nickname] [%playerposition] [%personlink] left the [%team#2link] pitching staff in ruins at [%ballpark] today, beating the [%team#2nickname] [%game score] with a prodigious three-home run performance. (nl)(nl)&quot;The last one was totally unexpected,&quot; [%personlink l] told reporters at the press conference following his big game. &quot;I just wanted to make good contact, never thinking I would get a home run, and bang, I got number three.&quot;(nl)(nl)For the game, the [%team#1link] [%playerposition] had [%batting h word] in [%batting ab word], drove in [%batting rbi] and scored [%batting r word].(nl)(nl)[%string#1]</TXT>
+<TXT>[%team#1link nickname] 的 [%playerposition] [%personlink] 今天在 [%ballpark] 把 [%team#2link] 的投手群打得潰不成軍，以驚人的三響砲帶領球隊以 [%game score] 擊敗 [%team#2nickname]。(nl)(nl)「最後一支完全出乎我的意料，」[%personlink l] 在大爆發後的記者會上說。「我只是想確實擊中球，根本沒想過會是全壘打，結果砰的一聲，第三支就來了。」(nl)(nl)全場這位 [%team#1link] 的 [%playerposition] [%batting ab word] 敲出 [%batting h word]，貢獻 [%batting rbi] 分打點並得到 [%batting r word]。(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="1"/>
 <COND id="213" value="10"/>
 </OBJ><!--
@@ -2783,7 +2783,7 @@
 <COND id="62" value="1"/>
 </OBJ>-->
 <OBJ id="4832">
-<TXT>[%personlink] was in home run mode in the [%game score] [%team#1link nickname] win over the [%team#2link nickname] today. [%personname l] tortured the [%team#2nickname], cracking out three home runs and going [%batting h]-for-[%batting ab] with [%batting rbi] RBIs and scoring [%batting r] runs.(nl)(nl)&quot;When you're hot, you're hot,&quot; said a grinning [%personlink l] in the postgame press conference. &quot;I got some good pitches to hit and got a good swing going today. I cannot believe it happened. I was like, 'I don't know what I'm doing.'&quot;(nl)(nl)[%string#1]</TXT>
+<TXT>[%personlink] 今天完全進入全壘打模式，[%team#1link nickname] 以 [%game score] 擊敗 [%team#2link nickname]。[%personname l] 折磨了 [%team#2nickname] 一整天，轟出三發全壘打，[%batting ab] 打數 [%batting h] 安打，有 [%batting rbi] 分打點並得到 [%batting r] 分。(nl)(nl)「熱的時候就是熱，」[%personlink l] 在賽後記者會上笑著說。「我等到幾顆好打的球，今天揮棒的感覺也很好。我自己都不敢相信，心裡一直想著『我到底在幹嘛』。」(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="1"/>
 <COND id="162" value="7"/>
 </OBJ><!--
@@ -2796,12 +2796,12 @@
 <COND id="62" value="1"/>
 </OBJ>-->
 <OBJ id="4835">
-<TXT>[%personlink] of the [%team#1link nickname] had a lot to celebrate in today's [%game score] win over the [%team#2link nickname] after pounding a trio of home runs at [%ballpark].(nl)(nl)&quot;I'm just closing my eyes and swinging as hard as I can,&quot; he joked with reporters after the game. &quot;It worked well today.&quot;(nl)(nl)The powerful [%team#1link] [%playerposition] tagged [%batting h word] in [%batting ab word], drove in [%batting rbi] runs and scored [%batting r] times in his three-homer outburst.(nl)(nl)&quot;We talked about changing our strategy for the third one, and then he went and hit another homer,&quot; [%team#2link] manager [%team#2 managerlink] said. &quot;We just couldn't get him out.&quot;(nl)(nl)[%string#1]</TXT>
+<TXT>[%team#1link nickname] 的 [%personlink] 今天在 [%ballpark] 轟出三發全壘打，球隊以 [%game score] 擊敗 [%team#2link nickname]，讓他有太多值得慶祝的事。(nl)(nl)「我就是閉上眼睛，用盡全力揮棒，」他賽後對記者開玩笑說。「今天效果還不錯。」(nl)(nl)這位力量十足的 [%team#1link] [%playerposition] 在三響砲的大爆發中 [%batting ab word] 敲出 [%batting h word]，帶回 [%batting rbi] 分打點並得到 [%batting r] 分。(nl)(nl)「我們本來討論過第三次要換個策略對付他，結果他又敲了一支全壘打，」[%team#2link] 總教練 [%team#2 managerlink] 說。「我們就是抓不到他。」(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="1"/>
 <COND id="162" value="8"/>
 </OBJ>
 <OBJ id="4839">
-<TXT>Bigger paychecks might be in the offing if [%personlink] continues to hit like he did today against the [%team#2link nickname]. The [%team#1link nickname] [%playerposition] crushed three into the stands at [%ballpark] in a remarkable performance, propelling the [%team#1nickname] to the [%game score] win over the [%team#2link nickname].(nl)(nl)&quot;If you want to get paid in this league, you've gotta earn it,&quot; he said later. &quot;I earned my paycheck today.&quot;(nl)(nl)He tagged [%batting h word] in [%batting ab word], drove in [%batting rbi] runs and scored [%batting r] times.(nl)(nl)&quot;We made three mistakes and he made us pay each time,&quot; [%team#2name] manager [%team#2 managerlink] said later.(nl)(nl)[%string#1]</TXT>
+<TXT>如果 [%personlink] 能一直像今天面對 [%team#2link nickname] 這樣打，更肥的合約大概不遠了。這位 [%team#1link nickname] 的 [%playerposition] 在 [%ballpark] 把三顆球轟進看台，用驚人的表現帶著 [%team#1nickname] 以 [%game score] 擊敗 [%team#2link nickname]。(nl)(nl)「在這個聯盟想拿錢，就得自己去賺，」他賽後說。「我今天賺到我的薪水了。」(nl)(nl)他 [%batting ab word] 敲出 [%batting h word]，帶回 [%batting rbi] 分打點並得到 [%batting r] 分。(nl)(nl)「我們犯了三次錯，每一次他都讓我們付出代價，」[%team#2name] 總教練 [%team#2 managerlink] 賽後說。(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="1"/>
 <COND id="162" value="3"/>
 </OBJ><!--
@@ -2810,12 +2810,12 @@
 <COND id="62" value="1"/>
 </OBJ>-->
 <OBJ id="5227">
-<TXT>[%personlink] must believe in the Big Bang theory. He proved it today by banging three deep against the [%team#2link nickname]. The hard-hitting [%team#1link nickname] [%playerposition] added a lot of firepower and excitement to the [%game score] [%team#1nickname] win, leaving fans and the opposing dugout buzzing about his standout performance.(nl)(nl)&quot;He looked real good today,&quot; [%team#2name] manager [%team#2 managerlink] said later. &quot;I think the guys were awful impressed by him. Frustrated, but impressed.&quot;(nl)(nl)For the game, [%personname l] had [%batting h word] in [%batting ab word], drove in [%batting rbi], and scored [%batting r word]. The [%personage]-year-old is known in league circles as a tireless worker, and told reporters he has recently been putting in extra time fine-tuning his swing, &quot;to keep it short, compact and simple.&quot;(nl)(nl)&quot;Looks like it worked today,&quot; he said.(nl)(nl)[%string#1]</TXT>
+<TXT>[%personlink] 大概是相信大霹靂理論的，今天他對 [%team#2link nickname] 轟出三發全壘打，算是親自證明了一遍。這位長打火力十足的 [%team#1link nickname] [%playerposition] 為 [%team#1nickname] 以 [%game score] 的勝利注入大量火力與話題，讓球迷和對方休息區都為他的表現議論紛紛。(nl)(nl)「他今天狀況真的很好，」[%team#2name] 總教練 [%team#2 managerlink] 賽後說。「我想我們的球員都被他震撼到了。很挫折，但確實佩服。」(nl)(nl)全場 [%personname l] [%batting ab word] 敲出 [%batting h word]，貢獻 [%batting rbi] 分打點並得到 [%batting r word]。這位 [%personage] 歲的球員在聯盟裡以勤奮出名，他告訴記者自己最近額外花了不少時間調整揮棒，「讓它保持精簡、緊湊、單純」。(nl)(nl)「看來今天有效，」他說。(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="1"/>
 <COND id="162" value="6"/>
 </OBJ>
 <OBJ id="15563">
-<TXT>Fans at [%ballpark] got an impromptu firework display today courtesy of [%team#1link nickname] [%playerposition] [%personlink]. He belted a trifecta of home runs to power his club to victory [%game score] over the [%team#2link nickname].(nl)(nl)In the win, [%personname l] stunned the [%team#2nickname] pitching staff for [%batting h word] in [%batting ab word] and knocked in [%batting rbi] runs.(nl)(nl)&quot;It was the best kind of day,&quot; [%personname l] said after the game. &quot;I hardly had to work for it. Hitting today was a piece of cake, with lots of extra icing on it.&quot;(nl)(nl)[%string#1]</TXT>
+<TXT>[%ballpark] 的球迷今天看到一場臨時加映的煙火秀，主角是 [%team#1link nickname] 的 [%playerposition] [%personlink]。他轟出三發全壘打，帶領球隊以 [%game score] 擊敗 [%team#2link nickname]。(nl)(nl)這場勝利中，[%personname l] 把 [%team#2nickname] 的投手群打懵了，[%batting ab word] 敲出 [%batting h word]，帶回 [%batting rbi] 分打點。(nl)(nl)「這是最棒的一種日子，」[%personname l] 賽後說。「我幾乎不用費什麼力氣。今天打擊像吃蛋糕一樣輕鬆，上面還多加了一堆糖霜。」(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="1"/>
 <COND id="162" value="9"/>
 </OBJ><!--
@@ -2828,7 +2828,7 @@
 <COND id="62" value="1"/>
 </OBJ>-->
 <OBJ id="17547">
-<TXT>It was a special day for [%personlink], but less so for the [%team#1link nickname].(nl)(nl)[%personname l] slammed three home runs against the [%team#2link nickname], but the [%team#2nickname] outhit him and got the win by a score of [%game score].(nl)(nl)&quot;Lately, I been uppercutting the ball too much. I would hit it hard, but they just went sky high and stayed in the ballpark,&quot; he said to sportswriters after the game. &quot;No big long outs for me in this game -- I leveled out my swing and connected on the sweet spot three times. I knew they were gone the minute I hit 'em.&quot;(nl)(nl)The [%team#1link] [%playerposition] finished the day at [%ballpark] with [%batting h word] in [%batting ab word], [%batting rbi word] and [%batting r word] scored.(nl)(nl)[%string#1]</TXT>
+<TXT>今天對 [%personlink] 來說很特別，對 [%team#1link nickname] 就沒那麼特別了。(nl)(nl)[%personname l] 對 [%team#2link nickname] 轟出三發全壘打，但 [%team#2nickname] 的整體攻勢更猛，以 [%game score] 拿下勝利。(nl)(nl)「最近我揮棒的角度太往上了。球是打得很紮實，但都高高飛起、留在場內，」他賽後對記者說。「這場比賽沒有那種飛很遠的出局球了 —— 我把揮棒軌跡放平，三次都打中了甜蜜點。球一離棒我就知道飛出去了。」(nl)(nl)這位 [%team#1link] 的 [%playerposition] 在 [%ballpark] 結束這一天時 [%batting ab word] 敲出 [%batting h word]，有 [%batting rbi word] 並得到 [%batting r word]。(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="0"/>
 </OBJ><!--
 <OBJ id="17548">
@@ -2916,7 +2916,7 @@
 <COND id="62" value="1"/>
 </OBJ>-->
 <OBJ id="19115">
-<TXT>[%team#1link] [%playerposition] [%personlink] saw a fantastic day go to waste at [%ballpark] today as the [%team#1nickname] dropped a [%game score] decision despite a trio of home runs from the youngster.(nl)(nl)&quot;It seems kinda odd, you know?&quot; a somewhat dejected [%personname l] said after his club's defeat. &quot;I mean, hitting three home runs in one game should be enough to win a game, right? I guess that's why they call it a team sport. Tomorrow I might strike out four times and other guys pick me up and we win. It takes more than one guy to get a win.&quot;(nl)(nl)The [%personage]-year-old tallied three homers in a [%batting h]-for-[%batting ab] day, and added [%batting rbi] RBIs and [%batting r] scored.(nl)(nl)&quot;That guy really had a game, didn't he?&quot; said [%team#2name] manager [%team#2 managerlink]. &quot;Luckily we were able to shut down the rest of the team. We are feeling good about getting out of here with the win.&quot;(nl)(nl)[%string#1]</TXT>
+<TXT>[%team#1link] 的 [%playerposition] [%personlink] 今天在 [%ballpark] 有精彩的一天，可惜全都白費 —— 儘管這位年輕球員轟出三發全壘打，[%team#1nickname] 仍以 [%game score] 落敗。(nl)(nl)「感覺有點奇怪，你懂吧？」有些沮喪的 [%personname l] 在球隊落敗後說。「我是說，一場比賽敲三發全壘打應該足以贏球了吧？我想這就是為什麼棒球叫團隊運動。明天我可能被三振四次，然後隊友扛起來，我們就贏了。想贏球靠一個人是不夠的。」(nl)(nl)這位 [%personage] 歲的球員 [%batting ab] 打數 [%batting h] 安打，其中三支是全壘打，另有 [%batting rbi] 分打點與 [%batting r] 次得分。(nl)(nl)「那傢伙今天真的打了一場好球，對吧？」[%team#2name] 總教練 [%team#2 managerlink] 說。「還好我們把其他人壓制住了。能帶著勝利離開這裡，感覺很好。」(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="0"/>
 <COND id="8" value="24"/>
 </OBJ><!--
@@ -2933,13 +2933,13 @@
 <COND id="62" value="0"/>
 </OBJ>-->
 <OBJ id="44431">
-<TXT>As soon as the first ball went over the fence, everyone at [%ballpark] knew it -- [%personlink] was in a groove. Fans showered the uber-popular [%personname l] with applause each time he came to the plate, and he rewarded them right back, finishing with a trio of home runs to help the [%team#1link nickname] top the visiting [%team#2link nickname], [%game score].(nl)(nl)&quot;It was one of the better days in my baseball career,&quot; [%personname l] said later. &quot;I was on cloud nine out there and I think everyone was enjoying it.&quot;(nl)(nl)Along with his three home runs, the [%personage]-year-old had [%batting h word] in [%batting ab word], [%batting rbi] RBIs and [%batting r] runs scored.(nl)(nl)&quot;They always love it when [%personname f] goes to the plate,&quot; [%team#1name] manager [%team manager] said of the club's fan base. &quot;But today was something else entirely.&quot;(nl)(nl)[%string#1]</TXT>
+<TXT>第一顆球飛出全壘打牆的瞬間，[%ballpark] 裡的所有人就知道了 —— [%personlink] 今天手感正順。人氣超高的 [%personname l] 每次站上打擊區都獲得滿場掌聲，而他也用三發全壘打回報球迷，幫助 [%team#1link nickname] 以 [%game score] 擊敗來訪的 [%team#2link nickname]。(nl)(nl)「這是我棒球生涯裡數一數二的日子，」[%personname l] 賽後說。「我在場上樂翻了，我想大家也都看得很開心。」(nl)(nl)除了三發全壘打，這位 [%personage] 歲的球員還 [%batting ab word] 敲出 [%batting h word]，有 [%batting rbi] 分打點與 [%batting r] 次得分。(nl)(nl)「只要 [%personname f] 站上打擊區，他們就會很興奮，」[%team#1name] 總教練 [%team manager] 這樣形容球隊的球迷。「但今天完全是另一個層次。」(nl)(nl)[%string#1]</TXT>
 <COND id="162" value="5"/>
 <COND id="198" value="1"/>
 <COND id="62" value="1"/>
 </OBJ>
 <OBJ id="44437">
-<TXT>[%personlink] added his name in the record books after an explosive home run spree against the [%team#2link nickname]. But despite joining the select list of sluggers to hit three home runs in a game, it didn't guarantee a victory. The [%team#1link nickname] fell to the [%team#2nickname], [%game score].(nl)(nl)In his big day at [%ballpark], the [%team#1link] [%playerposition] went [%batting h]-for-[%batting ab] with [%batting rbi] RBIs and scored [%batting r] times.(nl)(nl)&quot;It was just one of those days,&quot; a visibly upset [%personname l] told BNN sportswriters in the postgame interview. &quot;I don't know how to explain it.  You would think three homers would win most games. I can't play every position in the lineup. If I could, we might have had a chance.&quot;</TXT>
+<TXT>[%personlink] 對 [%team#2link nickname] 打出一波驚人的全壘打狂潮，把自己的名字寫進紀錄簿。但即使加入了單場三響砲的少數強打行列，也沒能換來勝利 —— [%team#1link nickname] 以 [%game score] 敗給 [%team#2nickname]。(nl)(nl)在 [%ballpark] 的這個大日子裡，這位 [%team#1link] 的 [%playerposition] [%batting ab] 打數 [%batting h] 安打，有 [%batting rbi] 分打點與 [%batting r] 次得分。(nl)(nl)「今天就是那種日子，」明顯不太開心的 [%personname l] 在賽後訪問中告訴 BNN 記者。「我不知道該怎麼解釋。照理說三發全壘打可以贏下大部分的比賽吧。我沒辦法一個人守九個位置，如果可以，我們或許還有機會。」</TXT>
 <COND id="162" value="2"/>
 <COND id="62" value="0"/>
 </OBJ>
@@ -91893,7 +91893,7 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 
 <CAT id="382">
 <OBJ id="14723">
-<TXT>Getting [%batting h word] in a game is no easy feat, but doing it to hit for the cycle is even more rare. (nl)(nl)[%personlink] of the [%team#1link nickname] pulled it off today at [%ballpark], going [%batting h]-for-[%batting ab] against the [%team#2link nickname]. His batting escapades sparked the [%team#1nickname] to a [%game score] victory.(nl)(nl)[%personname l] tallied [%batting r word] and drove in [%batting rbi] during the game. Hitting for the cycle is particularly rare because of the different skills required - enough power for a home run, enough speed for a triple and enough patience at the plate to see at least four hittable balls. (nl)(nl)&quot;It just happened,&quot; [%personname l] said to reporters after the win. &quot;Must have been fate or something, I wasn't expecting it. Heck, I wasn't even really trying for it.&quot;(nl)(nl)[%string#1]</TXT>
+<TXT>單場敲出 [%batting h word] 已經不容易，能因此完成完全打擊更是罕見。(nl)(nl)[%team#1link nickname] 的 [%personlink] 今天在 [%ballpark] 辦到了，面對 [%team#2link nickname] [%batting ab] 打數 [%batting h] 安打。他在打擊區的精彩演出，帶動 [%team#1nickname] 以 [%game score] 獲勝。(nl)(nl)[%personname l] 全場得到 [%batting r word]，並帶回 [%batting rbi] 分打點。完全打擊之所以特別罕見，是因為它需要各種不同的能力 —— 要有轟出全壘打的力量、跑出三壘安打的速度，還要有在打擊區至少等到四顆好打球路的耐心。(nl)(nl)「它就這樣發生了，」[%personname l] 在勝利後對記者說。「大概是命中注定吧，我完全沒有預期。老實說，我根本沒有刻意去追。」(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="1"/>
 </OBJ><!--
 <OBJ id="14848">
@@ -91933,12 +91933,12 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <COND id="62" value="1"/>
 </OBJ>-->
 <OBJ id="17525">
-<TXT>The [%team#2link nickname] managed to overcome a remarkable performance from [%personlink] to take a hard-fought [%game score] win over the [%team#1link nickname] today.(nl)(nl)In a losing effort, [%personname l] hit for the cycle for the [%team#1nickname], tallying [%batting s word], [%batting d word], [%batting t word] and [%batting hr word]. He went [%batting h]-for-[%batting ab] and added [%batting rbi word] and [%batting r word] scored, but speaking with reporters after the game, [%personname l] dismissed talk about the cycle.(nl)(nl)&quot;I'm not the first guy to hit for the cycle and I won't be the last,&quot; he said. &quot;It's a small mention in some record book somewhere. I'd be just fine going 2-for-4 in a win.&quot;(nl)(nl)[%string#1]</TXT>
+<TXT>[%team#2link nickname] 今天克服了 [%personlink] 的驚人表現，在一場硬仗中以 [%game score] 擊敗 [%team#1link nickname]。(nl)(nl)敗戰之中，[%personname l] 為 [%team#1nickname] 完成完全打擊，敲出 [%batting s word]、[%batting d word]、[%batting t word] 與 [%batting hr word]。他 [%batting ab] 打數 [%batting h] 安打，另有 [%batting rbi word] 與 [%batting r word] 得分，不過賽後面對記者，[%personname l] 對完全打擊的話題不以為意。(nl)(nl)「我不是第一個完成完全打擊的人，也不會是最後一個，」他說。「那不過是某本紀錄簿裡的一小行字。能在勝利中四打數兩安打，我就很滿足了。」(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="0"/>
 <COND id="214" value="4"/>
 </OBJ>
 <OBJ id="17526">
-<TXT>[%team#1link nickname] [%playerposition] [%personlink] hit for the cycle today at [%ballpark] but his great game was soured as the [%team#2link nickname] went home victors by a score of [%game score].(nl)(nl)[%personname l] accomplished the rare feat, chalking up [%batting h word] -- [%batting s word], [%batting d word], [%batting t word] and [%batting hr word] -- on his way to finishing [%batting h]-for-[%batting ab] with  [%batting rbi word] and [%batting r word]. He told reporters in the postgame press conference that he did not know what he had achieved until he was informed by the [%team#1name] PR staff following the game.(nl)(nl)&quot;As long as the game is going, it's hard for me to think about anything but what is on the field,&quot; he said. &quot;It's a nice accomplishment, I guess. I wish it had been under better circumstances.&quot;(nl)(nl)[%string#1]</TXT>
+<TXT>[%team#1link nickname] 的 [%playerposition] [%personlink] 今天在 [%ballpark] 完成完全打擊，可惜 [%team#2link nickname] 以 [%game score] 帶走勝利，讓他這場好表現變了味。(nl)(nl)[%personname l] 完成了這項罕見成就，敲出 [%batting h word] —— [%batting s word]、[%batting d word]、[%batting t word] 與 [%batting hr word] —— 全場 [%batting ab] 打數 [%batting h] 安打，另有 [%batting rbi word] 與 [%batting r word]。他在賽後記者會上說，直到 [%team#1name] 的公關人員告訴他，他才知道自己完成了什麼。(nl)(nl)「只要比賽還在進行，我很難去想場上以外的事，」他說。「我想這算是不錯的成就吧。只是希望是在更好的情況下完成。」(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="0"/>
 </OBJ><!--
 <OBJ id="17527">
@@ -91970,7 +91970,7 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <COND id="62" value="1"/>
 </OBJ>-->
 <OBJ id="19121">
-<TXT>It was a day of mixed emotions for [%personlink]. The [%team#1link nickname] [%playerposition] had little to celebrate, as one of the best games of his career was marred by a tough [%game score] loss to the [%team#2link nickname] today.(nl)(nl)[%personname l] hit for the cycle in defeat, collecting [%batting h word] in [%batting ab word], including [%batting s word], [%batting d word], [%batting t word] and [%batting hr word]. The performance, however, was not enough to will the [%team#1nickname] past a red-hot [%team#2nickname] club. (nl)(nl)&quot;Normally when you have a big game, it makes you feel great afterward,&quot; [%personname l] said in a quiet clubhouse following the game. &quot;But the loss takes a lot of that away. You just want to forget today and start over.&quot;(nl)(nl)For the day, [%personname l] finished with [%batting rbi word] and [%batting r word] scored to go with his [%batting h word].(nl)(nl)[%string#1]</TXT>
+<TXT>今天對 [%personlink] 來說是五味雜陳的一天。這位 [%team#1link nickname] 的 [%playerposition] 打出生涯數一數二的一場好球，卻因為以 [%game score] 苦吞敗仗給 [%team#2link nickname] 而沒什麼好慶祝的。(nl)(nl)[%personname l] 在敗戰中完成完全打擊，[%batting ab word] 敲出 [%batting h word]，其中包括 [%batting s word]、[%batting d word]、[%batting t word] 與 [%batting hr word]。但這樣的表現仍不足以帶著 [%team#1nickname] 越過氣勢正旺的 [%team#2nickname]。(nl)(nl)「通常打出一場大爆發的比賽，賽後心情都會很好，」[%personname l] 在一片安靜的休息室裡說。「但輸球把那些感覺都抵消掉了。你只想忘掉今天，重新開始。」(nl)(nl)全場 [%personname l] 除了 [%batting h word]，還有 [%batting rbi word] 與 [%batting r word] 得分。(nl)(nl)[%string#1]</TXT>
 <COND id="213" value="12"/>
 <COND id="62" value="0"/>
 </OBJ><!--
@@ -92059,7 +92059,7 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <COND id="62" value="0"/>
 </OBJ>-->
 <OBJ id="19440">
-<TXT>Sometimes one player's big day is enough to bring home victory and sometimes it isn't.(nl)(nl)Unfortunately for [%team#1link nickname] [%playerposition] [%personlink], today was the latter. [%personname l] hit for the cycle at [%ballpark] but his club still fell [%game score] to the [%team#2link nickname].(nl)(nl)&quot;The cycle is nice but maybe it is a little overvalued,&quot; [%personname l] said in a deserted locker room following the game. &quot;A double, even a triple, they aren't worth much in isolation. Someone else needs to be hitting, too.&quot;(nl)(nl)In addition to tallying [%batting s word], [%batting d word], [%batting t word] and [%batting hr word], the magnificent day for [%personname l] included [%batting rbi word] and [%batting r word] scored for the [%team#1nickname].(nl)(nl)[%string#1]</TXT>
+<TXT>有時候一個球員的大爆發足以帶回勝利，有時候不夠。(nl)(nl)對 [%team#1link nickname] 的 [%playerposition] [%personlink] 來說，今天很不幸是後者。[%personname l] 在 [%ballpark] 完成完全打擊，球隊卻仍以 [%game score] 敗給 [%team#2link nickname]。(nl)(nl)「完全打擊是不錯，但也許被高估了一點，」[%personname l] 在空蕩蕩的休息室裡說。「一支二壘安打，甚至三壘安打，單獨看其實沒那麼值錢。得要有別人也跟著打才行。」(nl)(nl)除了 [%batting s word]、[%batting d word]、[%batting t word] 與 [%batting hr word]，[%personname l] 這輝煌的一天還為 [%team#1nickname] 貢獻 [%batting rbi word] 與 [%batting r word] 得分。(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="0"/>
 <COND id="162" value="7"/>
 </OBJ><!--
@@ -92088,7 +92088,7 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <COND id="62" value="0"/>
 </OBJ>-->
 <OBJ id="19447">
-<TXT>[%personlink] was at the front of a [%team#1nickname] hit parade today at [%ballpark]. The [%playerposition] finished [%batting h]-for-[%batting ab] and hit for the cycle as [%team#1link] triumphed [%game score] over the [%team#2link nickname].(nl)(nl)&quot;[%personname f] was putting on a real clinic out there,&quot; [%team#1name] manager [%team manager] said following the game.(nl)(nl)[%personname l] finished the game with [%batting rbi word] and had [%batting s word], [%batting d word], [%batting t word] and [%batting hr word].(nl)(nl)[%string#1]</TXT>
+<TXT>[%personlink] 今天在 [%ballpark] 領銜了 [%team#1nickname] 的安打大遊行。這位 [%playerposition] [%batting ab] 打數 [%batting h] 安打並完成完全打擊，[%team#1link] 以 [%game score] 擊敗 [%team#2link nickname]。(nl)(nl)「[%personname f] 今天等於上了一堂打擊教學課，」[%team#1name] 總教練 [%team manager] 賽後說。(nl)(nl)[%personname l] 全場帶回 [%batting rbi word]，並敲出 [%batting s word]、[%batting d word]、[%batting t word] 與 [%batting hr word]。(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="1"/>
 <COND id="213" value="10"/>
 </OBJ><!--
@@ -92129,49 +92129,49 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <COND id="62" value="1"/>
 </OBJ>-->
 <OBJ id="19816">
-<TXT>[%personlink] starred for the [%team#1link nickname] in their [%game score] win over the [%team#2link nickname] today. [%personname L] hit for the cycle, going [%batting h]-for-[%batting ab] with [%batting rbi word] and [%batting r word] scored to lead his team in the victory.(nl)(nl)&quot;The scouting reports on the pitchers were superb,&quot; the [%playerposition] said after the game. &quot;After going over the reports, I felt like I had a big advantage up there. There were no surprises today.&quot;(nl)(nl)[%string#1]</TXT>
+<TXT>[%personlink] 今天是 [%team#1link nickname] 以 [%game score] 擊敗 [%team#2link nickname] 的最大功臣。[%personname L] 完成完全打擊，[%batting ab] 打數 [%batting h] 安打，另有 [%batting rbi word] 與 [%batting r word] 得分，帶領球隊拿下勝利。(nl)(nl)「對方投手的球探報告寫得太好了，」這位 [%playerposition] 賽後說。「看完報告之後，我覺得自己站上打擊區佔了很大優勢。今天完全沒有意外。」(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="1"/>
 <COND id="162" value="6"/>
 </OBJ>
 <OBJ id="19817">
-<TXT>[%team#1name] [%playerposition] [%personlink] had a big day, but his team couldn't pick up the win. [%personname L] hit for the cycle in the [%game score] [%team#1nickname] loss, going [%batting h]-for-[%batting ab] with [%batting rbi word] and [%batting r word] scored.(nl)(nl)&quot;I guess the rest of the team didn't read the scouting reports today,&quot; the [%playerposition] said later. &quot;I felt like we had a lot of good information on [%team#2link] that helped me with my approach at the plate.&quot;(nl)(nl)[%string#1]</TXT>
+<TXT>[%team#1name] 的 [%playerposition] [%personlink] 今天大爆發，球隊卻沒能拿下勝利。[%personname L] 在 [%team#1nickname] 以 [%game score] 落敗的比賽中完成完全打擊，[%batting ab] 打數 [%batting h] 安打，另有 [%batting rbi word] 與 [%batting r word] 得分。(nl)(nl)「我看隊上其他人今天大概沒讀球探報告，」這位 [%playerposition] 賽後說。「我覺得我們手上關於 [%team#2link] 的情報很充分，對我在打擊區的策略幫助很大。」(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="0"/>
 <COND id="162" value="3"/>
 </OBJ>
 <OBJ id="19818">
-<TXT>[%personlink] put on a show at [%game ballpark] today, hitting for the cycle and driving the [%team#1link nickname] to victory, [%game score].(nl)(nl)&quot;I was really seeing the ball well today,&quot; the [%playerposition] said after his team's win over the [%team#2link nickname]. &quot;I wasn't going to be fooled by any pitch and there was nothing they could do to stop me.&quot;(nl)(nl)[%personname l] went [%batting h]-for-[%batting ab] in the game with [%batting rbi word] and [%batting r word] scored.(nl)(nl)[%string#1]</TXT>
+<TXT>[%personlink] 今天在 [%game ballpark] 上演了一場好戲，完成完全打擊，帶著 [%team#1link nickname] 以 [%game score] 拿下勝利。(nl)(nl)「我今天球看得非常清楚，」這位 [%playerposition] 在球隊擊敗 [%team#2link nickname] 後說。「任何球路都騙不了我，他們拿我一點辦法也沒有。」(nl)(nl)[%personname l] 全場 [%batting ab] 打數 [%batting h] 安打，另有 [%batting rbi word] 與 [%batting r word] 得分。(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="1"/>
 <COND id="162" value="7"/>
 </OBJ>
 <OBJ id="19819">
-<TXT>The [%team#2link nickname] pitching staff had a tough time getting [%personlink] out today, but they managed to deal with the rest of the [%team#1name] lineup in a [%game score] victory at [%game ballpark].(nl)(nl)[%personname L] hit for the cycle for the [%team#1link nickname] and picked up [%batting rbi word], but couldn't lead his team to a win.(nl)(nl)&quot;It's a great accomplishment, that's for sure,&quot; the [%team#1name] [%playerposition] said after the game. &quot;I just wish we could have won the game. I didn't get much help.&quot;(nl)(nl)[%string#1]</TXT>
+<TXT>[%team#2link nickname] 的投手群今天拿 [%personlink] 沒轍，但他們成功壓制了 [%team#1name] 其他打者，在 [%game ballpark] 以 [%game score] 獲勝。(nl)(nl)[%personname L] 為 [%team#1link nickname] 完成完全打擊，並帶回 [%batting rbi word]，卻沒能帶領球隊獲勝。(nl)(nl)「這當然是很了不起的成就，」這位 [%team#1name] 的 [%playerposition] 賽後說。「我只希望我們能贏球。今天沒什麼人幫我。」(nl)(nl)[%string#1]</TXT>
 <COND id="162" value="2"/>
 <COND id="62" value="0"/>
 </OBJ>
 <OBJ id="19820">
-<TXT>If the [%team#2link nickname] didn't already know [%personlink] was a great player, they do now.(nl)(nl)[%personname l] hit for the cycle at [%ballpark] today, finishing with [%batting h word], [%batting rbi word] and [%batting r word] scored in the [%game score] [%team#1name] win.(nl)(nl)&quot;If you want to be considered a great player, you have to do great things,&quot; the [%playerposition] said after the game. &quot;I just did what I'm expected to do. Still, it's a nice accomplishment to add to the list.&quot;(nl)(nl)[%string#1]</TXT>
+<TXT>如果 [%team#2link nickname] 原本不知道 [%personlink] 是個好球員，現在他們知道了。(nl)(nl)[%personname l] 今天在 [%ballpark] 完成完全打擊，在 [%team#1name] 以 [%game score] 獲勝的比賽中敲出 [%batting h word]，另有 [%batting rbi word] 與 [%batting r word] 得分。(nl)(nl)「想被當成好球員，就得做出了不起的事，」這位 [%playerposition] 賽後說。「我只是做了大家期待我做的事。不過能在清單上再添一項成就，感覺還是很好。」(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="1"/>
 <COND id="162" value="5"/>
 <COND id="16" value="6"/>
 </OBJ>
 <OBJ id="19821">
-<TXT>At times it seemed that the [%team#1link nickname] were a one-man team and the [%team#2link nickname] took advantage of that with a [%game score] win.(nl)(nl)[%team#1name] [%playerposition] [%personlink] hit for the cycle in a losing effort. He was [%batting h]-for-[%batting ab] in the game with [%batting rbi word] and [%batting r word] scored.(nl)(nl)&quot;What can I say? I had a great game,&quot; [%personname l] said later. &quot;Everyone in the league knows they shouldn't pitch to me, but I get my hits anyway.&quot;(nl)(nl)[%string#1]</TXT>
+<TXT>有些時候 [%team#1link nickname] 看起來像是一人球隊，而 [%team#2link nickname] 抓住了這一點，以 [%game score] 拿下勝利。(nl)(nl)[%team#1name] 的 [%playerposition] [%personlink] 在敗戰中完成完全打擊，全場 [%batting ab] 打數 [%batting h] 安打，另有 [%batting rbi word] 與 [%batting r word] 得分。(nl)(nl)「我能說什麼呢？我打了一場好球，」[%personname l] 賽後說。「聯盟裡每個人都知道不該跟我對決，但我還是照樣敲出安打。」(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="0"/>
 <COND id="162" value="7"/>
 <COND id="16" value="6"/>
 </OBJ>
 <OBJ id="19822">
-<TXT>[%personlink] led [%team#1link] to a [%game score] victory today by hitting for the cycle, one of baseball's most difficult feats.(nl)(nl)&quot;With my wheels, I don't get many triples, so that was definitely the hardest hit for me,&quot; the [%playerposition] said later.(nl)(nl)[%personname l] went [%batting h]-for-[%batting ab] with [%batting rbi word] and [%batting r word] scored in today's triumph over the [%team#2link nickname].(nl)(nl)[%string#1]</TXT>
+<TXT>[%personlink] 今天完成棒球場上最困難的成就之一 —— 完全打擊，帶領 [%team#1link] 以 [%game score] 獲勝。(nl)(nl)「以我的腳程，三壘安打本來就不多，所以那一支對我來說絕對是最難的，」這位 [%playerposition] 賽後說。(nl)(nl)在今天擊敗 [%team#2link nickname] 的比賽中，[%personname l] [%batting ab] 打數 [%batting h] 安打，另有 [%batting rbi word] 與 [%batting r word] 得分。(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="1"/>
 <COND id="21" value="2"/>
 </OBJ>
 <OBJ id="19823">
-<TXT>[%personlink] ripped [%batting s word], [%batting d word], [%batting t word] and [%batting hr word] for the [%team#1link nickname] yesterday, but it was all for naught as [%team#1name] lost to the [%team#2link nickname], [%game score].(nl)(nl)&quot;I can't get too excited about it,&quot; [%personname l] said. &quot;I'd trade all those hits for a win in a heartbeat.&quot;(nl)(nl)He finished the day [%batting h]-for-[%batting ab] at the plate with [%batting rbi word] and [%batting r word] scored.(nl)(nl)[%string#1]</TXT>
+<TXT>[%personlink] 昨天為 [%team#1link nickname] 敲出 [%batting s word]、[%batting d word]、[%batting t word] 與 [%batting hr word]，可惜全是白工，[%team#1name] 以 [%game score] 敗給 [%team#2link nickname]。(nl)(nl)「我實在興奮不起來，」[%personname l] 說。「要我用這些安打換一場勝利，我毫不猶豫就換。」(nl)(nl)他全場 [%batting ab] 打數 [%batting h] 安打，另有 [%batting rbi word] 與 [%batting r word] 得分。(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="0"/>
 <COND id="162" value="4"/>
 </OBJ>
 <OBJ id="19824">
-<TXT>It's been a difficult season for [%personlink], but the veteran [%playerposition] had everything working today.(nl)(nl)[%personname l] hit for the cycle, his [%batting h] hits including [%batting s word], [%batting d word], [%batting t word] and [%batting hr word]. [%personlink l] had [%batting rbi word] and [%batting r word] scored in the game, which the [%team#1link nickname] ultimately lost to the [%team#2link nickname], [%game score].(nl)(nl)&quot;I hope the other clubs read about this and remember me in the offseason,&quot; [%personname l] said. &quot;Forget this year. Those who have been watching my career know what I'm capable of, and I'll do it for whoever meets my price next year.&quot;(nl)(nl)[%string#1]</TXT>
+<TXT>這個球季對 [%personlink] 來說並不好過，但這位資深 [%playerposition] 今天什麼都順。(nl)(nl)[%personname l] 完成完全打擊，[%batting h] 支安打裡包含 [%batting s word]、[%batting d word]、[%batting t word] 與 [%batting hr word]。[%personlink l] 全場有 [%batting rbi word] 與 [%batting r word] 得分，但 [%team#1link nickname] 最後仍以 [%game score] 敗給 [%team#2link nickname]。(nl)(nl)「希望其他球團看到這則報導，休賽期能想起我，」[%personname l] 說。「今年就別提了。看過我生涯的人都知道我的能耐，明年誰開得起價，我就替誰打出這種成績。」(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="0"/>
 <COND id="162" value="3"/>
 <COND id="11" value="1"/>
@@ -92179,16 +92179,16 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <COND id="14" value="-2"/>
 </OBJ>
 <OBJ id="44270">
-<TXT>[%personlink] did everything he could for the [%team#1link nickname] today -- literally.(nl)(nl)The [%personage]-year-old [%playerposition] hit a single, a double, a triple and a home run for the [%team#1nickname], going for the cycle and helping them get past the [%team#2link nickname], [%game score], at [%ballpark].(nl)(nl)&quot;Yeah, I was some kind of hitter in this game,&quot; [%personname l] reflected later. &quot;It was like all I had to do was close my eyes and swing the bat.&quot;(nl)(nl)In a game headed for the record books, [%personname l] banged out [%batting h word] in [%batting ab word] and totaled [%batting rbi word] and [%batting r word] scored. Speaking with the press about the feat, he attributed it to &quot;a lot of luck.&quot;(nl)(nl)&quot;A triple is so hard to hit,&quot; he said. &quot;To just decide to get one in a game when you need it for a cycle, it's impossible. Usually something weird has to happen, the ball kicking past an outfielder or somebody falling down. There's a ton of luck in hitting for a cycle.&quot;(nl)(nl)[%string#1]</TXT>
+<TXT>[%personlink] 今天為 [%team#1link nickname] 做了他能做的一切 —— 字面意義上的一切。(nl)(nl)這位 [%personage] 歲的 [%playerposition] 為 [%team#1nickname] 敲出一壘安打、二壘安打、三壘安打與全壘打，完成完全打擊，也幫助球隊在 [%ballpark] 以 [%game score] 擊敗 [%team#2link nickname]。(nl)(nl)「對，我今天打得確實有點東西，」[%personname l] 賽後回想道。「感覺就像我只要閉上眼睛揮棒就好。」(nl)(nl)在這場寫進紀錄簿的比賽中，[%personname l] [%batting ab word] 敲出 [%batting h word]，累積 [%batting rbi word] 與 [%batting r word] 得分。談到這項成就時，他把功勞歸給「很多運氣」。(nl)(nl)「三壘安打太難敲了，」他說。「差一支三壘安打就完成完全打擊，然後你決定要敲一支出來？那不可能。通常得發生一些怪事，球從外野手身邊彈開，或是有人跌倒。完全打擊裡運氣的成分非常大。」(nl)(nl)[%string#1]</TXT>
 <COND id="147" value="1"/>
 </OBJ>
 <OBJ id="44356">
-<TXT>[%personlink] put on a show at [%game ballpark] today, hitting for the cycle and driving the [%team#1link nickname] to victory, [%game score].(nl)(nl)&quot;It was just my day,&quot; the [%playerposition] said after his team's win over the [%team#2link nickname]. &quot;We've got a good group of guys here who are all capable of putting up numbers like this, and today was just my turn.&quot;(nl)(nl)[%personname l] went [%batting h]-for-[%batting ab] in the game with [%batting rbi word] and [%batting r word] scored.(nl)(nl)[%string#1]</TXT>
+<TXT>[%personlink] 今天在 [%game ballpark] 上演了一場好戲，完成完全打擊，帶著 [%team#1link nickname] 以 [%game score] 拿下勝利。(nl)(nl)「今天就是我的日子，」這位 [%playerposition] 在球隊擊敗 [%team#2link nickname] 後說。「我們這裡有一群不錯的球員，每個人都打得出這種數據，今天只是輪到我而已。」(nl)(nl)[%personname l] 全場 [%batting ab] 打數 [%batting h] 安打，另有 [%batting rbi word] 與 [%batting r word] 得分。(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="1"/>
 <COND id="162" value="1"/>
 </OBJ>
 <OBJ id="44357">
-<TXT>[%personlink] put on a show at [%game ballpark] today, hitting for the cycle and driving the [%team#1link nickname] to victory, [%game score].(nl)(nl)&quot;To be honest, I was just going out there to have some fun,&quot; the [%playerposition] said after his team's win over the [%team#2link nickname]. &quot;I wasn't trying for trying for the cycle or anything, it simply happened.&quot;(nl)(nl)[%personname l] went [%batting h]-for-[%batting ab] in the game with [%batting rbi word] and [%batting r word] scored.(nl)(nl)[%string#1]</TXT>
+<TXT>[%personlink] 今天在 [%game ballpark] 上演了一場好戲，完成完全打擊，帶著 [%team#1link nickname] 以 [%game score] 拿下勝利。(nl)(nl)「老實說，我上場只是想打得開心一點，」這位 [%playerposition] 在球隊擊敗 [%team#2link nickname] 後說。「我沒有刻意要去追完全打擊，它就這樣發生了。」(nl)(nl)[%personname l] 全場 [%batting ab] 打數 [%batting h] 安打，另有 [%batting rbi word] 與 [%batting r word] 得分。(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="1"/>
 <COND id="162" value="9"/>
 </OBJ>
